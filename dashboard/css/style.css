@@ -169,6 +169,13 @@ main{max-width:1080px; margin:0 auto; padding:24px 28px 0;}
 .detail-panel .kv-grid .kv .v{font-family:'JetBrains Mono',monospace; font-weight:600;}
 .stock-row .left{display:flex; align-items:center; gap:11px; min-width:0; flex:1;}
 .stock-row .left > div:not(.rank){min-width:0; flex:1;}
+.star-btn{
+  background:none; border:none; padding:2px; cursor:pointer; flex-shrink:0;
+  font-size:16px; line-height:1; color:var(--ink-faint);
+  transition:color 0.12s ease, transform 0.12s ease;
+}
+.star-btn:hover{color:var(--amber); transform:scale(1.15);}
+.star-btn.active{color:var(--amber);}
 .stock-row .rank{
   width:26px; height:26px; border-radius:8px; background:var(--teal-soft); color:var(--teal);
   font-family:'JetBrains Mono',monospace; font-weight:700; font-size:12px;

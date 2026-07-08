@@ -46,6 +46,7 @@
         <button class="tab-btn active" data-tab="flags">Top Flags</button>
         <button class="tab-btn" data-tab="trending">Trending Today</button>
         <button class="tab-btn" data-tab="sector">By Sector</button>
+        <button class="tab-btn" data-tab="favorites">★ Favorites</button>
       </div>
       <div id="stock-list"><div class="empty-note">Loading…</div></div>
     </div>
@@ -111,20 +112,33 @@ async function render() {
   const FLAT_LIMIT = 25;
   let showAllFlat = false;
 
+  const favoriteOptions = {
+    onFavoriteToggle: () => {
+      if (activeTab === "favorites") renderTab(activeTab);
+    },
+  };
+
   function renderTab(tab) {
     activeTab = tab;
-    const matched = utils.filterStocksByQuery(stocks, searchQuery);
-    countEl.textContent = searchQuery
-      ? `${matched.length} of ${stocks.length}`
-      : `${stocks.length} tracked`;
+    const base = tab === "favorites" ? utils.filterFavorites(stocks) : stocks;
+    const matched = utils.filterStocksByQuery(base, searchQuery);
+
+    if (tab === "favorites") {
+      countEl.textContent = searchQuery ? `${matched.length} of ${base.length} favorites` : `${base.length} favorites`;
+    } else {
+      countEl.textContent = searchQuery ? `${matched.length} of ${stocks.length}` : `${stocks.length} tracked`;
+    }
 
     if (!matched.length) {
-      listEl.innerHTML = `<div class="empty-note">No stocks match "${searchQuery}".</div>`;
+      listEl.innerHTML =
+        tab === "favorites" && !searchQuery
+          ? `<div class="empty-note">No favorites yet — click the ☆ on any stock to add one.</div>`
+          : `<div class="empty-note">No stocks match "${searchQuery}".</div>`;
       return;
     }
 
     if (tab === "sector") {
-      utils.renderSectorGroupsInto(listEl, matched, flagDefinitions, { forceExpand: !!searchQuery });
+      utils.renderSectorGroupsInto(listEl, matched, flagDefinitions, { forceExpand: !!searchQuery, ...favoriteOptions });
       return;
     }
 
@@ -134,7 +148,7 @@ async function render() {
         : [...matched].sort((a, b) => b.flags.flag_count - a.flags.flag_count);
 
     const visible = showAllFlat ? sorted : sorted.slice(0, FLAT_LIMIT);
-    utils.renderStockListInto(listEl, visible, flagDefinitions);
+    utils.renderStockListInto(listEl, visible, flagDefinitions, favoriteOptions);
 
     if (sorted.length > FLAT_LIMIT) {
       const row = document.createElement("div");

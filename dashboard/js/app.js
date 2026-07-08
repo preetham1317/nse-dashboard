@@ -164,7 +164,37 @@ function attachRowToggle(container, rowEl, stock, flagDefinitions) {
   });
 }
 
-function createStockBlock(stock, rank, flagDefinitions) {
+const FAVORITES_KEY = "nse-dashboard-favorites";
+
+function getFavorites() {
+  try {
+    return new Set(JSON.parse(localStorage.getItem(FAVORITES_KEY) || "[]"));
+  } catch {
+    return new Set();
+  }
+}
+
+function isFavorite(symbol) {
+  return getFavorites().has(symbol);
+}
+
+function toggleFavorite(symbol) {
+  const favs = getFavorites();
+  if (favs.has(symbol)) {
+    favs.delete(symbol);
+  } else {
+    favs.add(symbol);
+  }
+  localStorage.setItem(FAVORITES_KEY, JSON.stringify(Array.from(favs)));
+  return favs.has(symbol);
+}
+
+function filterFavorites(stocks) {
+  const favs = getFavorites();
+  return stocks.filter((stock) => favs.has(stock.symbol));
+}
+
+function createStockBlock(stock, rank, flagDefinitions, options = {}) {
   const { flag_count, flag_total, flags_on } = stock.flags;
   const change = formatChangePct(stock.indicators.change_pct);
   const topFlags = flags_on.slice(0, 3).map((k) => flagShortLabel(flagDefinitions, k)).join(" · ");
@@ -176,6 +206,7 @@ function createStockBlock(stock, rank, flagDefinitions) {
   row.className = "stock-row";
   row.innerHTML = `
     <div class="left">
+      <button type="button" class="star-btn" aria-label="Toggle favorite" title="Favorite"></button>
       <div class="rank">${rank}</div>
       <div>
         <div class="name">${stock.symbol}<span class="sector">${stock.sector || ""}</span></div>
@@ -190,6 +221,20 @@ function createStockBlock(stock, rank, flagDefinitions) {
       <div class="chg ${change.cls}">${change.text}</div>
     </div>
   `;
+
+  const starBtn = row.querySelector(".star-btn");
+  const applyStarState = (fav) => {
+    starBtn.textContent = fav ? "★" : "☆";
+    starBtn.classList.toggle("active", fav);
+  };
+  applyStarState(isFavorite(stock.symbol));
+  starBtn.addEventListener("click", (e) => {
+    e.stopPropagation();
+    const nowFav = toggleFavorite(stock.symbol);
+    applyStarState(nowFav);
+    if (options.onFavoriteToggle) options.onFavoriteToggle(stock.symbol, nowFav);
+  });
+
   block.appendChild(row);
   attachRowToggle(block, row, stock, flagDefinitions);
   return block;
@@ -206,10 +251,10 @@ function filterStocksByQuery(stocks, query) {
   );
 }
 
-function renderStockListInto(container, stocks, flagDefinitions) {
+function renderStockListInto(container, stocks, flagDefinitions, options = {}) {
   container.innerHTML = "";
   stocks.forEach((stock, index) => {
-    container.appendChild(createStockBlock(stock, index + 1, flagDefinitions));
+    container.appendChild(createStockBlock(stock, index + 1, flagDefinitions, options));
   });
 }
 
@@ -245,7 +290,7 @@ function renderSectorGroupsInto(container, stocks, flagDefinitions, options = {}
 
     const list = document.createElement("div");
     list.className = "sector-group-body";
-    sectorStocks.forEach((stock, index) => list.appendChild(createStockBlock(stock, index + 1, flagDefinitions)));
+    sectorStocks.forEach((stock, index) => list.appendChild(createStockBlock(stock, index + 1, flagDefinitions, options)));
     group.appendChild(list);
     container.appendChild(group);
   });
@@ -310,6 +355,9 @@ window.dashboardUtils = {
   renderDetailPanelHtml,
   attachRowToggle,
   filterStocksByQuery,
+  filterFavorites,
+  isFavorite,
+  toggleFavorite,
   createStockBlock,
   renderStockListInto,
   renderSectorGroupsInto,
