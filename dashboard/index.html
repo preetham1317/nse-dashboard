@@ -108,6 +108,8 @@ async function render() {
 
   const listEl = document.getElementById("stock-list");
   const countEl = document.getElementById("stock-count");
+  const FLAT_LIMIT = 25;
+  let showAllFlat = false;
 
   function renderTab(tab) {
     activeTab = tab;
@@ -121,25 +123,44 @@ async function render() {
       return;
     }
 
-    if (tab === "trending") {
-      const byMove = [...matched].sort(
-        (a, b) => Math.abs(b.indicators.change_pct ?? 0) - Math.abs(a.indicators.change_pct ?? 0)
-      );
-      utils.renderStockListInto(listEl, byMove, flagDefinitions);
-    } else if (tab === "sector") {
-      utils.renderSectorGroupsInto(listEl, matched, flagDefinitions);
-    } else {
-      const byFlags = [...matched].sort((a, b) => b.flags.flag_count - a.flags.flag_count);
-      utils.renderStockListInto(listEl, byFlags, flagDefinitions);
+    if (tab === "sector") {
+      utils.renderSectorGroupsInto(listEl, matched, flagDefinitions, { forceExpand: !!searchQuery });
+      return;
+    }
+
+    const sorted =
+      tab === "trending"
+        ? [...matched].sort((a, b) => Math.abs(b.indicators.change_pct ?? 0) - Math.abs(a.indicators.change_pct ?? 0))
+        : [...matched].sort((a, b) => b.flags.flag_count - a.flags.flag_count);
+
+    const visible = showAllFlat ? sorted : sorted.slice(0, FLAT_LIMIT);
+    utils.renderStockListInto(listEl, visible, flagDefinitions);
+
+    if (sorted.length > FLAT_LIMIT) {
+      const row = document.createElement("div");
+      row.className = "show-more-row";
+      const btn = document.createElement("button");
+      btn.className = "btn btn-ghost btn-sm";
+      btn.textContent = showAllFlat ? "Show top 25 only" : `Show all ${sorted.length} stocks`;
+      btn.addEventListener("click", () => {
+        showAllFlat = !showAllFlat;
+        renderTab(activeTab);
+      });
+      row.appendChild(btn);
+      listEl.appendChild(row);
     }
   }
   renderTab(activeTab);
   if (!controlsBound) {
-    utils.initTabs(document.getElementById("watchlist-tabs"), renderTab);
+    utils.initTabs(document.getElementById("watchlist-tabs"), (tab) => {
+      showAllFlat = false;
+      renderTab(tab);
+    });
     const searchEl = document.getElementById("stock-search");
     searchEl.value = searchQuery;
     searchEl.addEventListener("input", () => {
       searchQuery = searchEl.value.trim();
+      showAllFlat = false;
       renderTab(activeTab);
     });
     controlsBound = true;

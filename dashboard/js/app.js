@@ -213,7 +213,8 @@ function renderStockListInto(container, stocks, flagDefinitions) {
   });
 }
 
-function renderSectorGroupsInto(container, stocks, flagDefinitions) {
+function renderSectorGroupsInto(container, stocks, flagDefinitions, options = {}) {
+  const forceExpand = !!options.forceExpand;
   container.innerHTML = "";
   const groups = new Map();
   stocks.forEach((stock) => {
@@ -231,9 +232,19 @@ function renderSectorGroupsInto(container, stocks, flagDefinitions) {
   sectorNames.forEach((sector) => {
     const sectorStocks = groups.get(sector).sort((a, b) => b.flags.flag_count - a.flags.flag_count);
     const group = document.createElement("div");
-    group.className = "sector-group";
-    group.innerHTML = `<div class="sector-group-header"><span class="name">${sector}</span><span class="meta">${sectorStocks.length} stock${sectorStocks.length === 1 ? "" : "s"}</span></div>`;
+    group.className = "sector-group" + (forceExpand ? "" : " collapsed");
+
+    const header = document.createElement("div");
+    header.className = "sector-group-header";
+    header.innerHTML = `
+      <span class="name"><span class="chevron">▸</span> ${sector}</span>
+      <span class="meta">${sectorStocks.length} stock${sectorStocks.length === 1 ? "" : "s"}</span>
+    `;
+    header.addEventListener("click", () => group.classList.toggle("collapsed"));
+    group.appendChild(header);
+
     const list = document.createElement("div");
+    list.className = "sector-group-body";
     sectorStocks.forEach((stock, index) => list.appendChild(createStockBlock(stock, index + 1, flagDefinitions)));
     group.appendChild(list);
     container.appendChild(group);
