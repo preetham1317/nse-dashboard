@@ -195,6 +195,17 @@ function createStockBlock(stock, rank, flagDefinitions) {
   return block;
 }
 
+function filterStocksByQuery(stocks, query) {
+  if (!query) return stocks;
+  const q = query.toLowerCase();
+  return stocks.filter(
+    (stock) =>
+      stock.symbol.toLowerCase().includes(q) ||
+      (stock.name && stock.name.toLowerCase().includes(q)) ||
+      (stock.sector && stock.sector.toLowerCase().includes(q))
+  );
+}
+
 function renderStockListInto(container, stocks, flagDefinitions) {
   container.innerHTML = "";
   stocks.forEach((stock, index) => {
@@ -287,6 +298,7 @@ window.dashboardUtils = {
   flagShortLabel,
   renderDetailPanelHtml,
   attachRowToggle,
+  filterStocksByQuery,
   createStockBlock,
   renderStockListInto,
   renderSectorGroupsInto,
