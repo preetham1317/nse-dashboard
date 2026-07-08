@@ -50,22 +50,7 @@
     "flag_count": 2,
     "flag_total": 8
   },
-  "fundamentals": {
-    "pe_trailing": 11.459086,
-    "pe_forward": 12.3123665,
-    "eps_trailing": 30.43,
-    "eps_forward": 28.32112,
-    "roe": 0.13695,
-    "profit_margin": 0.14437,
-    "gross_margin": 0.47572,
-    "operating_margin": 0.18428,
-    "market_cap": 3381227683840,
-    "current_price": 348.7,
-    "sector": "Utilities",
-    "name": "NTPC Limited",
-    "roce": 0.09271234696821457,
-    "revenue_growth_yoy": -0.004004665509998349
-  },
+  "fundamentals": null,
   "shareholding": null,
-  "updated_at": "2026-07-08T17:36:57.983511+00:00"
+  "updated_at": "2026-07-08T17:53:51.002774+00:00"
 }

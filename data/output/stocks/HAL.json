@@ -50,22 +50,7 @@
     "flag_count": 2,
     "flag_total": 8
   },
-  "fundamentals": {
-    "pe_trailing": 31.996922,
-    "pe_forward": 26.033897,
-    "eps_trailing": 136.41,
-    "eps_forward": 167.65451,
-    "roe": 0.23979001,
-    "profit_margin": 0.27549,
-    "gross_margin": 0.53306,
-    "operating_margin": 0.26945,
-    "market_cap": 2919002275840,
-    "current_price": 4364.7,
-    "sector": "Industrials",
-    "name": "Hindustan Aeronautics Limited",
-    "roce": 0.13798778352103266,
-    "revenue_growth_yoy": 0.06803761666443411
-  },
+  "fundamentals": null,
   "shareholding": null,
-  "updated_at": "2026-07-08T17:36:41.999462+00:00"
+  "updated_at": "2026-07-08T17:53:36.094500+00:00"
 }

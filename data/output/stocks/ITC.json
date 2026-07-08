@@ -47,22 +47,7 @@
     "flag_count": 0,
     "flag_total": 8
   },
-  "fundamentals": {
-    "pe_trailing": 16.988499,
-    "pe_forward": 15.903507,
-    "eps_trailing": 16.52,
-    "eps_forward": 17.64705,
-    "roe": 0.2934,
-    "profit_margin": 0.26233,
-    "gross_margin": 0.57845,
-    "operating_margin": 0.36413,
-    "market_cap": 3516395159552,
-    "current_price": 280.65,
-    "sector": "Consumer Defensive",
-    "name": "ITC Limited",
-    "roce": 0.36467829434391574,
-    "revenue_growth_yoy": 0.047686559686829735
-  },
+  "fundamentals": null,
   "shareholding": null,
-  "updated_at": "2026-07-08T17:36:51.002451+00:00"
+  "updated_at": "2026-07-08T17:53:44.034556+00:00"
 }

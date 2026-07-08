@@ -50,22 +50,7 @@
     "flag_count": 2,
     "flag_total": 8
   },
-  "fundamentals": {
-    "pe_trailing": 11.156336,
-    "pe_forward": 9.983111,
-    "eps_trailing": 91.15,
-    "eps_forward": 101.86203,
-    "roe": 0.15477,
-    "profit_margin": 0.22114,
-    "gross_margin": 0.0,
-    "operating_margin": 0.28959998,
-    "market_cap": 9386615373824,
-    "current_price": 1016.9,
-    "sector": "Financial Services",
-    "name": "State Bank of India",
-    "roce": null,
-    "revenue_growth_yoy": 0.09208470724271556
-  },
+  "fundamentals": null,
   "shareholding": null,
-  "updated_at": "2026-07-08T17:37:02.254943+00:00"
+  "updated_at": "2026-07-08T17:53:54.855733+00:00"
 }

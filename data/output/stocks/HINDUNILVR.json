@@ -49,22 +49,7 @@
     "flag_count": 1,
     "flag_total": 8
   },
-  "fundamentals": {
-    "pe_trailing": 47.16873,
-    "pe_forward": 39.796413,
-    "eps_trailing": 45.28,
-    "eps_forward": 53.66815,
-    "roe": 0.21603,
-    "profit_margin": 0.23329,
-    "gross_margin": 0.50583,
-    "operating_margin": 0.21136,
-    "market_cap": 5018257195008,
-    "current_price": 2135.8,
-    "sector": "Consumer Defensive",
-    "name": "Hindustan Unilever Limited",
-    "roce": 0.22151612852981947,
-    "revenue_growth_yoy": 0.052663728063658724
-  },
+  "fundamentals": null,
   "shareholding": null,
-  "updated_at": "2026-07-08T17:36:47.128784+00:00"
+  "updated_at": "2026-07-08T17:53:40.030471+00:00"
 }

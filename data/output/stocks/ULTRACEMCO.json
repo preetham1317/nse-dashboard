@@ -50,22 +50,7 @@
     "flag_count": 2,
     "flag_total": 8
   },
-  "fundamentals": {
-    "pe_trailing": 40.9486,
-    "pe_forward": 25.933655,
-    "eps_trailing": 277.25,
-    "eps_forward": 437.77094,
-    "roe": 0.10593,
-    "profit_margin": 0.092259996,
-    "gross_margin": 0.5844,
-    "operating_margin": 0.17024,
-    "market_cap": 3339707744256,
-    "current_price": 11353.0,
-    "sector": "Basic Materials",
-    "name": "UltraTech Cement Limited",
-    "roce": 0.1190104361595937,
-    "revenue_growth_yoy": 0.16531338962885062
-  },
+  "fundamentals": null,
   "shareholding": null,
-  "updated_at": "2026-07-08T17:37:11.632605+00:00"
+  "updated_at": "2026-07-08T17:54:02.702326+00:00"
 }

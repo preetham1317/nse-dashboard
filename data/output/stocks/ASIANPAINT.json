@@ -51,22 +51,7 @@
     "flag_count": 3,
     "flag_total": 8
   },
-  "fundamentals": {
-    "pe_trailing": 59.006195,
-    "pe_forward": 45.511864,
-    "eps_trailing": 45.18,
-    "eps_forward": 58.57593,
-    "roe": 0.20889999,
-    "profit_margin": 0.121549994,
-    "gross_margin": 0.43303,
-    "operating_margin": 0.16143,
-    "market_cap": 2555649720320,
-    "current_price": 2665.9,
-    "sector": "Basic Materials",
-    "name": "Asian Paints Limited",
-    "roce": 0.24407361996042123,
-    "revenue_growth_yoy": 0.05103419559919409
-  },
+  "fundamentals": null,
   "shareholding": null,
-  "updated_at": "2026-07-08T17:36:32.945033+00:00"
+  "updated_at": "2026-07-08T17:53:27.812521+00:00"
 }
