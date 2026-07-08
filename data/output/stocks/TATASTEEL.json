@@ -1,0 +1,61 @@
+{
+  "symbol": "TATASTEEL",
+  "name": "Tata Steel",
+  "sector": "Metals",
+  "indicators": {
+    "date": "2026-07-08",
+    "close": 188.2,
+    "prev_close": 189.79,
+    "change_pct": -0.8377680594341133,
+    "ema20": 193.68121125120132,
+    "ema50": 199.25312689711237,
+    "ema200": 189.892553545585,
+    "rsi14": 35.24480955327395,
+    "macd": -4.568513251853943,
+    "macd_signal": -4.628371743370705,
+    "atr14": 3.9087690231208603,
+    "adx14": 28.63439955639911,
+    "adx_pos": 16.621755313385375,
+    "adx_neg": 33.95236176432401,
+    "bb_high": 203.14103484051313,
+    "bb_low": 183.60196515948687,
+    "bb_mid": 193.3715,
+    "vwap20": 193.42293156620607
+  },
+  "flags": {
+    "flags": {
+      "price_above_ema20": false,
+      "ema20_above_ema50": false,
+      "ema50_above_ema200": true,
+      "rsi_above_50": false,
+      "macd_bullish": true,
+      "adx_trending_up": false,
+      "price_above_vwap20": false,
+      "price_above_bb_mid": false
+    },
+    "flags_on": [
+      "ema50_above_ema200",
+      "macd_bullish"
+    ],
+    "flag_count": 2,
+    "flag_total": 8
+  },
+  "fundamentals": {
+    "pe_trailing": 21.757227,
+    "pe_forward": 10.010638,
+    "eps_trailing": 8.65,
+    "eps_forward": 18.8,
+    "roe": 0.11156999,
+    "profit_margin": 0.0465,
+    "gross_margin": 0.55947,
+    "operating_margin": 0.09698,
+    "market_cap": 2347201724416,
+    "current_price": 188.2,
+    "sector": "Basic Materials",
+    "name": "Tata Steel Limited",
+    "roce": 0.11322379211111946,
+    "revenue_growth_yoy": 0.06204158958422637
+  },
+  "shareholding": null,
+  "updated_at": "2026-07-08T16:40:28.997233+00:00"
+}

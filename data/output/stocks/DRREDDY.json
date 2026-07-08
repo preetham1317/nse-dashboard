@@ -1,0 +1,67 @@
+{
+  "symbol": "DRREDDY",
+  "name": "Dr Reddy's Laboratories",
+  "sector": "Pharma",
+  "indicators": {
+    "date": "2026-07-08",
+    "close": 1349.0,
+    "prev_close": 1354.6,
+    "change_pct": -0.4134061715635545,
+    "ema20": 1328.9102325682488,
+    "ema50": 1306.925241053914,
+    "ema200": 1272.0808608305795,
+    "rsi14": 58.29589091241523,
+    "macd": 19.367450674220663,
+    "macd_signal": 15.01641613043602,
+    "atr14": 31.837668990943207,
+    "adx14": 28.097530574045468,
+    "adx_pos": 26.311737360236354,
+    "adx_neg": 14.271587465413374,
+    "bb_high": 1396.2934838274496,
+    "bb_low": 1236.0065161725506,
+    "bb_mid": 1316.15,
+    "vwap20": 1334.5316862389664
+  },
+  "flags": {
+    "flags": {
+      "price_above_ema20": true,
+      "ema20_above_ema50": true,
+      "ema50_above_ema200": true,
+      "rsi_above_50": true,
+      "macd_bullish": true,
+      "adx_trending_up": true,
+      "price_above_vwap20": true,
+      "price_above_bb_mid": true
+    },
+    "flags_on": [
+      "price_above_ema20",
+      "ema20_above_ema50",
+      "ema50_above_ema200",
+      "rsi_above_50",
+      "macd_bullish",
+      "adx_trending_up",
+      "price_above_vwap20",
+      "price_above_bb_mid"
+    ],
+    "flag_count": 8,
+    "flag_total": 8
+  },
+  "fundamentals": {
+    "pe_trailing": 26.209442,
+    "pe_forward": 20.931383,
+    "eps_trailing": 51.47,
+    "eps_forward": 64.44868,
+    "roe": 0.11835,
+    "profit_margin": 0.12755999,
+    "gross_margin": 0.52768004,
+    "operating_margin": 0.015420001,
+    "market_cap": 1123326099456,
+    "current_price": 1349.0,
+    "sector": "Healthcare",
+    "name": "Dr. Reddy's Laboratories Limited",
+    "roce": 0.14219971829617756,
+    "revenue_growth_yoy": 0.03194126591610733
+  },
+  "shareholding": null,
+  "updated_at": "2026-07-08T16:40:01.659202+00:00"
+}

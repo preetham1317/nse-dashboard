@@ -1,0 +1,61 @@
+{
+  "symbol": "INFY",
+  "name": "Infosys",
+  "sector": "IT",
+  "indicators": {
+    "date": "2026-07-08",
+    "close": 1069.3,
+    "prev_close": 1071.8,
+    "change_pct": -0.23325247247620828,
+    "ema20": 1075.6601712637764,
+    "ema50": 1137.6392020801418,
+    "ema200": 1323.1475421478358,
+    "rsi14": 46.04183912890443,
+    "macd": -31.46581625665749,
+    "macd_signal": -36.1754581053945,
+    "atr14": 34.15256545143547,
+    "adx14": 21.087824995370713,
+    "adx_pos": 26.867633563090408,
+    "adx_neg": 30.836055112428344,
+    "bb_high": 1172.312461107119,
+    "bb_low": 975.4575388928807,
+    "bb_mid": 1073.8849999999998,
+    "vwap20": 1063.5927156802336
+  },
+  "flags": {
+    "flags": {
+      "price_above_ema20": false,
+      "ema20_above_ema50": false,
+      "ema50_above_ema200": false,
+      "rsi_above_50": false,
+      "macd_bullish": true,
+      "adx_trending_up": false,
+      "price_above_vwap20": true,
+      "price_above_bb_mid": false
+    },
+    "flags_on": [
+      "macd_bullish",
+      "price_above_vwap20"
+    ],
+    "flag_count": 2,
+    "flag_total": 8
+  },
+  "fundamentals": {
+    "pe_trailing": 14.1723,
+    "pe_forward": 13.1202545,
+    "eps_trailing": 75.45,
+    "eps_forward": 81.49995,
+    "roe": 0.31439,
+    "profit_margin": 0.16434999,
+    "gross_margin": 0.29517,
+    "operating_margin": 0.20928,
+    "market_cap": 4329518923776,
+    "current_price": 1069.3,
+    "sector": "Technology",
+    "name": "Infosys Limited",
+    "roce": 0.41655992680695336,
+    "revenue_growth_yoy": 0.04570213207449292
+  },
+  "shareholding": null,
+  "updated_at": "2026-07-08T16:40:12.822419+00:00"
+}

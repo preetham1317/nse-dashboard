@@ -1,0 +1,60 @@
+{
+  "symbol": "KOTAKBANK",
+  "name": "Kotak Mahindra Bank",
+  "sector": "Banking",
+  "indicators": {
+    "date": "2026-07-08",
+    "close": 370.1,
+    "prev_close": 381.7,
+    "change_pct": -3.03903589206182,
+    "ema20": 391.6880067477767,
+    "ema50": 390.00010551838125,
+    "ema200": 400.37598562855055,
+    "rsi14": 33.921312637737486,
+    "macd": -1.3289964421978766,
+    "macd_signal": 2.3985061941551447,
+    "atr14": 8.760485107272943,
+    "adx14": 19.487395880386597,
+    "adx_pos": 19.370436080210176,
+    "adx_neg": 35.52191218560256,
+    "bb_high": 416.76364815228806,
+    "bb_low": 377.35135184771195,
+    "bb_mid": 397.0575,
+    "vwap20": 394.93804661097096
+  },
+  "flags": {
+    "flags": {
+      "price_above_ema20": false,
+      "ema20_above_ema50": true,
+      "ema50_above_ema200": false,
+      "rsi_above_50": false,
+      "macd_bullish": false,
+      "adx_trending_up": false,
+      "price_above_vwap20": false,
+      "price_above_bb_mid": false
+    },
+    "flags_on": [
+      "ema20_above_ema50"
+    ],
+    "flag_count": 1,
+    "flag_total": 8
+  },
+  "fundamentals": {
+    "pe_trailing": 19.08716,
+    "pe_forward": 15.356847,
+    "eps_trailing": 19.39,
+    "eps_forward": 24.1,
+    "roe": 0.11389,
+    "profit_margin": 0.26049,
+    "gross_margin": 0.0,
+    "operating_margin": 0.35119998,
+    "market_cap": 3681186742272,
+    "current_price": 370.1,
+    "sector": "Financial Services",
+    "name": "Kotak Mahindra Bank Limited",
+    "roce": null,
+    "revenue_growth_yoy": 0.04356827851466372
+  },
+  "shareholding": null,
+  "updated_at": "2026-07-08T16:40:16.076538+00:00"
+}

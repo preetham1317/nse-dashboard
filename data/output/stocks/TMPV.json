@@ -1,0 +1,58 @@
+{
+  "symbol": "TMPV",
+  "name": "Tata Motors Passenger Vehicles",
+  "sector": "Auto",
+  "indicators": {
+    "date": "2026-07-08",
+    "close": 332.05,
+    "prev_close": 342.3,
+    "change_pct": -2.9944493134677184,
+    "ema20": 355.23294931799086,
+    "ema50": 359.52392387513567,
+    "ema200": 366.2817950858148,
+    "rsi14": 33.61195644752168,
+    "macd": -8.694445262809097,
+    "macd_signal": -5.729929175469571,
+    "atr14": 10.824532205967163,
+    "adx14": 19.625212606546093,
+    "adx_pos": 18.663444524527094,
+    "adx_neg": 33.23616294184972,
+    "bb_high": 395.6497340322732,
+    "bb_low": 324.0952659677268,
+    "bb_mid": 359.8725,
+    "vwap20": 361.2272139205284
+  },
+  "flags": {
+    "flags": {
+      "price_above_ema20": false,
+      "ema20_above_ema50": false,
+      "ema50_above_ema200": false,
+      "rsi_above_50": false,
+      "macd_bullish": false,
+      "adx_trending_up": false,
+      "price_above_vwap20": false,
+      "price_above_bb_mid": false
+    },
+    "flags_on": [],
+    "flag_count": 0,
+    "flag_total": 8
+  },
+  "fundamentals": {
+    "pe_trailing": null,
+    "pe_forward": 6.3605733,
+    "eps_trailing": -4.42,
+    "eps_forward": 52.20441,
+    "roe": -0.01118,
+    "profit_margin": 0.24288,
+    "gross_margin": 0.4619,
+    "operating_margin": 0.06176,
+    "market_cap": 1222801620992,
+    "current_price": 332.05,
+    "sector": "Consumer Cyclical",
+    "name": "Tata Motors Passenger Vehicles Limited",
+    "roce": 0.005532655996544388,
+    "revenue_growth_yoy": -0.08281749503419664
+  },
+  "shareholding": null,
+  "updated_at": "2026-07-08T16:40:33.811791+00:00"
+}

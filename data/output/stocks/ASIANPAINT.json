@@ -1,0 +1,62 @@
+{
+  "symbol": "ASIANPAINT",
+  "name": "Asian Paints",
+  "sector": "Consumer Durables",
+  "indicators": {
+    "date": "2026-07-08",
+    "close": 2665.9,
+    "prev_close": 2731.4,
+    "change_pct": -2.3980376363769493,
+    "ema20": 2695.29102305692,
+    "ema50": 2633.568136848715,
+    "ema200": 2543.610663954819,
+    "rsi14": 47.667609260768764,
+    "macd": 19.933256149004137,
+    "macd_signal": 24.857726887264295,
+    "atr14": 54.54540204912064,
+    "adx14": 26.378068516632258,
+    "adx_pos": 22.424547078969244,
+    "adx_neg": 22.089039037151082,
+    "bb_high": 2787.643283778865,
+    "bb_low": 2628.1667162211343,
+    "bb_mid": 2707.9049999999997,
+    "vwap20": 2699.876577458937
+  },
+  "flags": {
+    "flags": {
+      "price_above_ema20": false,
+      "ema20_above_ema50": true,
+      "ema50_above_ema200": true,
+      "rsi_above_50": false,
+      "macd_bullish": false,
+      "adx_trending_up": true,
+      "price_above_vwap20": false,
+      "price_above_bb_mid": false
+    },
+    "flags_on": [
+      "ema20_above_ema50",
+      "ema50_above_ema200",
+      "adx_trending_up"
+    ],
+    "flag_count": 3,
+    "flag_total": 8
+  },
+  "fundamentals": {
+    "pe_trailing": 59.006195,
+    "pe_forward": 45.511864,
+    "eps_trailing": 45.18,
+    "eps_forward": 58.57593,
+    "roe": 0.20889999,
+    "profit_margin": 0.121549994,
+    "gross_margin": 0.43303,
+    "operating_margin": 0.16143,
+    "market_cap": 2555649720320,
+    "current_price": 2665.9,
+    "sector": "Basic Materials",
+    "name": "Asian Paints Limited",
+    "roce": 0.24407361996042123,
+    "revenue_growth_yoy": 0.05103419559919409
+  },
+  "shareholding": null,
+  "updated_at": "2026-07-08T16:39:54.754355+00:00"
+}

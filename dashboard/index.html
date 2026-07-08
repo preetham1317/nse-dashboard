@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Stock Intelligence — Watchlist</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Sora:wght@400;500;600;700;800&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<nav>
+  <div class="brand"><span class="dot"></span> Stock Intelligence</div>
+  <ul>
+    <li><a href="index.html" class="active">Watchlist</a></li>
+    <li><a href="portfolio.html">Portfolio</a></li>
+  </ul>
+</nav>
+
+<header class="hero">
+  <div class="title-row">
+    <h1 class="display">Watchlist</h1>
+    <div class="sub" id="last-updated">Loading last run info…</div>
+  </div>
+  <div class="sub">Ranked by flag count — not a score. Each stock shows how many of the 8 bullish conditions fired.</div>
+</header>
+
+<main>
+  <div class="layout-grid">
+    <div class="card">
+      <h2>Stocks, ranked by flag count</h2>
+      <div id="stock-list"><div class="empty-note">Loading…</div></div>
+    </div>
+
+    <div>
+      <div class="side-card">
+        <h5>Run status</h5>
+        <div id="run-status" class="empty-note">Loading…</div>
+      </div>
+      <div class="side-card">
+        <h5>Your portfolio</h5>
+        <div id="portfolio-mini" class="empty-note">Loading…</div>
+      </div>
+    </div>
+  </div>
+</main>
+
+<footer>Built for personal use only · not a recommendation service · you make every decision</footer>
+
+<script src="js/app.js"></script>
+<script>
+async function render() {
+  const utils = window.dashboardUtils;
+  const [meta, flagDefinitions] = await Promise.all([
+    utils.loadMeta(),
+    utils.loadFlagDefinitions(),
+  ]);
+
+  document.getElementById("last-updated").textContent =
+    `Last run: ${utils.formatUpdatedAt(meta.run_at)} · ${meta.summary.ok}/${meta.summary.total} symbols ok`;
+
+  const statusEl = document.getElementById("run-status");
+  if (meta.summary.skipped > 0) {
+    const skippedSymbols = Object.entries(meta.symbols)
+      .filter(([, info]) => info.status !== "ok")
+      .map(([symbol, info]) => `${symbol} (${info.reason})`);
+    statusEl.innerHTML = `<div class="callout"><b>${meta.summary.skipped} skipped this run:</b><br>${skippedSymbols.join("<br>")}</div>`;
+  } else {
+    statusEl.textContent = `All ${meta.summary.total} tracked symbols updated successfully.`;
+  }
+
+  const stocks = await utils.loadAllStocks(meta);
+  stocks.sort((a, b) => b.flags.flag_count - a.flags.flag_count);
+
+  const listEl = document.getElementById("stock-list");
+  listEl.innerHTML = "";
+  stocks.forEach((stock, index) => {
+    const { flag_count, flag_total, flags_on } = stock.flags;
+    const change = utils.formatChangePct(stock.indicators.change_pct);
+    const topFlags = flags_on.slice(0, 3).map((k) => utils.flagShortLabel(flagDefinitions, k)).join(" · ");
+
+    const row = document.createElement("div");
+    row.className = "stock-row";
+    row.innerHTML = `
+      <div class="left">
+        <div class="rank">${index + 1}</div>
+        <div>
+          <div class="name">${stock.symbol}<span class="sector">${stock.sector || ""}</span></div>
+          <div class="flags-mini">
+            <span class="flag-count ${utils.flagCountClass(flag_count, flag_total)}">${flag_count}/${flag_total}</span>
+            ${topFlags ? " · " + topFlags : " · no bullish flags fired"}
+          </div>
+        </div>
+      </div>
+      <div class="right">
+        <div class="price">${utils.formatPrice(stock.indicators.close)}</div>
+        <div class="chg ${change.cls}">${change.text}</div>
+      </div>
+    `;
+    listEl.appendChild(row);
+  });
+
+  const portfolio = await utils.loadPortfolio();
+  const miniEl = document.getElementById("portfolio-mini");
+  if (!portfolio.holdings.length) {
+    miniEl.textContent = "No holdings configured yet.";
+  } else {
+    miniEl.innerHTML = "";
+    portfolio.holdings.forEach((holding) => {
+      const div = document.createElement("div");
+      div.className = "holding-row";
+      const statusClass = holding.flags
+        ? utils.pillStatusClass(holding.flags.flag_count, holding.flags.flag_total)
+        : "watch";
+      const statusLabel = holding.flags ? `${holding.flags.flag_count}/${holding.flags.flag_total}` : "no data";
+      div.innerHTML = `<span>${holding.symbol}</span><span class="pill-status ${statusClass}">${statusLabel}</span>`;
+      miniEl.appendChild(div);
+    });
+  }
+}
+
+render().catch((err) => {
+  console.error(err);
+  document.getElementById("stock-list").innerHTML =
+    `<div class="empty-note">Failed to load data: ${err.message}. Run the pipeline first (python -m src.pipeline).</div>`;
+});
+</script>
+
+</body>
+</html>

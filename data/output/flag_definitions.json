@@ -1,0 +1,34 @@
+[
+  {
+    "key": "price_above_ema20",
+    "label": "Price above EMA20"
+  },
+  {
+    "key": "ema20_above_ema50",
+    "label": "EMA20 above EMA50"
+  },
+  {
+    "key": "ema50_above_ema200",
+    "label": "EMA50 above EMA200"
+  },
+  {
+    "key": "rsi_above_50",
+    "label": "RSI(14) above 50"
+  },
+  {
+    "key": "macd_bullish",
+    "label": "MACD line above signal line"
+  },
+  {
+    "key": "adx_trending_up",
+    "label": "ADX(14) above 20 with +DI above -DI"
+  },
+  {
+    "key": "price_above_vwap20",
+    "label": "Price above 20-day rolling VWAP"
+  },
+  {
+    "key": "price_above_bb_mid",
+    "label": "Price above Bollinger mid band (20,2)"
+  }
+]

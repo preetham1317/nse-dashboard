@@ -1,0 +1,61 @@
+{
+  "symbol": "SBIN",
+  "name": "State Bank of India",
+  "sector": "Banking",
+  "indicators": {
+    "date": "2026-07-08",
+    "close": 1016.9,
+    "prev_close": 1038.1,
+    "change_pct": -2.042192467007026,
+    "ema20": 1026.805076077249,
+    "ema50": 1024.2183408472472,
+    "ema200": 995.4092982831105,
+    "rsi14": 47.38996625176757,
+    "macd": 8.343034320650759,
+    "macd_signal": 9.462618382671437,
+    "atr14": 19.653518918798056,
+    "adx14": 12.422462500425853,
+    "adx_pos": 19.14158142409892,
+    "adx_neg": 25.680131362546266,
+    "bb_high": 1057.8399856011413,
+    "bb_low": 1002.2800143988586,
+    "bb_mid": 1030.06,
+    "vwap20": 1029.9030790864051
+  },
+  "flags": {
+    "flags": {
+      "price_above_ema20": false,
+      "ema20_above_ema50": true,
+      "ema50_above_ema200": true,
+      "rsi_above_50": false,
+      "macd_bullish": false,
+      "adx_trending_up": false,
+      "price_above_vwap20": false,
+      "price_above_bb_mid": false
+    },
+    "flags_on": [
+      "ema20_above_ema50",
+      "ema50_above_ema200"
+    ],
+    "flag_count": 2,
+    "flag_total": 8
+  },
+  "fundamentals": {
+    "pe_trailing": 11.156336,
+    "pe_forward": 9.981806,
+    "eps_trailing": 91.15,
+    "eps_forward": 101.87536,
+    "roe": 0.15477,
+    "profit_margin": 0.22114,
+    "gross_margin": 0.0,
+    "operating_margin": 0.28959998,
+    "market_cap": 9386615373824,
+    "current_price": 1016.9,
+    "sector": "Financial Services",
+    "name": "State Bank of India",
+    "roce": null,
+    "revenue_growth_yoy": 0.09208470724271556
+  },
+  "shareholding": null,
+  "updated_at": "2026-07-08T16:40:26.268887+00:00"
+}

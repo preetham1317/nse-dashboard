@@ -1,0 +1,60 @@
+{
+  "symbol": "POWERGRID",
+  "name": "Power Grid Corporation",
+  "sector": "Power",
+  "indicators": {
+    "date": "2026-07-08",
+    "close": 279.7,
+    "prev_close": 284.35,
+    "change_pct": -1.6353085985581268,
+    "ema20": 287.31407309797873,
+    "ema50": 291.8659859837412,
+    "ema200": 291.0721988949922,
+    "rsi14": 35.11433890969353,
+    "macd": -2.5881511336924063,
+    "macd_signal": -2.4964016897699635,
+    "atr14": 5.389518095356223,
+    "adx14": 13.622616016541048,
+    "adx_pos": 14.933385947589251,
+    "adx_neg": 24.519125070105268,
+    "bb_high": 292.67569803775933,
+    "bb_low": 281.21430196224065,
+    "bb_mid": 286.945,
+    "vwap20": 287.3839162006107
+  },
+  "flags": {
+    "flags": {
+      "price_above_ema20": false,
+      "ema20_above_ema50": false,
+      "ema50_above_ema200": true,
+      "rsi_above_50": false,
+      "macd_bullish": false,
+      "adx_trending_up": false,
+      "price_above_vwap20": false,
+      "price_above_bb_mid": false
+    },
+    "flags_on": [
+      "ema50_above_ema200"
+    ],
+    "flag_count": 1,
+    "flag_total": 8
+  },
+  "fundamentals": {
+    "pe_trailing": 13.915423,
+    "pe_forward": 14.018449,
+    "eps_trailing": 20.1,
+    "eps_forward": 19.95228,
+    "roe": 0.16492,
+    "profit_margin": 0.34083,
+    "gross_margin": 1.0,
+    "operating_margin": 0.4947,
+    "market_cap": 2601378906112,
+    "current_price": 279.7,
+    "sector": "Utilities",
+    "name": "Power Grid Corporation of India Limited",
+    "roce": 0.10695524252361413,
+    "revenue_growth_yoy": 0.02053947037407146
+  },
+  "shareholding": null,
+  "updated_at": "2026-07-08T16:40:23.278514+00:00"
+}

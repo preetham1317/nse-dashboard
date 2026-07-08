@@ -1,0 +1,525 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Personal NSE Stock Intelligence Dashboard — Build Guide</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Sora:wght@400;500;600;700;800&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg-1:#eef4fa;
+    --bg-2:#e6f1f7;
+    --bg-3:#f3f8f4;
+    --glass:rgba(255,255,255,0.58);
+    --glass-strong:rgba(255,255,255,0.78);
+    --glass-border:rgba(255,255,255,0.9);
+    --ink:#1c2b3a;
+    --ink-soft:#4a5c6b;
+    --ink-faint:#7c8b98;
+    --teal:#1f7a63;
+    --teal-soft:#e4f3ee;
+    --amber:#a8681c;
+    --amber-soft:#faf0e0;
+    --rose:#a8403a;
+    --rose-soft:#fbecea;
+    --line:rgba(28,43,58,0.08);
+    --shadow:0 8px 32px rgba(31,64,90,0.10);
+  }
+  *{box-sizing:border-box; margin:0; padding:0;}
+  html{scroll-behavior:smooth;}
+  body{
+    font-family:'Inter',sans-serif;
+    color:var(--ink);
+    background:
+      radial-gradient(circle at 10% 0%, var(--bg-3) 0%, transparent 45%),
+      radial-gradient(circle at 90% 10%, var(--bg-2) 0%, transparent 50%),
+      linear-gradient(160deg, var(--bg-1), #f7fafc 60%, var(--bg-3));
+    min-height:100vh;
+    line-height:1.6;
+    padding-bottom:80px;
+  }
+  .mono{font-family:'JetBrains Mono',monospace;}
+  h1,h2,h3,.display{font-family:'Sora',sans-serif; letter-spacing:-0.01em;}
+
+  /* ---------- Nav ---------- */
+  nav{
+    position:sticky; top:0; z-index:50;
+    backdrop-filter:blur(16px) saturate(160%);
+    -webkit-backdrop-filter:blur(16px) saturate(160%);
+    background:rgba(255,255,255,0.55);
+    border-bottom:1px solid var(--glass-border);
+    padding:14px 28px;
+    display:flex; align-items:center; justify-content:space-between;
+  }
+  nav .brand{font-family:'Sora',sans-serif; font-weight:700; font-size:15px; display:flex; align-items:center; gap:8px;}
+  nav .brand .dot{width:9px;height:9px;border-radius:50%;background:var(--teal); box-shadow:0 0 0 4px var(--teal-soft);}
+  nav ul{list-style:none; display:flex; gap:22px;}
+  nav a{color:var(--ink-soft); text-decoration:none; font-size:13.5px; font-weight:500;}
+  nav a:hover{color:var(--teal);}
+  @media (max-width:780px){ nav ul{display:none;} }
+
+  /* ---------- Hero ---------- */
+  header.hero{
+    max-width:920px; margin:0 auto; padding:64px 28px 20px;
+    text-align:left;
+  }
+  .eyebrow{
+    display:inline-flex; align-items:center; gap:8px;
+    font-size:12.5px; font-weight:600; letter-spacing:0.06em; text-transform:uppercase;
+    color:var(--teal); background:var(--teal-soft); border:1px solid rgba(31,122,99,0.18);
+    padding:6px 14px; border-radius:999px; margin-bottom:22px;
+  }
+  h1.display{font-size:clamp(30px,5vw,46px); font-weight:800; line-height:1.12; color:var(--ink); max-width:14ch;}
+  .hero p.sub{margin-top:18px; font-size:16.5px; color:var(--ink-soft); max-width:56ch;}
+  .hero-question{
+    margin-top:28px; padding:20px 24px; border-radius:18px;
+    background:var(--glass); border:1px solid var(--glass-border); box-shadow:var(--shadow);
+    font-family:'Sora',sans-serif; font-weight:600; font-size:17px; color:var(--ink);
+  }
+  .hero-question span{color:var(--teal);}
+
+  /* ---------- Sections ---------- */
+  section{max-width:920px; margin:0 auto; padding:56px 28px 0;}
+  .section-tag{
+    font-size:12px; font-weight:700; letter-spacing:0.08em; text-transform:uppercase;
+    color:var(--ink-faint); margin-bottom:10px;
+  }
+  h2.display{font-size:clamp(22px,3.2vw,28px); font-weight:700; margin-bottom:8px;}
+  .lede{color:var(--ink-soft); font-size:15px; max-width:64ch; margin-bottom:28px;}
+
+  .card{
+    background:var(--glass);
+    border:1px solid var(--glass-border);
+    border-radius:20px;
+    box-shadow:var(--shadow);
+    backdrop-filter:blur(14px);
+    -webkit-backdrop-filter:blur(14px);
+    padding:24px;
+  }
+
+  /* ---------- Roadmap ---------- */
+  .roadmap{display:flex; flex-direction:column; gap:14px;}
+  .phase{
+    display:grid; grid-template-columns:64px 1fr; gap:18px;
+    background:var(--glass); border:1px solid var(--glass-border); border-radius:18px;
+    padding:20px 22px; box-shadow:var(--shadow); align-items:start;
+  }
+  .phase .num{
+    font-family:'Sora',sans-serif; font-weight:800; font-size:26px; color:var(--teal);
+    background:var(--teal-soft); border-radius:14px; height:56px; width:56px;
+    display:flex; align-items:center; justify-content:center;
+  }
+  .phase h3{font-size:16px; font-weight:700; margin-bottom:4px;}
+  .phase .weeks{font-size:12px; color:var(--ink-faint); font-weight:600; margin-bottom:8px;}
+  .phase ul{padding-left:18px; color:var(--ink-soft); font-size:14px;}
+  .phase ul li{margin-bottom:2px;}
+  .phase.locked{opacity:0.6;}
+  .badge{
+    display:inline-block; font-size:10.5px; font-weight:700; letter-spacing:0.04em; text-transform:uppercase;
+    padding:3px 9px; border-radius:999px; margin-left:8px; vertical-align:middle;
+  }
+  .badge.start{background:var(--teal-soft); color:var(--teal);}
+  .badge.later{background:var(--amber-soft); color:var(--amber);}
+
+  /* ---------- Tools table ---------- */
+  table{width:100%; border-collapse:collapse; font-size:14px;}
+  th{text-align:left; font-size:11.5px; text-transform:uppercase; letter-spacing:0.05em; color:var(--ink-faint); padding:0 12px 10px; font-weight:700;}
+  td{padding:13px 12px; border-top:1px solid var(--line); vertical-align:top;}
+  tr td:first-child{font-weight:600;}
+  .tag-free{color:var(--teal); background:var(--teal-soft); font-size:11px; font-weight:700; padding:3px 9px; border-radius:999px;}
+  .tag-paid{color:var(--amber); background:var(--amber-soft); font-size:11px; font-weight:700; padding:3px 9px; border-radius:999px;}
+  .tag-optional{color:var(--ink-faint); background:rgba(28,43,58,0.06); font-size:11px; font-weight:700; padding:3px 9px; border-radius:999px;}
+  .price{font-family:'JetBrains Mono',monospace; font-weight:600;}
+
+  .cost-total{
+    margin-top:18px; display:flex; justify-content:space-between; align-items:center;
+    padding:18px 22px; border-radius:16px; background:linear-gradient(120deg, var(--teal-soft), rgba(255,255,255,0.4));
+    border:1px solid rgba(31,122,99,0.18);
+  }
+  .cost-total .label{font-size:13px; color:var(--ink-soft); font-weight:600;}
+  .cost-total .value{font-family:'JetBrains Mono',monospace; font-size:22px; font-weight:700; color:var(--teal);}
+
+  /* ---------- Flow diagram ---------- */
+  .flow{display:flex; flex-wrap:wrap; gap:10px; align-items:center; justify-content:flex-start;}
+  .flow-step{
+    background:var(--glass-strong); border:1px solid var(--glass-border); border-radius:12px;
+    padding:10px 16px; font-size:13px; font-weight:600; box-shadow:0 4px 14px rgba(31,64,90,0.06);
+  }
+  .flow-arrow{color:var(--ink-faint); font-size:16px;}
+
+  /* ---------- Flags philosophy ---------- */
+  .flagrow{display:flex; flex-wrap:wrap; gap:8px; margin-top:14px;}
+  .flag{
+    font-size:12.5px; font-weight:600; padding:6px 12px; border-radius:999px;
+    border:1px solid; display:inline-flex; align-items:center; gap:6px;
+  }
+  .flag.on{background:var(--teal-soft); color:var(--teal); border-color:rgba(31,122,99,0.2);}
+  .flag.off{background:rgba(28,43,58,0.05); color:var(--ink-faint); border-color:var(--line);}
+  .vs{
+    display:grid; grid-template-columns:1fr 1fr; gap:16px; margin-top:20px;
+  }
+  @media (max-width:640px){ .vs{grid-template-columns:1fr;} }
+  .vs .box{border-radius:16px; padding:18px; border:1px solid var(--glass-border);}
+  .vs .box.bad{background:rgba(168,64,58,0.05);}
+  .vs .box.good{background:var(--teal-soft);}
+  .vs .box h4{font-size:13px; font-weight:700; margin-bottom:8px;}
+  .vs .box.bad h4{color:var(--rose);}
+  .vs .box.good h4{color:var(--teal);}
+  .vs .box .num{font-family:'JetBrains Mono',monospace; font-size:28px; font-weight:700;}
+
+  /* ---------- Mockup dashboard ---------- */
+  .mockup-frame{
+    border-radius:24px; border:1px solid var(--glass-border); box-shadow:var(--shadow);
+    background:linear-gradient(160deg, #f4f9fc, #eef6f1);
+    padding:20px; overflow:hidden;
+  }
+  .mockup-topbar{display:flex; justify-content:space-between; align-items:center; margin-bottom:16px; padding:0 4px;}
+  .mockup-topbar .title{font-family:'Sora',sans-serif; font-weight:700; font-size:15px;}
+  .mockup-topbar .sub{font-size:11.5px; color:var(--ink-faint);}
+  .mockup-tabs{display:flex; gap:6px; font-size:11.5px;}
+  .mockup-tabs span{padding:5px 11px; border-radius:8px; color:var(--ink-faint); font-weight:600;}
+  .mockup-tabs span.active{background:var(--glass-strong); color:var(--ink); box-shadow:0 2px 8px rgba(31,64,90,0.08);}
+
+  .mockup-grid{display:grid; grid-template-columns:1.3fr 1fr; gap:14px;}
+  @media (max-width:700px){ .mockup-grid{grid-template-columns:1fr;} }
+
+  .stock-row{
+    background:var(--glass-strong); border:1px solid var(--glass-border); border-radius:14px;
+    padding:12px 14px; margin-bottom:9px; display:flex; align-items:center; justify-content:space-between;
+    box-shadow:0 3px 10px rgba(31,64,90,0.05);
+  }
+  .stock-row .left{display:flex; align-items:center; gap:11px;}
+  .stock-row .rank{
+    width:26px; height:26px; border-radius:8px; background:var(--teal-soft); color:var(--teal);
+    font-family:'JetBrains Mono',monospace; font-weight:700; font-size:12px;
+    display:flex; align-items:center; justify-content:center;
+  }
+  .stock-row .name{font-weight:700; font-size:14px;}
+  .stock-row .flags-mini{font-size:11px; color:var(--ink-faint); margin-top:2px;}
+  .stock-row .price{font-size:13px; font-weight:600;}
+  .stock-row .chg{font-family:'JetBrains Mono',monospace; font-size:11.5px; font-weight:600;}
+  .chg.up{color:var(--teal);} .chg.down{color:var(--rose);}
+
+  .side-card{
+    background:var(--glass-strong); border:1px solid var(--glass-border); border-radius:14px;
+    padding:14px 16px; margin-bottom:12px; box-shadow:0 3px 10px rgba(31,64,90,0.05);
+  }
+  .side-card h5{font-size:11.5px; text-transform:uppercase; letter-spacing:0.05em; color:var(--ink-faint); margin-bottom:10px; font-weight:700;}
+  .sector-bar-row{display:flex; align-items:center; gap:8px; margin-bottom:8px; font-size:12.5px;}
+  .sector-bar-row .name{width:74px; flex-shrink:0; font-weight:600;}
+  .sector-bar-track{flex:1; height:6px; border-radius:4px; background:rgba(28,43,58,0.08); overflow:hidden;}
+  .sector-bar-fill{height:100%; border-radius:4px; background:linear-gradient(90deg, var(--teal), #4fae95);}
+  .sector-bar-fill.weak{background:linear-gradient(90deg, var(--rose), #c97a75);}
+
+  .holding-row{display:flex; justify-content:space-between; align-items:center; font-size:12.5px; padding:7px 0; border-bottom:1px solid var(--line);}
+  .holding-row:last-child{border-bottom:none;}
+  .pill-status{font-size:10px; font-weight:700; padding:2px 8px; border-radius:999px;}
+  .pill-status.ok{background:var(--teal-soft); color:var(--teal);}
+  .pill-status.watch{background:var(--amber-soft); color:var(--amber);}
+
+  .explain-box{
+    margin-top:14px; background:rgba(255,255,255,0.5); border:1px dashed var(--glass-border);
+    border-radius:12px; padding:12px 14px; font-size:12px; color:var(--ink-soft);
+  }
+  .explain-box b{color:var(--ink);}
+
+  footer{max-width:920px; margin:60px auto 0; padding:0 28px; text-align:center; color:var(--ink-faint); font-size:12.5px;}
+
+  .callout{
+    background:var(--amber-soft); border:1px solid rgba(168,104,28,0.2); border-radius:16px;
+    padding:18px 20px; font-size:14px; color:var(--ink); margin-top:22px;
+  }
+  .callout b{color:var(--amber);}
+</style>
+</head>
+<body>
+
+<nav>
+  <div class="brand"><span class="dot"></span> Stock Intelligence — Build Guide</div>
+  <ul>
+    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#cost">Cost</a></li>
+    <li><a href="#architecture">Architecture</a></li>
+    <li><a href="#philosophy">Flags vs Scores</a></li>
+    <li><a href="#preview">Preview</a></li>
+    <li><a href="#build-brief">Build Brief</a></li>
+  </ul>
+</nav>
+
+<header class="hero">
+  <div class="eyebrow">● Personal use only · not for distribution</div>
+  <h1 class="display">Your personal NSE stock intelligence dashboard</h1>
+  <p class="sub">A complete, no-surprises plan before a single line of code gets written: what gets built, in what order, what it costs, what's free, and exactly how it will look and feel on web and mobile.</p>
+  <div class="hero-question">The whole system answers one question: <span>"Out of everything I track, what deserves my attention today — and why?"</span></div>
+</header>
+
+<section id="roadmap">
+  <div class="section-tag">Build Plan</div>
+  <h2 class="display">Four phases, built in order</h2>
+  <p class="lede">Version 1 ships first and is fully usable on its own. Each later phase only starts once the one before it is live and trusted — same discipline as the bot.</p>
+  <div class="roadmap">
+    <div class="phase">
+      <div class="num">01</div>
+      <div>
+        <h3>Foundation <span class="badge start">Build first</span></h3>
+        <div class="weeks">2–3 weeks</div>
+        <ul>
+          <li>Your ~120–150 stock universe, organized by sector</li>
+          <li>Daily price/volume/delivery-% collection via Angel One SmartAPI</li>
+          <li>Technical indicators: EMA 20/50/200, RSI, MACD, ATR, VWAP, ADX, Bollinger</li>
+          <li>Portfolio page — your actual holdings, live-tracked</li>
+        </ul>
+      </div>
+    </div>
+    <div class="phase">
+      <div class="num">02</div>
+      <div>
+        <h3>Ranking & Alerts</h3>
+        <div class="weeks">2–3 weeks</div>
+        <ul>
+          <li>Sector strength — sector inherits health of its member stocks</li>
+          <li>Flag-based ranking (not a composite score — see below)</li>
+          <li>Morning and evening Telegram briefings</li>
+        </ul>
+      </div>
+    </div>
+    <div class="phase">
+      <div class="num">03</div>
+      <div>
+        <h3>AI Explanation Layer</h3>
+        <div class="weeks">3–4 weeks</div>
+        <ul>
+          <li>Claude Haiku explains why a stock ranked where it did, in plain language</li>
+          <li>Lightweight news headline summaries (context, not signal)</li>
+          <li>"Why did X fall?" / "Why is Y ranked #1?" query support</li>
+        </ul>
+      </div>
+    </div>
+    <div class="phase locked">
+      <div class="num">04</div>
+      <div>
+        <h3>Optional — later <span class="badge later">Only if needed</span></h3>
+        <div class="weeks">Not scoped yet</div>
+        <ul>
+          <li>Backtesting flag combinations against actual outcomes</li>
+          <li>Historical flag-count charts per stock</li>
+          <li>Custom flag weighting once you have real data on what matters</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class="callout"><b>Fundamentals data</b> (PE, ROE, promoter holding, etc.) isn't covered by Angel One and updates quarterly — this is resolved with a fully free stack: <b>yfinance</b> for ratios/statements and <b>NSE's own filings</b> (via nsepython/nselib) for shareholding data. No paid subscription needed. Full detail in the cost table below.</div>
+</section>
+
+<section id="cost">
+  <div class="section-tag">What You Need</div>
+  <h2 class="display">Tools & monthly cost</h2>
+  <p class="lede">Everything to build this is free. The only real cost is hosting (if you go past your bot's current slot) and, optionally, a paid fundamentals feed if you don't want to enter data by hand each quarter.</p>
+  <div class="card">
+    <table>
+      <thead>
+        <tr><th>Item</th><th>What it's for</th><th>Type</th><th style="text-align:right">Monthly</th></tr>
+      </thead>
+      <tbody>
+        <tr><td>Python + Flask</td><td>Backend & data engine</td><td><span class="tag-free">Free</span></td><td class="price" style="text-align:right">₹0</td></tr>
+        <tr><td>SQLite</td><td>Local database for stock/indicator history</td><td><span class="tag-free">Free</span></td><td class="price" style="text-align:right">₹0</td></tr>
+        <tr><td>Angel One SmartAPI</td><td>Price, volume, indicators — reuses your bot's account</td><td><span class="tag-free">Free</span></td><td class="price" style="text-align:right">₹0</td></tr>
+        <tr><td>Claude Haiku</td><td>Plain-language flag explanations</td><td><span class="tag-free">Near-free</span></td><td class="price" style="text-align:right">~₹80–150</td></tr>
+        <tr><td>Telegram Bot API</td><td>Morning/evening briefings — reuses existing bot</td><td><span class="tag-free">Free</span></td><td class="price" style="text-align:right">₹0</td></tr>
+        <tr><td>HTML/CSS (this style)</td><td>Web dashboard, mobile-responsive, no separate app needed</td><td><span class="tag-free">Free</span></td><td class="price" style="text-align:right">₹0</td></tr>
+        <tr><td>GitHub</td><td>Version control / backup</td><td><span class="tag-free">Free</span></td><td class="price" style="text-align:right">₹0</td></tr>
+        <tr><td>yfinance (Python)</td><td>PE, EPS, ROE, margins, market cap, full financial statements — via Yahoo Finance, no key needed</td><td><span class="tag-free">Free</span></td><td class="price" style="text-align:right">₹0</td></tr>
+        <tr><td>nsepython / nselib / jugaad_data</td><td>Promoter/FII/DII shareholding, quarterly results, corporate filings — straight from NSE, the primary source</td><td><span class="tag-free">Free</span></td><td class="price" style="text-align:right">₹0</td></tr>
+        <tr>
+          <td>Vultr VPS (Mumbai)</td>
+          <td>Only if this competes with the bot for your one PythonAnywhere always-on slot</td>
+          <td><span class="tag-optional">Optional</span></td>
+          <td class="price" style="text-align:right">~₹500–1,000</td>
+        </tr>
+        <tr>
+          <td>Screener.in Premium</td>
+          <td>Not used — free tier's "Download Results" is disabled, and the ₹4,999/yr plan isn't needed since yfinance + NSE filings cover the same fields</td>
+          <td><span class="tag-optional">Not used</span></td>
+          <td class="price" style="text-align:right">₹0</td>
+        </tr>
+      </tbody>
+    </table>
+    <div class="cost-total">
+      <div class="label">Minimum viable build (fully free data stack, existing hosting)</div>
+      <div class="value">≈ ₹80–150 / mo</div>
+    </div>
+    <div class="cost-total" style="margin-top:10px; background:linear-gradient(120deg, var(--amber-soft), rgba(255,255,255,0.4)); border-color:rgba(168,104,28,0.2);">
+      <div class="label">If a separate VPS is needed for hosting</div>
+      <div class="value" style="color:var(--amber);">≈ ₹580–1,150 / mo</div>
+    </div>
+  </div>
+  <div class="callout" style="margin-top:16px;">
+    <b>What you lose going free:</b> Screener.in pre-computes clean multi-year growth trends (5/7/10yr) and ROCE directly. With yfinance + NSE filings, ROCE and growth trends are computed from raw financial statements instead of pulled pre-built — a bit more one-time code, no ongoing cost, and it fits the "understand the why" approach behind this whole project.
+  </div>
+</section>
+
+<section id="architecture">
+  <div class="section-tag">How It's Wired</div>
+  <h2 class="display">Data flow</h2>
+  <p class="lede">Same shape ChatGPT proposed — this is the part of the plan that was already solid. Data source for each stage is named below it.</p>
+  <div class="card">
+    <div class="flow">
+      <div class="flow-step">Market Data<br><span style="font-weight:400;color:var(--ink-faint);font-size:11px;">Angel One SmartAPI</span></div><div class="flow-arrow">→</div>
+      <div class="flow-step">SQLite</div><div class="flow-arrow">→</div>
+      <div class="flow-step">Technical Engine<br><span style="font-weight:400;color:var(--ink-faint);font-size:11px;">computed from OHLCV</span></div><div class="flow-arrow">→</div>
+      <div class="flow-step">Fundamental Engine<br><span style="font-weight:400;color:var(--ink-faint);font-size:11px;">yfinance + NSE filings</span></div><div class="flow-arrow">→</div>
+      <div class="flow-step">Sector Engine</div><div class="flow-arrow">→</div>
+      <div class="flow-step">Flag Engine<br><span style="font-weight:400;color:var(--ink-faint);font-size:11px;">no composite score</span></div><div class="flow-arrow">→</div>
+      <div class="flow-step">Claude Haiku Explanation</div><div class="flow-arrow">→</div>
+      <div class="flow-step">Dashboard + Telegram</div>
+    </div>
+  </div>
+</section>
+
+<section id="build-brief">
+  <div class="section-tag">Reference — For Claude</div>
+  <h2 class="display">Build brief</h2>
+  <p class="lede">Finalized decisions from planning. If work on this project resumes from this file alone, build against the spec below rather than re-deriving it.</p>
+  <div class="card">
+    <table>
+      <tbody>
+        <tr><td>Scope</td><td colspan="3">Personal use only — one user, no distribution, no SEBI research-analyst exposure. Not a friends-facing tool.</td></tr>
+        <tr><td>Build order</td><td colspan="3">Phase 1 (Foundation) first and fully usable standalone. Do not start Phase 2 until Phase 1 is running and trusted. Do not start this project's Phase 1 until bot_v26 paper-trading has produced a clean dataset — these are separate systems, but only one gets active build attention at a time.</td></tr>
+        <tr><td>Ranking method</td><td colspan="3"><b>Flag count, never a composite score.</b> Rank by number of bullish conditions matched (e.g. 6/8), tie-break on rarer/higher-signal flags (sector strength &gt; a single EMA cross). No weighted 0–100 number anywhere in the system.</td></tr>
+        <tr><td>Market data source</td><td colspan="3">Angel One SmartAPI — reuse the existing bot's account and auth (getMarketData bulk endpoint, not ltpData for options; for equities ltp/OHLCV is fine).</td></tr>
+        <tr><td>Fundamentals source</td><td colspan="3"><code>yfinance</code> (PE, EPS, ROE, margins, market cap, raw statements — ROCE and multi-year growth computed from statements, not pulled pre-built) + <code>nsepython</code>/<code>nselib</code>/<code>jugaad_data</code> (promoter/FII/DII shareholding, quarterly filings, direct from NSE). No Screener.in dependency, no paid data feed.</td></tr>
+        <tr><td>AI role</td><td colspan="3">Claude Haiku explains flags already computed in code — it never invents a signal, score, or verdict. Cost-optimized, same model tier as the bot's scan calls.</td></tr>
+        <tr><td>Delivery</td><td colspan="3">Responsive single web dashboard (mobile + desktop from one build, no native app) + Telegram morning/evening briefings, reusing the bot's existing Telegram bot infrastructure where possible.</td></tr>
+        <tr><td>Hosting</td><td colspan="3">Default: existing PythonAnywhere account. Flag if this needs its own always-on slot alongside the bot — Vultr Mumbai VPS is the fallback, not the default.</td></tr>
+        <tr><td>Visual style</td><td colspan="3">Light background only, no dark mode anywhere. Glassmorphism: translucent white cards, backdrop blur, soft shadows, cool light-blue/mint gradient background. Teal = bullish/positive, amber = caution, rose = bearish — never used for anything but flag/status color, not decoration.</td></tr>
+        <tr><td>Logging discipline</td><td colspan="3">Carry over the bot's hard-won principle: every skip/rejection/fallback path must emit an explicit log line. No silent failures, no fake fallback values standing in for missing data.</td></tr>
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<section id="philosophy">
+  <div class="section-tag">The One Change From ChatGPT's Plan</div>
+  <h2 class="display">Flags, not a composite score</h2>
+  <p class="lede">A single number like "95" hides its own reasoning and implies precision that isn't there. Flags keep every ranking explainable at a glance — and match what you'd already decided on for this project.</p>
+  <div class="vs">
+    <div class="box bad">
+      <h4>Composite score (not doing this)</h4>
+      <div class="num">95</div>
+      <div style="font-size:12.5px;color:var(--ink-faint);margin-top:6px;">Fundamental +24, Technical +23, Sector +15 … why these weights?</div>
+    </div>
+    <div class="box good">
+      <h4>Flag count (what we're building)</h4>
+      <div class="num">6<span style="font-size:15px;color:var(--ink-faint);"> / 8</span></div>
+      <div class="flagrow">
+        <span class="flag on">✓ Above EMA20</span>
+        <span class="flag on">✓ Sector strong</span>
+        <span class="flag on">✓ Volume 1.8×</span>
+        <span class="flag off">MACD cross</span>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="preview">
+  <div class="section-tag">How It Will Look</div>
+  <h2 class="display">Live preview — web & mobile, same layout</h2>
+  <p class="lede">Responsive by default: this exact screen resizes down to your phone, so no separate mobile app is needed.</p>
+
+  <div class="mockup-frame">
+    <div class="mockup-topbar">
+      <div>
+        <div class="title">Good morning, Subramanya</div>
+        <div class="sub">Wed, 8 Jul · Mood: constructive · Strongest sector: Defence</div>
+      </div>
+      <div class="mockup-tabs">
+        <span class="active">Watchlist</span><span>Portfolio</span><span>Sectors</span><span>News</span>
+      </div>
+    </div>
+
+    <div class="mockup-grid">
+      <div>
+        <div class="stock-row">
+          <div class="left">
+            <div class="rank">1</div>
+            <div>
+              <div class="name">BEL</div>
+              <div class="flags-mini">6/8 flags · sector strong · vol 1.8×</div>
+            </div>
+          </div>
+          <div style="text-align:right">
+            <div class="price">₹312.40</div>
+            <div class="chg up">▲ 2.14%</div>
+          </div>
+        </div>
+        <div class="stock-row">
+          <div class="left">
+            <div class="rank">2</div>
+            <div>
+              <div class="name">HAL</div>
+              <div class="flags-mini">6/8 flags · near 52w high</div>
+            </div>
+          </div>
+          <div style="text-align:right">
+            <div class="price">₹4,821</div>
+            <div class="chg up">▲ 1.62%</div>
+          </div>
+        </div>
+        <div class="stock-row">
+          <div class="left">
+            <div class="rank">3</div>
+            <div>
+              <div class="name">ICICI Bank</div>
+              <div class="flags-mini">5/8 flags · above EMA50</div>
+            </div>
+          </div>
+          <div style="text-align:right">
+            <div class="price">₹1,247</div>
+            <div class="chg up">▲ 0.88%</div>
+          </div>
+        </div>
+        <div class="stock-row">
+          <div class="left">
+            <div class="rank">4</div>
+            <div>
+              <div class="name">Suzlon</div>
+              <div class="flags-mini">2/8 flags · sector weak</div>
+            </div>
+          </div>
+          <div style="text-align:right">
+            <div class="price">₹61.20</div>
+            <div class="chg down">▼ 1.05%</div>
+          </div>
+        </div>
+
+        <div class="explain-box">
+          <b>Why is BEL ranked #1?</b> Trading above its 20 and 50-day average, on 1.8× normal volume, with Defence the strongest sector today. Missing: MACD hasn't crossed yet.
+        </div>
+      </div>
+
+      <div>
+        <div class="side-card">
+          <h5>Sector Strength</h5>
+          <div class="sector-bar-row"><span class="name">Defence</span><div class="sector-bar-track"><div class="sector-bar-fill" style="width:88%"></div></div></div>
+          <div class="sector-bar-row"><span class="name">Power</span><div class="sector-bar-track"><div class="sector-bar-fill" style="width:74%"></div></div></div>
+          <div class="sector-bar-row"><span class="name">Banking</span><div class="sector-bar-track"><div class="sector-bar-fill" style="width:58%"></div></div></div>
+          <div class="sector-bar-row"><span class="name">Real Estate</span><div class="sector-bar-track"><div class="sector-bar-fill weak" style="width:29%"></div></div></div>
+        </div>
+        <div class="side-card">
+          <h5>Your Portfolio</h5>
+          <div class="holding-row"><span>BEL</span><span class="pill-status ok">Improving</span></div>
+          <div class="holding-row"><span>Reliance</span><span class="pill-status ok">Steady</span></div>
+          <div class="holding-row"><span>Suzlon</span><span class="pill-status watch">Review</span></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<footer>
+  Built for personal use only · not a recommendation service · you make every decision
+</footer>
+
+</body>
+</html>

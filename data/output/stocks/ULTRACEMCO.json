@@ -1,0 +1,61 @@
+{
+  "symbol": "ULTRACEMCO",
+  "name": "UltraTech Cement",
+  "sector": "Cement",
+  "indicators": {
+    "date": "2026-07-08",
+    "close": 11353.0,
+    "prev_close": 11649.0,
+    "change_pct": -2.5409906429736457,
+    "ema20": 11429.636827399427,
+    "ema50": 11460.940046542422,
+    "ema200": 11749.025787768933,
+    "rsi14": 47.86243572630019,
+    "macd": 49.80224695068864,
+    "macd_signal": 20.457728713698625,
+    "atr14": 211.35219761583588,
+    "adx14": 13.251005485495726,
+    "adx_pos": 24.70586955112705,
+    "adx_neg": 28.09136636713895,
+    "bb_high": 11815.103076001542,
+    "bb_low": 10928.396923998458,
+    "bb_mid": 11371.75,
+    "vwap20": 11337.813575656046
+  },
+  "flags": {
+    "flags": {
+      "price_above_ema20": false,
+      "ema20_above_ema50": false,
+      "ema50_above_ema200": false,
+      "rsi_above_50": false,
+      "macd_bullish": true,
+      "adx_trending_up": false,
+      "price_above_vwap20": true,
+      "price_above_bb_mid": false
+    },
+    "flags_on": [
+      "macd_bullish",
+      "price_above_vwap20"
+    ],
+    "flag_count": 2,
+    "flag_total": 8
+  },
+  "fundamentals": {
+    "pe_trailing": 40.9486,
+    "pe_forward": 25.933655,
+    "eps_trailing": 277.25,
+    "eps_forward": 437.77094,
+    "roe": 0.10593,
+    "profit_margin": 0.092259996,
+    "gross_margin": 0.5844,
+    "operating_margin": 0.17024,
+    "market_cap": 3339707744256,
+    "current_price": 11353.0,
+    "sector": "Basic Materials",
+    "name": "UltraTech Cement Limited",
+    "roce": 0.1190104361595937,
+    "revenue_growth_yoy": 0.16531338962885062
+  },
+  "shareholding": null,
+  "updated_at": "2026-07-08T16:40:35.195249+00:00"
+}

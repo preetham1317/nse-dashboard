@@ -1,0 +1,61 @@
+{
+  "symbol": "NTPC",
+  "name": "NTPC Ltd",
+  "sector": "Power",
+  "indicators": {
+    "date": "2026-07-08",
+    "close": 348.7,
+    "prev_close": 354.2,
+    "change_pct": -1.5527950310559007,
+    "ema20": 359.1163132995373,
+    "ema50": 367.87204857074454,
+    "ema200": 362.53894617377154,
+    "rsi14": 34.07975457411035,
+    "macd": -5.319986202883513,
+    "macd_signal": -5.721193560002691,
+    "atr14": 7.120020707783785,
+    "adx14": 27.196344903388397,
+    "adx_pos": 11.477041673233792,
+    "adx_neg": 26.58269484941091,
+    "bb_high": 366.5683298915138,
+    "bb_low": 346.3916701084862,
+    "bb_mid": 356.48,
+    "vwap20": 356.33448059534896
+  },
+  "flags": {
+    "flags": {
+      "price_above_ema20": false,
+      "ema20_above_ema50": false,
+      "ema50_above_ema200": true,
+      "rsi_above_50": false,
+      "macd_bullish": true,
+      "adx_trending_up": false,
+      "price_above_vwap20": false,
+      "price_above_bb_mid": false
+    },
+    "flags_on": [
+      "ema50_above_ema200",
+      "macd_bullish"
+    ],
+    "flag_count": 2,
+    "flag_total": 8
+  },
+  "fundamentals": {
+    "pe_trailing": 11.459086,
+    "pe_forward": 12.3123665,
+    "eps_trailing": 30.43,
+    "eps_forward": 28.32112,
+    "roe": 0.13695,
+    "profit_margin": 0.14437,
+    "gross_margin": 0.47572,
+    "operating_margin": 0.18428,
+    "market_cap": 3381227683840,
+    "current_price": 348.7,
+    "sector": "Utilities",
+    "name": "NTPC Limited",
+    "roce": 0.09271234696821457,
+    "revenue_growth_yoy": -0.004004665509998349
+  },
+  "shareholding": null,
+  "updated_at": "2026-07-08T16:40:22.048189+00:00"
+}

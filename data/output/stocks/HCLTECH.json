@@ -1,0 +1,65 @@
+{
+  "symbol": "HCLTECH",
+  "name": "HCL Technologies",
+  "sector": "IT",
+  "indicators": {
+    "date": "2026-07-08",
+    "close": 1145.6,
+    "prev_close": 1168.2,
+    "change_pct": -1.934600239684997,
+    "ema20": 1128.3308024064079,
+    "ema50": 1177.4634837596461,
+    "ema200": 1364.2931357418029,
+    "rsi14": 51.54998221564726,
+    "macd": -11.767008297996199,
+    "macd_signal": -20.53881382429945,
+    "atr14": 36.26514717196055,
+    "adx14": 20.000592564795813,
+    "adx_pos": 28.500672856360787,
+    "adx_neg": 25.15844073219256,
+    "bb_high": 1187.0372794781201,
+    "bb_low": 1054.82272052188,
+    "bb_mid": 1120.93,
+    "vwap20": 1122.6308150692907
+  },
+  "flags": {
+    "flags": {
+      "price_above_ema20": true,
+      "ema20_above_ema50": false,
+      "ema50_above_ema200": false,
+      "rsi_above_50": true,
+      "macd_bullish": true,
+      "adx_trending_up": true,
+      "price_above_vwap20": true,
+      "price_above_bb_mid": true
+    },
+    "flags_on": [
+      "price_above_ema20",
+      "rsi_above_50",
+      "macd_bullish",
+      "adx_trending_up",
+      "price_above_vwap20",
+      "price_above_bb_mid"
+    ],
+    "flag_count": 6,
+    "flag_total": 8
+  },
+  "fundamentals": {
+    "pe_trailing": 18.679276,
+    "pe_forward": 14.301877,
+    "eps_trailing": 61.33,
+    "eps_forward": 80.10137,
+    "roe": 0.23357001,
+    "profit_margin": 0.128,
+    "gross_margin": 0.34077,
+    "operating_margin": 0.16486,
+    "market_cap": 3099726184448,
+    "current_price": 1145.6,
+    "sector": "Technology",
+    "name": "HCL Technologies Limited",
+    "roce": 0.27206509380329735,
+    "revenue_growth_yoy": 0.11181923027636581
+  },
+  "shareholding": null,
+  "updated_at": "2026-07-08T16:40:05.706319+00:00"
+}

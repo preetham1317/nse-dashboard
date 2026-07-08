@@ -1,0 +1,60 @@
+{
+  "symbol": "RELIANCE",
+  "name": "Reliance Industries",
+  "sector": "Energy",
+  "indicators": {
+    "date": "2026-07-08",
+    "close": 1275.9,
+    "prev_close": 1308.4,
+    "change_pct": -2.483949862427392,
+    "ema20": 1308.1147544700439,
+    "ema50": 1328.6120951365294,
+    "ema200": 1381.0960111048369,
+    "rsi14": 39.35147833522143,
+    "macd": -7.786213702311443,
+    "macd_signal": -8.004680222940594,
+    "atr14": 24.494768536893368,
+    "adx14": 14.3787773696516,
+    "adx_pos": 16.827409391294896,
+    "adx_neg": 26.327141641805003,
+    "bb_high": 1345.0710893425703,
+    "bb_low": 1265.3889106574297,
+    "bb_mid": 1305.23,
+    "vwap20": 1305.7209810015668
+  },
+  "flags": {
+    "flags": {
+      "price_above_ema20": false,
+      "ema20_above_ema50": false,
+      "ema50_above_ema200": false,
+      "rsi_above_50": false,
+      "macd_bullish": true,
+      "adx_trending_up": false,
+      "price_above_vwap20": false,
+      "price_above_bb_mid": false
+    },
+    "flags_on": [
+      "macd_bullish"
+    ],
+    "flag_count": 1,
+    "flag_total": 8
+  },
+  "fundamentals": {
+    "pe_trailing": 21.386189,
+    "pe_forward": 17.777842,
+    "eps_trailing": 59.66,
+    "eps_forward": 71.76912,
+    "roe": 0.09139,
+    "profit_margin": 0.0764,
+    "gross_margin": 0.34861,
+    "operating_margin": 0.099750005,
+    "market_cap": 17266082054144,
+    "current_price": 1275.9,
+    "sector": "Energy",
+    "name": "Reliance Industries Limited",
+    "roce": 0.08993784539668614,
+    "revenue_growth_yoy": 0.09591237834212542
+  },
+  "shareholding": null,
+  "updated_at": "2026-07-08T16:40:24.670332+00:00"
+}

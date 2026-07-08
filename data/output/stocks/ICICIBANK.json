@@ -1,0 +1,66 @@
+{
+  "symbol": "ICICIBANK",
+  "name": "ICICI Bank",
+  "sector": "Banking",
+  "indicators": {
+    "date": "2026-07-08",
+    "close": 1380.6,
+    "prev_close": 1414.7,
+    "change_pct": -2.410405032869169,
+    "ema20": 1363.937023325726,
+    "ema50": 1328.9035014949827,
+    "ema200": 1340.335803472111,
+    "rsi14": 57.962583580306756,
+    "macd": 31.361057044074414,
+    "macd_signal": 29.282343337728566,
+    "atr14": 26.44380009644789,
+    "adx14": 33.072999437260385,
+    "adx_pos": 29.963599287062003,
+    "adx_neg": 19.953198507855166,
+    "bb_high": 1432.867762402892,
+    "bb_low": 1293.7922375971084,
+    "bb_mid": 1363.3300000000002,
+    "vwap20": 1357.9240616797522
+  },
+  "flags": {
+    "flags": {
+      "price_above_ema20": true,
+      "ema20_above_ema50": true,
+      "ema50_above_ema200": false,
+      "rsi_above_50": true,
+      "macd_bullish": true,
+      "adx_trending_up": true,
+      "price_above_vwap20": true,
+      "price_above_bb_mid": true
+    },
+    "flags_on": [
+      "price_above_ema20",
+      "ema20_above_ema50",
+      "rsi_above_50",
+      "macd_bullish",
+      "adx_trending_up",
+      "price_above_vwap20",
+      "price_above_bb_mid"
+    ],
+    "flag_count": 7,
+    "flag_total": 8
+  },
+  "fundamentals": {
+    "pe_trailing": 18.447355,
+    "pe_forward": 15.202239,
+    "eps_trailing": 74.84,
+    "eps_forward": 90.81557,
+    "roe": 0.16359,
+    "profit_margin": 0.24929,
+    "gross_margin": 0.0,
+    "operating_margin": 0.33293998,
+    "market_cap": 9902875475968,
+    "current_price": 1380.6,
+    "sector": "Financial Services",
+    "name": "ICICI Bank Limited",
+    "roce": null,
+    "revenue_growth_yoy": 0.08528191549990273
+  },
+  "shareholding": null,
+  "updated_at": "2026-07-08T16:40:11.290335+00:00"
+}

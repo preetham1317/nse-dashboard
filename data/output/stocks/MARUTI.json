@@ -1,0 +1,66 @@
+{
+  "symbol": "MARUTI",
+  "name": "Maruti Suzuki",
+  "sector": "Auto",
+  "indicators": {
+    "date": "2026-07-08",
+    "close": 13951.0,
+    "prev_close": 14538.0,
+    "change_pct": -4.037694318338148,
+    "ema20": 13840.665610519454,
+    "ema50": 13604.471339403164,
+    "ema200": 13977.709243814697,
+    "rsi14": 54.19534290139567,
+    "macd": 283.8320105077655,
+    "macd_signal": 222.67939080071375,
+    "atr14": 343.6997968337033,
+    "adx14": 24.003939097500727,
+    "adx_pos": 26.025626806768503,
+    "adx_neg": 20.580899746772225,
+    "bb_high": 14672.284044720656,
+    "bb_low": 12826.515955279343,
+    "bb_mid": 13749.4,
+    "vwap20": 13805.44245639039
+  },
+  "flags": {
+    "flags": {
+      "price_above_ema20": true,
+      "ema20_above_ema50": true,
+      "ema50_above_ema200": false,
+      "rsi_above_50": true,
+      "macd_bullish": true,
+      "adx_trending_up": true,
+      "price_above_vwap20": true,
+      "price_above_bb_mid": true
+    },
+    "flags_on": [
+      "price_above_ema20",
+      "ema20_above_ema50",
+      "rsi_above_50",
+      "macd_bullish",
+      "adx_trending_up",
+      "price_above_vwap20",
+      "price_above_bb_mid"
+    ],
+    "flag_count": 7,
+    "flag_total": 8
+  },
+  "fundamentals": {
+    "pe_trailing": 29.894785,
+    "pe_forward": 22.479586,
+    "eps_trailing": 466.67,
+    "eps_forward": 620.60754,
+    "roe": 0.14434,
+    "profit_margin": 0.08008,
+    "gross_margin": 0.27837,
+    "operating_margin": 0.08406,
+    "market_cap": 4386230108160,
+    "current_price": 13951.0,
+    "sector": "Consumer Cyclical",
+    "name": "Maruti Suzuki India Limited",
+    "roce": 0.1722158561149031,
+    "revenue_growth_yoy": 0.1978969895507042
+  },
+  "shareholding": null,
+  "updated_at": "2026-07-08T16:40:19.064940+00:00"
+}

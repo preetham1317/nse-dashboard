@@ -1,0 +1,32 @@
+{
+  "holdings": [
+    {
+      "symbol": "RELIANCE",
+      "quantity": 10,
+      "buy_price": 1250.0,
+      "buy_date": "2026-01-15",
+      "current_price": 1275.9,
+      "pnl": 259.0000000000009,
+      "pnl_pct": 2.072000000000007,
+      "flags": {
+        "flags": {
+          "price_above_ema20": false,
+          "ema20_above_ema50": false,
+          "ema50_above_ema200": false,
+          "rsi_above_50": false,
+          "macd_bullish": true,
+          "adx_trending_up": false,
+          "price_above_vwap20": false,
+          "price_above_bb_mid": false
+        },
+        "flags_on": [
+          "macd_bullish"
+        ],
+        "flag_count": 1,
+        "flag_total": 8
+      },
+      "sector": "Energy"
+    }
+  ],
+  "updated_at": "2026-07-08T16:40:36.821366+00:00"
+}

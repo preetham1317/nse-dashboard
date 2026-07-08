@@ -1,0 +1,58 @@
+{
+  "symbol": "ITC",
+  "name": "ITC Ltd",
+  "sector": "FMCG",
+  "indicators": {
+    "date": "2026-07-08",
+    "close": 280.65,
+    "prev_close": 288.75,
+    "change_pct": -2.805194805194813,
+    "ema20": 288.810989428448,
+    "ema50": 294.0255969050537,
+    "ema200": 333.4091817545403,
+    "rsi14": 34.62963218453956,
+    "macd": -1.7189424739966626,
+    "macd_signal": -1.6421491211995674,
+    "atr14": 4.52522464708242,
+    "adx14": 16.018000716244735,
+    "adx_pos": 12.573030031201748,
+    "adx_neg": 27.957010599980237,
+    "bb_high": 294.96684548521904,
+    "bb_low": 282.2481545147809,
+    "bb_mid": 288.60749999999996,
+    "vwap20": 288.06116349616633
+  },
+  "flags": {
+    "flags": {
+      "price_above_ema20": false,
+      "ema20_above_ema50": false,
+      "ema50_above_ema200": false,
+      "rsi_above_50": false,
+      "macd_bullish": false,
+      "adx_trending_up": false,
+      "price_above_vwap20": false,
+      "price_above_bb_mid": false
+    },
+    "flags_on": [],
+    "flag_count": 0,
+    "flag_total": 8
+  },
+  "fundamentals": {
+    "pe_trailing": 16.988499,
+    "pe_forward": 15.903507,
+    "eps_trailing": 16.52,
+    "eps_forward": 17.64705,
+    "roe": 0.2934,
+    "profit_margin": 0.26233,
+    "gross_margin": 0.57845,
+    "operating_margin": 0.36413,
+    "market_cap": 3516395159552,
+    "current_price": 280.65,
+    "sector": "Consumer Defensive",
+    "name": "ITC Limited",
+    "roce": 0.36467829434391574,
+    "revenue_growth_yoy": 0.047686559686829735
+  },
+  "shareholding": null,
+  "updated_at": "2026-07-08T16:40:14.441709+00:00"
+}

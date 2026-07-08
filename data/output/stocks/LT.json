@@ -1,0 +1,61 @@
+{
+  "symbol": "LT",
+  "name": "Larsen & Toubro",
+  "sector": "Infrastructure",
+  "indicators": {
+    "date": "2026-07-08",
+    "close": 3892.1,
+    "prev_close": 3991.9,
+    "change_pct": -2.5000626268193136,
+    "ema20": 4062.5597442953494,
+    "ema50": 4029.125804264738,
+    "ema200": 3905.989983292701,
+    "rsi14": 34.65371486400507,
+    "macd": -4.7464111495201,
+    "macd_signal": 27.115686028029604,
+    "atr14": 79.61061178127105,
+    "adx14": 17.93736512405663,
+    "adx_pos": 18.301122187340248,
+    "adx_neg": 32.60575143125522,
+    "bb_high": 4320.476173636867,
+    "bb_low": 3877.833826363132,
+    "bb_mid": 4099.155,
+    "vwap20": 4103.0868028799
+  },
+  "flags": {
+    "flags": {
+      "price_above_ema20": false,
+      "ema20_above_ema50": true,
+      "ema50_above_ema200": true,
+      "rsi_above_50": false,
+      "macd_bullish": false,
+      "adx_trending_up": false,
+      "price_above_vwap20": false,
+      "price_above_bb_mid": false
+    },
+    "flags_on": [
+      "ema20_above_ema50",
+      "ema50_above_ema200"
+    ],
+    "flag_count": 2,
+    "flag_total": 8
+  },
+  "fundamentals": {
+    "pe_trailing": 33.27719,
+    "pe_forward": 21.20628,
+    "eps_trailing": 116.96,
+    "eps_forward": 183.53526,
+    "roe": 0.16951999,
+    "profit_margin": 0.05515,
+    "gross_margin": 0.36905998,
+    "operating_margin": 0.10707,
+    "market_cap": 5354475749376,
+    "current_price": 3892.1,
+    "sector": "Industrials",
+    "name": "Larsen & Toubro Limited",
+    "roce": 0.1455308512591897,
+    "revenue_growth_yoy": 0.11807835807318122
+  },
+  "shareholding": null,
+  "updated_at": "2026-07-08T16:40:17.578749+00:00"
+}

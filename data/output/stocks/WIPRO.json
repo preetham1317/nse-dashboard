@@ -1,0 +1,60 @@
+{
+  "symbol": "WIPRO",
+  "name": "Wipro",
+  "sector": "IT",
+  "indicators": {
+    "date": "2026-07-08",
+    "close": 172.72,
+    "prev_close": 173.0,
+    "change_pct": -0.16184971098265963,
+    "ema20": 178.3242030233168,
+    "ema50": 187.30665156191768,
+    "ema200": 214.24165187279905,
+    "rsi14": 35.74114574978846,
+    "macd": -5.195346949699342,
+    "macd_signal": -5.500283146061357,
+    "atr14": 4.34481930849926,
+    "adx14": 31.18632300521156,
+    "adx_pos": 18.64417974180108,
+    "adx_neg": 34.88744696424993,
+    "bb_high": 185.19755179290772,
+    "bb_low": 168.68944820709234,
+    "bb_mid": 176.94350000000003,
+    "vwap20": 176.06081930168835
+  },
+  "flags": {
+    "flags": {
+      "price_above_ema20": false,
+      "ema20_above_ema50": false,
+      "ema50_above_ema200": false,
+      "rsi_above_50": false,
+      "macd_bullish": true,
+      "adx_trending_up": false,
+      "price_above_vwap20": false,
+      "price_above_bb_mid": false
+    },
+    "flags_on": [
+      "macd_bullish"
+    ],
+    "flag_count": 1,
+    "flag_total": 8
+  },
+  "fundamentals": {
+    "pe_trailing": 13.751592,
+    "pe_forward": 12.045218,
+    "eps_trailing": 12.56,
+    "eps_forward": 14.3393,
+    "roe": 0.15439999,
+    "profit_margin": 0.14248,
+    "gross_margin": 0.29155,
+    "operating_margin": 0.1718,
+    "market_cap": 1708484853760,
+    "current_price": 172.72,
+    "sector": "Technology",
+    "name": "Wipro Limited",
+    "roce": 0.17847012391366396,
+    "revenue_growth_yoy": 0.039686423821732125
+  },
+  "shareholding": null,
+  "updated_at": "2026-07-08T16:40:36.820585+00:00"
+}

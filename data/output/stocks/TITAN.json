@@ -1,0 +1,66 @@
+{
+  "symbol": "TITAN",
+  "name": "Titan Company",
+  "sector": "Consumer Durables",
+  "indicators": {
+    "date": "2026-07-08",
+    "close": 4586.4,
+    "prev_close": 4604.2,
+    "change_pct": -0.38660353590200647,
+    "ema20": 4383.66591804275,
+    "ema50": 4298.919700097351,
+    "ema200": 4064.265082013262,
+    "rsi14": 67.23715111876328,
+    "macd": 86.9526386896514,
+    "macd_signal": 60.574867348739645,
+    "atr14": 98.44316366551345,
+    "adx14": 19.581707275902836,
+    "adx_pos": 34.74884399800478,
+    "adx_neg": 13.805352726631748,
+    "bb_high": 4644.047159505892,
+    "bb_low": 4061.0528404941088,
+    "bb_mid": 4352.55,
+    "vwap20": 4383.334429824176
+  },
+  "flags": {
+    "flags": {
+      "price_above_ema20": true,
+      "ema20_above_ema50": true,
+      "ema50_above_ema200": true,
+      "rsi_above_50": true,
+      "macd_bullish": true,
+      "adx_trending_up": false,
+      "price_above_vwap20": true,
+      "price_above_bb_mid": true
+    },
+    "flags_on": [
+      "price_above_ema20",
+      "ema20_above_ema50",
+      "ema50_above_ema200",
+      "rsi_above_50",
+      "macd_bullish",
+      "price_above_vwap20",
+      "price_above_bb_mid"
+    ],
+    "flag_count": 7,
+    "flag_total": 8
+  },
+  "fundamentals": {
+    "pe_trailing": 80.33631,
+    "pe_forward": 53.763615,
+    "eps_trailing": 57.09,
+    "eps_forward": 85.30676,
+    "roe": 0.37127998,
+    "profit_margin": 0.057919998,
+    "gross_margin": 0.19669001,
+    "operating_margin": 0.06356,
+    "market_cap": 4068344332288,
+    "current_price": 4586.4,
+    "sector": "Consumer Cyclical",
+    "name": "Titan Company Limited",
+    "roce": 0.38429314329738057,
+    "revenue_growth_yoy": 0.4478921357258947
+  },
+  "shareholding": null,
+  "updated_at": "2026-07-08T16:40:32.442091+00:00"
+}

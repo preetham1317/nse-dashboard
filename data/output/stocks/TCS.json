@@ -1,0 +1,60 @@
+{
+  "symbol": "TCS",
+  "name": "Tata Consultancy Services",
+  "sector": "IT",
+  "indicators": {
+    "date": "2026-07-08",
+    "close": 2057.5,
+    "prev_close": 2096.1,
+    "change_pct": -1.8415151948857358,
+    "ema20": 2115.7782319526477,
+    "ema50": 2233.6781890592624,
+    "ema200": 2652.3104115787296,
+    "rsi14": 41.33094407771733,
+    "macd": -54.26640866385833,
+    "macd_signal": -59.39488248891415,
+    "atr14": 62.968573325315845,
+    "adx14": 24.14137813581527,
+    "adx_pos": 19.484070108970677,
+    "adx_neg": 29.64541105681902,
+    "bb_high": 2230.973124250191,
+    "bb_low": 1992.936875749809,
+    "bb_mid": 2111.955,
+    "vwap20": 2104.3984027149386
+  },
+  "flags": {
+    "flags": {
+      "price_above_ema20": false,
+      "ema20_above_ema50": false,
+      "ema50_above_ema200": false,
+      "rsi_above_50": false,
+      "macd_bullish": true,
+      "adx_trending_up": false,
+      "price_above_vwap20": false,
+      "price_above_bb_mid": false
+    },
+    "flags_on": [
+      "macd_bullish"
+    ],
+    "flag_count": 1,
+    "flag_total": 8
+  },
+  "fundamentals": {
+    "pe_trailing": 15.1242285,
+    "pe_forward": 12.559977,
+    "eps_trailing": 136.04,
+    "eps_forward": 163.814,
+    "roe": 0.48395002,
+    "profit_margin": 0.18429,
+    "gross_margin": 0.40307,
+    "operating_margin": 0.25288,
+    "market_cap": 7444214841344,
+    "current_price": 2057.5,
+    "sector": "Technology",
+    "name": "Tata Consultancy Services Limited",
+    "roce": 0.5492762930395693,
+    "revenue_growth_yoy": 0.04581237956478827
+  },
+  "shareholding": null,
+  "updated_at": "2026-07-08T16:40:30.985356+00:00"
+}
