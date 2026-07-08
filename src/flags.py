@@ -13,10 +13,17 @@ FLAG_DEFINITIONS = [
 ]
 
 
+def _fmt(value: float) -> str:
+    return f"{value:,.2f}"
+
+
 def evaluate_flags(snapshot: dict) -> dict:
     """Takes a latest-indicator snapshot (see indicators.latest_indicator_snapshot) and
     returns which of the fixed 8 flags fired, plus the count. Never collapse this into
     a single weighted score.
+
+    Also returns a human-readable "detail" string per flag (the exact numeric comparison)
+    so the dashboard can show why a flag fired without duplicating this logic in JS.
     """
     close = snapshot["close"]
 
@@ -31,9 +38,24 @@ def evaluate_flags(snapshot: dict) -> dict:
         "price_above_bb_mid": close > snapshot["bb_mid"],
     }
 
+    detail = {
+        "price_above_ema20": f"Close {_fmt(close)} vs EMA20 {_fmt(snapshot['ema20'])}",
+        "ema20_above_ema50": f"EMA20 {_fmt(snapshot['ema20'])} vs EMA50 {_fmt(snapshot['ema50'])}",
+        "ema50_above_ema200": f"EMA50 {_fmt(snapshot['ema50'])} vs EMA200 {_fmt(snapshot['ema200'])}",
+        "rsi_above_50": f"RSI(14) {_fmt(snapshot['rsi14'])} vs 50",
+        "macd_bullish": f"MACD {_fmt(snapshot['macd'])} vs signal {_fmt(snapshot['macd_signal'])}",
+        "adx_trending_up": (
+            f"ADX(14) {_fmt(snapshot['adx14'])} vs 20, +DI {_fmt(snapshot['adx_pos'])} "
+            f"vs -DI {_fmt(snapshot['adx_neg'])}"
+        ),
+        "price_above_vwap20": f"Close {_fmt(close)} vs 20d VWAP {_fmt(snapshot['vwap20'])}",
+        "price_above_bb_mid": f"Close {_fmt(close)} vs BB mid {_fmt(snapshot['bb_mid'])}",
+    }
+
     flags_on = [key for key, is_on in fired.items() if is_on]
     return {
         "flags": fired,
+        "flags_detail": detail,
         "flags_on": flags_on,
         "flag_count": len(flags_on),
         "flag_total": len(FLAG_DEFINITIONS),

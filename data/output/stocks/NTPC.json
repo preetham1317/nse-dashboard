@@ -33,6 +33,16 @@
       "price_above_vwap20": false,
       "price_above_bb_mid": false
     },
+    "flags_detail": {
+      "price_above_ema20": "Close 348.70 vs EMA20 359.12",
+      "ema20_above_ema50": "EMA20 359.12 vs EMA50 367.87",
+      "ema50_above_ema200": "EMA50 367.87 vs EMA200 362.54",
+      "rsi_above_50": "RSI(14) 34.08 vs 50",
+      "macd_bullish": "MACD -5.32 vs signal -5.72",
+      "adx_trending_up": "ADX(14) 27.20 vs 20, +DI 11.48 vs -DI 26.58",
+      "price_above_vwap20": "Close 348.70 vs 20d VWAP 356.33",
+      "price_above_bb_mid": "Close 348.70 vs BB mid 356.48"
+    },
     "flags_on": [
       "ema50_above_ema200",
       "macd_bullish"
@@ -40,7 +50,22 @@
     "flag_count": 2,
     "flag_total": 8
   },
-  "fundamentals": null,
+  "fundamentals": {
+    "pe_trailing": 11.459086,
+    "pe_forward": 12.3123665,
+    "eps_trailing": 30.43,
+    "eps_forward": 28.32112,
+    "roe": 0.13695,
+    "profit_margin": 0.14437,
+    "gross_margin": 0.47572,
+    "operating_margin": 0.18428,
+    "market_cap": 3381227683840,
+    "current_price": 348.7,
+    "sector": "Utilities",
+    "name": "NTPC Limited",
+    "roce": 0.09271234696821457,
+    "revenue_growth_yoy": -0.004004665509998349
+  },
   "shareholding": null,
-  "updated_at": "2026-07-08T17:10:18.288821+00:00"
+  "updated_at": "2026-07-08T17:36:57.983511+00:00"
 }

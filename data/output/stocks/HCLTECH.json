@@ -33,6 +33,16 @@
       "price_above_vwap20": true,
       "price_above_bb_mid": true
     },
+    "flags_detail": {
+      "price_above_ema20": "Close 1,145.60 vs EMA20 1,128.33",
+      "ema20_above_ema50": "EMA20 1,128.33 vs EMA50 1,177.46",
+      "ema50_above_ema200": "EMA50 1,177.46 vs EMA200 1,364.29",
+      "rsi_above_50": "RSI(14) 51.55 vs 50",
+      "macd_bullish": "MACD -11.77 vs signal -20.54",
+      "adx_trending_up": "ADX(14) 20.00 vs 20, +DI 28.50 vs -DI 25.16",
+      "price_above_vwap20": "Close 1,145.60 vs 20d VWAP 1,122.63",
+      "price_above_bb_mid": "Close 1,145.60 vs BB mid 1,120.93"
+    },
     "flags_on": [
       "price_above_ema20",
       "rsi_above_50",
@@ -44,7 +54,22 @@
     "flag_count": 6,
     "flag_total": 8
   },
-  "fundamentals": null,
+  "fundamentals": {
+    "pe_trailing": 18.679276,
+    "pe_forward": 14.301877,
+    "eps_trailing": 61.33,
+    "eps_forward": 80.10137,
+    "roe": 0.23357001,
+    "profit_margin": 0.128,
+    "gross_margin": 0.34077,
+    "operating_margin": 0.16486,
+    "market_cap": 3099726184448,
+    "current_price": 1145.6,
+    "sector": "Technology",
+    "name": "HCL Technologies Limited",
+    "roce": 0.27206509380329735,
+    "revenue_growth_yoy": 0.11181923027636581
+  },
   "shareholding": null,
-  "updated_at": "2026-07-08T17:09:59.132839+00:00"
+  "updated_at": "2026-07-08T17:36:43.256272+00:00"
 }

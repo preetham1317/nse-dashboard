@@ -101,6 +101,7 @@ def run() -> None:
         )
 
     _write_portfolio_output(holdings, stock_data_by_symbol, watch_by_symbol)
+    _write_sector_strength(stock_data_by_symbol)
 
     meta["summary"] = {
         "total": len(all_symbols),
@@ -144,6 +145,34 @@ def _write_portfolio_output(
         )
 
     (config.OUTPUT_DIR / "portfolio.json").write_text(json.dumps(portfolio_output, indent=2), encoding="utf-8")
+
+
+def _write_sector_strength(stock_data_by_symbol: dict[str, dict]) -> None:
+    """Sector strength = average of already-computed flag_count/flag_total across a
+    sector's tracked stocks. A transparent average, not a new weighted score - it doesn't
+    change how individual stocks are ranked (still flag count only, per CLAUDE.md)."""
+    by_sector: dict[str, list[dict]] = {}
+    for stock in stock_data_by_symbol.values():
+        sector = stock.get("sector")
+        if not sector:
+            continue
+        by_sector.setdefault(sector, []).append(stock["flags"])
+
+    sectors = []
+    for sector, flag_results in by_sector.items():
+        ratios = [fr["flag_count"] / fr["flag_total"] for fr in flag_results]
+        avg_flag_pct = sum(ratios) / len(ratios) * 100
+        sectors.append(
+            {
+                "sector": sector,
+                "avg_flag_pct": round(avg_flag_pct, 1),
+                "stock_count": len(flag_results),
+            }
+        )
+
+    sectors.sort(key=lambda s: s["avg_flag_pct"], reverse=True)
+    (config.OUTPUT_DIR / "sectors.json").write_text(json.dumps(sectors, indent=2), encoding="utf-8")
+    logger.info("wrote sector strength for %d sectors", len(sectors))
 
 
 if __name__ == "__main__":

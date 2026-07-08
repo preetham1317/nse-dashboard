@@ -20,5 +20,10 @@ ANGEL_CLIENT_ID = os.environ.get("ANGEL_CLIENT_ID")
 ANGEL_PIN = os.environ.get("ANGEL_PIN")
 ANGEL_TOTP_SECRET = os.environ.get("ANGEL_TOTP_SECRET")
 
+TELEGRAM_BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN")
+TELEGRAM_CHAT_ID = os.environ.get("TELEGRAM_CHAT_ID")
+
+DASHBOARD_URL = "https://subramanya1496.github.io/nse-dashboard/"
+
 for _dir in (OUTPUT_DIR, STOCKS_OUTPUT_DIR, CACHE_DIR):
     _dir.mkdir(parents=True, exist_ok=True)

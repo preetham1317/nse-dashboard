@@ -1,0 +1,35 @@
+name: Add portfolio holding
+description: Add a real position to the portfolio page
+title: "[add-holding] "
+labels: ["add-holding"]
+body:
+  - type: input
+    id: symbol
+    attributes:
+      label: Symbol
+      description: NSE trading symbol
+      placeholder: RELIANCE
+    validations:
+      required: true
+  - type: input
+    id: quantity
+    attributes:
+      label: Quantity
+      placeholder: "10"
+    validations:
+      required: true
+  - type: input
+    id: buy_price
+    attributes:
+      label: Buy price
+      placeholder: "1250.00"
+    validations:
+      required: true
+  - type: input
+    id: buy_date
+    attributes:
+      label: Buy date
+      description: Format YYYY-MM-DD
+      placeholder: "2026-01-15"
+    validations:
+      required: true

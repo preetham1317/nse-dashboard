@@ -23,7 +23,11 @@
     <h1 class="display">Portfolio</h1>
     <div class="sub" id="last-updated">Loading…</div>
   </div>
-  <div class="sub">Your actual holdings, live-tracked. Edit <code>config/portfolio.json</code> to add or remove positions.</div>
+  <div class="sub">
+    Your actual holdings, live-tracked. Tap a row for the full breakdown.
+    <a href="https://github.com/subramanya1496/nse-dashboard/issues/new?template=add-holding.yml" target="_blank" rel="noopener">Add holding</a> ·
+    <a href="https://github.com/subramanya1496/nse-dashboard/issues/new?template=remove-holding.yml" target="_blank" rel="noopener">Remove holding</a>
+  </div>
 </header>
 
 <main>
@@ -78,6 +82,7 @@ async function render() {
       : `<span class="empty-note">no data this cycle</span>`;
 
     const row = document.createElement("tr");
+    if (holding.flags) row.style.cursor = "pointer";
     row.innerHTML = `
       <td>${holding.symbol}<div class="empty-note">${holding.sector || ""}</div></td>
       <td>${holding.quantity}</td>
@@ -89,6 +94,24 @@ async function render() {
       <td>${flagsHtml}</td>
     `;
     body.appendChild(row);
+
+    if (holding.flags) {
+      row.addEventListener("click", async () => {
+        const existing = row.nextElementSibling;
+        if (existing && existing.classList.contains("detail-row")) {
+          existing.remove();
+          return;
+        }
+        const stock = await utils.loadStock(holding.symbol);
+        const detailRow = document.createElement("tr");
+        detailRow.className = "detail-row";
+        const cell = document.createElement("td");
+        cell.colSpan = 8;
+        cell.innerHTML = `<div class="detail-panel" style="border:none; border-radius:14px;">${utils.renderDetailPanelHtml(stock, flagDefinitions)}</div>`;
+        detailRow.appendChild(cell);
+        row.after(detailRow);
+      });
+    }
   });
 }
 

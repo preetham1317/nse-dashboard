@@ -1,0 +1,70 @@
+name: Process config issue
+
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  process:
+    if: |
+      contains(github.event.issue.labels.*.name, 'add-stock') ||
+      contains(github.event.issue.labels.*.name, 'remove-stock') ||
+      contains(github.event.issue.labels.*.name, 'add-holding') ||
+      contains(github.event.issue.labels.*.name, 'remove-holding')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+
+      - name: Determine label
+        id: label
+        run: |
+          for candidate in add-stock remove-stock add-holding remove-holding; do
+            if echo '${{ toJSON(github.event.issue.labels.*.name) }}' | grep -q "\"$candidate\""; then
+              echo "value=$candidate" >> "$GITHUB_OUTPUT"
+              break
+            fi
+          done
+
+      - name: Apply config change
+        id: apply
+        env:
+          ISSUE_LABEL: ${{ steps.label.outputs.value }}
+          ISSUE_BODY: ${{ github.event.issue.body }}
+        run: |
+          if python scripts/process_config_issue.py > result.txt 2> error.txt; then
+            echo "success=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "success=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Commit and close issue on success
+        if: steps.apply.outputs.success == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add config/watchlist.json config/portfolio.json
+          git commit -m "chore: ${{ steps.label.outputs.value }} via issue #${{ github.event.issue.number }}"
+          git push
+          gh issue comment ${{ github.event.issue.number }} --body "$(cat result.txt)
+
+          This will be picked up on the next scheduled run, or trigger \`daily-run.yml\` manually to apply it now."
+          gh issue close ${{ github.event.issue.number }}
+
+      - name: Comment failure reason
+        if: steps.apply.outputs.success == 'false'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh issue comment ${{ github.event.issue.number }} --body "Couldn't process this: $(cat error.txt)
+
+          Edit this issue's description to fix it and it'll need to be resubmitted (close and open a new one, or ask for a manual rerun)."

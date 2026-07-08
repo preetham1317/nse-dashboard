@@ -1,0 +1,72 @@
+[
+  {
+    "sector": "NBFC",
+    "avg_flag_pct": 100.0,
+    "stock_count": 1
+  },
+  {
+    "sector": "Pharma",
+    "avg_flag_pct": 100.0,
+    "stock_count": 2
+  },
+  {
+    "sector": "Telecom",
+    "avg_flag_pct": 75.0,
+    "stock_count": 1
+  },
+  {
+    "sector": "Consumer Durables",
+    "avg_flag_pct": 62.5,
+    "stock_count": 2
+  },
+  {
+    "sector": "Banking",
+    "avg_flag_pct": 47.5,
+    "stock_count": 5
+  },
+  {
+    "sector": "Auto",
+    "avg_flag_pct": 43.8,
+    "stock_count": 2
+  },
+  {
+    "sector": "FMCG",
+    "avg_flag_pct": 37.5,
+    "stock_count": 3
+  },
+  {
+    "sector": "IT",
+    "avg_flag_pct": 31.2,
+    "stock_count": 4
+  },
+  {
+    "sector": "Defence",
+    "avg_flag_pct": 25.0,
+    "stock_count": 2
+  },
+  {
+    "sector": "Infrastructure",
+    "avg_flag_pct": 25.0,
+    "stock_count": 1
+  },
+  {
+    "sector": "Metals",
+    "avg_flag_pct": 25.0,
+    "stock_count": 1
+  },
+  {
+    "sector": "Cement",
+    "avg_flag_pct": 25.0,
+    "stock_count": 1
+  },
+  {
+    "sector": "Power",
+    "avg_flag_pct": 18.8,
+    "stock_count": 2
+  },
+  {
+    "sector": "Energy",
+    "avg_flag_pct": 12.5,
+    "stock_count": 1
+  }
+]

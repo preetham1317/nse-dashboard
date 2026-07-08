@@ -33,6 +33,16 @@
       "price_above_vwap20": false,
       "price_above_bb_mid": false
     },
+    "flags_detail": {
+      "price_above_ema20": "Close 407.60 vs EMA20 416.13",
+      "ema20_above_ema50": "EMA20 416.13 vs EMA50 419.81",
+      "ema50_above_ema200": "EMA50 419.81 vs EMA200 413.08",
+      "rsi_above_50": "RSI(14) 43.29 vs 50",
+      "macd_bullish": "MACD -0.77 vs signal -1.00",
+      "adx_trending_up": "ADX(14) 18.34 vs 20, +DI 20.60 vs -DI 26.08",
+      "price_above_vwap20": "Close 407.60 vs 20d VWAP 416.43",
+      "price_above_bb_mid": "Close 407.60 vs BB mid 415.34"
+    },
     "flags_on": [
       "ema50_above_ema200",
       "macd_bullish"
@@ -40,7 +50,22 @@
     "flag_count": 2,
     "flag_total": 8
   },
-  "fundamentals": null,
+  "fundamentals": {
+    "pe_trailing": 49.108433,
+    "pe_forward": 35.81817,
+    "eps_trailing": 8.3,
+    "eps_forward": 11.3797,
+    "roe": 0.27556,
+    "profit_margin": 0.21956,
+    "gross_margin": 0.49174,
+    "operating_margin": 0.2747,
+    "market_cap": 2979466051584,
+    "current_price": 407.6,
+    "sector": "Industrials",
+    "name": "Bharat Electronics Limited",
+    "roce": 0.318844977227026,
+    "revenue_growth_yoy": 0.16161388377596633
+  },
   "shareholding": null,
-  "updated_at": "2026-07-08T17:09:52.567512+00:00"
+  "updated_at": "2026-07-08T17:36:36.988658+00:00"
 }

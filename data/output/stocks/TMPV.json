@@ -33,11 +33,36 @@
       "price_above_vwap20": false,
       "price_above_bb_mid": false
     },
+    "flags_detail": {
+      "price_above_ema20": "Close 332.05 vs EMA20 355.23",
+      "ema20_above_ema50": "EMA20 355.23 vs EMA50 359.52",
+      "ema50_above_ema200": "EMA50 359.52 vs EMA200 366.28",
+      "rsi_above_50": "RSI(14) 33.61 vs 50",
+      "macd_bullish": "MACD -8.69 vs signal -5.73",
+      "adx_trending_up": "ADX(14) 19.63 vs 20, +DI 18.66 vs -DI 33.24",
+      "price_above_vwap20": "Close 332.05 vs 20d VWAP 361.23",
+      "price_above_bb_mid": "Close 332.05 vs BB mid 359.87"
+    },
     "flags_on": [],
     "flag_count": 0,
     "flag_total": 8
   },
-  "fundamentals": null,
+  "fundamentals": {
+    "pe_trailing": null,
+    "pe_forward": 6.3605733,
+    "eps_trailing": -4.42,
+    "eps_forward": 52.20441,
+    "roe": -0.01118,
+    "profit_margin": 0.24288,
+    "gross_margin": 0.4619,
+    "operating_margin": 0.06176,
+    "market_cap": 1222801620992,
+    "current_price": 332.05,
+    "sector": "Consumer Cyclical",
+    "name": "Tata Motors Passenger Vehicles Limited",
+    "roce": 0.005532655996544388,
+    "revenue_growth_yoy": -0.08281749503419664
+  },
   "shareholding": null,
-  "updated_at": "2026-07-08T17:10:30.751824+00:00"
+  "updated_at": "2026-07-08T17:37:10.283395+00:00"
 }

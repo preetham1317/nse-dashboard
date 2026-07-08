@@ -33,6 +33,16 @@
       "price_above_vwap20": true,
       "price_above_bb_mid": true
     },
+    "flags_detail": {
+      "price_above_ema20": "Close 13,951.00 vs EMA20 13,840.67",
+      "ema20_above_ema50": "EMA20 13,840.67 vs EMA50 13,604.47",
+      "ema50_above_ema200": "EMA50 13,604.47 vs EMA200 13,977.71",
+      "rsi_above_50": "RSI(14) 54.20 vs 50",
+      "macd_bullish": "MACD 283.83 vs signal 222.68",
+      "adx_trending_up": "ADX(14) 24.00 vs 20, +DI 26.03 vs -DI 20.58",
+      "price_above_vwap20": "Close 13,951.00 vs 20d VWAP 13,805.44",
+      "price_above_bb_mid": "Close 13,951.00 vs BB mid 13,749.40"
+    },
     "flags_on": [
       "price_above_ema20",
       "ema20_above_ema50",
@@ -45,7 +55,22 @@
     "flag_count": 7,
     "flag_total": 8
   },
-  "fundamentals": null,
+  "fundamentals": {
+    "pe_trailing": 29.894785,
+    "pe_forward": 22.479586,
+    "eps_trailing": 466.67,
+    "eps_forward": 620.60754,
+    "roe": 0.14434,
+    "profit_margin": 0.08008,
+    "gross_margin": 0.27837,
+    "operating_margin": 0.08406,
+    "market_cap": 4386230108160,
+    "current_price": 13951.0,
+    "sector": "Consumer Cyclical",
+    "name": "Maruti Suzuki India Limited",
+    "roce": 0.1722158561149031,
+    "revenue_growth_yoy": 0.1978969895507042
+  },
   "shareholding": null,
-  "updated_at": "2026-07-08T17:10:15.368394+00:00"
+  "updated_at": "2026-07-08T17:36:55.171902+00:00"
 }

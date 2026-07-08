@@ -71,8 +71,30 @@ main{max-width:1080px; margin:0 auto; padding:24px 28px 0;}
 .stock-row{
   background:var(--glass-strong); border:1px solid var(--glass-border); border-radius:14px;
   padding:12px 14px; margin-bottom:9px; display:flex; align-items:center; justify-content:space-between;
-  box-shadow:0 3px 10px rgba(31,64,90,0.05); gap:10px;
+  box-shadow:0 3px 10px rgba(31,64,90,0.05); gap:10px; cursor:pointer;
 }
+.stock-row:hover{border-color:rgba(31,122,99,0.3);}
+.stock-block{margin-bottom:9px;}
+.stock-block .stock-row{margin-bottom:0;}
+.stock-block.expanded .stock-row{border-radius:14px 14px 0 0; border-bottom-color:transparent;}
+
+.detail-panel{
+  background:var(--glass-strong); border:1px solid var(--glass-border); border-top:none;
+  border-radius:0 0 14px 14px; padding:14px 16px; box-shadow:0 3px 10px rgba(31,64,90,0.05);
+  font-size:12.5px;
+}
+.detail-panel .detail-section{margin-bottom:12px;}
+.detail-panel .detail-section:last-child{margin-bottom:0;}
+.detail-panel h6{font-size:11px; text-transform:uppercase; letter-spacing:0.05em; color:var(--ink-faint); margin-bottom:8px; font-weight:700;}
+.detail-panel .check-row{display:flex; align-items:center; gap:8px; padding:4px 0; font-family:'JetBrains Mono',monospace; font-size:11.5px;}
+.detail-panel .check-row .mark{width:14px; flex-shrink:0; font-weight:700;}
+.detail-panel .check-row .mark.pass{color:var(--teal);}
+.detail-panel .check-row .mark.fail{color:var(--rose);}
+.detail-panel .check-row .label{font-family:'Inter',sans-serif;}
+.detail-panel .kv-grid{display:grid; grid-template-columns:repeat(auto-fill,minmax(140px,1fr)); gap:8px;}
+.detail-panel .kv-grid .kv{background:rgba(255,255,255,0.5); border-radius:8px; padding:6px 10px;}
+.detail-panel .kv-grid .kv .k{font-size:10.5px; color:var(--ink-faint);}
+.detail-panel .kv-grid .kv .v{font-family:'JetBrains Mono',monospace; font-weight:600;}
 .stock-row .left{display:flex; align-items:center; gap:11px; min-width:0;}
 .stock-row .rank{
   width:26px; height:26px; border-radius:8px; background:var(--teal-soft); color:var(--teal);
@@ -114,6 +136,15 @@ main{max-width:1080px; margin:0 auto; padding:24px 28px 0;}
 .pill-status.ok{background:var(--teal-soft); color:var(--teal);}
 .pill-status.watch{background:var(--amber-soft); color:var(--amber);}
 .pill-status.review{background:var(--rose-soft); color:var(--rose);}
+
+.sector-bar-row{display:flex; align-items:center; gap:8px; margin-bottom:9px; font-size:12px;}
+.sector-bar-row:last-child{margin-bottom:0;}
+.sector-bar-row .name{width:100px; flex-shrink:0; font-weight:600; overflow:hidden; text-overflow:ellipsis; white-space:nowrap;}
+.sector-bar-row .pct{width:36px; flex-shrink:0; text-align:right; font-family:'JetBrains Mono',monospace; font-size:11px; color:var(--ink-faint);}
+.sector-bar-track{flex:1; height:6px; border-radius:4px; background:rgba(28,43,58,0.08); overflow:hidden;}
+.sector-bar-fill{height:100%; border-radius:4px; background:linear-gradient(90deg, var(--teal), #4fae95);}
+.sector-bar-fill.weak{background:linear-gradient(90deg, var(--rose), #c97a75);}
+.sector-bar-fill.mid{background:linear-gradient(90deg, var(--amber), #d1a04a);}
 
 table{width:100%; border-collapse:collapse; font-size:13.5px;}
 th{text-align:left; font-size:11px; text-transform:uppercase; letter-spacing:0.05em; color:var(--ink-faint); padding:0 10px 10px; font-weight:700;}

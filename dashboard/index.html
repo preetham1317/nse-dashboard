@@ -35,12 +35,23 @@
 
     <div>
       <div class="side-card">
+        <h5>Sector strength</h5>
+        <div id="sector-strength" class="empty-note">Loading…</div>
+      </div>
+      <div class="side-card">
         <h5>Run status</h5>
         <div id="run-status" class="empty-note">Loading…</div>
       </div>
       <div class="side-card">
         <h5>Your portfolio</h5>
         <div id="portfolio-mini" class="empty-note">Loading…</div>
+      </div>
+      <div class="side-card">
+        <h5>Manage</h5>
+        <div class="holding-row"><a href="https://github.com/subramanya1496/nse-dashboard/issues/new?template=add-stock.yml" target="_blank" rel="noopener">Add stock to watchlist</a></div>
+        <div class="holding-row"><a href="https://github.com/subramanya1496/nse-dashboard/issues/new?template=remove-stock.yml" target="_blank" rel="noopener">Remove stock</a></div>
+        <div class="holding-row"><a href="https://github.com/subramanya1496/nse-dashboard/issues/new?template=add-holding.yml" target="_blank" rel="noopener">Add holding</a></div>
+        <div class="holding-row"><a href="https://github.com/subramanya1496/nse-dashboard/issues/new?template=remove-holding.yml" target="_blank" rel="noopener">Remove holding</a></div>
       </div>
     </div>
   </div>
@@ -80,6 +91,9 @@ async function render() {
     const change = utils.formatChangePct(stock.indicators.change_pct);
     const topFlags = flags_on.slice(0, 3).map((k) => utils.flagShortLabel(flagDefinitions, k)).join(" · ");
 
+    const block = document.createElement("div");
+    block.className = "stock-block";
+
     const row = document.createElement("div");
     row.className = "stock-row";
     row.innerHTML = `
@@ -98,8 +112,27 @@ async function render() {
         <div class="chg ${change.cls}">${change.text}</div>
       </div>
     `;
-    listEl.appendChild(row);
+    block.appendChild(row);
+    listEl.appendChild(block);
+    utils.attachRowToggle(block, row, stock, flagDefinitions);
   });
+
+  const sectors = await utils.loadSectors();
+  const sectorEl = document.getElementById("sector-strength");
+  if (!sectors.length) {
+    sectorEl.textContent = "No sector data yet.";
+  } else {
+    sectorEl.innerHTML = sectors
+      .map(
+        (s) => `
+      <div class="sector-bar-row">
+        <span class="name">${s.sector}</span>
+        <div class="sector-bar-track"><div class="sector-bar-fill ${utils.sectorBarClass(s.avg_flag_pct)}" style="width:${s.avg_flag_pct}%"></div></div>
+        <span class="pct">${s.avg_flag_pct}%</span>
+      </div>`
+      )
+      .join("");
+  }
 
   const portfolio = await utils.loadPortfolio();
   const miniEl = document.getElementById("portfolio-mini");

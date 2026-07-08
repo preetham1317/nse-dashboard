@@ -33,11 +33,36 @@
       "price_above_vwap20": false,
       "price_above_bb_mid": false
     },
+    "flags_detail": {
+      "price_above_ema20": "Close 280.65 vs EMA20 288.81",
+      "ema20_above_ema50": "EMA20 288.81 vs EMA50 294.03",
+      "ema50_above_ema200": "EMA50 294.03 vs EMA200 333.41",
+      "rsi_above_50": "RSI(14) 34.63 vs 50",
+      "macd_bullish": "MACD -1.72 vs signal -1.64",
+      "adx_trending_up": "ADX(14) 16.02 vs 20, +DI 12.57 vs -DI 27.96",
+      "price_above_vwap20": "Close 280.65 vs 20d VWAP 288.06",
+      "price_above_bb_mid": "Close 280.65 vs BB mid 288.61"
+    },
     "flags_on": [],
     "flag_count": 0,
     "flag_total": 8
   },
-  "fundamentals": null,
+  "fundamentals": {
+    "pe_trailing": 16.988499,
+    "pe_forward": 15.903507,
+    "eps_trailing": 16.52,
+    "eps_forward": 17.64705,
+    "roe": 0.2934,
+    "profit_margin": 0.26233,
+    "gross_margin": 0.57845,
+    "operating_margin": 0.36413,
+    "market_cap": 3516395159552,
+    "current_price": 280.65,
+    "sector": "Consumer Defensive",
+    "name": "ITC Limited",
+    "roce": 0.36467829434391574,
+    "revenue_growth_yoy": 0.047686559686829735
+  },
   "shareholding": null,
-  "updated_at": "2026-07-08T17:10:10.916590+00:00"
+  "updated_at": "2026-07-08T17:36:51.002451+00:00"
 }

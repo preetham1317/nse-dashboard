@@ -33,13 +33,38 @@
       "price_above_vwap20": false,
       "price_above_bb_mid": false
     },
+    "flags_detail": {
+      "price_above_ema20": "Close 370.10 vs EMA20 391.69",
+      "ema20_above_ema50": "EMA20 391.69 vs EMA50 390.00",
+      "ema50_above_ema200": "EMA50 390.00 vs EMA200 400.38",
+      "rsi_above_50": "RSI(14) 33.92 vs 50",
+      "macd_bullish": "MACD -1.33 vs signal 2.40",
+      "adx_trending_up": "ADX(14) 19.49 vs 20, +DI 19.37 vs -DI 35.52",
+      "price_above_vwap20": "Close 370.10 vs 20d VWAP 394.94",
+      "price_above_bb_mid": "Close 370.10 vs BB mid 397.06"
+    },
     "flags_on": [
       "ema20_above_ema50"
     ],
     "flag_count": 1,
     "flag_total": 8
   },
-  "fundamentals": null,
+  "fundamentals": {
+    "pe_trailing": 19.08716,
+    "pe_forward": 15.356847,
+    "eps_trailing": 19.39,
+    "eps_forward": 24.1,
+    "roe": 0.11389,
+    "profit_margin": 0.26049,
+    "gross_margin": 0.0,
+    "operating_margin": 0.35119998,
+    "market_cap": 3681186742272,
+    "current_price": 370.1,
+    "sector": "Financial Services",
+    "name": "Kotak Mahindra Bank Limited",
+    "roce": null,
+    "revenue_growth_yoy": 0.04356827851466372
+  },
   "shareholding": null,
-  "updated_at": "2026-07-08T17:10:12.442110+00:00"
+  "updated_at": "2026-07-08T17:36:52.407484+00:00"
 }

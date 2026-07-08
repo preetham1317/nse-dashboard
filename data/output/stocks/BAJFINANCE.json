@@ -33,6 +33,16 @@
       "price_above_vwap20": true,
       "price_above_bb_mid": true
     },
+    "flags_detail": {
+      "price_above_ema20": "Close 1,010.40 vs EMA20 983.63",
+      "ema20_above_ema50": "EMA20 983.63 vs EMA50 952.05",
+      "ema50_above_ema200": "EMA50 952.05 vs EMA200 946.55",
+      "rsi_above_50": "RSI(14) 61.48 vs 50",
+      "macd_bullish": "MACD 29.36 vs signal 24.60",
+      "adx_trending_up": "ADX(14) 34.29 vs 20, +DI 31.28 vs -DI 14.38",
+      "price_above_vwap20": "Close 1,010.40 vs 20d VWAP 975.08",
+      "price_above_bb_mid": "Close 1,010.40 vs BB mid 974.48"
+    },
     "flags_on": [
       "price_above_ema20",
       "ema20_above_ema50",
@@ -46,7 +56,22 @@
     "flag_count": 8,
     "flag_total": 8
   },
-  "fundamentals": null,
+  "fundamentals": {
+    "pe_trailing": 33.07365,
+    "pe_forward": 20.37089,
+    "eps_trailing": 30.55,
+    "eps_forward": 49.60019,
+    "roe": 0.17907,
+    "profit_margin": 0.43383998,
+    "gross_margin": 0.91655,
+    "operating_margin": 0.60647,
+    "market_cap": 6282542579712,
+    "current_price": 1010.4,
+    "sector": "Financial Services",
+    "name": "Bajaj Finance Limited",
+    "roce": null,
+    "revenue_growth_yoy": 0.19734727240422212
+  },
   "shareholding": null,
-  "updated_at": "2026-07-08T17:09:50.994524+00:00"
+  "updated_at": "2026-07-08T17:36:35.566183+00:00"
 }

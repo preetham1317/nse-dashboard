@@ -33,13 +33,38 @@
       "price_above_vwap20": false,
       "price_above_bb_mid": false
     },
+    "flags_detail": {
+      "price_above_ema20": "Close 172.72 vs EMA20 178.32",
+      "ema20_above_ema50": "EMA20 178.32 vs EMA50 187.31",
+      "ema50_above_ema200": "EMA50 187.31 vs EMA200 214.24",
+      "rsi_above_50": "RSI(14) 35.74 vs 50",
+      "macd_bullish": "MACD -5.20 vs signal -5.50",
+      "adx_trending_up": "ADX(14) 31.19 vs 20, +DI 18.64 vs -DI 34.89",
+      "price_above_vwap20": "Close 172.72 vs 20d VWAP 176.06",
+      "price_above_bb_mid": "Close 172.72 vs BB mid 176.94"
+    },
     "flags_on": [
       "macd_bullish"
     ],
     "flag_count": 1,
     "flag_total": 8
   },
-  "fundamentals": null,
+  "fundamentals": {
+    "pe_trailing": 13.751592,
+    "pe_forward": 12.045218,
+    "eps_trailing": 12.56,
+    "eps_forward": 14.3393,
+    "roe": 0.15439999,
+    "profit_margin": 0.14248,
+    "gross_margin": 0.29155,
+    "operating_margin": 0.1718,
+    "market_cap": 1708484853760,
+    "current_price": 172.72,
+    "sector": "Technology",
+    "name": "Wipro Limited",
+    "roce": 0.17847012391366396,
+    "revenue_growth_yoy": 0.039686423821732125
+  },
   "shareholding": null,
-  "updated_at": "2026-07-08T17:10:33.811039+00:00"
+  "updated_at": "2026-07-08T17:37:13.044494+00:00"
 }

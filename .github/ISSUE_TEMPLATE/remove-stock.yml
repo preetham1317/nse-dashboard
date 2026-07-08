@@ -1,0 +1,13 @@
+name: Remove stock from watchlist
+description: Stop tracking an NSE stock in the daily pipeline
+title: "[remove-stock] "
+labels: ["remove-stock"]
+body:
+  - type: input
+    id: symbol
+    attributes:
+      label: Symbol
+      description: NSE trading symbol to remove
+      placeholder: RELIANCE
+    validations:
+      required: true

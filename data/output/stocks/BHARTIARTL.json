@@ -33,6 +33,16 @@
       "price_above_vwap20": true,
       "price_above_bb_mid": true
     },
+    "flags_detail": {
+      "price_above_ema20": "Close 1,888.10 vs EMA20 1,875.83",
+      "ema20_above_ema50": "EMA20 1,875.83 vs EMA50 1,864.06",
+      "ema50_above_ema200": "EMA50 1,864.06 vs EMA200 1,903.96",
+      "rsi_above_50": "RSI(14) 53.87 vs 50",
+      "macd_bullish": "MACD 16.27 vs signal 12.03",
+      "adx_trending_up": "ADX(14) 17.14 vs 20, +DI 30.46 vs -DI 23.09",
+      "price_above_vwap20": "Close 1,888.10 vs 20d VWAP 1,866.13",
+      "price_above_bb_mid": "Close 1,888.10 vs BB mid 1,868.55"
+    },
     "flags_on": [
       "price_above_ema20",
       "ema20_above_ema50",
@@ -44,7 +54,22 @@
     "flag_count": 6,
     "flag_total": 8
   },
-  "fundamentals": null,
+  "fundamentals": {
+    "pe_trailing": 42.63039,
+    "pe_forward": 23.115463,
+    "eps_trailing": 44.29,
+    "eps_forward": 81.68125,
+    "roe": 0.19358999,
+    "profit_margin": 0.12652999,
+    "gross_margin": 0.67652,
+    "operating_margin": 0.32227,
+    "market_cap": 11779209953280,
+    "current_price": 1888.1,
+    "sector": "Communication Services",
+    "name": "Bharti Airtel Limited",
+    "roce": 0.17669462319066617,
+    "revenue_growth_yoy": 0.21960028950453564
+  },
   "shareholding": null,
-  "updated_at": "2026-07-08T17:09:54.187336+00:00"
+  "updated_at": "2026-07-08T17:36:38.275008+00:00"
 }

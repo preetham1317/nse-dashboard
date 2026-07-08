@@ -33,6 +33,16 @@
       "price_above_vwap20": false,
       "price_above_bb_mid": false
     },
+    "flags_detail": {
+      "price_above_ema20": "Close 1,309.50 vs EMA20 1,339.32",
+      "ema20_above_ema50": "EMA20 1,339.32 vs EMA50 1,320.02",
+      "ema50_above_ema200": "EMA50 1,320.02 vs EMA200 1,271.51",
+      "rsi_above_50": "RSI(14) 42.90 vs 50",
+      "macd_bullish": "MACD 9.06 vs signal 16.06",
+      "adx_trending_up": "ADX(14) 18.69 vs 20, +DI 16.12 vs -DI 23.84",
+      "price_above_vwap20": "Close 1,309.50 vs 20d VWAP 1,351.78",
+      "price_above_bb_mid": "Close 1,309.50 vs BB mid 1,352.04"
+    },
     "flags_on": [
       "ema20_above_ema50",
       "ema50_above_ema200"
@@ -40,7 +50,22 @@
     "flag_count": 2,
     "flag_total": 8
   },
-  "fundamentals": null,
+  "fundamentals": {
+    "pe_trailing": 15.50071,
+    "pe_forward": 10.96569,
+    "eps_trailing": 84.48,
+    "eps_forward": 119.41794,
+    "roe": 0.13152,
+    "profit_margin": 0.35393003,
+    "gross_margin": 0.0,
+    "operating_margin": 0.39288,
+    "market_cap": 4073563881472,
+    "current_price": 1309.5,
+    "sector": "Financial Services",
+    "name": "Axis Bank Limited",
+    "roce": null,
+    "revenue_growth_yoy": 0.04014464440245839
+  },
   "shareholding": null,
-  "updated_at": "2026-07-08T17:09:49.465955+00:00"
+  "updated_at": "2026-07-08T17:36:34.359578+00:00"
 }

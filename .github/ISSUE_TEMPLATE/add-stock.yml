@@ -1,0 +1,27 @@
+name: Add stock to watchlist
+description: Track a new NSE stock in the daily pipeline
+title: "[add-stock] "
+labels: ["add-stock"]
+body:
+  - type: input
+    id: symbol
+    attributes:
+      label: Symbol
+      description: NSE trading symbol
+      placeholder: RELIANCE
+    validations:
+      required: true
+  - type: input
+    id: name
+    attributes:
+      label: Name
+      placeholder: Reliance Industries
+    validations:
+      required: true
+  - type: input
+    id: sector
+    attributes:
+      label: Sector
+      placeholder: Energy
+    validations:
+      required: true

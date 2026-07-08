@@ -33,6 +33,16 @@
       "price_above_vwap20": true,
       "price_above_bb_mid": true
     },
+    "flags_detail": {
+      "price_above_ema20": "Close 1,380.60 vs EMA20 1,363.94",
+      "ema20_above_ema50": "EMA20 1,363.94 vs EMA50 1,328.90",
+      "ema50_above_ema200": "EMA50 1,328.90 vs EMA200 1,340.34",
+      "rsi_above_50": "RSI(14) 57.96 vs 50",
+      "macd_bullish": "MACD 31.36 vs signal 29.28",
+      "adx_trending_up": "ADX(14) 33.07 vs 20, +DI 29.96 vs -DI 19.95",
+      "price_above_vwap20": "Close 1,380.60 vs 20d VWAP 1,357.92",
+      "price_above_bb_mid": "Close 1,380.60 vs BB mid 1,363.33"
+    },
     "flags_on": [
       "price_above_ema20",
       "ema20_above_ema50",
@@ -45,7 +55,22 @@
     "flag_count": 7,
     "flag_total": 8
   },
-  "fundamentals": null,
+  "fundamentals": {
+    "pe_trailing": 18.447355,
+    "pe_forward": 15.202239,
+    "eps_trailing": 74.84,
+    "eps_forward": 90.81557,
+    "roe": 0.16359,
+    "profit_margin": 0.24929,
+    "gross_margin": 0.0,
+    "operating_margin": 0.33293998,
+    "market_cap": 9902875475968,
+    "current_price": 1380.6,
+    "sector": "Financial Services",
+    "name": "ICICI Bank Limited",
+    "roce": null,
+    "revenue_growth_yoy": 0.08528191549990273
+  },
   "shareholding": null,
-  "updated_at": "2026-07-08T17:10:07.899799+00:00"
+  "updated_at": "2026-07-08T17:36:48.326566+00:00"
 }

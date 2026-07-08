@@ -1,30 +1,142 @@
 [
-  {"symbol": "RELIANCE", "name": "Reliance Industries", "sector": "Energy"},
-  {"symbol": "TCS", "name": "Tata Consultancy Services", "sector": "IT"},
-  {"symbol": "INFY", "name": "Infosys", "sector": "IT"},
-  {"symbol": "WIPRO", "name": "Wipro", "sector": "IT"},
-  {"symbol": "HCLTECH", "name": "HCL Technologies", "sector": "IT"},
-  {"symbol": "HDFCBANK", "name": "HDFC Bank", "sector": "Banking"},
-  {"symbol": "ICICIBANK", "name": "ICICI Bank", "sector": "Banking"},
-  {"symbol": "SBIN", "name": "State Bank of India", "sector": "Banking"},
-  {"symbol": "KOTAKBANK", "name": "Kotak Mahindra Bank", "sector": "Banking"},
-  {"symbol": "AXISBANK", "name": "Axis Bank", "sector": "Banking"},
-  {"symbol": "BAJFINANCE", "name": "Bajaj Finance", "sector": "NBFC"},
-  {"symbol": "ITC", "name": "ITC Ltd", "sector": "FMCG"},
-  {"symbol": "HINDUNILVR", "name": "Hindustan Unilever", "sector": "FMCG"},
-  {"symbol": "NESTLEIND", "name": "Nestle India", "sector": "FMCG"},
-  {"symbol": "LT", "name": "Larsen & Toubro", "sector": "Infrastructure"},
-  {"symbol": "ASIANPAINT", "name": "Asian Paints", "sector": "Consumer Durables"},
-  {"symbol": "TITAN", "name": "Titan Company", "sector": "Consumer Durables"},
-  {"symbol": "MARUTI", "name": "Maruti Suzuki", "sector": "Auto"},
-  {"symbol": "TMPV", "name": "Tata Motors Passenger Vehicles", "sector": "Auto"},
-  {"symbol": "SUNPHARMA", "name": "Sun Pharma", "sector": "Pharma"},
-  {"symbol": "DRREDDY", "name": "Dr Reddy's Laboratories", "sector": "Pharma"},
-  {"symbol": "ULTRACEMCO", "name": "UltraTech Cement", "sector": "Cement"},
-  {"symbol": "TATASTEEL", "name": "Tata Steel", "sector": "Metals"},
-  {"symbol": "POWERGRID", "name": "Power Grid Corporation", "sector": "Power"},
-  {"symbol": "NTPC", "name": "NTPC Ltd", "sector": "Power"},
-  {"symbol": "BHARTIARTL", "name": "Bharti Airtel", "sector": "Telecom"},
-  {"symbol": "BEL", "name": "Bharat Electronics", "sector": "Defence"},
-  {"symbol": "HAL", "name": "Hindustan Aeronautics", "sector": "Defence"}
+  {
+    "symbol": "RELIANCE",
+    "name": "Reliance Industries",
+    "sector": "Energy"
+  },
+  {
+    "symbol": "TCS",
+    "name": "Tata Consultancy Services",
+    "sector": "IT"
+  },
+  {
+    "symbol": "INFY",
+    "name": "Infosys",
+    "sector": "IT"
+  },
+  {
+    "symbol": "WIPRO",
+    "name": "Wipro",
+    "sector": "IT"
+  },
+  {
+    "symbol": "HCLTECH",
+    "name": "HCL Technologies",
+    "sector": "IT"
+  },
+  {
+    "symbol": "HDFCBANK",
+    "name": "HDFC Bank",
+    "sector": "Banking"
+  },
+  {
+    "symbol": "ICICIBANK",
+    "name": "ICICI Bank",
+    "sector": "Banking"
+  },
+  {
+    "symbol": "SBIN",
+    "name": "State Bank of India",
+    "sector": "Banking"
+  },
+  {
+    "symbol": "KOTAKBANK",
+    "name": "Kotak Mahindra Bank",
+    "sector": "Banking"
+  },
+  {
+    "symbol": "AXISBANK",
+    "name": "Axis Bank",
+    "sector": "Banking"
+  },
+  {
+    "symbol": "BAJFINANCE",
+    "name": "Bajaj Finance",
+    "sector": "NBFC"
+  },
+  {
+    "symbol": "ITC",
+    "name": "ITC Ltd",
+    "sector": "FMCG"
+  },
+  {
+    "symbol": "HINDUNILVR",
+    "name": "Hindustan Unilever",
+    "sector": "FMCG"
+  },
+  {
+    "symbol": "NESTLEIND",
+    "name": "Nestle India",
+    "sector": "FMCG"
+  },
+  {
+    "symbol": "LT",
+    "name": "Larsen & Toubro",
+    "sector": "Infrastructure"
+  },
+  {
+    "symbol": "ASIANPAINT",
+    "name": "Asian Paints",
+    "sector": "Consumer Durables"
+  },
+  {
+    "symbol": "TITAN",
+    "name": "Titan Company",
+    "sector": "Consumer Durables"
+  },
+  {
+    "symbol": "MARUTI",
+    "name": "Maruti Suzuki",
+    "sector": "Auto"
+  },
+  {
+    "symbol": "TMPV",
+    "name": "Tata Motors Passenger Vehicles",
+    "sector": "Auto"
+  },
+  {
+    "symbol": "SUNPHARMA",
+    "name": "Sun Pharma",
+    "sector": "Pharma"
+  },
+  {
+    "symbol": "DRREDDY",
+    "name": "Dr Reddy's Laboratories",
+    "sector": "Pharma"
+  },
+  {
+    "symbol": "ULTRACEMCO",
+    "name": "UltraTech Cement",
+    "sector": "Cement"
+  },
+  {
+    "symbol": "TATASTEEL",
+    "name": "Tata Steel",
+    "sector": "Metals"
+  },
+  {
+    "symbol": "POWERGRID",
+    "name": "Power Grid Corporation",
+    "sector": "Power"
+  },
+  {
+    "symbol": "NTPC",
+    "name": "NTPC Ltd",
+    "sector": "Power"
+  },
+  {
+    "symbol": "BHARTIARTL",
+    "name": "Bharti Airtel",
+    "sector": "Telecom"
+  },
+  {
+    "symbol": "BEL",
+    "name": "Bharat Electronics",
+    "sector": "Defence"
+  },
+  {
+    "symbol": "HAL",
+    "name": "Hindustan Aeronautics",
+    "sector": "Defence"
+  }
 ]

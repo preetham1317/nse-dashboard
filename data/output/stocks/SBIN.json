@@ -33,6 +33,16 @@
       "price_above_vwap20": false,
       "price_above_bb_mid": false
     },
+    "flags_detail": {
+      "price_above_ema20": "Close 1,016.90 vs EMA20 1,026.81",
+      "ema20_above_ema50": "EMA20 1,026.81 vs EMA50 1,024.22",
+      "ema50_above_ema200": "EMA50 1,024.22 vs EMA200 995.41",
+      "rsi_above_50": "RSI(14) 47.39 vs 50",
+      "macd_bullish": "MACD 8.34 vs signal 9.46",
+      "adx_trending_up": "ADX(14) 12.42 vs 20, +DI 19.14 vs -DI 25.68",
+      "price_above_vwap20": "Close 1,016.90 vs 20d VWAP 1,029.90",
+      "price_above_bb_mid": "Close 1,016.90 vs BB mid 1,030.06"
+    },
     "flags_on": [
       "ema20_above_ema50",
       "ema50_above_ema200"
@@ -40,7 +50,22 @@
     "flag_count": 2,
     "flag_total": 8
   },
-  "fundamentals": null,
+  "fundamentals": {
+    "pe_trailing": 11.156336,
+    "pe_forward": 9.983111,
+    "eps_trailing": 91.15,
+    "eps_forward": 101.86203,
+    "roe": 0.15477,
+    "profit_margin": 0.22114,
+    "gross_margin": 0.0,
+    "operating_margin": 0.28959998,
+    "market_cap": 9386615373824,
+    "current_price": 1016.9,
+    "sector": "Financial Services",
+    "name": "State Bank of India",
+    "roce": null,
+    "revenue_growth_yoy": 0.09208470724271556
+  },
   "shareholding": null,
-  "updated_at": "2026-07-08T17:10:23.040522+00:00"
+  "updated_at": "2026-07-08T17:37:02.254943+00:00"
 }

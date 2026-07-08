@@ -19,6 +19,16 @@
           "price_above_vwap20": false,
           "price_above_bb_mid": false
         },
+        "flags_detail": {
+          "price_above_ema20": "Close 1,275.90 vs EMA20 1,308.11",
+          "ema20_above_ema50": "EMA20 1,308.11 vs EMA50 1,328.61",
+          "ema50_above_ema200": "EMA50 1,328.61 vs EMA200 1,381.10",
+          "rsi_above_50": "RSI(14) 39.35 vs 50",
+          "macd_bullish": "MACD -7.79 vs signal -8.00",
+          "adx_trending_up": "ADX(14) 14.38 vs 20, +DI 16.83 vs -DI 26.33",
+          "price_above_vwap20": "Close 1,275.90 vs 20d VWAP 1,305.72",
+          "price_above_bb_mid": "Close 1,275.90 vs BB mid 1,305.23"
+        },
         "flags_on": [
           "macd_bullish"
         ],
@@ -28,5 +38,5 @@
       "sector": "Energy"
     }
   ],
-  "updated_at": "2026-07-08T17:10:33.811452+00:00"
+  "updated_at": "2026-07-08T17:37:13.045590+00:00"
 }

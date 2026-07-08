@@ -1,0 +1,13 @@
+name: Remove portfolio holding
+description: Remove a position from the portfolio page
+title: "[remove-holding] "
+labels: ["remove-holding"]
+body:
+  - type: input
+    id: symbol
+    attributes:
+      label: Symbol
+      description: NSE trading symbol to remove
+      placeholder: RELIANCE
+    validations:
+      required: true

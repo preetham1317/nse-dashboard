@@ -33,6 +33,16 @@
       "price_above_vwap20": true,
       "price_above_bb_mid": true
     },
+    "flags_detail": {
+      "price_above_ema20": "Close 1,450.50 vs EMA20 1,427.47",
+      "ema20_above_ema50": "EMA20 1,427.47 vs EMA50 1,402.65",
+      "ema50_above_ema200": "EMA50 1,402.65 vs EMA200 1,316.17",
+      "rsi_above_50": "RSI(14) 57.31 vs 50",
+      "macd_bullish": "MACD 14.99 vs signal 8.09",
+      "adx_trending_up": "ADX(14) 20.82 vs 20, +DI 22.94 vs -DI 14.48",
+      "price_above_vwap20": "Close 1,450.50 vs 20d VWAP 1,418.05",
+      "price_above_bb_mid": "Close 1,450.50 vs BB mid 1,417.65"
+    },
     "flags_on": [
       "price_above_ema20",
       "ema20_above_ema50",
@@ -46,7 +56,22 @@
     "flag_count": 8,
     "flag_total": 8
   },
-  "fundamentals": null,
+  "fundamentals": {
+    "pe_trailing": 80.13812,
+    "pe_forward": 60.962307,
+    "eps_trailing": 18.1,
+    "eps_forward": 23.79339,
+    "roe": 0.76338995,
+    "profit_margin": 0.15139,
+    "gross_margin": 0.54565,
+    "operating_margin": 0.2296,
+    "market_cap": 2797020119040,
+    "current_price": 1450.5,
+    "sector": "Consumer Defensive",
+    "name": "Nestl\u00e9 India Limited",
+    "roce": null,
+    "revenue_growth_yoy": 0.19583454688725652
+  },
   "shareholding": null,
-  "updated_at": "2026-07-08T17:10:16.820762+00:00"
+  "updated_at": "2026-07-08T17:36:56.529767+00:00"
 }

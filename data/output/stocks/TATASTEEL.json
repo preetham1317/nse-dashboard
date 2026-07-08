@@ -33,6 +33,16 @@
       "price_above_vwap20": false,
       "price_above_bb_mid": false
     },
+    "flags_detail": {
+      "price_above_ema20": "Close 188.20 vs EMA20 193.68",
+      "ema20_above_ema50": "EMA20 193.68 vs EMA50 199.25",
+      "ema50_above_ema200": "EMA50 199.25 vs EMA200 189.89",
+      "rsi_above_50": "RSI(14) 35.24 vs 50",
+      "macd_bullish": "MACD -4.57 vs signal -4.63",
+      "adx_trending_up": "ADX(14) 28.63 vs 20, +DI 16.62 vs -DI 33.95",
+      "price_above_vwap20": "Close 188.20 vs 20d VWAP 193.42",
+      "price_above_bb_mid": "Close 188.20 vs BB mid 193.37"
+    },
     "flags_on": [
       "ema50_above_ema200",
       "macd_bullish"
@@ -40,7 +50,22 @@
     "flag_count": 2,
     "flag_total": 8
   },
-  "fundamentals": null,
+  "fundamentals": {
+    "pe_trailing": 21.757227,
+    "pe_forward": 10.010638,
+    "eps_trailing": 8.65,
+    "eps_forward": 18.8,
+    "roe": 0.11156999,
+    "profit_margin": 0.0465,
+    "gross_margin": 0.55947,
+    "operating_margin": 0.09698,
+    "market_cap": 2347201724416,
+    "current_price": 188.2,
+    "sector": "Basic Materials",
+    "name": "Tata Steel Limited",
+    "roce": 0.11322379211111946,
+    "revenue_growth_yoy": 0.06204158958422637
+  },
   "shareholding": null,
-  "updated_at": "2026-07-08T17:10:26.303800+00:00"
+  "updated_at": "2026-07-08T17:37:04.988158+00:00"
 }
