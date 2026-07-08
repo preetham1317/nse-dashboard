@@ -6,12 +6,6 @@
       "quantity": 10,
       "buy_price": 1250.0,
       "buy_date": "2026-01-15"
-    },
-    {
-      "symbol": "TCS",
-      "quantity": 5,
-      "buy_price": 3500.0,
-      "buy_date": "2026-02-01"
     }
   ]
 }
