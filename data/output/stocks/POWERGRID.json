@@ -39,22 +39,7 @@
     "flag_count": 1,
     "flag_total": 8
   },
-  "fundamentals": {
-    "pe_trailing": 13.915423,
-    "pe_forward": 14.018449,
-    "eps_trailing": 20.1,
-    "eps_forward": 19.95228,
-    "roe": 0.16492,
-    "profit_margin": 0.34083,
-    "gross_margin": 1.0,
-    "operating_margin": 0.4947,
-    "market_cap": 2601378906112,
-    "current_price": 279.7,
-    "sector": "Utilities",
-    "name": "Power Grid Corporation of India Limited",
-    "roce": 0.10695524252361413,
-    "revenue_growth_yoy": 0.02053947037407146
-  },
+  "fundamentals": null,
   "shareholding": null,
-  "updated_at": "2026-07-08T16:40:23.278514+00:00"
+  "updated_at": "2026-07-08T17:03:57.378408+00:00"
 }

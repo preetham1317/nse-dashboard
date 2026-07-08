@@ -45,22 +45,7 @@
     "flag_count": 7,
     "flag_total": 8
   },
-  "fundamentals": {
-    "pe_trailing": 18.447355,
-    "pe_forward": 15.202239,
-    "eps_trailing": 74.84,
-    "eps_forward": 90.81557,
-    "roe": 0.16359,
-    "profit_margin": 0.24929,
-    "gross_margin": 0.0,
-    "operating_margin": 0.33293998,
-    "market_cap": 9902875475968,
-    "current_price": 1380.6,
-    "sector": "Financial Services",
-    "name": "ICICI Bank Limited",
-    "roce": null,
-    "revenue_growth_yoy": 0.08528191549990273
-  },
+  "fundamentals": null,
   "shareholding": null,
-  "updated_at": "2026-07-08T16:40:11.290335+00:00"
+  "updated_at": "2026-07-08T17:03:41.725208+00:00"
 }

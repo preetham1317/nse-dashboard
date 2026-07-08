@@ -1,144 +1,144 @@
 {
-  "run_at": "2026-07-08T16:39:52.601928+00:00",
+  "run_at": "2026-07-08T17:03:19.030583+00:00",
   "symbols": {
     "ASIANPAINT": {
       "status": "ok",
-      "fundamentals_available": true,
+      "fundamentals_available": false,
       "shareholding_available": false
     },
     "AXISBANK": {
       "status": "ok",
-      "fundamentals_available": true,
+      "fundamentals_available": false,
       "shareholding_available": false
     },
     "BAJFINANCE": {
       "status": "ok",
-      "fundamentals_available": true,
+      "fundamentals_available": false,
       "shareholding_available": false
     },
     "BEL": {
       "status": "ok",
-      "fundamentals_available": true,
+      "fundamentals_available": false,
       "shareholding_available": false
     },
     "BHARTIARTL": {
       "status": "ok",
-      "fundamentals_available": true,
+      "fundamentals_available": false,
       "shareholding_available": false
     },
     "DRREDDY": {
       "status": "ok",
-      "fundamentals_available": true,
+      "fundamentals_available": false,
       "shareholding_available": false
     },
     "HAL": {
       "status": "ok",
-      "fundamentals_available": true,
+      "fundamentals_available": false,
       "shareholding_available": false
     },
     "HCLTECH": {
       "status": "ok",
-      "fundamentals_available": true,
+      "fundamentals_available": false,
       "shareholding_available": false
     },
     "HDFCBANK": {
       "status": "ok",
-      "fundamentals_available": true,
+      "fundamentals_available": false,
       "shareholding_available": false
     },
     "HINDUNILVR": {
       "status": "ok",
-      "fundamentals_available": true,
+      "fundamentals_available": false,
       "shareholding_available": false
     },
     "ICICIBANK": {
       "status": "ok",
-      "fundamentals_available": true,
+      "fundamentals_available": false,
       "shareholding_available": false
     },
     "INFY": {
       "status": "ok",
-      "fundamentals_available": true,
+      "fundamentals_available": false,
       "shareholding_available": false
     },
     "ITC": {
       "status": "ok",
-      "fundamentals_available": true,
+      "fundamentals_available": false,
       "shareholding_available": false
     },
     "KOTAKBANK": {
       "status": "ok",
-      "fundamentals_available": true,
+      "fundamentals_available": false,
       "shareholding_available": false
     },
     "LT": {
       "status": "ok",
-      "fundamentals_available": true,
+      "fundamentals_available": false,
       "shareholding_available": false
     },
     "MARUTI": {
       "status": "ok",
-      "fundamentals_available": true,
+      "fundamentals_available": false,
       "shareholding_available": false
     },
     "NESTLEIND": {
       "status": "ok",
-      "fundamentals_available": true,
+      "fundamentals_available": false,
       "shareholding_available": false
     },
     "NTPC": {
       "status": "ok",
-      "fundamentals_available": true,
+      "fundamentals_available": false,
       "shareholding_available": false
     },
     "POWERGRID": {
       "status": "ok",
-      "fundamentals_available": true,
+      "fundamentals_available": false,
       "shareholding_available": false
     },
     "RELIANCE": {
       "status": "ok",
-      "fundamentals_available": true,
+      "fundamentals_available": false,
       "shareholding_available": false
     },
     "SBIN": {
       "status": "ok",
-      "fundamentals_available": true,
+      "fundamentals_available": false,
       "shareholding_available": false
     },
     "SUNPHARMA": {
       "status": "ok",
-      "fundamentals_available": true,
+      "fundamentals_available": false,
       "shareholding_available": false
     },
     "TATASTEEL": {
       "status": "ok",
-      "fundamentals_available": true,
+      "fundamentals_available": false,
       "shareholding_available": false
     },
     "TCS": {
       "status": "ok",
-      "fundamentals_available": true,
+      "fundamentals_available": false,
       "shareholding_available": false
     },
     "TITAN": {
       "status": "ok",
-      "fundamentals_available": true,
+      "fundamentals_available": false,
       "shareholding_available": false
     },
     "TMPV": {
       "status": "ok",
-      "fundamentals_available": true,
+      "fundamentals_available": false,
       "shareholding_available": false
     },
     "ULTRACEMCO": {
       "status": "ok",
-      "fundamentals_available": true,
+      "fundamentals_available": false,
       "shareholding_available": false
     },
     "WIPRO": {
       "status": "ok",
-      "fundamentals_available": true,
+      "fundamentals_available": false,
       "shareholding_available": false
     }
   },

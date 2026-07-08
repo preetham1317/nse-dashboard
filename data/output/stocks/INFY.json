@@ -40,22 +40,7 @@
     "flag_count": 2,
     "flag_total": 8
   },
-  "fundamentals": {
-    "pe_trailing": 14.1723,
-    "pe_forward": 13.1202545,
-    "eps_trailing": 75.45,
-    "eps_forward": 81.49995,
-    "roe": 0.31439,
-    "profit_margin": 0.16434999,
-    "gross_margin": 0.29517,
-    "operating_margin": 0.20928,
-    "market_cap": 4329518923776,
-    "current_price": 1069.3,
-    "sector": "Technology",
-    "name": "Infosys Limited",
-    "roce": 0.41655992680695336,
-    "revenue_growth_yoy": 0.04570213207449292
-  },
+  "fundamentals": null,
   "shareholding": null,
-  "updated_at": "2026-07-08T16:40:12.822419+00:00"
+  "updated_at": "2026-07-08T17:03:43.695669+00:00"
 }

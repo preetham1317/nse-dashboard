@@ -44,22 +44,7 @@
     "flag_count": 6,
     "flag_total": 8
   },
-  "fundamentals": {
-    "pe_trailing": 42.63039,
-    "pe_forward": 23.115463,
-    "eps_trailing": 44.29,
-    "eps_forward": 81.68125,
-    "roe": 0.19358999,
-    "profit_margin": 0.12652999,
-    "gross_margin": 0.67652,
-    "operating_margin": 0.32227,
-    "market_cap": 11779209953280,
-    "current_price": 1888.1,
-    "sector": "Communication Services",
-    "name": "Bharti Airtel Limited",
-    "roce": 0.17669462319066617,
-    "revenue_growth_yoy": 0.21960028950453564
-  },
+  "fundamentals": null,
   "shareholding": null,
-  "updated_at": "2026-07-08T16:40:00.272636+00:00"
+  "updated_at": "2026-07-08T17:03:30.174723+00:00"
 }

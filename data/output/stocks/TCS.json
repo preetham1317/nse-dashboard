@@ -39,22 +39,7 @@
     "flag_count": 1,
     "flag_total": 8
   },
-  "fundamentals": {
-    "pe_trailing": 15.1242285,
-    "pe_forward": 12.559977,
-    "eps_trailing": 136.04,
-    "eps_forward": 163.814,
-    "roe": 0.48395002,
-    "profit_margin": 0.18429,
-    "gross_margin": 0.40307,
-    "operating_margin": 0.25288,
-    "market_cap": 7444214841344,
-    "current_price": 2057.5,
-    "sector": "Technology",
-    "name": "Tata Consultancy Services Limited",
-    "roce": 0.5492762930395693,
-    "revenue_growth_yoy": 0.04581237956478827
-  },
+  "fundamentals": null,
   "shareholding": null,
-  "updated_at": "2026-07-08T16:40:30.985356+00:00"
+  "updated_at": "2026-07-08T17:04:07.587774+00:00"
 }

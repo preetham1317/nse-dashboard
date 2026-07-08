@@ -40,22 +40,7 @@
     "flag_count": 2,
     "flag_total": 8
   },
-  "fundamentals": {
-    "pe_trailing": 21.757227,
-    "pe_forward": 10.010638,
-    "eps_trailing": 8.65,
-    "eps_forward": 18.8,
-    "roe": 0.11156999,
-    "profit_margin": 0.0465,
-    "gross_margin": 0.55947,
-    "operating_margin": 0.09698,
-    "market_cap": 2347201724416,
-    "current_price": 188.2,
-    "sector": "Basic Materials",
-    "name": "Tata Steel Limited",
-    "roce": 0.11322379211111946,
-    "revenue_growth_yoy": 0.06204158958422637
-  },
+  "fundamentals": null,
   "shareholding": null,
-  "updated_at": "2026-07-08T16:40:28.997233+00:00"
+  "updated_at": "2026-07-08T17:04:05.670111+00:00"
 }

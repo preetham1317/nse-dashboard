@@ -37,22 +37,7 @@
     "flag_count": 0,
     "flag_total": 8
   },
-  "fundamentals": {
-    "pe_trailing": null,
-    "pe_forward": 6.3605733,
-    "eps_trailing": -4.42,
-    "eps_forward": 52.20441,
-    "roe": -0.01118,
-    "profit_margin": 0.24288,
-    "gross_margin": 0.4619,
-    "operating_margin": 0.06176,
-    "market_cap": 1222801620992,
-    "current_price": 332.05,
-    "sector": "Consumer Cyclical",
-    "name": "Tata Motors Passenger Vehicles Limited",
-    "roce": 0.005532655996544388,
-    "revenue_growth_yoy": -0.08281749503419664
-  },
+  "fundamentals": null,
   "shareholding": null,
-  "updated_at": "2026-07-08T16:40:33.811791+00:00"
+  "updated_at": "2026-07-08T17:04:11.385635+00:00"
 }

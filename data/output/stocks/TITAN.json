@@ -45,22 +45,7 @@
     "flag_count": 7,
     "flag_total": 8
   },
-  "fundamentals": {
-    "pe_trailing": 80.33631,
-    "pe_forward": 53.763615,
-    "eps_trailing": 57.09,
-    "eps_forward": 85.30676,
-    "roe": 0.37127998,
-    "profit_margin": 0.057919998,
-    "gross_margin": 0.19669001,
-    "operating_margin": 0.06356,
-    "market_cap": 4068344332288,
-    "current_price": 4586.4,
-    "sector": "Consumer Cyclical",
-    "name": "Titan Company Limited",
-    "roce": 0.38429314329738057,
-    "revenue_growth_yoy": 0.4478921357258947
-  },
+  "fundamentals": null,
   "shareholding": null,
-  "updated_at": "2026-07-08T16:40:32.442091+00:00"
+  "updated_at": "2026-07-08T17:04:09.504734+00:00"
 }

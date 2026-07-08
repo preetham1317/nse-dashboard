@@ -39,22 +39,7 @@
     "flag_count": 1,
     "flag_total": 8
   },
-  "fundamentals": {
-    "pe_trailing": 13.751592,
-    "pe_forward": 12.045218,
-    "eps_trailing": 12.56,
-    "eps_forward": 14.3393,
-    "roe": 0.15439999,
-    "profit_margin": 0.14248,
-    "gross_margin": 0.29155,
-    "operating_margin": 0.1718,
-    "market_cap": 1708484853760,
-    "current_price": 172.72,
-    "sector": "Technology",
-    "name": "Wipro Limited",
-    "roce": 0.17847012391366396,
-    "revenue_growth_yoy": 0.039686423821732125
-  },
+  "fundamentals": null,
   "shareholding": null,
-  "updated_at": "2026-07-08T16:40:36.820585+00:00"
+  "updated_at": "2026-07-08T17:04:15.137574+00:00"
 }

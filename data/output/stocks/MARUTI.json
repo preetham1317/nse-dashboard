@@ -45,22 +45,7 @@
     "flag_count": 7,
     "flag_total": 8
   },
-  "fundamentals": {
-    "pe_trailing": 29.894785,
-    "pe_forward": 22.479586,
-    "eps_trailing": 466.67,
-    "eps_forward": 620.60754,
-    "roe": 0.14434,
-    "profit_margin": 0.08008,
-    "gross_margin": 0.27837,
-    "operating_margin": 0.08406,
-    "market_cap": 4386230108160,
-    "current_price": 13951.0,
-    "sector": "Consumer Cyclical",
-    "name": "Maruti Suzuki India Limited",
-    "roce": 0.1722158561149031,
-    "revenue_growth_yoy": 0.1978969895507042
-  },
+  "fundamentals": null,
   "shareholding": null,
-  "updated_at": "2026-07-08T16:40:19.064940+00:00"
+  "updated_at": "2026-07-08T17:03:51.622020+00:00"
 }

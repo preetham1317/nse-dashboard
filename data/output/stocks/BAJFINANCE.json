@@ -46,22 +46,7 @@
     "flag_count": 8,
     "flag_total": 8
   },
-  "fundamentals": {
-    "pe_trailing": 33.07365,
-    "pe_forward": 20.37089,
-    "eps_trailing": 30.55,
-    "eps_forward": 49.60019,
-    "roe": 0.17907,
-    "profit_margin": 0.43383998,
-    "gross_margin": 0.91655,
-    "operating_margin": 0.60647,
-    "market_cap": 6282542579712,
-    "current_price": 1010.4,
-    "sector": "Financial Services",
-    "name": "Bajaj Finance Limited",
-    "roce": null,
-    "revenue_growth_yoy": 0.19734727240422212
-  },
+  "fundamentals": null,
   "shareholding": null,
-  "updated_at": "2026-07-08T16:39:57.296680+00:00"
+  "updated_at": "2026-07-08T17:03:26.123591+00:00"
 }
