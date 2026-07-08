@@ -1,30 +1,5 @@
 [
   {
-    "symbol": "RELIANCE",
-    "name": "Reliance Industries",
-    "sector": "Energy"
-  },
-  {
-    "symbol": "TCS",
-    "name": "Tata Consultancy Services",
-    "sector": "IT"
-  },
-  {
-    "symbol": "INFY",
-    "name": "Infosys",
-    "sector": "IT"
-  },
-  {
-    "symbol": "WIPRO",
-    "name": "Wipro",
-    "sector": "IT"
-  },
-  {
-    "symbol": "HCLTECH",
-    "name": "HCL Technologies",
-    "sector": "IT"
-  },
-  {
     "symbol": "HDFCBANK",
     "name": "HDFC Bank",
     "sector": "Banking"
@@ -40,13 +15,58 @@
     "sector": "Banking"
   },
   {
+    "symbol": "AXISBANK",
+    "name": "Axis Bank",
+    "sector": "Banking"
+  },
+  {
     "symbol": "KOTAKBANK",
     "name": "Kotak Mahindra Bank",
     "sector": "Banking"
   },
   {
-    "symbol": "AXISBANK",
-    "name": "Axis Bank",
+    "symbol": "INDUSINDBK",
+    "name": "IndusInd Bank",
+    "sector": "Banking"
+  },
+  {
+    "symbol": "BANKBARODA",
+    "name": "Bank of Baroda",
+    "sector": "Banking"
+  },
+  {
+    "symbol": "PNB",
+    "name": "Punjab National Bank",
+    "sector": "Banking"
+  },
+  {
+    "symbol": "CANBK",
+    "name": "Canara Bank",
+    "sector": "Banking"
+  },
+  {
+    "symbol": "FEDERALBNK",
+    "name": "Federal Bank",
+    "sector": "Banking"
+  },
+  {
+    "symbol": "AUBANK",
+    "name": "AU Small Finance Bank",
+    "sector": "Banking"
+  },
+  {
+    "symbol": "IDFCFIRSTB",
+    "name": "IDFC First Bank",
+    "sector": "Banking"
+  },
+  {
+    "symbol": "YESBANK",
+    "name": "Yes Bank",
+    "sector": "Banking"
+  },
+  {
+    "symbol": "UJJIVANSFB",
+    "name": "Ujjivan Small Finance Bank",
     "sector": "Banking"
   },
   {
@@ -55,19 +75,289 @@
     "sector": "NBFC"
   },
   {
-    "symbol": "ITC",
-    "name": "ITC Ltd",
-    "sector": "FMCG"
+    "symbol": "BAJAJFINSV",
+    "name": "Bajaj Finserv",
+    "sector": "NBFC"
   },
   {
-    "symbol": "HINDUNILVR",
-    "name": "Hindustan Unilever",
-    "sector": "FMCG"
+    "symbol": "JIOFIN",
+    "name": "Jio Financial Services",
+    "sector": "NBFC"
   },
   {
-    "symbol": "NESTLEIND",
-    "name": "Nestle India",
-    "sector": "FMCG"
+    "symbol": "SHRIRAMFIN",
+    "name": "Shriram Finance",
+    "sector": "NBFC"
+  },
+  {
+    "symbol": "CHOLAFIN",
+    "name": "Cholamandalam Investment and Finance",
+    "sector": "NBFC"
+  },
+  {
+    "symbol": "MUTHOOTFIN",
+    "name": "Muthoot Finance",
+    "sector": "NBFC"
+  },
+  {
+    "symbol": "LICHSGFIN",
+    "name": "LIC Housing Finance",
+    "sector": "NBFC"
+  },
+  {
+    "symbol": "PFC",
+    "name": "Power Finance Corporation",
+    "sector": "NBFC"
+  },
+  {
+    "symbol": "RECLTD",
+    "name": "REC Limited",
+    "sector": "NBFC"
+  },
+  {
+    "symbol": "IRFC",
+    "name": "Indian Railway Finance Corporation",
+    "sector": "NBFC"
+  },
+  {
+    "symbol": "TCS",
+    "name": "Tata Consultancy Services",
+    "sector": "IT"
+  },
+  {
+    "symbol": "INFY",
+    "name": "Infosys",
+    "sector": "IT"
+  },
+  {
+    "symbol": "HCLTECH",
+    "name": "HCL Technologies",
+    "sector": "IT"
+  },
+  {
+    "symbol": "WIPRO",
+    "name": "Wipro",
+    "sector": "IT"
+  },
+  {
+    "symbol": "TECHM",
+    "name": "Tech Mahindra",
+    "sector": "IT"
+  },
+  {
+    "symbol": "LTIM",
+    "name": "LTIMindtree",
+    "sector": "IT"
+  },
+  {
+    "symbol": "PERSISTENT",
+    "name": "Persistent Systems",
+    "sector": "IT"
+  },
+  {
+    "symbol": "COFORGE",
+    "name": "Coforge",
+    "sector": "IT"
+  },
+  {
+    "symbol": "MPHASIS",
+    "name": "Mphasis",
+    "sector": "IT"
+  },
+  {
+    "symbol": "OFSS",
+    "name": "Oracle Financial Services Software",
+    "sector": "IT"
+  },
+  {
+    "symbol": "KPITTECH",
+    "name": "KPIT Technologies",
+    "sector": "IT"
+  },
+  {
+    "symbol": "LTTS",
+    "name": "L&T Technology Services",
+    "sector": "IT"
+  },
+  {
+    "symbol": "NTPC",
+    "name": "NTPC Ltd",
+    "sector": "Power"
+  },
+  {
+    "symbol": "POWERGRID",
+    "name": "Power Grid Corporation",
+    "sector": "Power"
+  },
+  {
+    "symbol": "ADANIPOWER",
+    "name": "Adani Power",
+    "sector": "Power"
+  },
+  {
+    "symbol": "TATAPOWER",
+    "name": "Tata Power",
+    "sector": "Power"
+  },
+  {
+    "symbol": "JSWENERGY",
+    "name": "JSW Energy",
+    "sector": "Power"
+  },
+  {
+    "symbol": "NHPC",
+    "name": "NHPC Ltd",
+    "sector": "Power"
+  },
+  {
+    "symbol": "SJVN",
+    "name": "SJVN Ltd",
+    "sector": "Power"
+  },
+  {
+    "symbol": "NLCINDIA",
+    "name": "NLC India",
+    "sector": "Power"
+  },
+  {
+    "symbol": "TORNTPOWER",
+    "name": "Torrent Power",
+    "sector": "Power"
+  },
+  {
+    "symbol": "CESC",
+    "name": "CESC Ltd",
+    "sector": "Power"
+  },
+  {
+    "symbol": "RELIANCE",
+    "name": "Reliance Industries",
+    "sector": "Energy"
+  },
+  {
+    "symbol": "ONGC",
+    "name": "Oil & Natural Gas Corporation",
+    "sector": "Energy"
+  },
+  {
+    "symbol": "IOC",
+    "name": "Indian Oil Corporation",
+    "sector": "Energy"
+  },
+  {
+    "symbol": "BPCL",
+    "name": "Bharat Petroleum Corporation",
+    "sector": "Energy"
+  },
+  {
+    "symbol": "HINDPETRO",
+    "name": "Hindustan Petroleum Corporation",
+    "sector": "Energy"
+  },
+  {
+    "symbol": "OIL",
+    "name": "Oil India Ltd",
+    "sector": "Energy"
+  },
+  {
+    "symbol": "GAIL",
+    "name": "GAIL (India) Ltd",
+    "sector": "Energy"
+  },
+  {
+    "symbol": "PETRONET",
+    "name": "Petronet LNG",
+    "sector": "Energy"
+  },
+  {
+    "symbol": "IGL",
+    "name": "Indraprastha Gas",
+    "sector": "Energy"
+  },
+  {
+    "symbol": "MGL",
+    "name": "Mahanagar Gas",
+    "sector": "Energy"
+  },
+  {
+    "symbol": "HAL",
+    "name": "Hindustan Aeronautics",
+    "sector": "Defence"
+  },
+  {
+    "symbol": "BEL",
+    "name": "Bharat Electronics",
+    "sector": "Defence"
+  },
+  {
+    "symbol": "BDL",
+    "name": "Bharat Dynamics",
+    "sector": "Defence"
+  },
+  {
+    "symbol": "MAZDOCK",
+    "name": "Mazagon Dock Shipbuilders",
+    "sector": "Defence"
+  },
+  {
+    "symbol": "COCHINSHIP",
+    "name": "Cochin Shipyard",
+    "sector": "Defence"
+  },
+  {
+    "symbol": "GRSE",
+    "name": "Garden Reach Shipbuilders & Engineers",
+    "sector": "Defence"
+  },
+  {
+    "symbol": "BEML",
+    "name": "BEML Ltd",
+    "sector": "Defence"
+  },
+  {
+    "symbol": "PARAS",
+    "name": "Paras Defence and Space Technologies",
+    "sector": "Defence"
+  },
+  {
+    "symbol": "ASTRAMICRO",
+    "name": "Astra Microwave Products",
+    "sector": "Defence"
+  },
+  {
+    "symbol": "IRCTC",
+    "name": "Indian Railway Catering and Tourism Corporation",
+    "sector": "Railways"
+  },
+  {
+    "symbol": "RVNL",
+    "name": "Rail Vikas Nigam",
+    "sector": "Railways"
+  },
+  {
+    "symbol": "RAILTEL",
+    "name": "RailTel Corporation of India",
+    "sector": "Railways"
+  },
+  {
+    "symbol": "IRCON",
+    "name": "Ircon International",
+    "sector": "Railways"
+  },
+  {
+    "symbol": "TITAGARH",
+    "name": "Titagarh Rail Systems",
+    "sector": "Railways"
+  },
+  {
+    "symbol": "TEXRAIL",
+    "name": "Texmaco Rail & Engineering",
+    "sector": "Railways"
+  },
+  {
+    "symbol": "JWL",
+    "name": "Jupiter Wagons",
+    "sector": "Railways"
   },
   {
     "symbol": "LT",
@@ -75,18 +365,53 @@
     "sector": "Infrastructure"
   },
   {
-    "symbol": "ASIANPAINT",
-    "name": "Asian Paints",
-    "sector": "Consumer Durables"
+    "symbol": "NBCC",
+    "name": "NBCC (India) Ltd",
+    "sector": "Infrastructure"
   },
   {
-    "symbol": "TITAN",
-    "name": "Titan Company",
-    "sector": "Consumer Durables"
+    "symbol": "KEC",
+    "name": "KEC International",
+    "sector": "Infrastructure"
+  },
+  {
+    "symbol": "KNRCON",
+    "name": "KNR Constructions",
+    "sector": "Infrastructure"
+  },
+  {
+    "symbol": "ASHOKA",
+    "name": "Ashoka Buildcon",
+    "sector": "Infrastructure"
+  },
+  {
+    "symbol": "NCC",
+    "name": "NCC Ltd",
+    "sector": "Infrastructure"
+  },
+  {
+    "symbol": "PNCINFRA",
+    "name": "PNC Infratech",
+    "sector": "Infrastructure"
+  },
+  {
+    "symbol": "IRB",
+    "name": "IRB Infrastructure Developers",
+    "sector": "Infrastructure"
+  },
+  {
+    "symbol": "HGINFRA",
+    "name": "HG Infra Engineering",
+    "sector": "Infrastructure"
   },
   {
     "symbol": "MARUTI",
     "name": "Maruti Suzuki",
+    "sector": "Auto"
+  },
+  {
+    "symbol": "M&M",
+    "name": "Mahindra & Mahindra",
     "sector": "Auto"
   },
   {
@@ -95,8 +420,73 @@
     "sector": "Auto"
   },
   {
+    "symbol": "BAJAJ-AUTO",
+    "name": "Bajaj Auto",
+    "sector": "Auto"
+  },
+  {
+    "symbol": "HEROMOTOCO",
+    "name": "Hero MotoCorp",
+    "sector": "Auto"
+  },
+  {
+    "symbol": "TVSMOTOR",
+    "name": "TVS Motor Company",
+    "sector": "Auto"
+  },
+  {
+    "symbol": "EICHERMOT",
+    "name": "Eicher Motors",
+    "sector": "Auto"
+  },
+  {
+    "symbol": "ASHOKLEY",
+    "name": "Ashok Leyland",
+    "sector": "Auto"
+  },
+  {
+    "symbol": "SONACOMS",
+    "name": "Sona BLW Precision Forgings",
+    "sector": "Auto"
+  },
+  {
+    "symbol": "EXIDEIND",
+    "name": "Exide Industries",
+    "sector": "Auto Ancillary"
+  },
+  {
+    "symbol": "AMARAJABAT",
+    "name": "Amara Raja Energy & Mobility",
+    "sector": "Auto Ancillary"
+  },
+  {
+    "symbol": "UNOMINDA",
+    "name": "UNO Minda",
+    "sector": "Auto Ancillary"
+  },
+  {
+    "symbol": "BOSCHLTD",
+    "name": "Bosch Ltd",
+    "sector": "Auto Ancillary"
+  },
+  {
+    "symbol": "MOTHERSON",
+    "name": "Samvardhana Motherson International",
+    "sector": "Auto Ancillary"
+  },
+  {
+    "symbol": "BALKRISIND",
+    "name": "Balkrishna Industries",
+    "sector": "Auto Ancillary"
+  },
+  {
     "symbol": "SUNPHARMA",
     "name": "Sun Pharma",
+    "sector": "Pharma"
+  },
+  {
+    "symbol": "CIPLA",
+    "name": "Cipla Ltd",
     "sector": "Pharma"
   },
   {
@@ -105,9 +495,139 @@
     "sector": "Pharma"
   },
   {
-    "symbol": "ULTRACEMCO",
-    "name": "UltraTech Cement",
-    "sector": "Cement"
+    "symbol": "DIVISLAB",
+    "name": "Divi's Laboratories",
+    "sector": "Pharma"
+  },
+  {
+    "symbol": "LUPIN",
+    "name": "Lupin Ltd",
+    "sector": "Pharma"
+  },
+  {
+    "symbol": "TORNTPHARM",
+    "name": "Torrent Pharmaceuticals",
+    "sector": "Pharma"
+  },
+  {
+    "symbol": "AUROPHARMA",
+    "name": "Aurobindo Pharma",
+    "sector": "Pharma"
+  },
+  {
+    "symbol": "MANKIND",
+    "name": "Mankind Pharma",
+    "sector": "Pharma"
+  },
+  {
+    "symbol": "ZYDUSLIFE",
+    "name": "Zydus Lifesciences",
+    "sector": "Pharma"
+  },
+  {
+    "symbol": "ABBOTINDIA",
+    "name": "Abbott India",
+    "sector": "Pharma"
+  },
+  {
+    "symbol": "APOLLOHOSP",
+    "name": "Apollo Hospitals Enterprise",
+    "sector": "Healthcare"
+  },
+  {
+    "symbol": "MAXHEALTH",
+    "name": "Max Healthcare Institute",
+    "sector": "Healthcare"
+  },
+  {
+    "symbol": "FORTIS",
+    "name": "Fortis Healthcare",
+    "sector": "Healthcare"
+  },
+  {
+    "symbol": "NARAYANA",
+    "name": "Narayana Hrudayalaya",
+    "sector": "Healthcare"
+  },
+  {
+    "symbol": "MEDANTA",
+    "name": "Global Health Ltd",
+    "sector": "Healthcare"
+  },
+  {
+    "symbol": "KIMS",
+    "name": "Krishna Institute of Medical Sciences",
+    "sector": "Healthcare"
+  },
+  {
+    "symbol": "PIDILITIND",
+    "name": "Pidilite Industries",
+    "sector": "Chemicals"
+  },
+  {
+    "symbol": "SRF",
+    "name": "SRF Ltd",
+    "sector": "Chemicals"
+  },
+  {
+    "symbol": "DEEPAKNTR",
+    "name": "Deepak Nitrite",
+    "sector": "Chemicals"
+  },
+  {
+    "symbol": "AARTIIND",
+    "name": "Aarti Industries",
+    "sector": "Chemicals"
+  },
+  {
+    "symbol": "NAVINFLUOR",
+    "name": "Navin Fluorine International",
+    "sector": "Chemicals"
+  },
+  {
+    "symbol": "PIIND",
+    "name": "PI Industries",
+    "sector": "Chemicals"
+  },
+  {
+    "symbol": "TATACHEM",
+    "name": "Tata Chemicals",
+    "sector": "Chemicals"
+  },
+  {
+    "symbol": "DLF",
+    "name": "DLF Ltd",
+    "sector": "Realty"
+  },
+  {
+    "symbol": "LODHA",
+    "name": "Macrotech Developers",
+    "sector": "Realty"
+  },
+  {
+    "symbol": "GODREJPROP",
+    "name": "Godrej Properties",
+    "sector": "Realty"
+  },
+  {
+    "symbol": "PRESTIGE",
+    "name": "Prestige Estates Projects",
+    "sector": "Realty"
+  },
+  {
+    "symbol": "OBEROIRLTY",
+    "name": "Oberoi Realty",
+    "sector": "Realty"
+  },
+  {
+    "symbol": "BRIGADE",
+    "name": "Brigade Enterprises",
+    "sector": "Realty"
+  },
+  {
+    "symbol": "PHOENIXLTD",
+    "name": "Phoenix Mills",
+    "sector": "Realty"
   },
   {
     "symbol": "TATASTEEL",
@@ -115,14 +635,124 @@
     "sector": "Metals"
   },
   {
-    "symbol": "POWERGRID",
-    "name": "Power Grid Corporation",
-    "sector": "Power"
+    "symbol": "JSWSTEEL",
+    "name": "JSW Steel",
+    "sector": "Metals"
   },
   {
-    "symbol": "NTPC",
-    "name": "NTPC Ltd",
-    "sector": "Power"
+    "symbol": "HINDALCO",
+    "name": "Hindalco Industries",
+    "sector": "Metals"
+  },
+  {
+    "symbol": "SAIL",
+    "name": "Steel Authority of India",
+    "sector": "Metals"
+  },
+  {
+    "symbol": "JINDALSTEL",
+    "name": "Jindal Steel & Power",
+    "sector": "Metals"
+  },
+  {
+    "symbol": "NMDC",
+    "name": "NMDC Ltd",
+    "sector": "Metals"
+  },
+  {
+    "symbol": "VEDL",
+    "name": "Vedanta Ltd",
+    "sector": "Metals"
+  },
+  {
+    "symbol": "NALCO",
+    "name": "National Aluminium Company",
+    "sector": "Metals"
+  },
+  {
+    "symbol": "HINDUNILVR",
+    "name": "Hindustan Unilever",
+    "sector": "FMCG"
+  },
+  {
+    "symbol": "ITC",
+    "name": "ITC Ltd",
+    "sector": "FMCG"
+  },
+  {
+    "symbol": "NESTLEIND",
+    "name": "Nestle India",
+    "sector": "FMCG"
+  },
+  {
+    "symbol": "VBL",
+    "name": "Varun Beverages",
+    "sector": "FMCG"
+  },
+  {
+    "symbol": "TATACONSUM",
+    "name": "Tata Consumer Products",
+    "sector": "FMCG"
+  },
+  {
+    "symbol": "BRITANNIA",
+    "name": "Britannia Industries",
+    "sector": "FMCG"
+  },
+  {
+    "symbol": "DABUR",
+    "name": "Dabur India",
+    "sector": "FMCG"
+  },
+  {
+    "symbol": "COLPAL",
+    "name": "Colgate-Palmolive (India)",
+    "sector": "FMCG"
+  },
+  {
+    "symbol": "MARICO",
+    "name": "Marico Ltd",
+    "sector": "FMCG"
+  },
+  {
+    "symbol": "GODREJCP",
+    "name": "Godrej Consumer Products",
+    "sector": "FMCG"
+  },
+  {
+    "symbol": "ULTRACEMCO",
+    "name": "UltraTech Cement",
+    "sector": "Cement"
+  },
+  {
+    "symbol": "AMBUJACEM",
+    "name": "Ambuja Cements",
+    "sector": "Cement"
+  },
+  {
+    "symbol": "ACC",
+    "name": "ACC Ltd",
+    "sector": "Cement"
+  },
+  {
+    "symbol": "SHREECEM",
+    "name": "Shree Cement",
+    "sector": "Cement"
+  },
+  {
+    "symbol": "DALBHARAT",
+    "name": "Dalmia Bharat",
+    "sector": "Cement"
+  },
+  {
+    "symbol": "JKCEMENT",
+    "name": "JK Cement",
+    "sector": "Cement"
+  },
+  {
+    "symbol": "RAMCOCEM",
+    "name": "The Ramco Cements",
+    "sector": "Cement"
   },
   {
     "symbol": "BHARTIARTL",
@@ -130,13 +760,128 @@
     "sector": "Telecom"
   },
   {
-    "symbol": "BEL",
-    "name": "Bharat Electronics",
-    "sector": "Defence"
+    "symbol": "IDEA",
+    "name": "Vodafone Idea",
+    "sector": "Telecom"
   },
   {
-    "symbol": "HAL",
-    "name": "Hindustan Aeronautics",
-    "sector": "Defence"
+    "symbol": "INDUSTOWER",
+    "name": "Indus Towers",
+    "sector": "Telecom"
+  },
+  {
+    "symbol": "HFCL",
+    "name": "HFCL Ltd",
+    "sector": "Telecom"
+  },
+  {
+    "symbol": "DIXON",
+    "name": "Dixon Technologies (India)",
+    "sector": "Electronics"
+  },
+  {
+    "symbol": "KAYNES",
+    "name": "Kaynes Technology India",
+    "sector": "Electronics"
+  },
+  {
+    "symbol": "SYRMA",
+    "name": "Syrma SGS Technology",
+    "sector": "Electronics"
+  },
+  {
+    "symbol": "PGEL",
+    "name": "PG Electroplast",
+    "sector": "Electronics"
+  },
+  {
+    "symbol": "AMBER",
+    "name": "Amber Enterprises India",
+    "sector": "Electronics"
+  },
+  {
+    "symbol": "INDIGO",
+    "name": "InterGlobe Aviation",
+    "sector": "Aviation"
+  },
+  {
+    "symbol": "SPICEJET",
+    "name": "SpiceJet Ltd",
+    "sector": "Aviation"
+  },
+  {
+    "symbol": "ADANIPORTS",
+    "name": "Adani Ports and Special Economic Zone",
+    "sector": "Logistics"
+  },
+  {
+    "symbol": "CONCOR",
+    "name": "Container Corporation of India",
+    "sector": "Logistics"
+  },
+  {
+    "symbol": "DELHIVERY",
+    "name": "Delhivery Ltd",
+    "sector": "Logistics"
+  },
+  {
+    "symbol": "TCI",
+    "name": "Transport Corporation of India",
+    "sector": "Logistics"
+  },
+  {
+    "symbol": "BLUEDART",
+    "name": "Blue Dart Express",
+    "sector": "Logistics"
+  },
+  {
+    "symbol": "UPL",
+    "name": "UPL Ltd",
+    "sector": "Agri & Fertilizers"
+  },
+  {
+    "symbol": "COROMANDEL",
+    "name": "Coromandel International",
+    "sector": "Agri & Fertilizers"
+  },
+  {
+    "symbol": "FACT",
+    "name": "Fertilizers and Chemicals Travancore",
+    "sector": "Agri & Fertilizers"
+  },
+  {
+    "symbol": "CHAMBLFERT",
+    "name": "Chambal Fertilisers and Chemicals",
+    "sector": "Agri & Fertilizers"
+  },
+  {
+    "symbol": "GNFC",
+    "name": "Gujarat Narmada Valley Fertilizers & Chemicals",
+    "sector": "Agri & Fertilizers"
+  },
+  {
+    "symbol": "RCF",
+    "name": "Rashtriya Chemicals & Fertilizers",
+    "sector": "Agri & Fertilizers"
+  },
+  {
+    "symbol": "TITAN",
+    "name": "Titan Company",
+    "sector": "Jewellery"
+  },
+  {
+    "symbol": "KALYANKJIL",
+    "name": "Kalyan Jewellers India",
+    "sector": "Jewellery"
+  },
+  {
+    "symbol": "SENCO",
+    "name": "Senco Gold Ltd",
+    "sector": "Jewellery"
+  },
+  {
+    "symbol": "ASIANPAINT",
+    "name": "Asian Paints",
+    "sector": "Consumer Durables"
   }
 ]
