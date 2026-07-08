@@ -1,0 +1,56 @@
+{
+  "symbol": "TITAGARH",
+  "name": "Titagarh Rail Systems",
+  "sector": "Railways",
+  "indicators": {
+    "date": "2026-07-08",
+    "close": 817.05,
+    "prev_close": 851.35,
+    "change_pct": -4.028895283960776,
+    "ema20": 868.0726975872271,
+    "ema50": 834.8598890664115,
+    "ema200": 804.7181016246111,
+    "rsi14": 39.00535667240117,
+    "macd": 6.800114510583398,
+    "macd_signal": 18.628006075084592,
+    "atr14": 29.745300800480727,
+    "adx14": 17.206229079247468,
+    "adx_pos": 20.20066177579598,
+    "adx_neg": 29.197757932860863,
+    "bb_high": 947.8624038098177,
+    "bb_low": 815.3125961901823,
+    "bb_mid": 881.5875,
+    "vwap20": 896.7878244677349
+  },
+  "flags": {
+    "flags": {
+      "price_above_ema20": false,
+      "ema20_above_ema50": true,
+      "ema50_above_ema200": true,
+      "rsi_above_50": false,
+      "macd_bullish": false,
+      "adx_trending_up": false,
+      "price_above_vwap20": false,
+      "price_above_bb_mid": false
+    },
+    "flags_detail": {
+      "price_above_ema20": "Close 817.05 vs EMA20 868.07",
+      "ema20_above_ema50": "EMA20 868.07 vs EMA50 834.86",
+      "ema50_above_ema200": "EMA50 834.86 vs EMA200 804.72",
+      "rsi_above_50": "RSI(14) 39.01 vs 50",
+      "macd_bullish": "MACD 6.80 vs signal 18.63",
+      "adx_trending_up": "ADX(14) 17.21 vs 20, +DI 20.20 vs -DI 29.20",
+      "price_above_vwap20": "Close 817.05 vs 20d VWAP 896.79",
+      "price_above_bb_mid": "Close 817.05 vs BB mid 881.59"
+    },
+    "flags_on": [
+      "ema20_above_ema50",
+      "ema50_above_ema200"
+    ],
+    "flag_count": 2,
+    "flag_total": 8
+  },
+  "fundamentals": null,
+  "shareholding": null,
+  "updated_at": "2026-07-08T19:01:52.200564+00:00"
+}

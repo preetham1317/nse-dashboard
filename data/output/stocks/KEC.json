@@ -1,0 +1,53 @@
+{
+  "symbol": "KEC",
+  "name": "KEC International",
+  "sector": "Infrastructure",
+  "indicators": {
+    "date": "2026-07-08",
+    "close": 486.95,
+    "prev_close": 498.4,
+    "change_pct": -2.2973515248796126,
+    "ema20": 513.3482892208293,
+    "ema50": 525.4369141942112,
+    "ema200": 618.6332198683762,
+    "rsi14": 36.30616216884348,
+    "macd": -4.605051270459853,
+    "macd_signal": -1.4258898999874883,
+    "atr14": 16.84185224050898,
+    "adx14": 16.739474497284984,
+    "adx_pos": 14.475662581053268,
+    "adx_neg": 27.143876928238175,
+    "bb_high": 549.9883332915048,
+    "bb_low": 483.5716667084951,
+    "bb_mid": 516.78,
+    "vwap20": 523.3833760673098
+  },
+  "flags": {
+    "flags": {
+      "price_above_ema20": false,
+      "ema20_above_ema50": false,
+      "ema50_above_ema200": false,
+      "rsi_above_50": false,
+      "macd_bullish": false,
+      "adx_trending_up": false,
+      "price_above_vwap20": false,
+      "price_above_bb_mid": false
+    },
+    "flags_detail": {
+      "price_above_ema20": "Close 486.95 vs EMA20 513.35",
+      "ema20_above_ema50": "EMA20 513.35 vs EMA50 525.44",
+      "ema50_above_ema200": "EMA50 525.44 vs EMA200 618.63",
+      "rsi_above_50": "RSI(14) 36.31 vs 50",
+      "macd_bullish": "MACD -4.61 vs signal -1.43",
+      "adx_trending_up": "ADX(14) 16.74 vs 20, +DI 14.48 vs -DI 27.14",
+      "price_above_vwap20": "Close 486.95 vs 20d VWAP 523.38",
+      "price_above_bb_mid": "Close 486.95 vs BB mid 516.78"
+    },
+    "flags_on": [],
+    "flag_count": 0,
+    "flag_total": 8
+  },
+  "fundamentals": null,
+  "shareholding": null,
+  "updated_at": "2026-07-08T18:59:36.577810+00:00"
+}

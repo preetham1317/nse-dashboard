@@ -1,0 +1,53 @@
+{
+  "symbol": "IGL",
+  "name": "Indraprastha Gas",
+  "sector": "Energy",
+  "indicators": {
+    "date": "2026-07-08",
+    "close": 150.12,
+    "prev_close": 152.28,
+    "change_pct": -1.4184397163120543,
+    "ema20": 160.21757672328985,
+    "ema50": 162.03962325468828,
+    "ema200": 174.2901345904861,
+    "rsi14": 30.996837822161424,
+    "macd": -2.8361089221520785,
+    "macd_signal": -0.7421759999258439,
+    "atr14": 4.460470918711348,
+    "adx14": 21.37023604245899,
+    "adx_pos": 14.915086097178964,
+    "adx_neg": 31.749410706749874,
+    "bb_high": 176.92446511518415,
+    "bb_low": 149.28353488481588,
+    "bb_mid": 163.104,
+    "vwap20": 164.1353798933272
+  },
+  "flags": {
+    "flags": {
+      "price_above_ema20": false,
+      "ema20_above_ema50": false,
+      "ema50_above_ema200": false,
+      "rsi_above_50": false,
+      "macd_bullish": false,
+      "adx_trending_up": false,
+      "price_above_vwap20": false,
+      "price_above_bb_mid": false
+    },
+    "flags_detail": {
+      "price_above_ema20": "Close 150.12 vs EMA20 160.22",
+      "ema20_above_ema50": "EMA20 160.22 vs EMA50 162.04",
+      "ema50_above_ema200": "EMA50 162.04 vs EMA200 174.29",
+      "rsi_above_50": "RSI(14) 31.00 vs 50",
+      "macd_bullish": "MACD -2.84 vs signal -0.74",
+      "adx_trending_up": "ADX(14) 21.37 vs 20, +DI 14.92 vs -DI 31.75",
+      "price_above_vwap20": "Close 150.12 vs 20d VWAP 164.14",
+      "price_above_bb_mid": "Close 150.12 vs BB mid 163.10"
+    },
+    "flags_on": [],
+    "flag_count": 0,
+    "flag_total": 8
+  },
+  "fundamentals": null,
+  "shareholding": null,
+  "updated_at": "2026-07-08T18:59:11.664243+00:00"
+}

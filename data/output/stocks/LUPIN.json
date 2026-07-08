@@ -1,0 +1,62 @@
+{
+  "symbol": "LUPIN",
+  "name": "Lupin Ltd",
+  "sector": "Pharma",
+  "indicators": {
+    "date": "2026-07-08",
+    "close": 2459.0,
+    "prev_close": 2490.2,
+    "change_pct": -1.2529114127379255,
+    "ema20": 2385.75892347049,
+    "ema50": 2335.9587435412486,
+    "ema200": 2213.669330486878,
+    "rsi14": 65.55683653585905,
+    "macd": 48.707611475520935,
+    "macd_signal": 35.195673436075204,
+    "atr14": 50.12736747190909,
+    "adx14": 27.123316370949677,
+    "adx_pos": 27.056467739363992,
+    "adx_neg": 13.080215278493798,
+    "bb_high": 2514.8652768243296,
+    "bb_low": 2211.78472317567,
+    "bb_mid": 2363.325,
+    "vwap20": 2368.7072026478354
+  },
+  "flags": {
+    "flags": {
+      "price_above_ema20": true,
+      "ema20_above_ema50": true,
+      "ema50_above_ema200": true,
+      "rsi_above_50": true,
+      "macd_bullish": true,
+      "adx_trending_up": true,
+      "price_above_vwap20": true,
+      "price_above_bb_mid": true
+    },
+    "flags_detail": {
+      "price_above_ema20": "Close 2,459.00 vs EMA20 2,385.76",
+      "ema20_above_ema50": "EMA20 2,385.76 vs EMA50 2,335.96",
+      "ema50_above_ema200": "EMA50 2,335.96 vs EMA200 2,213.67",
+      "rsi_above_50": "RSI(14) 65.56 vs 50",
+      "macd_bullish": "MACD 48.71 vs signal 35.20",
+      "adx_trending_up": "ADX(14) 27.12 vs 20, +DI 27.06 vs -DI 13.08",
+      "price_above_vwap20": "Close 2,459.00 vs 20d VWAP 2,368.71",
+      "price_above_bb_mid": "Close 2,459.00 vs BB mid 2,363.32"
+    },
+    "flags_on": [
+      "price_above_ema20",
+      "ema20_above_ema50",
+      "ema50_above_ema200",
+      "rsi_above_50",
+      "macd_bullish",
+      "adx_trending_up",
+      "price_above_vwap20",
+      "price_above_bb_mid"
+    ],
+    "flag_count": 8,
+    "flag_total": 8
+  },
+  "fundamentals": null,
+  "shareholding": null,
+  "updated_at": "2026-07-08T18:59:48.325244+00:00"
+}

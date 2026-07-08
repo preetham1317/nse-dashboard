@@ -1,0 +1,61 @@
+{
+  "symbol": "ASTRAMICRO",
+  "name": "Astra Microwave Products",
+  "sector": "Defence",
+  "indicators": {
+    "date": "2026-07-08",
+    "close": 1809.3,
+    "prev_close": 1782.2,
+    "change_pct": 1.5205925260913427,
+    "ema20": 1669.7324966617728,
+    "ema50": 1458.1864860899343,
+    "ema200": 1148.4677270796344,
+    "rsi14": 73.00176211072869,
+    "macd": 128.098856987795,
+    "macd_signal": 128.36904168398888,
+    "atr14": 70.75114598924061,
+    "adx14": 47.741454836458786,
+    "adx_pos": 30.212266377021386,
+    "adx_neg": 12.308254445665126,
+    "bb_high": 1946.1670731728225,
+    "bb_low": 1374.4929268271774,
+    "bb_mid": 1660.33,
+    "vwap20": 1651.625027836021
+  },
+  "flags": {
+    "flags": {
+      "price_above_ema20": true,
+      "ema20_above_ema50": true,
+      "ema50_above_ema200": true,
+      "rsi_above_50": true,
+      "macd_bullish": false,
+      "adx_trending_up": true,
+      "price_above_vwap20": true,
+      "price_above_bb_mid": true
+    },
+    "flags_detail": {
+      "price_above_ema20": "Close 1,809.30 vs EMA20 1,669.73",
+      "ema20_above_ema50": "EMA20 1,669.73 vs EMA50 1,458.19",
+      "ema50_above_ema200": "EMA50 1,458.19 vs EMA200 1,148.47",
+      "rsi_above_50": "RSI(14) 73.00 vs 50",
+      "macd_bullish": "MACD 128.10 vs signal 128.37",
+      "adx_trending_up": "ADX(14) 47.74 vs 20, +DI 30.21 vs -DI 12.31",
+      "price_above_vwap20": "Close 1,809.30 vs 20d VWAP 1,651.63",
+      "price_above_bb_mid": "Close 1,809.30 vs BB mid 1,660.33"
+    },
+    "flags_on": [
+      "price_above_ema20",
+      "ema20_above_ema50",
+      "ema50_above_ema200",
+      "rsi_above_50",
+      "adx_trending_up",
+      "price_above_vwap20",
+      "price_above_bb_mid"
+    ],
+    "flag_count": 7,
+    "flag_total": 8
+  },
+  "fundamentals": null,
+  "shareholding": null,
+  "updated_at": "2026-07-08T18:57:48.321123+00:00"
+}

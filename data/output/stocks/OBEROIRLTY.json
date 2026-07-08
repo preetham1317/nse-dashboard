@@ -1,0 +1,62 @@
+{
+  "symbol": "OBEROIRLTY",
+  "name": "Oberoi Realty",
+  "sector": "Realty",
+  "indicators": {
+    "date": "2026-07-08",
+    "close": 1870.1,
+    "prev_close": 1906.4,
+    "change_pct": -1.9041124632815871,
+    "ema20": 1784.143614237599,
+    "ema50": 1710.0661089060495,
+    "ema200": 1649.5181731241275,
+    "rsi14": 64.93485920288686,
+    "macd": 65.8232973365873,
+    "macd_signal": 47.26009134933126,
+    "atr14": 52.8596343149429,
+    "adx14": 32.136623319647164,
+    "adx_pos": 36.51749440289551,
+    "adx_neg": 18.095952379082487,
+    "bb_high": 1961.9265648527137,
+    "bb_low": 1537.9234351472862,
+    "bb_mid": 1749.925,
+    "vwap20": 1784.7744504021757
+  },
+  "flags": {
+    "flags": {
+      "price_above_ema20": true,
+      "ema20_above_ema50": true,
+      "ema50_above_ema200": true,
+      "rsi_above_50": true,
+      "macd_bullish": true,
+      "adx_trending_up": true,
+      "price_above_vwap20": true,
+      "price_above_bb_mid": true
+    },
+    "flags_detail": {
+      "price_above_ema20": "Close 1,870.10 vs EMA20 1,784.14",
+      "ema20_above_ema50": "EMA20 1,784.14 vs EMA50 1,710.07",
+      "ema50_above_ema200": "EMA50 1,710.07 vs EMA200 1,649.52",
+      "rsi_above_50": "RSI(14) 64.93 vs 50",
+      "macd_bullish": "MACD 65.82 vs signal 47.26",
+      "adx_trending_up": "ADX(14) 32.14 vs 20, +DI 36.52 vs -DI 18.10",
+      "price_above_vwap20": "Close 1,870.10 vs 20d VWAP 1,784.77",
+      "price_above_bb_mid": "Close 1,870.10 vs BB mid 1,749.92"
+    },
+    "flags_on": [
+      "price_above_ema20",
+      "ema20_above_ema50",
+      "ema50_above_ema200",
+      "rsi_above_50",
+      "macd_bullish",
+      "adx_trending_up",
+      "price_above_vwap20",
+      "price_above_bb_mid"
+    ],
+    "flag_count": 8,
+    "flag_total": 8
+  },
+  "fundamentals": null,
+  "shareholding": null,
+  "updated_at": "2026-07-08T19:00:43.654430+00:00"
+}

@@ -1,0 +1,61 @@
+{
+  "symbol": "DLF",
+  "name": "DLF Ltd",
+  "sector": "Realty",
+  "indicators": {
+    "date": "2026-07-08",
+    "close": 634.0,
+    "prev_close": 651.1,
+    "change_pct": -2.6263246813085583,
+    "ema20": 629.3167406582681,
+    "ema50": 610.0730989273103,
+    "ema200": 639.5267155995768,
+    "rsi14": 53.76031753255112,
+    "macd": 16.76042392766658,
+    "macd_signal": 14.836346375153648,
+    "atr14": 19.6644703646254,
+    "adx14": 24.013137842741845,
+    "adx_pos": 29.830971372232668,
+    "adx_neg": 24.758747206499052,
+    "bb_high": 683.6917968341371,
+    "bb_low": 566.428203165863,
+    "bb_mid": 625.0600000000001,
+    "vwap20": 632.1944181307912
+  },
+  "flags": {
+    "flags": {
+      "price_above_ema20": true,
+      "ema20_above_ema50": true,
+      "ema50_above_ema200": false,
+      "rsi_above_50": true,
+      "macd_bullish": true,
+      "adx_trending_up": true,
+      "price_above_vwap20": true,
+      "price_above_bb_mid": true
+    },
+    "flags_detail": {
+      "price_above_ema20": "Close 634.00 vs EMA20 629.32",
+      "ema20_above_ema50": "EMA20 629.32 vs EMA50 610.07",
+      "ema50_above_ema200": "EMA50 610.07 vs EMA200 639.53",
+      "rsi_above_50": "RSI(14) 53.76 vs 50",
+      "macd_bullish": "MACD 16.76 vs signal 14.84",
+      "adx_trending_up": "ADX(14) 24.01 vs 20, +DI 29.83 vs -DI 24.76",
+      "price_above_vwap20": "Close 634.00 vs 20d VWAP 632.19",
+      "price_above_bb_mid": "Close 634.00 vs BB mid 625.06"
+    },
+    "flags_on": [
+      "price_above_ema20",
+      "ema20_above_ema50",
+      "rsi_above_50",
+      "macd_bullish",
+      "adx_trending_up",
+      "price_above_vwap20",
+      "price_above_bb_mid"
+    ],
+    "flag_count": 7,
+    "flag_total": 8
+  },
+  "fundamentals": null,
+  "shareholding": null,
+  "updated_at": "2026-07-08T18:58:36.298601+00:00"
+}

@@ -1,0 +1,56 @@
+{
+  "symbol": "YESBANK",
+  "name": "Yes Bank",
+  "sector": "Banking",
+  "indicators": {
+    "date": "2026-07-08",
+    "close": 23.42,
+    "prev_close": 24.01,
+    "change_pct": -2.457309454394002,
+    "ema20": 24.053162251021504,
+    "ema50": 23.049051365843415,
+    "ema200": 21.471898938964237,
+    "rsi14": 45.88974589388748,
+    "macd": 0.3439138348845887,
+    "macd_signal": 0.5668716773180563,
+    "atr14": 0.6577356049066504,
+    "adx14": 21.431682724609477,
+    "adx_pos": 20.50880176640125,
+    "adx_neg": 24.029280812058083,
+    "bb_high": 26.00236158128968,
+    "bb_low": 22.498638418710318,
+    "bb_mid": 24.2505,
+    "vwap20": 24.457405454402263
+  },
+  "flags": {
+    "flags": {
+      "price_above_ema20": false,
+      "ema20_above_ema50": true,
+      "ema50_above_ema200": true,
+      "rsi_above_50": false,
+      "macd_bullish": false,
+      "adx_trending_up": false,
+      "price_above_vwap20": false,
+      "price_above_bb_mid": false
+    },
+    "flags_detail": {
+      "price_above_ema20": "Close 23.42 vs EMA20 24.05",
+      "ema20_above_ema50": "EMA20 24.05 vs EMA50 23.05",
+      "ema50_above_ema200": "EMA50 23.05 vs EMA200 21.47",
+      "rsi_above_50": "RSI(14) 45.89 vs 50",
+      "macd_bullish": "MACD 0.34 vs signal 0.57",
+      "adx_trending_up": "ADX(14) 21.43 vs 20, +DI 20.51 vs -DI 24.03",
+      "price_above_vwap20": "Close 23.42 vs 20d VWAP 24.46",
+      "price_above_bb_mid": "Close 23.42 vs BB mid 24.25"
+    },
+    "flags_on": [
+      "ema20_above_ema50",
+      "ema50_above_ema200"
+    ],
+    "flag_count": 2,
+    "flag_total": 8
+  },
+  "fundamentals": null,
+  "shareholding": null,
+  "updated_at": "2026-07-08T19:02:13.122521+00:00"
+}

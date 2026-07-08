@@ -1,0 +1,55 @@
+{
+  "symbol": "HINDPETRO",
+  "name": "Hindustan Petroleum Corporation",
+  "sector": "Energy",
+  "indicators": {
+    "date": "2026-07-08",
+    "close": 386.85,
+    "prev_close": 405.95,
+    "change_pct": -4.705012932627162,
+    "ema20": 395.2020406348855,
+    "ema50": 390.7153629282371,
+    "ema200": 404.36534492787763,
+    "rsi14": 46.442013097603926,
+    "macd": 2.9596018268992452,
+    "macd_signal": 3.8463471644201372,
+    "atr14": 11.772250950342302,
+    "adx14": 15.963767268481018,
+    "adx_pos": 28.394624324055222,
+    "adx_neg": 29.108995864457537,
+    "bb_high": 417.0770340990238,
+    "bb_low": 373.82796590097615,
+    "bb_mid": 395.4525,
+    "vwap20": 393.9907069008923
+  },
+  "flags": {
+    "flags": {
+      "price_above_ema20": false,
+      "ema20_above_ema50": true,
+      "ema50_above_ema200": false,
+      "rsi_above_50": false,
+      "macd_bullish": false,
+      "adx_trending_up": false,
+      "price_above_vwap20": false,
+      "price_above_bb_mid": false
+    },
+    "flags_detail": {
+      "price_above_ema20": "Close 386.85 vs EMA20 395.20",
+      "ema20_above_ema50": "EMA20 395.20 vs EMA50 390.72",
+      "ema50_above_ema200": "EMA50 390.72 vs EMA200 404.37",
+      "rsi_above_50": "RSI(14) 46.44 vs 50",
+      "macd_bullish": "MACD 2.96 vs signal 3.85",
+      "adx_trending_up": "ADX(14) 15.96 vs 20, +DI 28.39 vs -DI 29.11",
+      "price_above_vwap20": "Close 386.85 vs 20d VWAP 393.99",
+      "price_above_bb_mid": "Close 386.85 vs BB mid 395.45"
+    },
+    "flags_on": [
+      "ema20_above_ema50"
+    ],
+    "flag_count": 1,
+    "flag_total": 8
+  },
+  "fundamentals": null,
+  "shareholding": null,
+  "updated_at": "2026-07-08T18:59:05.156132+00:00"
+}

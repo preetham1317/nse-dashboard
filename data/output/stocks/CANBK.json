@@ -1,0 +1,53 @@
+{
+  "symbol": "CANBK",
+  "name": "Canara Bank",
+  "sector": "Banking",
+  "indicators": {
+    "date": "2026-07-08",
+    "close": 121.15,
+    "prev_close": 125.03,
+    "change_pct": -3.1032552187474973,
+    "ema20": 128.42007175192143,
+    "ema50": 131.52538855563247,
+    "ema200": 132.65877093905468,
+    "rsi14": 31.368744644137323,
+    "macd": -2.276092643972845,
+    "macd_signal": -1.4967782527047326,
+    "atr14": 3.257644999167578,
+    "adx14": 17.624361182077017,
+    "adx_pos": 15.07352422758148,
+    "adx_neg": 35.0733384319544,
+    "bb_high": 137.50735970405697,
+    "bb_low": 121.897640295943,
+    "bb_mid": 129.7025,
+    "vwap20": 129.47051769922783
+  },
+  "flags": {
+    "flags": {
+      "price_above_ema20": false,
+      "ema20_above_ema50": false,
+      "ema50_above_ema200": false,
+      "rsi_above_50": false,
+      "macd_bullish": false,
+      "adx_trending_up": false,
+      "price_above_vwap20": false,
+      "price_above_bb_mid": false
+    },
+    "flags_detail": {
+      "price_above_ema20": "Close 121.15 vs EMA20 128.42",
+      "ema20_above_ema50": "EMA20 128.42 vs EMA50 131.53",
+      "ema50_above_ema200": "EMA50 131.53 vs EMA200 132.66",
+      "rsi_above_50": "RSI(14) 31.37 vs 50",
+      "macd_bullish": "MACD -2.28 vs signal -1.50",
+      "adx_trending_up": "ADX(14) 17.62 vs 20, +DI 15.07 vs -DI 35.07",
+      "price_above_vwap20": "Close 121.15 vs 20d VWAP 129.47",
+      "price_above_bb_mid": "Close 121.15 vs BB mid 129.70"
+    },
+    "flags_on": [],
+    "flag_count": 0,
+    "flag_total": 8
+  },
+  "fundamentals": null,
+  "shareholding": null,
+  "updated_at": "2026-07-08T18:58:15.018787+00:00"
+}

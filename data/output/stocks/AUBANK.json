@@ -1,0 +1,62 @@
+{
+  "symbol": "AUBANK",
+  "name": "AU Small Finance Bank",
+  "sector": "Banking",
+  "indicators": {
+    "date": "2026-07-08",
+    "close": 1038.8,
+    "prev_close": 1066.9,
+    "change_pct": -2.633798856500153,
+    "ema20": 1034.6261555336248,
+    "ema50": 1011.8086230045569,
+    "ema200": 934.4058732154638,
+    "rsi14": 53.236063735550324,
+    "macd": 16.252805004010042,
+    "macd_signal": 15.38341539418058,
+    "atr14": 28.12432774341395,
+    "adx14": 28.859122621242303,
+    "adx_pos": 27.41142869943533,
+    "adx_neg": 16.894624176372158,
+    "bb_high": 1088.6744170263844,
+    "bb_low": 976.1055829736154,
+    "bb_mid": 1032.3899999999999,
+    "vwap20": 1033.6553542492752
+  },
+  "flags": {
+    "flags": {
+      "price_above_ema20": true,
+      "ema20_above_ema50": true,
+      "ema50_above_ema200": true,
+      "rsi_above_50": true,
+      "macd_bullish": true,
+      "adx_trending_up": true,
+      "price_above_vwap20": true,
+      "price_above_bb_mid": true
+    },
+    "flags_detail": {
+      "price_above_ema20": "Close 1,038.80 vs EMA20 1,034.63",
+      "ema20_above_ema50": "EMA20 1,034.63 vs EMA50 1,011.81",
+      "ema50_above_ema200": "EMA50 1,011.81 vs EMA200 934.41",
+      "rsi_above_50": "RSI(14) 53.24 vs 50",
+      "macd_bullish": "MACD 16.25 vs signal 15.38",
+      "adx_trending_up": "ADX(14) 28.86 vs 20, +DI 27.41 vs -DI 16.89",
+      "price_above_vwap20": "Close 1,038.80 vs 20d VWAP 1,033.66",
+      "price_above_bb_mid": "Close 1,038.80 vs BB mid 1,032.39"
+    },
+    "flags_on": [
+      "price_above_ema20",
+      "ema20_above_ema50",
+      "ema50_above_ema200",
+      "rsi_above_50",
+      "macd_bullish",
+      "adx_trending_up",
+      "price_above_vwap20",
+      "price_above_bb_mid"
+    ],
+    "flag_count": 8,
+    "flag_total": 8
+  },
+  "fundamentals": null,
+  "shareholding": null,
+  "updated_at": "2026-07-08T18:57:49.735875+00:00"
+}

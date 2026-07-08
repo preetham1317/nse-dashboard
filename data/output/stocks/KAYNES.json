@@ -1,0 +1,56 @@
+{
+  "symbol": "KAYNES",
+  "name": "Kaynes Technology India",
+  "sector": "Electronics",
+  "indicators": {
+    "date": "2026-07-08",
+    "close": 3210.7,
+    "prev_close": 3312.6,
+    "change_pct": -3.076133550685265,
+    "ema20": 3241.9115200012525,
+    "ema50": 3386.233163108162,
+    "ema200": 4212.7941309897715,
+    "rsi14": 46.99952564907188,
+    "macd": -24.27429714666505,
+    "macd_signal": -51.77058257802776,
+    "atr14": 124.30847388898984,
+    "adx14": 15.270528105876972,
+    "adx_pos": 24.164723430117366,
+    "adx_neg": 20.451071421348317,
+    "bb_high": 3401.9569958231787,
+    "bb_low": 3007.1430041768217,
+    "bb_mid": 3204.55,
+    "vwap20": 3236.421696110062
+  },
+  "flags": {
+    "flags": {
+      "price_above_ema20": false,
+      "ema20_above_ema50": false,
+      "ema50_above_ema200": false,
+      "rsi_above_50": false,
+      "macd_bullish": true,
+      "adx_trending_up": false,
+      "price_above_vwap20": false,
+      "price_above_bb_mid": true
+    },
+    "flags_detail": {
+      "price_above_ema20": "Close 3,210.70 vs EMA20 3,241.91",
+      "ema20_above_ema50": "EMA20 3,241.91 vs EMA50 3,386.23",
+      "ema50_above_ema200": "EMA50 3,386.23 vs EMA200 4,212.79",
+      "rsi_above_50": "RSI(14) 47.00 vs 50",
+      "macd_bullish": "MACD -24.27 vs signal -51.77",
+      "adx_trending_up": "ADX(14) 15.27 vs 20, +DI 24.16 vs -DI 20.45",
+      "price_above_vwap20": "Close 3,210.70 vs 20d VWAP 3,236.42",
+      "price_above_bb_mid": "Close 3,210.70 vs BB mid 3,204.55"
+    },
+    "flags_on": [
+      "macd_bullish",
+      "price_above_bb_mid"
+    ],
+    "flag_count": 2,
+    "flag_total": 8
+  },
+  "fundamentals": null,
+  "shareholding": null,
+  "updated_at": "2026-07-08T18:59:35.234395+00:00"
+}

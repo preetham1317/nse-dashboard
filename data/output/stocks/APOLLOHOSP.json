@@ -1,0 +1,62 @@
+{
+  "symbol": "APOLLOHOSP",
+  "name": "Apollo Hospitals Enterprise",
+  "sector": "Healthcare",
+  "indicators": {
+    "date": "2026-07-08",
+    "close": 8753.5,
+    "prev_close": 8837.0,
+    "change_pct": -0.9448908000452642,
+    "ema20": 8603.345408818717,
+    "ema50": 8320.34385385816,
+    "ema200": 7751.866598972395,
+    "rsi14": 63.73515375136462,
+    "macd": 156.26530115204696,
+    "macd_signal": 146.32936309571156,
+    "atr14": 145.8951860926285,
+    "adx14": 28.372821094215514,
+    "adx_pos": 25.146974779437453,
+    "adx_neg": 13.672740789475185,
+    "bb_high": 8897.314164844882,
+    "bb_low": 8283.985835155117,
+    "bb_mid": 8590.65,
+    "vwap20": 8592.128850798774
+  },
+  "flags": {
+    "flags": {
+      "price_above_ema20": true,
+      "ema20_above_ema50": true,
+      "ema50_above_ema200": true,
+      "rsi_above_50": true,
+      "macd_bullish": true,
+      "adx_trending_up": true,
+      "price_above_vwap20": true,
+      "price_above_bb_mid": true
+    },
+    "flags_detail": {
+      "price_above_ema20": "Close 8,753.50 vs EMA20 8,603.35",
+      "ema20_above_ema50": "EMA20 8,603.35 vs EMA50 8,320.34",
+      "ema50_above_ema200": "EMA50 8,320.34 vs EMA200 7,751.87",
+      "rsi_above_50": "RSI(14) 63.74 vs 50",
+      "macd_bullish": "MACD 156.27 vs signal 146.33",
+      "adx_trending_up": "ADX(14) 28.37 vs 20, +DI 25.15 vs -DI 13.67",
+      "price_above_vwap20": "Close 8,753.50 vs 20d VWAP 8,592.13",
+      "price_above_bb_mid": "Close 8,753.50 vs BB mid 8,590.65"
+    },
+    "flags_on": [
+      "price_above_ema20",
+      "ema20_above_ema50",
+      "ema50_above_ema200",
+      "rsi_above_50",
+      "macd_bullish",
+      "adx_trending_up",
+      "price_above_vwap20",
+      "price_above_bb_mid"
+    ],
+    "flag_count": 8,
+    "flag_total": 8
+  },
+  "fundamentals": null,
+  "shareholding": null,
+  "updated_at": "2026-07-08T18:57:42.592868+00:00"
+}

@@ -1,0 +1,56 @@
+{
+  "symbol": "GRSE",
+  "name": "Garden Reach Shipbuilders & Engineers",
+  "sector": "Defence",
+  "indicators": {
+    "date": "2026-07-08",
+    "close": 2619.6,
+    "prev_close": 2695.3,
+    "change_pct": -2.8085927355025513,
+    "ema20": 2720.0614472617217,
+    "ema50": 2693.1873688049923,
+    "ema200": 2561.1732423566145,
+    "rsi14": 42.14213736365119,
+    "macd": 2.1552358822355018,
+    "macd_signal": 13.047535563160492,
+    "atr14": 87.13389061971523,
+    "adx14": 11.693407849272143,
+    "adx_pos": 21.40570057577685,
+    "adx_neg": 27.80487815639375,
+    "bb_high": 2887.3133222129645,
+    "bb_low": 2560.336677787035,
+    "bb_mid": 2723.825,
+    "vwap20": 2763.3866842104107
+  },
+  "flags": {
+    "flags": {
+      "price_above_ema20": false,
+      "ema20_above_ema50": true,
+      "ema50_above_ema200": true,
+      "rsi_above_50": false,
+      "macd_bullish": false,
+      "adx_trending_up": false,
+      "price_above_vwap20": false,
+      "price_above_bb_mid": false
+    },
+    "flags_detail": {
+      "price_above_ema20": "Close 2,619.60 vs EMA20 2,720.06",
+      "ema20_above_ema50": "EMA20 2,720.06 vs EMA50 2,693.19",
+      "ema50_above_ema200": "EMA50 2,693.19 vs EMA200 2,561.17",
+      "rsi_above_50": "RSI(14) 42.14 vs 50",
+      "macd_bullish": "MACD 2.16 vs signal 13.05",
+      "adx_trending_up": "ADX(14) 11.69 vs 20, +DI 21.41 vs -DI 27.80",
+      "price_above_vwap20": "Close 2,619.60 vs 20d VWAP 2,763.39",
+      "price_above_bb_mid": "Close 2,619.60 vs BB mid 2,723.82"
+    },
+    "flags_on": [
+      "ema20_above_ema50",
+      "ema50_above_ema200"
+    ],
+    "flag_count": 2,
+    "flag_total": 8
+  },
+  "fundamentals": null,
+  "shareholding": null,
+  "updated_at": "2026-07-08T18:58:54.714673+00:00"
+}

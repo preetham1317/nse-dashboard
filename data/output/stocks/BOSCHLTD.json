@@ -1,0 +1,62 @@
+{
+  "symbol": "BOSCHLTD",
+  "name": "Bosch Ltd",
+  "sector": "Auto Ancillary",
+  "indicators": {
+    "date": "2026-07-08",
+    "close": 41610.0,
+    "prev_close": 41935.0,
+    "change_pct": -0.7750089424108739,
+    "ema20": 40235.17775610022,
+    "ema50": 38524.104628222776,
+    "ema200": 36333.35407747809,
+    "rsi14": 68.40550330848106,
+    "macd": 1145.7240803225723,
+    "macd_signal": 1046.7490540956317,
+    "atr14": 976.2855208629428,
+    "adx14": 37.48602264301453,
+    "adx_pos": 30.45598565905705,
+    "adx_neg": 10.827988813399017,
+    "bb_high": 42656.96368612317,
+    "bb_low": 37636.53631387683,
+    "bb_mid": 40146.75,
+    "vwap20": 40193.34518900361
+  },
+  "flags": {
+    "flags": {
+      "price_above_ema20": true,
+      "ema20_above_ema50": true,
+      "ema50_above_ema200": true,
+      "rsi_above_50": true,
+      "macd_bullish": true,
+      "adx_trending_up": true,
+      "price_above_vwap20": true,
+      "price_above_bb_mid": true
+    },
+    "flags_detail": {
+      "price_above_ema20": "Close 41,610.00 vs EMA20 40,235.18",
+      "ema20_above_ema50": "EMA20 40,235.18 vs EMA50 38,524.10",
+      "ema50_above_ema200": "EMA50 38,524.10 vs EMA200 36,333.35",
+      "rsi_above_50": "RSI(14) 68.41 vs 50",
+      "macd_bullish": "MACD 1,145.72 vs signal 1,046.75",
+      "adx_trending_up": "ADX(14) 37.49 vs 20, +DI 30.46 vs -DI 10.83",
+      "price_above_vwap20": "Close 41,610.00 vs 20d VWAP 40,193.35",
+      "price_above_bb_mid": "Close 41,610.00 vs BB mid 40,146.75"
+    },
+    "flags_on": [
+      "price_above_ema20",
+      "ema20_above_ema50",
+      "ema50_above_ema200",
+      "rsi_above_50",
+      "macd_bullish",
+      "adx_trending_up",
+      "price_above_vwap20",
+      "price_above_bb_mid"
+    ],
+    "flag_count": 8,
+    "flag_total": 8
+  },
+  "fundamentals": null,
+  "shareholding": null,
+  "updated_at": "2026-07-08T18:58:09.695383+00:00"
+}

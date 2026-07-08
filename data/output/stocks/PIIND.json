@@ -1,0 +1,53 @@
+{
+  "symbol": "PIIND",
+  "name": "PI Industries",
+  "sector": "Chemicals",
+  "indicators": {
+    "date": "2026-07-08",
+    "close": 2572.3,
+    "prev_close": 2652.3,
+    "change_pct": -3.016250047128907,
+    "ema20": 2698.5015149921696,
+    "ema50": 2805.361573070174,
+    "ema200": 3125.6304103815833,
+    "rsi14": 35.7785409443992,
+    "macd": -66.89633104449695,
+    "macd_signal": -62.17994308177067,
+    "atr14": 71.22873671374938,
+    "adx14": 23.90974269958846,
+    "adx_pos": 17.998027795413112,
+    "adx_neg": 35.19050718621172,
+    "bb_high": 2941.3984654234528,
+    "bb_low": 2508.381534576548,
+    "bb_mid": 2724.8900000000003,
+    "vwap20": 2725.3381404273496
+  },
+  "flags": {
+    "flags": {
+      "price_above_ema20": false,
+      "ema20_above_ema50": false,
+      "ema50_above_ema200": false,
+      "rsi_above_50": false,
+      "macd_bullish": false,
+      "adx_trending_up": false,
+      "price_above_vwap20": false,
+      "price_above_bb_mid": false
+    },
+    "flags_detail": {
+      "price_above_ema20": "Close 2,572.30 vs EMA20 2,698.50",
+      "ema20_above_ema50": "EMA20 2,698.50 vs EMA50 2,805.36",
+      "ema50_above_ema200": "EMA50 2,805.36 vs EMA200 3,125.63",
+      "rsi_above_50": "RSI(14) 35.78 vs 50",
+      "macd_bullish": "MACD -66.90 vs signal -62.18",
+      "adx_trending_up": "ADX(14) 23.91 vs 20, +DI 18.00 vs -DI 35.19",
+      "price_above_vwap20": "Close 2,572.30 vs 20d VWAP 2,725.34",
+      "price_above_bb_mid": "Close 2,572.30 vs BB mid 2,724.89"
+    },
+    "flags_on": [],
+    "flag_count": 0,
+    "flag_total": 8
+  },
+  "fundamentals": null,
+  "shareholding": null,
+  "updated_at": "2026-07-08T19:00:59.086465+00:00"
+}

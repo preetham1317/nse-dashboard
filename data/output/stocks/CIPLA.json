@@ -1,0 +1,61 @@
+{
+  "symbol": "CIPLA",
+  "name": "Cipla Ltd",
+  "sector": "Pharma",
+  "indicators": {
+    "date": "2026-07-08",
+    "close": 1431.8,
+    "prev_close": 1451.8,
+    "change_pct": -1.3776002204160354,
+    "ema20": 1427.0047779128208,
+    "ema50": 1391.784415669223,
+    "ema200": 1401.4731094893539,
+    "rsi14": 54.48242393963798,
+    "macd": 21.690501565999966,
+    "macd_signal": 20.79237995395443,
+    "atr14": 29.58979104347537,
+    "adx14": 29.649844974442722,
+    "adx_pos": 24.689580290884187,
+    "adx_neg": 13.741928998829259,
+    "bb_high": 1498.4254248044829,
+    "bb_low": 1335.114575195517,
+    "bb_mid": 1416.77,
+    "vwap20": 1424.6739526338777
+  },
+  "flags": {
+    "flags": {
+      "price_above_ema20": true,
+      "ema20_above_ema50": true,
+      "ema50_above_ema200": false,
+      "rsi_above_50": true,
+      "macd_bullish": true,
+      "adx_trending_up": true,
+      "price_above_vwap20": true,
+      "price_above_bb_mid": true
+    },
+    "flags_detail": {
+      "price_above_ema20": "Close 1,431.80 vs EMA20 1,427.00",
+      "ema20_above_ema50": "EMA20 1,427.00 vs EMA50 1,391.78",
+      "ema50_above_ema200": "EMA50 1,391.78 vs EMA200 1,401.47",
+      "rsi_above_50": "RSI(14) 54.48 vs 50",
+      "macd_bullish": "MACD 21.69 vs signal 20.79",
+      "adx_trending_up": "ADX(14) 29.65 vs 20, +DI 24.69 vs -DI 13.74",
+      "price_above_vwap20": "Close 1,431.80 vs 20d VWAP 1,424.67",
+      "price_above_bb_mid": "Close 1,431.80 vs BB mid 1,416.77"
+    },
+    "flags_on": [
+      "price_above_ema20",
+      "ema20_above_ema50",
+      "rsi_above_50",
+      "macd_bullish",
+      "adx_trending_up",
+      "price_above_vwap20",
+      "price_above_bb_mid"
+    ],
+    "flag_count": 7,
+    "flag_total": 8
+  },
+  "fundamentals": null,
+  "shareholding": null,
+  "updated_at": "2026-07-08T18:58:20.343399+00:00"
+}

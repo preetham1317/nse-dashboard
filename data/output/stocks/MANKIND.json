@@ -1,0 +1,62 @@
+{
+  "symbol": "MANKIND",
+  "name": "Mankind Pharma",
+  "sector": "Pharma",
+  "indicators": {
+    "date": "2026-07-08",
+    "close": 2491.2,
+    "prev_close": 2527.4,
+    "change_pct": -1.432301970404379,
+    "ema20": 2471.26905819309,
+    "ema50": 2399.291954349205,
+    "ema200": 2314.791830095579,
+    "rsi14": 54.77633892926215,
+    "macd": 37.75502521259932,
+    "macd_signal": 35.97052741894147,
+    "atr14": 68.19616573845697,
+    "adx14": 31.22583740209729,
+    "adx_pos": 24.487303713488878,
+    "adx_neg": 13.924895606813198,
+    "bb_high": 2592.19542706943,
+    "bb_low": 2323.85457293057,
+    "bb_mid": 2458.025,
+    "vwap20": 2475.163884066391
+  },
+  "flags": {
+    "flags": {
+      "price_above_ema20": true,
+      "ema20_above_ema50": true,
+      "ema50_above_ema200": true,
+      "rsi_above_50": true,
+      "macd_bullish": true,
+      "adx_trending_up": true,
+      "price_above_vwap20": true,
+      "price_above_bb_mid": true
+    },
+    "flags_detail": {
+      "price_above_ema20": "Close 2,491.20 vs EMA20 2,471.27",
+      "ema20_above_ema50": "EMA20 2,471.27 vs EMA50 2,399.29",
+      "ema50_above_ema200": "EMA50 2,399.29 vs EMA200 2,314.79",
+      "rsi_above_50": "RSI(14) 54.78 vs 50",
+      "macd_bullish": "MACD 37.76 vs signal 35.97",
+      "adx_trending_up": "ADX(14) 31.23 vs 20, +DI 24.49 vs -DI 13.92",
+      "price_above_vwap20": "Close 2,491.20 vs 20d VWAP 2,475.16",
+      "price_above_bb_mid": "Close 2,491.20 vs BB mid 2,458.03"
+    },
+    "flags_on": [
+      "price_above_ema20",
+      "ema20_above_ema50",
+      "ema50_above_ema200",
+      "rsi_above_50",
+      "macd_bullish",
+      "adx_trending_up",
+      "price_above_vwap20",
+      "price_above_bb_mid"
+    ],
+    "flag_count": 8,
+    "flag_total": 8
+  },
+  "fundamentals": null,
+  "shareholding": null,
+  "updated_at": "2026-07-08T18:59:51.074810+00:00"
+}

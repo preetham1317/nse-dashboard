@@ -1,0 +1,61 @@
+{
+  "symbol": "GODREJPROP",
+  "name": "Godrej Properties",
+  "sector": "Realty",
+  "indicators": {
+    "date": "2026-07-08",
+    "close": 1979.5,
+    "prev_close": 2043.1,
+    "change_pct": -3.1129166462728164,
+    "ema20": 1880.63336215162,
+    "ema50": 1809.1347962822952,
+    "ema200": 1859.8246979148823,
+    "rsi14": 65.08588557037902,
+    "macd": 72.34777096710923,
+    "macd_signal": 51.02129466577078,
+    "atr14": 57.61023576679151,
+    "adx14": 30.257125592005572,
+    "adx_pos": 34.9026961376883,
+    "adx_neg": 13.710238664350308,
+    "bb_high": 2082.720790920307,
+    "bb_low": 1602.8992090796935,
+    "bb_mid": 1842.8100000000002,
+    "vwap20": 1875.0155950007443
+  },
+  "flags": {
+    "flags": {
+      "price_above_ema20": true,
+      "ema20_above_ema50": true,
+      "ema50_above_ema200": false,
+      "rsi_above_50": true,
+      "macd_bullish": true,
+      "adx_trending_up": true,
+      "price_above_vwap20": true,
+      "price_above_bb_mid": true
+    },
+    "flags_detail": {
+      "price_above_ema20": "Close 1,979.50 vs EMA20 1,880.63",
+      "ema20_above_ema50": "EMA20 1,880.63 vs EMA50 1,809.13",
+      "ema50_above_ema200": "EMA50 1,809.13 vs EMA200 1,859.82",
+      "rsi_above_50": "RSI(14) 65.09 vs 50",
+      "macd_bullish": "MACD 72.35 vs signal 51.02",
+      "adx_trending_up": "ADX(14) 30.26 vs 20, +DI 34.90 vs -DI 13.71",
+      "price_above_vwap20": "Close 1,979.50 vs 20d VWAP 1,875.02",
+      "price_above_bb_mid": "Close 1,979.50 vs BB mid 1,842.81"
+    },
+    "flags_on": [
+      "price_above_ema20",
+      "ema20_above_ema50",
+      "rsi_above_50",
+      "macd_bullish",
+      "adx_trending_up",
+      "price_above_vwap20",
+      "price_above_bb_mid"
+    ],
+    "flag_count": 7,
+    "flag_total": 8
+  },
+  "fundamentals": null,
+  "shareholding": null,
+  "updated_at": "2026-07-08T18:58:53.455598+00:00"
+}

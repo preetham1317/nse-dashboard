@@ -1,0 +1,55 @@
+{
+  "symbol": "TATAPOWER",
+  "name": "Tata Power",
+  "sector": "Power",
+  "indicators": {
+    "date": "2026-07-08",
+    "close": 372.1,
+    "prev_close": 377.2,
+    "change_pct": -1.352067868504763,
+    "ema20": 388.8028544276397,
+    "ema50": 398.90234519709384,
+    "ema200": 395.03537500267,
+    "rsi14": 27.930467594054193,
+    "macd": -9.416798561892449,
+    "macd_signal": -7.960684231059649,
+    "atr14": 7.597954183656732,
+    "adx14": 28.785358970194334,
+    "adx_pos": 12.47303203582985,
+    "adx_neg": 31.301796504278776,
+    "bb_high": 412.35553848753534,
+    "bb_low": 368.02946151246465,
+    "bb_mid": 390.1925,
+    "vwap20": 390.94689760143973
+  },
+  "flags": {
+    "flags": {
+      "price_above_ema20": false,
+      "ema20_above_ema50": false,
+      "ema50_above_ema200": true,
+      "rsi_above_50": false,
+      "macd_bullish": false,
+      "adx_trending_up": false,
+      "price_above_vwap20": false,
+      "price_above_bb_mid": false
+    },
+    "flags_detail": {
+      "price_above_ema20": "Close 372.10 vs EMA20 388.80",
+      "ema20_above_ema50": "EMA20 388.80 vs EMA50 398.90",
+      "ema50_above_ema200": "EMA50 398.90 vs EMA200 395.04",
+      "rsi_above_50": "RSI(14) 27.93 vs 50",
+      "macd_bullish": "MACD -9.42 vs signal -7.96",
+      "adx_trending_up": "ADX(14) 28.79 vs 20, +DI 12.47 vs -DI 31.30",
+      "price_above_vwap20": "Close 372.10 vs 20d VWAP 390.95",
+      "price_above_bb_mid": "Close 372.10 vs BB mid 390.19"
+    },
+    "flags_on": [
+      "ema50_above_ema200"
+    ],
+    "flag_count": 1,
+    "flag_total": 8
+  },
+  "fundamentals": null,
+  "shareholding": null,
+  "updated_at": "2026-07-08T19:01:44.226326+00:00"
+}

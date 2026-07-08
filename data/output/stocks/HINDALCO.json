@@ -1,0 +1,56 @@
+{
+  "symbol": "HINDALCO",
+  "name": "Hindalco Industries",
+  "sector": "Metals",
+  "indicators": {
+    "date": "2026-07-08",
+    "close": 971.65,
+    "prev_close": 969.5,
+    "change_pct": 0.22176379577101366,
+    "ema20": 990.6199182952739,
+    "ema50": 1011.2779368839444,
+    "ema200": 923.3227060379174,
+    "rsi14": 41.920604010826324,
+    "macd": -24.991812460945084,
+    "macd_signal": -25.580322939378767,
+    "atr14": 26.414533379649917,
+    "adx14": 26.2132326356522,
+    "adx_pos": 15.502324619645572,
+    "adx_neg": 24.386447514427196,
+    "bb_high": 1043.2839336157595,
+    "bb_low": 928.9910663842408,
+    "bb_mid": 986.1375,
+    "vwap20": 988.8533638839994
+  },
+  "flags": {
+    "flags": {
+      "price_above_ema20": false,
+      "ema20_above_ema50": false,
+      "ema50_above_ema200": true,
+      "rsi_above_50": false,
+      "macd_bullish": true,
+      "adx_trending_up": false,
+      "price_above_vwap20": false,
+      "price_above_bb_mid": false
+    },
+    "flags_detail": {
+      "price_above_ema20": "Close 971.65 vs EMA20 990.62",
+      "ema20_above_ema50": "EMA20 990.62 vs EMA50 1,011.28",
+      "ema50_above_ema200": "EMA50 1,011.28 vs EMA200 923.32",
+      "rsi_above_50": "RSI(14) 41.92 vs 50",
+      "macd_bullish": "MACD -24.99 vs signal -25.58",
+      "adx_trending_up": "ADX(14) 26.21 vs 20, +DI 15.50 vs -DI 24.39",
+      "price_above_vwap20": "Close 971.65 vs 20d VWAP 988.85",
+      "price_above_bb_mid": "Close 971.65 vs BB mid 986.14"
+    },
+    "flags_on": [
+      "ema50_above_ema200",
+      "macd_bullish"
+    ],
+    "flag_count": 2,
+    "flag_total": 8
+  },
+  "fundamentals": null,
+  "shareholding": null,
+  "updated_at": "2026-07-08T18:59:03.890553+00:00"
+}

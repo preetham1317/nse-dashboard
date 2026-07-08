@@ -1,0 +1,55 @@
+{
+  "symbol": "JINDALSTEL",
+  "name": "Jindal Steel & Power",
+  "sector": "Metals",
+  "indicators": {
+    "date": "2026-07-08",
+    "close": 1021.5,
+    "prev_close": 1035.4,
+    "change_pct": -1.3424763376472948,
+    "ema20": 1087.5757627252488,
+    "ema50": 1137.8419625718013,
+    "ema200": 1112.1574382762133,
+    "rsi14": 27.730858621196035,
+    "macd": -39.73415697662449,
+    "macd_signal": -36.46113359727905,
+    "atr14": 29.2378025848501,
+    "adx14": 39.52516042352001,
+    "adx_pos": 11.102199538712599,
+    "adx_neg": 32.89487492229254,
+    "bb_high": 1177.5158624284927,
+    "bb_low": 1004.5441375715073,
+    "bb_mid": 1091.03,
+    "vwap20": 1093.0415937421853
+  },
+  "flags": {
+    "flags": {
+      "price_above_ema20": false,
+      "ema20_above_ema50": false,
+      "ema50_above_ema200": true,
+      "rsi_above_50": false,
+      "macd_bullish": false,
+      "adx_trending_up": false,
+      "price_above_vwap20": false,
+      "price_above_bb_mid": false
+    },
+    "flags_detail": {
+      "price_above_ema20": "Close 1,021.50 vs EMA20 1,087.58",
+      "ema20_above_ema50": "EMA20 1,087.58 vs EMA50 1,137.84",
+      "ema50_above_ema200": "EMA50 1,137.84 vs EMA200 1,112.16",
+      "rsi_above_50": "RSI(14) 27.73 vs 50",
+      "macd_bullish": "MACD -39.73 vs signal -36.46",
+      "adx_trending_up": "ADX(14) 39.53 vs 20, +DI 11.10 vs -DI 32.89",
+      "price_above_vwap20": "Close 1,021.50 vs 20d VWAP 1,093.04",
+      "price_above_bb_mid": "Close 1,021.50 vs BB mid 1,091.03"
+    },
+    "flags_on": [
+      "ema50_above_ema200"
+    ],
+    "flag_count": 1,
+    "flag_total": 8
+  },
+  "fundamentals": null,
+  "shareholding": null,
+  "updated_at": "2026-07-08T18:59:25.884707+00:00"
+}

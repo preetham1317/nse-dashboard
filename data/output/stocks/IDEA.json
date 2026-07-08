@@ -1,0 +1,56 @@
+{
+  "symbol": "IDEA",
+  "name": "Vodafone Idea",
+  "sector": "Telecom",
+  "indicators": {
+    "date": "2026-07-08",
+    "close": 13.93,
+    "prev_close": 13.85,
+    "change_pct": 0.577617328519856,
+    "ema20": 14.244006090741614,
+    "ema50": 13.41987991952865,
+    "ema200": 11.068037360890363,
+    "rsi14": 46.862800825634835,
+    "macd": 0.13178115207206176,
+    "macd_signal": 0.30865224312186496,
+    "atr14": 0.47496027897447973,
+    "adx14": 22.935003538779792,
+    "adx_pos": 18.428152968500793,
+    "adx_neg": 23.644344761952855,
+    "bb_high": 15.203353803500484,
+    "bb_low": 13.710646196499514,
+    "bb_mid": 14.456999999999999,
+    "vwap20": 14.46474384866839
+  },
+  "flags": {
+    "flags": {
+      "price_above_ema20": false,
+      "ema20_above_ema50": true,
+      "ema50_above_ema200": true,
+      "rsi_above_50": false,
+      "macd_bullish": false,
+      "adx_trending_up": false,
+      "price_above_vwap20": false,
+      "price_above_bb_mid": false
+    },
+    "flags_detail": {
+      "price_above_ema20": "Close 13.93 vs EMA20 14.24",
+      "ema20_above_ema50": "EMA20 14.24 vs EMA50 13.42",
+      "ema50_above_ema200": "EMA50 13.42 vs EMA200 11.07",
+      "rsi_above_50": "RSI(14) 46.86 vs 50",
+      "macd_bullish": "MACD 0.13 vs signal 0.31",
+      "adx_trending_up": "ADX(14) 22.94 vs 20, +DI 18.43 vs -DI 23.64",
+      "price_above_vwap20": "Close 13.93 vs 20d VWAP 14.46",
+      "price_above_bb_mid": "Close 13.93 vs BB mid 14.46"
+    },
+    "flags_on": [
+      "ema20_above_ema50",
+      "ema50_above_ema200"
+    ],
+    "flag_count": 2,
+    "flag_total": 8
+  },
+  "fundamentals": null,
+  "shareholding": null,
+  "updated_at": "2026-07-08T18:59:08.966965+00:00"
+}

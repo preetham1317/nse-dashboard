@@ -1,0 +1,56 @@
+{
+  "symbol": "NLCINDIA",
+  "name": "NLC India",
+  "sector": "Power",
+  "indicators": {
+    "date": "2026-07-08",
+    "close": 294.25,
+    "prev_close": 302.25,
+    "change_pct": -2.6468155500413566,
+    "ema20": 317.0008373216579,
+    "ema50": 316.74188275875264,
+    "ema200": 284.41590678943203,
+    "rsi14": 32.48746150500928,
+    "macd": -6.016016349900383,
+    "macd_signal": -3.3263322159295163,
+    "atr14": 10.792757895052803,
+    "adx14": 18.264394456912324,
+    "adx_pos": 11.568059687894788,
+    "adx_neg": 27.364221875244404,
+    "bb_high": 333.34720772345327,
+    "bb_low": 299.0477922765467,
+    "bb_mid": 316.1975,
+    "vwap20": 316.68024765371763
+  },
+  "flags": {
+    "flags": {
+      "price_above_ema20": false,
+      "ema20_above_ema50": true,
+      "ema50_above_ema200": true,
+      "rsi_above_50": false,
+      "macd_bullish": false,
+      "adx_trending_up": false,
+      "price_above_vwap20": false,
+      "price_above_bb_mid": false
+    },
+    "flags_detail": {
+      "price_above_ema20": "Close 294.25 vs EMA20 317.00",
+      "ema20_above_ema50": "EMA20 317.00 vs EMA50 316.74",
+      "ema50_above_ema200": "EMA50 316.74 vs EMA200 284.42",
+      "rsi_above_50": "RSI(14) 32.49 vs 50",
+      "macd_bullish": "MACD -6.02 vs signal -3.33",
+      "adx_trending_up": "ADX(14) 18.26 vs 20, +DI 11.57 vs -DI 27.36",
+      "price_above_vwap20": "Close 294.25 vs 20d VWAP 316.68",
+      "price_above_bb_mid": "Close 294.25 vs BB mid 316.20"
+    },
+    "flags_on": [
+      "ema20_above_ema50",
+      "ema50_above_ema200"
+    ],
+    "flag_count": 2,
+    "flag_total": 8
+  },
+  "fundamentals": null,
+  "shareholding": null,
+  "updated_at": "2026-07-08T19:00:37.447155+00:00"
+}

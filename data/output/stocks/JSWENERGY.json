@@ -1,0 +1,56 @@
+{
+  "symbol": "JSWENERGY",
+  "name": "JSW Energy",
+  "sector": "Power",
+  "indicators": {
+    "date": "2026-07-08",
+    "close": 536.95,
+    "prev_close": 544.2,
+    "change_pct": -1.3322307975009187,
+    "ema20": 562.2400699827291,
+    "ema50": 555.9954976057339,
+    "ema200": 526.0380440049312,
+    "rsi14": 37.33991778708147,
+    "macd": -3.74787877400081,
+    "macd_signal": 1.2531743753427813,
+    "atr14": 16.044618455260512,
+    "adx14": 13.58392642589385,
+    "adx_pos": 14.401340633685486,
+    "adx_neg": 25.507237674030687,
+    "bb_high": 591.1750262655119,
+    "bb_low": 538.8249737344881,
+    "bb_mid": 565.0,
+    "vwap20": 566.9029856335036
+  },
+  "flags": {
+    "flags": {
+      "price_above_ema20": false,
+      "ema20_above_ema50": true,
+      "ema50_above_ema200": true,
+      "rsi_above_50": false,
+      "macd_bullish": false,
+      "adx_trending_up": false,
+      "price_above_vwap20": false,
+      "price_above_bb_mid": false
+    },
+    "flags_detail": {
+      "price_above_ema20": "Close 536.95 vs EMA20 562.24",
+      "ema20_above_ema50": "EMA20 562.24 vs EMA50 556.00",
+      "ema50_above_ema200": "EMA50 556.00 vs EMA200 526.04",
+      "rsi_above_50": "RSI(14) 37.34 vs 50",
+      "macd_bullish": "MACD -3.75 vs signal 1.25",
+      "adx_trending_up": "ADX(14) 13.58 vs 20, +DI 14.40 vs -DI 25.51",
+      "price_above_vwap20": "Close 536.95 vs 20d VWAP 566.90",
+      "price_above_bb_mid": "Close 536.95 vs BB mid 565.00"
+    },
+    "flags_on": [
+      "ema20_above_ema50",
+      "ema50_above_ema200"
+    ],
+    "flag_count": 2,
+    "flag_total": 8
+  },
+  "fundamentals": null,
+  "shareholding": null,
+  "updated_at": "2026-07-08T18:59:29.891436+00:00"
+}

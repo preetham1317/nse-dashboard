@@ -1,0 +1,56 @@
+{
+  "symbol": "TECHM",
+  "name": "Tech Mahindra",
+  "sector": "IT",
+  "indicators": {
+    "date": "2026-07-08",
+    "close": 1428.8,
+    "prev_close": 1447.5,
+    "change_pct": -1.291882556131264,
+    "ema20": 1431.3394996967581,
+    "ema50": 1441.8414252327668,
+    "ema200": 1469.2073361542955,
+    "rsi14": 49.06086348325371,
+    "macd": -9.359529618272063,
+    "macd_signal": -9.491235593493125,
+    "atr14": 44.79369294725741,
+    "adx14": 12.086939074526674,
+    "adx_pos": 25.567988212591292,
+    "adx_neg": 25.455454845240176,
+    "bb_high": 1483.4983550158076,
+    "bb_low": 1379.4716449841922,
+    "bb_mid": 1431.485,
+    "vwap20": 1426.7419449799804
+  },
+  "flags": {
+    "flags": {
+      "price_above_ema20": false,
+      "ema20_above_ema50": false,
+      "ema50_above_ema200": false,
+      "rsi_above_50": false,
+      "macd_bullish": true,
+      "adx_trending_up": false,
+      "price_above_vwap20": true,
+      "price_above_bb_mid": false
+    },
+    "flags_detail": {
+      "price_above_ema20": "Close 1,428.80 vs EMA20 1,431.34",
+      "ema20_above_ema50": "EMA20 1,431.34 vs EMA50 1,441.84",
+      "ema50_above_ema200": "EMA50 1,441.84 vs EMA200 1,469.21",
+      "rsi_above_50": "RSI(14) 49.06 vs 50",
+      "macd_bullish": "MACD -9.36 vs signal -9.49",
+      "adx_trending_up": "ADX(14) 12.09 vs 20, +DI 25.57 vs -DI 25.46",
+      "price_above_vwap20": "Close 1,428.80 vs 20d VWAP 1,426.74",
+      "price_above_bb_mid": "Close 1,428.80 vs BB mid 1,431.48"
+    },
+    "flags_on": [
+      "macd_bullish",
+      "price_above_vwap20"
+    ],
+    "flag_count": 2,
+    "flag_total": 8
+  },
+  "fundamentals": null,
+  "shareholding": null,
+  "updated_at": "2026-07-08T19:01:49.517633+00:00"
+}

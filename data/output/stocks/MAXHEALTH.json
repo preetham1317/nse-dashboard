@@ -1,0 +1,57 @@
+{
+  "symbol": "MAXHEALTH",
+  "name": "Max Healthcare Institute",
+  "sector": "Healthcare",
+  "indicators": {
+    "date": "2026-07-08",
+    "close": 1084.8,
+    "prev_close": 1118.4,
+    "change_pct": -3.004291845493574,
+    "ema20": 1090.5646472299918,
+    "ema50": 1054.4011300367818,
+    "ema200": 1060.7524635748218,
+    "rsi14": 51.46202182670555,
+    "macd": 28.36624503998428,
+    "macd_signal": 29.248350660621707,
+    "atr14": 32.04245613378033,
+    "adx14": 36.12556471064276,
+    "adx_pos": 27.07682583629587,
+    "adx_neg": 17.382285990655745,
+    "bb_high": 1183.1427281192107,
+    "bb_low": 987.8772718807893,
+    "bb_mid": 1085.51,
+    "vwap20": 1088.0217259686747
+  },
+  "flags": {
+    "flags": {
+      "price_above_ema20": false,
+      "ema20_above_ema50": true,
+      "ema50_above_ema200": false,
+      "rsi_above_50": true,
+      "macd_bullish": false,
+      "adx_trending_up": true,
+      "price_above_vwap20": false,
+      "price_above_bb_mid": false
+    },
+    "flags_detail": {
+      "price_above_ema20": "Close 1,084.80 vs EMA20 1,090.56",
+      "ema20_above_ema50": "EMA20 1,090.56 vs EMA50 1,054.40",
+      "ema50_above_ema200": "EMA50 1,054.40 vs EMA200 1,060.75",
+      "rsi_above_50": "RSI(14) 51.46 vs 50",
+      "macd_bullish": "MACD 28.37 vs signal 29.25",
+      "adx_trending_up": "ADX(14) 36.13 vs 20, +DI 27.08 vs -DI 17.38",
+      "price_above_vwap20": "Close 1,084.80 vs 20d VWAP 1,088.02",
+      "price_above_bb_mid": "Close 1,084.80 vs BB mid 1,085.51"
+    },
+    "flags_on": [
+      "ema20_above_ema50",
+      "rsi_above_50",
+      "adx_trending_up"
+    ],
+    "flag_count": 3,
+    "flag_total": 8
+  },
+  "fundamentals": null,
+  "shareholding": null,
+  "updated_at": "2026-07-08T18:59:56.345630+00:00"
+}

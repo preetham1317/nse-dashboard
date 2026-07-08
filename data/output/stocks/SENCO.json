@@ -1,0 +1,55 @@
+{
+  "symbol": "SENCO",
+  "name": "Senco Gold Ltd",
+  "sector": "Jewellery",
+  "indicators": {
+    "date": "2026-07-08",
+    "close": 331.75,
+    "prev_close": 327.25,
+    "change_pct": 1.3750954927425516,
+    "ema20": 332.75684832422013,
+    "ema50": 332.8472656338969,
+    "ema200": 330.4609655201757,
+    "rsi14": 48.4841986115809,
+    "macd": -2.8706839152210364,
+    "macd_signal": -2.1483042252440434,
+    "atr14": 14.028791074313645,
+    "adx14": 10.676297244733465,
+    "adx_pos": 28.759738542864593,
+    "adx_neg": 15.761459682476747,
+    "bb_high": 350.21254225563047,
+    "bb_low": 317.6724577443695,
+    "bb_mid": 333.9425,
+    "vwap20": 334.89248259208495
+  },
+  "flags": {
+    "flags": {
+      "price_above_ema20": false,
+      "ema20_above_ema50": false,
+      "ema50_above_ema200": true,
+      "rsi_above_50": false,
+      "macd_bullish": false,
+      "adx_trending_up": false,
+      "price_above_vwap20": false,
+      "price_above_bb_mid": false
+    },
+    "flags_detail": {
+      "price_above_ema20": "Close 331.75 vs EMA20 332.76",
+      "ema20_above_ema50": "EMA20 332.76 vs EMA50 332.85",
+      "ema50_above_ema200": "EMA50 332.85 vs EMA200 330.46",
+      "rsi_above_50": "RSI(14) 48.48 vs 50",
+      "macd_bullish": "MACD -2.87 vs signal -2.15",
+      "adx_trending_up": "ADX(14) 10.68 vs 20, +DI 28.76 vs -DI 15.76",
+      "price_above_vwap20": "Close 331.75 vs 20d VWAP 334.89",
+      "price_above_bb_mid": "Close 331.75 vs BB mid 333.94"
+    },
+    "flags_on": [
+      "ema50_above_ema200"
+    ],
+    "flag_count": 1,
+    "flag_total": 8
+  },
+  "fundamentals": null,
+  "shareholding": null,
+  "updated_at": "2026-07-08T19:01:21.025187+00:00"
+}

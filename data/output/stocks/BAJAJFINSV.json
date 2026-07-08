@@ -1,0 +1,61 @@
+{
+  "symbol": "BAJAJFINSV",
+  "name": "Bajaj Finserv",
+  "sector": "NBFC",
+  "indicators": {
+    "date": "2026-07-08",
+    "close": 1854.9,
+    "prev_close": 1885.3,
+    "change_pct": -1.6124754680952562,
+    "ema20": 1803.8191176492849,
+    "ema50": 1787.779348071528,
+    "ema200": 1878.7375470865993,
+    "rsi14": 60.03996511820753,
+    "macd": 31.349100526605753,
+    "macd_signal": 18.488198289104965,
+    "atr14": 42.307005773343626,
+    "adx14": 24.92624299907445,
+    "adx_pos": 26.77026624303547,
+    "adx_neg": 16.866623975019042,
+    "bb_high": 1913.1127048028968,
+    "bb_low": 1650.207295197103,
+    "bb_mid": 1781.6599999999999,
+    "vwap20": 1788.8308122675655
+  },
+  "flags": {
+    "flags": {
+      "price_above_ema20": true,
+      "ema20_above_ema50": true,
+      "ema50_above_ema200": false,
+      "rsi_above_50": true,
+      "macd_bullish": true,
+      "adx_trending_up": true,
+      "price_above_vwap20": true,
+      "price_above_bb_mid": true
+    },
+    "flags_detail": {
+      "price_above_ema20": "Close 1,854.90 vs EMA20 1,803.82",
+      "ema20_above_ema50": "EMA20 1,803.82 vs EMA50 1,787.78",
+      "ema50_above_ema200": "EMA50 1,787.78 vs EMA200 1,878.74",
+      "rsi_above_50": "RSI(14) 60.04 vs 50",
+      "macd_bullish": "MACD 31.35 vs signal 18.49",
+      "adx_trending_up": "ADX(14) 24.93 vs 20, +DI 26.77 vs -DI 16.87",
+      "price_above_vwap20": "Close 1,854.90 vs 20d VWAP 1,788.83",
+      "price_above_bb_mid": "Close 1,854.90 vs BB mid 1,781.66"
+    },
+    "flags_on": [
+      "price_above_ema20",
+      "ema20_above_ema50",
+      "rsi_above_50",
+      "macd_bullish",
+      "adx_trending_up",
+      "price_above_vwap20",
+      "price_above_bb_mid"
+    ],
+    "flag_count": 7,
+    "flag_total": 8
+  },
+  "fundamentals": null,
+  "shareholding": null,
+  "updated_at": "2026-07-08T18:57:54.945967+00:00"
+}

@@ -1,0 +1,61 @@
+{
+  "symbol": "GODREJCP",
+  "name": "Godrej Consumer Products",
+  "sector": "FMCG",
+  "indicators": {
+    "date": "2026-07-08",
+    "close": 1075.2,
+    "prev_close": 1097.2,
+    "change_pct": -2.005103900838498,
+    "ema20": 1047.3945566843893,
+    "ema50": 1046.0480093379954,
+    "ema200": 1110.409258971388,
+    "rsi14": 58.82970197808144,
+    "macd": 14.699584459773178,
+    "macd_signal": 6.099379876116904,
+    "atr14": 26.923615067108013,
+    "adx14": 21.020780685228413,
+    "adx_pos": 29.745410721599306,
+    "adx_neg": 16.438319577998087,
+    "bb_high": 1097.4825067218453,
+    "bb_low": 979.3974932781548,
+    "bb_mid": 1038.44,
+    "vwap20": 1044.5502258118397
+  },
+  "flags": {
+    "flags": {
+      "price_above_ema20": true,
+      "ema20_above_ema50": true,
+      "ema50_above_ema200": false,
+      "rsi_above_50": true,
+      "macd_bullish": true,
+      "adx_trending_up": true,
+      "price_above_vwap20": true,
+      "price_above_bb_mid": true
+    },
+    "flags_detail": {
+      "price_above_ema20": "Close 1,075.20 vs EMA20 1,047.39",
+      "ema20_above_ema50": "EMA20 1,047.39 vs EMA50 1,046.05",
+      "ema50_above_ema200": "EMA50 1,046.05 vs EMA200 1,110.41",
+      "rsi_above_50": "RSI(14) 58.83 vs 50",
+      "macd_bullish": "MACD 14.70 vs signal 6.10",
+      "adx_trending_up": "ADX(14) 21.02 vs 20, +DI 29.75 vs -DI 16.44",
+      "price_above_vwap20": "Close 1,075.20 vs 20d VWAP 1,044.55",
+      "price_above_bb_mid": "Close 1,075.20 vs BB mid 1,038.44"
+    },
+    "flags_on": [
+      "price_above_ema20",
+      "ema20_above_ema50",
+      "rsi_above_50",
+      "macd_bullish",
+      "adx_trending_up",
+      "price_above_vwap20",
+      "price_above_bb_mid"
+    ],
+    "flag_count": 7,
+    "flag_total": 8
+  },
+  "fundamentals": null,
+  "shareholding": null,
+  "updated_at": "2026-07-08T18:58:52.202794+00:00"
+}

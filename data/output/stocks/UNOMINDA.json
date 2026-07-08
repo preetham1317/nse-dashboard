@@ -1,0 +1,60 @@
+{
+  "symbol": "UNOMINDA",
+  "name": "UNO Minda",
+  "sector": "Auto Ancillary",
+  "indicators": {
+    "date": "2026-07-08",
+    "close": 1131.9,
+    "prev_close": 1129.2,
+    "change_pct": 0.23910733262487116,
+    "ema20": 1110.9206017192269,
+    "ema50": 1107.6893580987337,
+    "ema200": 1129.8114207838205,
+    "rsi14": 55.762144792490474,
+    "macd": 8.107361363446671,
+    "macd_signal": 4.383040588588349,
+    "atr14": 37.56506385564363,
+    "adx14": 9.306724185520553,
+    "adx_pos": 20.27757358234211,
+    "adx_neg": 18.335208340590782,
+    "bb_high": 1151.466046847776,
+    "bb_low": 1059.593953152224,
+    "bb_mid": 1105.53,
+    "vwap20": 1108.873404871988
+  },
+  "flags": {
+    "flags": {
+      "price_above_ema20": true,
+      "ema20_above_ema50": true,
+      "ema50_above_ema200": false,
+      "rsi_above_50": true,
+      "macd_bullish": true,
+      "adx_trending_up": false,
+      "price_above_vwap20": true,
+      "price_above_bb_mid": true
+    },
+    "flags_detail": {
+      "price_above_ema20": "Close 1,131.90 vs EMA20 1,110.92",
+      "ema20_above_ema50": "EMA20 1,110.92 vs EMA50 1,107.69",
+      "ema50_above_ema200": "EMA50 1,107.69 vs EMA200 1,129.81",
+      "rsi_above_50": "RSI(14) 55.76 vs 50",
+      "macd_bullish": "MACD 8.11 vs signal 4.38",
+      "adx_trending_up": "ADX(14) 9.31 vs 20, +DI 20.28 vs -DI 18.34",
+      "price_above_vwap20": "Close 1,131.90 vs 20d VWAP 1,108.87",
+      "price_above_bb_mid": "Close 1,131.90 vs BB mid 1,105.53"
+    },
+    "flags_on": [
+      "price_above_ema20",
+      "ema20_above_ema50",
+      "rsi_above_50",
+      "macd_bullish",
+      "price_above_vwap20",
+      "price_above_bb_mid"
+    ],
+    "flag_count": 6,
+    "flag_total": 8
+  },
+  "fundamentals": null,
+  "shareholding": null,
+  "updated_at": "2026-07-08T19:02:02.751810+00:00"
+}

@@ -1,0 +1,61 @@
+{
+  "symbol": "SHREECEM",
+  "name": "Shree Cement",
+  "sector": "Cement",
+  "indicators": {
+    "date": "2026-07-08",
+    "close": 25910.0,
+    "prev_close": 26710.0,
+    "change_pct": -2.995132909022838,
+    "ema20": 25608.653177761895,
+    "ema50": 25202.251411138903,
+    "ema200": 26296.611311185243,
+    "rsi14": 55.098647400968794,
+    "macd": 451.2799096928684,
+    "macd_signal": 334.0995429563336,
+    "atr14": 602.4987857273137,
+    "adx14": 26.39931887440711,
+    "adx_pos": 31.872077372312074,
+    "adx_neg": 20.74217840992723,
+    "bb_high": 27089.784294577683,
+    "bb_low": 23636.215705422317,
+    "bb_mid": 25363.0,
+    "vwap20": 25207.371476755452
+  },
+  "flags": {
+    "flags": {
+      "price_above_ema20": true,
+      "ema20_above_ema50": true,
+      "ema50_above_ema200": false,
+      "rsi_above_50": true,
+      "macd_bullish": true,
+      "adx_trending_up": true,
+      "price_above_vwap20": true,
+      "price_above_bb_mid": true
+    },
+    "flags_detail": {
+      "price_above_ema20": "Close 25,910.00 vs EMA20 25,608.65",
+      "ema20_above_ema50": "EMA20 25,608.65 vs EMA50 25,202.25",
+      "ema50_above_ema200": "EMA50 25,202.25 vs EMA200 26,296.61",
+      "rsi_above_50": "RSI(14) 55.10 vs 50",
+      "macd_bullish": "MACD 451.28 vs signal 334.10",
+      "adx_trending_up": "ADX(14) 26.40 vs 20, +DI 31.87 vs -DI 20.74",
+      "price_above_vwap20": "Close 25,910.00 vs 20d VWAP 25,207.37",
+      "price_above_bb_mid": "Close 25,910.00 vs BB mid 25,363.00"
+    },
+    "flags_on": [
+      "price_above_ema20",
+      "ema20_above_ema50",
+      "rsi_above_50",
+      "macd_bullish",
+      "adx_trending_up",
+      "price_above_vwap20",
+      "price_above_bb_mid"
+    ],
+    "flag_count": 7,
+    "flag_total": 8
+  },
+  "fundamentals": null,
+  "shareholding": null,
+  "updated_at": "2026-07-08T19:01:25.151922+00:00"
+}

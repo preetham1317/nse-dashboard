@@ -1,0 +1,53 @@
+{
+  "symbol": "HGINFRA",
+  "name": "HG Infra Engineering",
+  "sector": "Infrastructure",
+  "indicators": {
+    "date": "2026-07-08",
+    "close": 549.75,
+    "prev_close": 561.5,
+    "change_pct": -2.0926090828138912,
+    "ema20": 570.1320840972752,
+    "ema50": 577.105621617054,
+    "ema200": 690.66830903903,
+    "rsi14": 38.3728274150679,
+    "macd": -5.136766951486948,
+    "macd_signal": -3.7547434080220947,
+    "atr14": 15.483707921360946,
+    "adx14": 9.1180962254581,
+    "adx_pos": 16.769801188834897,
+    "adx_neg": 24.973816140189097,
+    "bb_high": 591.5666988217959,
+    "bb_low": 548.3733011782042,
+    "bb_mid": 569.97,
+    "vwap20": 571.4737553905504
+  },
+  "flags": {
+    "flags": {
+      "price_above_ema20": false,
+      "ema20_above_ema50": false,
+      "ema50_above_ema200": false,
+      "rsi_above_50": false,
+      "macd_bullish": false,
+      "adx_trending_up": false,
+      "price_above_vwap20": false,
+      "price_above_bb_mid": false
+    },
+    "flags_detail": {
+      "price_above_ema20": "Close 549.75 vs EMA20 570.13",
+      "ema20_above_ema50": "EMA20 570.13 vs EMA50 577.11",
+      "ema50_above_ema200": "EMA50 577.11 vs EMA200 690.67",
+      "rsi_above_50": "RSI(14) 38.37 vs 50",
+      "macd_bullish": "MACD -5.14 vs signal -3.75",
+      "adx_trending_up": "ADX(14) 9.12 vs 20, +DI 16.77 vs -DI 24.97",
+      "price_above_vwap20": "Close 549.75 vs 20d VWAP 571.47",
+      "price_above_bb_mid": "Close 549.75 vs BB mid 569.97"
+    },
+    "flags_on": [],
+    "flag_count": 0,
+    "flag_total": 8
+  },
+  "fundamentals": null,
+  "shareholding": null,
+  "updated_at": "2026-07-08T18:59:02.569379+00:00"
+}

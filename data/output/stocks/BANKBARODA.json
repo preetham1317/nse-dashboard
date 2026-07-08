@@ -1,0 +1,53 @@
+{
+  "symbol": "BANKBARODA",
+  "name": "Bank of Baroda",
+  "sector": "Banking",
+  "indicators": {
+    "date": "2026-07-08",
+    "close": 240.45,
+    "prev_close": 247.85,
+    "change_pct": -2.985676820657658,
+    "ema20": 264.55335113386406,
+    "ema50": 269.1914487029698,
+    "ema200": 271.97714949314917,
+    "rsi14": 26.71026424042546,
+    "macd": -5.7009154501544685,
+    "macd_signal": -1.475265259959886,
+    "atr14": 7.340193716145533,
+    "adx14": 21.055801370814596,
+    "adx_pos": 14.534757908174894,
+    "adx_neg": 43.072211821590486,
+    "bb_high": 295.34625661913105,
+    "bb_low": 244.59374338086897,
+    "bb_mid": 269.97,
+    "vwap20": 267.4335513022123
+  },
+  "flags": {
+    "flags": {
+      "price_above_ema20": false,
+      "ema20_above_ema50": false,
+      "ema50_above_ema200": false,
+      "rsi_above_50": false,
+      "macd_bullish": false,
+      "adx_trending_up": false,
+      "price_above_vwap20": false,
+      "price_above_bb_mid": false
+    },
+    "flags_detail": {
+      "price_above_ema20": "Close 240.45 vs EMA20 264.55",
+      "ema20_above_ema50": "EMA20 264.55 vs EMA50 269.19",
+      "ema50_above_ema200": "EMA50 269.19 vs EMA200 271.98",
+      "rsi_above_50": "RSI(14) 26.71 vs 50",
+      "macd_bullish": "MACD -5.70 vs signal -1.48",
+      "adx_trending_up": "ADX(14) 21.06 vs 20, +DI 14.53 vs -DI 43.07",
+      "price_above_vwap20": "Close 240.45 vs 20d VWAP 267.43",
+      "price_above_bb_mid": "Close 240.45 vs BB mid 269.97"
+    },
+    "flags_on": [],
+    "flag_count": 0,
+    "flag_total": 8
+  },
+  "fundamentals": null,
+  "shareholding": null,
+  "updated_at": "2026-07-08T18:57:58.889786+00:00"
+}

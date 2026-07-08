@@ -1,0 +1,56 @@
+{
+  "symbol": "ADANIPORTS",
+  "name": "Adani Ports and Special Economic Zone",
+  "sector": "Logistics",
+  "indicators": {
+    "date": "2026-07-08",
+    "close": 1791.7,
+    "prev_close": 1833.9,
+    "change_pct": -2.301106930585094,
+    "ema20": 1821.3451045660004,
+    "ema50": 1761.9668435942165,
+    "ema200": 1573.1940388166392,
+    "rsi14": 46.90795026300961,
+    "macd": 17.09082661998923,
+    "macd_signal": 21.373852844719348,
+    "atr14": 42.867456905996484,
+    "adx14": 16.3130288291354,
+    "adx_pos": 18.958192847128466,
+    "adx_neg": 24.609992144945913,
+    "bb_high": 1880.597628888739,
+    "bb_low": 1765.0423711112612,
+    "bb_mid": 1822.8200000000002,
+    "vwap20": 1826.0783102696512
+  },
+  "flags": {
+    "flags": {
+      "price_above_ema20": false,
+      "ema20_above_ema50": true,
+      "ema50_above_ema200": true,
+      "rsi_above_50": false,
+      "macd_bullish": false,
+      "adx_trending_up": false,
+      "price_above_vwap20": false,
+      "price_above_bb_mid": false
+    },
+    "flags_detail": {
+      "price_above_ema20": "Close 1,791.70 vs EMA20 1,821.35",
+      "ema20_above_ema50": "EMA20 1,821.35 vs EMA50 1,761.97",
+      "ema50_above_ema200": "EMA50 1,761.97 vs EMA200 1,573.19",
+      "rsi_above_50": "RSI(14) 46.91 vs 50",
+      "macd_bullish": "MACD 17.09 vs signal 21.37",
+      "adx_trending_up": "ADX(14) 16.31 vs 20, +DI 18.96 vs -DI 24.61",
+      "price_above_vwap20": "Close 1,791.70 vs 20d VWAP 1,826.08",
+      "price_above_bb_mid": "Close 1,791.70 vs BB mid 1,822.82"
+    },
+    "flags_on": [
+      "ema20_above_ema50",
+      "ema50_above_ema200"
+    ],
+    "flag_count": 2,
+    "flag_total": 8
+  },
+  "fundamentals": null,
+  "shareholding": null,
+  "updated_at": "2026-07-08T18:57:34.590160+00:00"
+}

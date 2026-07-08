@@ -1,0 +1,60 @@
+{
+  "symbol": "TEXRAIL",
+  "name": "Texmaco Rail & Engineering",
+  "sector": "Railways",
+  "indicators": {
+    "date": "2026-07-08",
+    "close": 111.52,
+    "prev_close": 118.77,
+    "change_pct": -6.104235076197694,
+    "ema20": 111.22102465975311,
+    "ema50": 108.9130399281816,
+    "ema200": 117.1621278943848,
+    "rsi14": 51.647055048368465,
+    "macd": 2.1704910645577797,
+    "macd_signal": 1.4983778449443883,
+    "atr14": 4.811276966147422,
+    "adx14": 23.391646983027783,
+    "adx_pos": 34.01292481612918,
+    "adx_neg": 23.01600852333174,
+    "bb_high": 119.1096128382142,
+    "bb_low": 100.9263871617858,
+    "bb_mid": 110.018,
+    "vwap20": 112.94500461039495
+  },
+  "flags": {
+    "flags": {
+      "price_above_ema20": true,
+      "ema20_above_ema50": true,
+      "ema50_above_ema200": false,
+      "rsi_above_50": true,
+      "macd_bullish": true,
+      "adx_trending_up": true,
+      "price_above_vwap20": false,
+      "price_above_bb_mid": true
+    },
+    "flags_detail": {
+      "price_above_ema20": "Close 111.52 vs EMA20 111.22",
+      "ema20_above_ema50": "EMA20 111.22 vs EMA50 108.91",
+      "ema50_above_ema200": "EMA50 108.91 vs EMA200 117.16",
+      "rsi_above_50": "RSI(14) 51.65 vs 50",
+      "macd_bullish": "MACD 2.17 vs signal 1.50",
+      "adx_trending_up": "ADX(14) 23.39 vs 20, +DI 34.01 vs -DI 23.02",
+      "price_above_vwap20": "Close 111.52 vs 20d VWAP 112.95",
+      "price_above_bb_mid": "Close 111.52 vs BB mid 110.02"
+    },
+    "flags_on": [
+      "price_above_ema20",
+      "ema20_above_ema50",
+      "rsi_above_50",
+      "macd_bullish",
+      "adx_trending_up",
+      "price_above_bb_mid"
+    ],
+    "flag_count": 6,
+    "flag_total": 8
+  },
+  "fundamentals": null,
+  "shareholding": null,
+  "updated_at": "2026-07-08T19:01:50.892819+00:00"
+}

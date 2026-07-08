@@ -1,0 +1,61 @@
+{
+  "symbol": "KIMS",
+  "name": "Krishna Institute of Medical Sciences",
+  "sector": "Healthcare",
+  "indicators": {
+    "date": "2026-07-08",
+    "close": 805.95,
+    "prev_close": 805.65,
+    "change_pct": 0.03723701359151843,
+    "ema20": 803.3958023247759,
+    "ema50": 768.6669508312704,
+    "ema200": 708.9589272719209,
+    "rsi14": 53.57738845961884,
+    "macd": 16.84596485862494,
+    "macd_signal": 18.705001487244104,
+    "atr14": 25.835548473627735,
+    "adx14": 36.56924285327821,
+    "adx_pos": 21.65093244523269,
+    "adx_neg": 17.825525091887904,
+    "bb_high": 846.8742663480291,
+    "bb_low": 756.5307336519711,
+    "bb_mid": 801.7025000000001,
+    "vwap20": 802.6731857758872
+  },
+  "flags": {
+    "flags": {
+      "price_above_ema20": true,
+      "ema20_above_ema50": true,
+      "ema50_above_ema200": true,
+      "rsi_above_50": true,
+      "macd_bullish": false,
+      "adx_trending_up": true,
+      "price_above_vwap20": true,
+      "price_above_bb_mid": true
+    },
+    "flags_detail": {
+      "price_above_ema20": "Close 805.95 vs EMA20 803.40",
+      "ema20_above_ema50": "EMA20 803.40 vs EMA50 768.67",
+      "ema50_above_ema200": "EMA50 768.67 vs EMA200 708.96",
+      "rsi_above_50": "RSI(14) 53.58 vs 50",
+      "macd_bullish": "MACD 16.85 vs signal 18.71",
+      "adx_trending_up": "ADX(14) 36.57 vs 20, +DI 21.65 vs -DI 17.83",
+      "price_above_vwap20": "Close 805.95 vs 20d VWAP 802.67",
+      "price_above_bb_mid": "Close 805.95 vs BB mid 801.70"
+    },
+    "flags_on": [
+      "price_above_ema20",
+      "ema20_above_ema50",
+      "ema50_above_ema200",
+      "rsi_above_50",
+      "adx_trending_up",
+      "price_above_vwap20",
+      "price_above_bb_mid"
+    ],
+    "flag_count": 7,
+    "flag_total": 8
+  },
+  "fundamentals": null,
+  "shareholding": null,
+  "updated_at": "2026-07-08T18:59:37.929027+00:00"
+}

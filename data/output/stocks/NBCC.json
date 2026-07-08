@@ -1,0 +1,56 @@
+{
+  "symbol": "NBCC",
+  "name": "NBCC (India) Ltd",
+  "sector": "Infrastructure",
+  "indicators": {
+    "date": "2026-07-08",
+    "close": 94.78,
+    "prev_close": 98.54,
+    "change_pct": -3.8157093566064595,
+    "ema20": 103.04440377965174,
+    "ema50": 100.9181158550873,
+    "ema200": 100.62411003766253,
+    "rsi14": 33.52043458910049,
+    "macd": -0.6109067678794418,
+    "macd_signal": 1.1811124132223687,
+    "atr14": 3.388225194400437,
+    "adx14": 24.370981876626775,
+    "adx_pos": 15.412057470761379,
+    "adx_neg": 30.3600458240927,
+    "bb_high": 114.52258109249057,
+    "bb_low": 96.14841890750942,
+    "bb_mid": 105.3355,
+    "vwap20": 106.42137097795798
+  },
+  "flags": {
+    "flags": {
+      "price_above_ema20": false,
+      "ema20_above_ema50": true,
+      "ema50_above_ema200": true,
+      "rsi_above_50": false,
+      "macd_bullish": false,
+      "adx_trending_up": false,
+      "price_above_vwap20": false,
+      "price_above_bb_mid": false
+    },
+    "flags_detail": {
+      "price_above_ema20": "Close 94.78 vs EMA20 103.04",
+      "ema20_above_ema50": "EMA20 103.04 vs EMA50 100.92",
+      "ema50_above_ema200": "EMA50 100.92 vs EMA200 100.62",
+      "rsi_above_50": "RSI(14) 33.52 vs 50",
+      "macd_bullish": "MACD -0.61 vs signal 1.18",
+      "adx_trending_up": "ADX(14) 24.37 vs 20, +DI 15.41 vs -DI 30.36",
+      "price_above_vwap20": "Close 94.78 vs 20d VWAP 106.42",
+      "price_above_bb_mid": "Close 94.78 vs BB mid 105.34"
+    },
+    "flags_on": [
+      "ema20_above_ema50",
+      "ema50_above_ema200"
+    ],
+    "flag_count": 2,
+    "flag_total": 8
+  },
+  "fundamentals": null,
+  "shareholding": null,
+  "updated_at": "2026-07-08T19:00:10.899275+00:00"
+}

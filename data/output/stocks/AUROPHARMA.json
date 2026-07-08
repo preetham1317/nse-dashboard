@@ -1,0 +1,62 @@
+{
+  "symbol": "AUROPHARMA",
+  "name": "Aurobindo Pharma",
+  "sector": "Pharma",
+  "indicators": {
+    "date": "2026-07-08",
+    "close": 1557.4,
+    "prev_close": 1583.1,
+    "change_pct": -1.6233971322089455,
+    "ema20": 1531.1156184729316,
+    "ema50": 1475.05946084762,
+    "ema200": 1315.8388270055354,
+    "rsi14": 57.23633839511941,
+    "macd": 35.440345601183935,
+    "macd_signal": 30.122175270455003,
+    "atr14": 40.60398779609731,
+    "adx14": 29.86525600255712,
+    "adx_pos": 28.6011001466768,
+    "adx_neg": 14.430562922572731,
+    "bb_high": 1641.9642078028846,
+    "bb_low": 1384.705792197115,
+    "bb_mid": 1513.3349999999998,
+    "vwap20": 1517.5825922042213
+  },
+  "flags": {
+    "flags": {
+      "price_above_ema20": true,
+      "ema20_above_ema50": true,
+      "ema50_above_ema200": true,
+      "rsi_above_50": true,
+      "macd_bullish": true,
+      "adx_trending_up": true,
+      "price_above_vwap20": true,
+      "price_above_bb_mid": true
+    },
+    "flags_detail": {
+      "price_above_ema20": "Close 1,557.40 vs EMA20 1,531.12",
+      "ema20_above_ema50": "EMA20 1,531.12 vs EMA50 1,475.06",
+      "ema50_above_ema200": "EMA50 1,475.06 vs EMA200 1,315.84",
+      "rsi_above_50": "RSI(14) 57.24 vs 50",
+      "macd_bullish": "MACD 35.44 vs signal 30.12",
+      "adx_trending_up": "ADX(14) 29.87 vs 20, +DI 28.60 vs -DI 14.43",
+      "price_above_vwap20": "Close 1,557.40 vs 20d VWAP 1,517.58",
+      "price_above_bb_mid": "Close 1,557.40 vs BB mid 1,513.33"
+    },
+    "flags_on": [
+      "price_above_ema20",
+      "ema20_above_ema50",
+      "ema50_above_ema200",
+      "rsi_above_50",
+      "macd_bullish",
+      "adx_trending_up",
+      "price_above_vwap20",
+      "price_above_bb_mid"
+    ],
+    "flag_count": 8,
+    "flag_total": 8
+  },
+  "fundamentals": null,
+  "shareholding": null,
+  "updated_at": "2026-07-08T18:57:51.030622+00:00"
+}

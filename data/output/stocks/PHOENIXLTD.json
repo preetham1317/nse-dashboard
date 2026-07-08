@@ -1,0 +1,62 @@
+{
+  "symbol": "PHOENIXLTD",
+  "name": "Phoenix Mills",
+  "sector": "Realty",
+  "indicators": {
+    "date": "2026-07-08",
+    "close": 2022.5,
+    "prev_close": 2075.1,
+    "change_pct": -2.5348175991518436,
+    "ema20": 1937.2709871087482,
+    "ema50": 1847.2181803865753,
+    "ema200": 1734.6145941066038,
+    "rsi14": 64.68444747681663,
+    "macd": 74.16198035062871,
+    "macd_signal": 59.172670360633234,
+    "atr14": 58.67766076413748,
+    "adx14": 35.6614662378584,
+    "adx_pos": 33.88917852548281,
+    "adx_neg": 12.385737855383908,
+    "bb_high": 2119.07209274901,
+    "bb_low": 1706.6579072509903,
+    "bb_mid": 1912.8650000000002,
+    "vwap20": 1960.9408678426973
+  },
+  "flags": {
+    "flags": {
+      "price_above_ema20": true,
+      "ema20_above_ema50": true,
+      "ema50_above_ema200": true,
+      "rsi_above_50": true,
+      "macd_bullish": true,
+      "adx_trending_up": true,
+      "price_above_vwap20": true,
+      "price_above_bb_mid": true
+    },
+    "flags_detail": {
+      "price_above_ema20": "Close 2,022.50 vs EMA20 1,937.27",
+      "ema20_above_ema50": "EMA20 1,937.27 vs EMA50 1,847.22",
+      "ema50_above_ema200": "EMA50 1,847.22 vs EMA200 1,734.61",
+      "rsi_above_50": "RSI(14) 64.68 vs 50",
+      "macd_bullish": "MACD 74.16 vs signal 59.17",
+      "adx_trending_up": "ADX(14) 35.66 vs 20, +DI 33.89 vs -DI 12.39",
+      "price_above_vwap20": "Close 2,022.50 vs 20d VWAP 1,960.94",
+      "price_above_bb_mid": "Close 2,022.50 vs BB mid 1,912.87"
+    },
+    "flags_on": [
+      "price_above_ema20",
+      "ema20_above_ema50",
+      "ema50_above_ema200",
+      "rsi_above_50",
+      "macd_bullish",
+      "adx_trending_up",
+      "price_above_vwap20",
+      "price_above_bb_mid"
+    ],
+    "flag_count": 8,
+    "flag_total": 8
+  },
+  "fundamentals": null,
+  "shareholding": null,
+  "updated_at": "2026-07-08T19:00:56.322975+00:00"
+}

@@ -1,0 +1,62 @@
+{
+  "symbol": "ZYDUSLIFE",
+  "name": "Zydus Lifesciences",
+  "sector": "Pharma",
+  "indicators": {
+    "date": "2026-07-08",
+    "close": 1148.0,
+    "prev_close": 1153.0,
+    "change_pct": -0.43365134431916735,
+    "ema20": 1108.1058568346457,
+    "ema50": 1057.3876897475366,
+    "ema200": 975.3440752977147,
+    "rsi14": 67.06682446854066,
+    "macd": 25.60492619413776,
+    "macd_signal": 23.738985723866726,
+    "atr14": 26.38687503663144,
+    "adx14": 42.45712026576075,
+    "adx_pos": 33.84783012146477,
+    "adx_neg": 9.856876924758765,
+    "bb_high": 1156.8954322776312,
+    "bb_low": 1054.4145677223687,
+    "bb_mid": 1105.655,
+    "vwap20": 1110.3078506827956
+  },
+  "flags": {
+    "flags": {
+      "price_above_ema20": true,
+      "ema20_above_ema50": true,
+      "ema50_above_ema200": true,
+      "rsi_above_50": true,
+      "macd_bullish": true,
+      "adx_trending_up": true,
+      "price_above_vwap20": true,
+      "price_above_bb_mid": true
+    },
+    "flags_detail": {
+      "price_above_ema20": "Close 1,148.00 vs EMA20 1,108.11",
+      "ema20_above_ema50": "EMA20 1,108.11 vs EMA50 1,057.39",
+      "ema50_above_ema200": "EMA50 1,057.39 vs EMA200 975.34",
+      "rsi_above_50": "RSI(14) 67.07 vs 50",
+      "macd_bullish": "MACD 25.60 vs signal 23.74",
+      "adx_trending_up": "ADX(14) 42.46 vs 20, +DI 33.85 vs -DI 9.86",
+      "price_above_vwap20": "Close 1,148.00 vs 20d VWAP 1,110.31",
+      "price_above_bb_mid": "Close 1,148.00 vs BB mid 1,105.65"
+    },
+    "flags_on": [
+      "price_above_ema20",
+      "ema20_above_ema50",
+      "ema50_above_ema200",
+      "rsi_above_50",
+      "macd_bullish",
+      "adx_trending_up",
+      "price_above_vwap20",
+      "price_above_bb_mid"
+    ],
+    "flag_count": 8,
+    "flag_total": 8
+  },
+  "fundamentals": null,
+  "shareholding": null,
+  "updated_at": "2026-07-08T19:02:14.401575+00:00"
+}

@@ -1,7 +1,7 @@
 {
   "symbol": "TITAN",
   "name": "Titan Company",
-  "sector": "Consumer Durables",
+  "sector": "Jewellery",
   "indicators": {
     "date": "2026-07-08",
     "close": 4586.4,
@@ -57,5 +57,5 @@
   },
   "fundamentals": null,
   "shareholding": null,
-  "updated_at": "2026-07-08T17:54:00.072522+00:00"
+  "updated_at": "2026-07-08T19:01:53.423621+00:00"
 }

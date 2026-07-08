@@ -1,0 +1,56 @@
+{
+  "symbol": "COFORGE",
+  "name": "Coforge",
+  "sector": "IT",
+  "indicators": {
+    "date": "2026-07-08",
+    "close": 1445.9,
+    "prev_close": 1516.2,
+    "change_pct": -4.636591478696738,
+    "ema20": 1452.4555855389767,
+    "ema50": 1406.6422686926917,
+    "ema200": 1461.4349204002724,
+    "rsi14": 50.67685017736901,
+    "macd": 20.87463396100543,
+    "macd_signal": 25.17304009679865,
+    "atr14": 55.20249678312631,
+    "adx14": 14.306420817164826,
+    "adx_pos": 22.147822451843048,
+    "adx_neg": 26.573003433593804,
+    "bb_high": 1538.8367550257346,
+    "bb_low": 1368.8232449742657,
+    "bb_mid": 1453.8300000000002,
+    "vwap20": 1458.4947453816776
+  },
+  "flags": {
+    "flags": {
+      "price_above_ema20": false,
+      "ema20_above_ema50": true,
+      "ema50_above_ema200": false,
+      "rsi_above_50": true,
+      "macd_bullish": false,
+      "adx_trending_up": false,
+      "price_above_vwap20": false,
+      "price_above_bb_mid": false
+    },
+    "flags_detail": {
+      "price_above_ema20": "Close 1,445.90 vs EMA20 1,452.46",
+      "ema20_above_ema50": "EMA20 1,452.46 vs EMA50 1,406.64",
+      "ema50_above_ema200": "EMA50 1,406.64 vs EMA200 1,461.43",
+      "rsi_above_50": "RSI(14) 50.68 vs 50",
+      "macd_bullish": "MACD 20.87 vs signal 25.17",
+      "adx_trending_up": "ADX(14) 14.31 vs 20, +DI 22.15 vs -DI 26.57",
+      "price_above_vwap20": "Close 1,445.90 vs 20d VWAP 1,458.49",
+      "price_above_bb_mid": "Close 1,445.90 vs BB mid 1,453.83"
+    },
+    "flags_on": [
+      "ema20_above_ema50",
+      "rsi_above_50"
+    ],
+    "flag_count": 2,
+    "flag_total": 8
+  },
+  "fundamentals": null,
+  "shareholding": null,
+  "updated_at": "2026-07-08T18:58:22.961910+00:00"
+}
