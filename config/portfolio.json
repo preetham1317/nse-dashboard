@@ -1,6 +1,17 @@
 {
   "note": "Placeholder holding below - replace with your real positions. symbol must be a valid NSE trading symbol (doesn't need to be in watchlist.json, it'll be tracked automatically either way). No code change needed; the next pipeline run picks up edits here.",
   "holdings": [
-    {"symbol": "RELIANCE", "quantity": 10, "buy_price": 1250.00, "buy_date": "2026-01-15"}
+    {
+      "symbol": "RELIANCE",
+      "quantity": 10,
+      "buy_price": 1250.0,
+      "buy_date": "2026-01-15"
+    },
+    {
+      "symbol": "TCS",
+      "quantity": 5,
+      "buy_price": 3500.0,
+      "buy_date": "2026-02-01"
+    }
   ]
 }
