@@ -45,9 +45,14 @@ jobs:
 
       - name: Prepare Pages artifact
         run: |
-          mkdir -p _site/data
-          cp -r dashboard/. _site/
+          mkdir -p _site/dashboard _site/data
+          cp -r dashboard/. _site/dashboard/
           cp -r data/output _site/data/output
+          cat > _site/index.html <<'HTML'
+          <!DOCTYPE html>
+          <meta http-equiv="refresh" content="0; url=dashboard/index.html">
+          <a href="dashboard/index.html">Open dashboard</a>
+          HTML
 
       - uses: actions/upload-pages-artifact@v3
         with:
