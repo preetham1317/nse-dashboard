@@ -16,6 +16,9 @@
     <li><a href="index.html">Watchlist</a></li>
     <li><a href="portfolio.html" class="active">Portfolio</a></li>
   </ul>
+  <div class="nav-right">
+    <button class="btn btn-ghost btn-sm" id="refresh-btn" title="Re-fetch the latest published data"><span class="icon">↻</span><span class="label">Refresh</span></button>
+  </div>
 </nav>
 
 <header class="hero">
@@ -23,10 +26,11 @@
     <h1 class="display">Portfolio</h1>
     <div class="sub" id="last-updated">Loading…</div>
   </div>
-  <div class="sub">
-    Your actual holdings, live-tracked. Tap a row for the full breakdown.
-    <a href="https://github.com/subramanya1496/nse-dashboard/issues/new?template=add-holding.yml" target="_blank" rel="noopener">Add holding</a> ·
-    <a href="https://github.com/subramanya1496/nse-dashboard/issues/new?template=remove-holding.yml" target="_blank" rel="noopener">Remove holding</a>
+  <div class="sub">Your actual holdings, live-tracked. Tap a row for the full breakdown.</div>
+  <div class="actions-row">
+    <a class="btn btn-primary btn-sm" href="https://github.com/subramanya1496/nse-dashboard/issues/new?template=add-holding.yml" target="_blank" rel="noopener"><span class="icon">+</span> Add holding</a>
+    <a class="btn btn-danger btn-sm" href="https://github.com/subramanya1496/nse-dashboard/issues/new?template=remove-holding.yml" target="_blank" rel="noopener"><span class="icon">−</span> Remove holding</a>
+    <a class="btn btn-ghost btn-sm" href="https://github.com/subramanya1496/nse-dashboard/actions/workflows/daily-run.yml" target="_blank" rel="noopener"><span class="icon">▶</span> Run pipeline now on GitHub</a>
   </div>
 </header>
 
@@ -120,6 +124,8 @@ render().catch((err) => {
   document.getElementById("holdings-body").innerHTML =
     `<tr><td colspan="8" class="empty-note">Failed to load data: ${err.message}. Run the pipeline first (python -m src.pipeline).</td></tr>`;
 });
+
+window.dashboardUtils.initRefreshButton(document.getElementById("refresh-btn"), render);
 </script>
 
 </body>

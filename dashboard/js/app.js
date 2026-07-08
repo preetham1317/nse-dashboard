@@ -164,6 +164,104 @@ function attachRowToggle(container, rowEl, stock, flagDefinitions) {
   });
 }
 
+function createStockBlock(stock, rank, flagDefinitions) {
+  const { flag_count, flag_total, flags_on } = stock.flags;
+  const change = formatChangePct(stock.indicators.change_pct);
+  const topFlags = flags_on.slice(0, 3).map((k) => flagShortLabel(flagDefinitions, k)).join(" · ");
+
+  const block = document.createElement("div");
+  block.className = "stock-block";
+
+  const row = document.createElement("div");
+  row.className = "stock-row";
+  row.innerHTML = `
+    <div class="left">
+      <div class="rank">${rank}</div>
+      <div>
+        <div class="name">${stock.symbol}<span class="sector">${stock.sector || ""}</span></div>
+        <div class="flags-mini">
+          <span class="flag-count ${flagCountClass(flag_count, flag_total)}">${flag_count}/${flag_total}</span>
+          ${topFlags ? " · " + topFlags : " · no bullish flags fired"}
+        </div>
+      </div>
+    </div>
+    <div class="right">
+      <div class="price">${formatPrice(stock.indicators.close)}</div>
+      <div class="chg ${change.cls}">${change.text}</div>
+    </div>
+  `;
+  block.appendChild(row);
+  attachRowToggle(block, row, stock, flagDefinitions);
+  return block;
+}
+
+function renderStockListInto(container, stocks, flagDefinitions) {
+  container.innerHTML = "";
+  stocks.forEach((stock, index) => {
+    container.appendChild(createStockBlock(stock, index + 1, flagDefinitions));
+  });
+}
+
+function renderSectorGroupsInto(container, stocks, flagDefinitions) {
+  container.innerHTML = "";
+  const groups = new Map();
+  stocks.forEach((stock) => {
+    const sector = stock.sector || "Uncategorized";
+    if (!groups.has(sector)) groups.set(sector, []);
+    groups.get(sector).push(stock);
+  });
+
+  const sectorNames = Array.from(groups.keys()).sort((a, b) => {
+    const avgA = groups.get(a).reduce((s, st) => s + st.flags.flag_count / st.flags.flag_total, 0) / groups.get(a).length;
+    const avgB = groups.get(b).reduce((s, st) => s + st.flags.flag_count / st.flags.flag_total, 0) / groups.get(b).length;
+    return avgB - avgA;
+  });
+
+  sectorNames.forEach((sector) => {
+    const sectorStocks = groups.get(sector).sort((a, b) => b.flags.flag_count - a.flags.flag_count);
+    const group = document.createElement("div");
+    group.className = "sector-group";
+    group.innerHTML = `<div class="sector-group-header"><span class="name">${sector}</span><span class="meta">${sectorStocks.length} stock${sectorStocks.length === 1 ? "" : "s"}</span></div>`;
+    const list = document.createElement("div");
+    sectorStocks.forEach((stock, index) => list.appendChild(createStockBlock(stock, index + 1, flagDefinitions)));
+    group.appendChild(list);
+    container.appendChild(group);
+  });
+}
+
+function initTabs(tabBarEl, onChange) {
+  const buttons = Array.from(tabBarEl.querySelectorAll(".tab-btn"));
+  buttons.forEach((btn) => {
+    btn.addEventListener("click", () => {
+      if (btn.classList.contains("active")) return;
+      buttons.forEach((b) => b.classList.remove("active"));
+      btn.classList.add("active");
+      onChange(btn.dataset.tab);
+    });
+  });
+}
+
+function initRefreshButton(buttonEl, renderFn) {
+  buttonEl.addEventListener("click", async () => {
+    if (buttonEl.classList.contains("is-loading")) return;
+    const icon = buttonEl.querySelector(".icon");
+    const label = buttonEl.querySelector(".label");
+    const originalLabel = label ? label.textContent : "";
+    buttonEl.classList.add("is-loading");
+    if (icon) icon.classList.add("spin");
+    if (label) label.textContent = "Refreshing…";
+    try {
+      await renderFn();
+    } catch (err) {
+      console.error(err);
+    } finally {
+      buttonEl.classList.remove("is-loading");
+      if (icon) icon.classList.remove("spin");
+      if (label) label.textContent = originalLabel;
+    }
+  });
+}
+
 function formatUpdatedAt(isoString) {
   if (!isoString) return "unknown";
   const date = new Date(isoString);
@@ -189,5 +287,10 @@ window.dashboardUtils = {
   flagShortLabel,
   renderDetailPanelHtml,
   attachRowToggle,
+  createStockBlock,
+  renderStockListInto,
+  renderSectorGroupsInto,
+  initTabs,
+  initRefreshButton,
   formatUpdatedAt,
 };
