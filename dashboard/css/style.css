@@ -240,4 +240,35 @@ tr td:first-child{font-weight:600;}
 
 .empty-note{color:var(--ink-faint); font-size:13px; padding:8px 0;}
 
+/* Detail panel: price chart */
+.chart-wrap{background:rgba(255,255,255,0.5); border-radius:10px; padding:8px 8px 4px;}
+.price-chart{display:block; width:100%; height:90px;}
+.chart-legend{display:flex; align-items:center; gap:14px; margin-top:6px; font-size:10.5px; color:var(--ink-faint);}
+.chart-legend .swatch{display:inline-block; width:10px; height:3px; border-radius:2px; vertical-align:middle; margin-right:4px;}
+.chart-legend .swatch.close{background:var(--teal);}
+.chart-legend .swatch.ema{background:var(--amber);}
+.chart-legend .range{margin-left:auto; font-size:10px;}
+
+/* Detail panel: 52-week + analyst target range bars */
+.range-row, .target-row{display:flex; align-items:center; gap:10px; margin:2px 0 6px;}
+.range-end{font-size:11px; color:var(--ink-soft); flex-shrink:0;}
+.range-track{position:relative; flex:1; height:6px; border-radius:4px;
+  background:linear-gradient(90deg, var(--rose-soft), var(--amber-soft), var(--teal-soft));}
+.range-track.target{background:linear-gradient(90deg, var(--teal-soft), var(--teal-soft));}
+.range-marker{position:absolute; top:50%; width:11px; height:11px; border-radius:50%;
+  transform:translate(-50%,-50%); background:var(--ink); border:2px solid #fff; box-shadow:0 1px 3px rgba(0,0,0,0.25);}
+.range-marker.mean{width:0; height:0; border-radius:0; background:none; border-left:5px solid transparent;
+  border-right:5px solid transparent; border-bottom:9px solid var(--teal); box-shadow:none;}
+.range-tick.now{position:absolute; top:50%; width:9px; height:9px; border-radius:50%;
+  transform:translate(-50%,-50%); background:var(--ink); border:2px solid #fff; box-shadow:0 1px 3px rgba(0,0,0,0.25);}
+.range-sub{font-size:11px; color:var(--ink-faint);}
+.range-sub .up{color:var(--teal); font-weight:600;} .range-sub .down{color:var(--rose); font-weight:600;}
+
+/* Detail panel: external analyst view */
+.ext-tag{display:inline-block; margin-left:6px; font-size:9px; font-weight:600; text-transform:none;
+  letter-spacing:0; color:var(--amber); background:var(--amber-soft); padding:2px 7px; border-radius:999px;
+  border:1px solid rgba(168,104,28,0.2); vertical-align:middle;}
+.analyst-head{display:flex; align-items:center; gap:10px; margin-bottom:6px;}
+.analyst-meta{font-size:11px; color:var(--ink-faint);}
+
 footer{max-width:1080px; margin:40px auto 0; padding:0 28px; text-align:center; color:var(--ink-faint); font-size:12px;}

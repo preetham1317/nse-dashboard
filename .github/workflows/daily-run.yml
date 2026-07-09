@@ -27,6 +27,17 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
+      # Fundamentals change quarterly, so persist the yfinance cache between runs. This
+      # keeps most daily runs off yfinance entirely (avoiding the rate-limiting that made
+      # fundamentals unavailable) and only re-fetches once the ~7-day TTL lapses.
+      - name: Restore fundamentals cache
+        uses: actions/cache@v4
+        with:
+          path: data/cache
+          key: yfcache-${{ github.run_id }}
+          restore-keys: |
+            yfcache-
+
       - name: Run pipeline
         env:
           ANGEL_API_KEY: ${{ secrets.ANGEL_API_KEY }}

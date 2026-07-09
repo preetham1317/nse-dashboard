@@ -56,11 +56,23 @@ def compute_indicators(symbol: str, ohlcv: pd.DataFrame) -> pd.DataFrame | None:
     return df
 
 
+TRADING_DAYS_52W = 252  # ~52 weeks of trading sessions
+
+
 def latest_indicator_snapshot(df: pd.DataFrame) -> dict:
     row = df.iloc[-1]
     prev_close = float(df.iloc[-2]["close"]) if len(df) >= 2 else None
     close = float(row["close"])
     change_pct = ((close - prev_close) / prev_close * 100) if prev_close else None
+
+    # 52-week range and volume context, computed locally from the OHLCV we already have
+    # (more reliable than a second data source, per CLAUDE.md's "compute locally" preference).
+    window_52w = df.tail(TRADING_DAYS_52W)
+    high_52w = float(window_52w["high"].max())
+    low_52w = float(window_52w["low"].min())
+    volume = float(row["volume"])
+    avg_volume20 = float(df["volume"].tail(20).mean())
+
     return {
         "date": row["date"].strftime("%Y-%m-%d"),
         "close": close,
@@ -80,7 +92,28 @@ def latest_indicator_snapshot(df: pd.DataFrame) -> dict:
         "bb_low": float(row["bb_low"]),
         "bb_mid": float(row["bb_mid"]),
         "vwap20": float(row["vwap20"]),
+        "high_52w": high_52w,
+        "low_52w": low_52w,
+        "volume": volume,
+        "avg_volume20": avg_volume20,
     }
+
+
+def recent_price_history(df: pd.DataFrame, days: int = 120) -> list[dict]:
+    """Last `days` daily closes (with EMA50 for context) for the dashboard mini-chart.
+    Returns [{date, close, ema50}], oldest first. Kept small so each stock JSON stays light."""
+    tail = df.tail(days)
+    history = []
+    for _, row in tail.iterrows():
+        ema50 = row["ema50"]
+        history.append(
+            {
+                "date": row["date"].strftime("%Y-%m-%d"),
+                "close": round(float(row["close"]), 2),
+                "ema50": None if pd.isna(ema50) else round(float(ema50), 2),
+            }
+        )
+    return history
 
 
 if __name__ == "__main__":

@@ -38,6 +38,13 @@ ChatGPT-authored plan that used weighted composite scores — do not reintroduce
 pattern even if it seems like a simplification. If asked to add scoring later, flag
 the tension with this rule before proceeding.
 
+**Exception, by explicit decision (2026-07-09):** the stock detail panel shows an
+*external* analyst-consensus block (yfinance `recommendationKey`/target prices, e.g.
+"Buy · 21 analysts"). This is **not** a rule violation: it is third-party opinion
+displayed as-is and clearly labelled "external · not this dashboard's" — the dashboard
+never derives its own buy/hold/sell verdict from the flags or anything else. Keep that
+labelling; do not let this grow into a dashboard-generated verdict.
+
 ## Data sources (all free — do not introduce paid data sources without asking)
 | Data | Source | Notes |
 |---|---|---|

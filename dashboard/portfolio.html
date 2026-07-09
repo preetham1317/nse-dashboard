@@ -6,7 +6,7 @@
 <title>Stock Intelligence — Portfolio</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Sora:wght@400;500;600;700;800&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="css/style.css?v=2">
 </head>
 <body>
 
@@ -17,7 +17,7 @@
     <li><a href="portfolio.html" class="active">Portfolio</a></li>
   </ul>
   <div class="nav-right">
-    <button class="btn btn-ghost btn-sm" id="refresh-btn" title="Re-fetch the latest published data"><span class="icon">↻</span><span class="label">Refresh</span></button>
+    <button class="btn btn-ghost btn-sm" id="refresh-btn" title="Reloads the latest published data. New prices come from the daily pipeline — use ‘Run pipeline now on GitHub’ for a fresh fetch."><span class="icon">↻</span><span class="label">Reload data</span></button>
   </div>
 </nav>
 
@@ -55,7 +55,7 @@
 
 <footer>Built for personal use only · not a recommendation service · you make every decision</footer>
 
-<script src="js/app.js"></script>
+<script src="js/app.js?v=2"></script>
 <script>
 async function render() {
   const utils = window.dashboardUtils;
