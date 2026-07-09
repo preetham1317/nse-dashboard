@@ -659,31 +659,8 @@
     "flag_count": 5,
     "flag_total": 8
   },
-  "fundamentals": {
-    "pe_trailing": 62.82704,
-    "pe_forward": 38.30937,
-    "eps_trailing": 54.58,
-    "eps_forward": 89.51075,
-    "roe": 0.09568,
-    "profit_margin": 0.10035,
-    "gross_margin": 0.34592998,
-    "operating_margin": 0.11209,
-    "market_cap": 229868552192,
-    "current_price": 3429.1,
-    "sector": "Technology",
-    "name": "Kaynes Technology India Limited",
-    "roce": 0.12023804477816752,
-    "revenue_growth_yoy": 0.3323601856451286
-  },
-  "analyst": {
-    "recommendation": "hold",
-    "recommendation_mean": 3.04545,
-    "num_analysts": 22,
-    "target_low": 2647.0,
-    "target_mean": 3410.182,
-    "target_median": 3393.0,
-    "target_high": 4000.0
-  },
+  "fundamentals": null,
+  "analyst": null,
   "shareholding": null,
-  "updated_at": "2026-07-09T16:56:36.837334+00:00"
+  "updated_at": "2026-07-09T17:41:40.989010+00:00"
 }

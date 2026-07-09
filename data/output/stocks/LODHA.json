@@ -661,31 +661,8 @@
     "flag_count": 7,
     "flag_total": 8
   },
-  "fundamentals": {
-    "pe_trailing": 34.827637,
-    "pe_forward": 25.076345,
-    "eps_trailing": 34.23,
-    "eps_forward": 47.54082,
-    "roe": 0.1571,
-    "profit_margin": 0.20557,
-    "gross_margin": 0.41255,
-    "operating_margin": 0.27622998,
-    "market_cap": 1190856753152,
-    "current_price": 1192.15,
-    "sector": "Real Estate",
-    "name": "Lodha Developers Limited",
-    "roce": 0.1806689927020938,
-    "revenue_growth_yoy": 0.2102180775790123
-  },
-  "analyst": {
-    "recommendation": "strong_buy",
-    "recommendation_mean": 1.5,
-    "num_analysts": 18,
-    "target_low": 940.0,
-    "target_mean": 1196.8334,
-    "target_median": 1217.5,
-    "target_high": 1480.0
-  },
+  "fundamentals": null,
+  "analyst": null,
   "shareholding": null,
-  "updated_at": "2026-07-09T16:57:19.574962+00:00"
+  "updated_at": "2026-07-09T17:44:20.002627+00:00"
 }

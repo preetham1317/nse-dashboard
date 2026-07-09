@@ -655,31 +655,8 @@
     "flag_count": 1,
     "flag_total": 8
   },
-  "fundamentals": {
-    "pe_trailing": 13.191164,
-    "pe_forward": 11.993725,
-    "eps_trailing": 85.11,
-    "eps_forward": 93.60728,
-    "roe": 0.13627,
-    "profit_margin": 0.102010004,
-    "gross_margin": 0.31649,
-    "operating_margin": 0.07491,
-    "market_cap": 110897807360,
-    "current_price": 1122.7,
-    "sector": "Utilities",
-    "name": "Mahanagar Gas Limited",
-    "roce": 0.16454778728045819,
-    "revenue_growth_yoy": 0.1351771799884358
-  },
-  "analyst": {
-    "recommendation": "buy",
-    "recommendation_mean": 1.93333,
-    "num_analysts": 30,
-    "target_low": 1020.0,
-    "target_mean": 1302.2667,
-    "target_median": 1309.5,
-    "target_high": 1822.0
-  },
+  "fundamentals": null,
+  "analyst": null,
   "shareholding": null,
-  "updated_at": "2026-07-09T16:57:52.672793+00:00"
+  "updated_at": "2026-07-09T17:48:30.879615+00:00"
 }

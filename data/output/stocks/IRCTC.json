@@ -653,31 +653,8 @@
     "flag_count": 0,
     "flag_total": 8
   },
-  "fundamentals": {
-    "pe_trailing": 28.534483,
-    "pe_forward": 21.824175,
-    "eps_trailing": 17.4,
-    "eps_forward": 22.75,
-    "roe": 0.34959,
-    "profit_margin": 0.26721,
-    "gross_margin": 0.36629,
-    "operating_margin": 0.26365,
-    "market_cap": 397199998976,
-    "current_price": 496.5,
-    "sector": "Consumer Cyclical",
-    "name": "Indian Railway Catering & Tourism Corporation Limited",
-    "roce": 0.4114618337022476,
-    "revenue_growth_yoy": 0.11553338120733614
-  },
-  "analyst": {
-    "recommendation": "buy",
-    "recommendation_mean": 2.11111,
-    "num_analysts": 8,
-    "target_low": 537.0,
-    "target_mean": 674.125,
-    "target_median": 661.0,
-    "target_high": 850.0
-  },
+  "fundamentals": null,
+  "analyst": null,
   "shareholding": null,
-  "updated_at": "2026-07-09T16:56:06.995400+00:00"
+  "updated_at": "2026-07-09T17:37:54.009204+00:00"
 }

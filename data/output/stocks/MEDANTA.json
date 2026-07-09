@@ -662,31 +662,8 @@
     "flag_count": 8,
     "flag_total": 8
   },
-  "fundamentals": {
-    "pe_trailing": 65.38797,
-    "pe_forward": 41.8041,
-    "eps_trailing": 20.62,
-    "eps_forward": 32.25282,
-    "roe": 0.15032,
-    "profit_margin": 0.12617,
-    "gross_margin": 0.52545,
-    "operating_margin": 0.15292,
-    "market_cap": 362313646080,
-    "current_price": 1348.3,
-    "sector": "Healthcare",
-    "name": "Global Health Limited",
-    "roce": 0.15046421162464502,
-    "revenue_growth_yoy": 0.19443497289662803
-  },
-  "analyst": {
-    "recommendation": "strong_buy",
-    "recommendation_mean": 1.47059,
-    "num_analysts": 17,
-    "target_low": 1210.0,
-    "target_mean": 1424.6471,
-    "target_median": 1424.0,
-    "target_high": 1570.0
-  },
+  "fundamentals": null,
+  "analyst": null,
   "shareholding": null,
-  "updated_at": "2026-07-09T16:57:49.594378+00:00"
+  "updated_at": "2026-07-09T17:48:08.516015+00:00"
 }

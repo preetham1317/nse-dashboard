@@ -653,31 +653,8 @@
     "flag_count": 0,
     "flag_total": 8
   },
-  "fundamentals": {
-    "pe_trailing": 16.440298,
-    "pe_forward": 12.071233,
-    "eps_trailing": 5.36,
-    "eps_forward": 7.3,
-    "roe": 0.12812,
-    "profit_margin": 0.97231,
-    "gross_margin": 1.0,
-    "operating_margin": 0.96275,
-    "market_cap": 1151596756992,
-    "current_price": 88.12,
-    "sector": "Financial Services",
-    "name": "Indian Railway Finance Corporation Limited",
-    "roce": 0.013701982798338534,
-    "revenue_growth_yoy": 0.004372469575973593
-  },
-  "analyst": {
-    "recommendation": "none",
-    "recommendation_mean": null,
-    "num_analysts": 1,
-    "target_low": 60.0,
-    "target_mean": 60.0,
-    "target_median": 60.0,
-    "target_high": 60.0
-  },
+  "fundamentals": null,
+  "analyst": null,
   "shareholding": null,
-  "updated_at": "2026-07-09T16:56:09.988026+00:00"
+  "updated_at": "2026-07-09T17:38:16.567127+00:00"
 }

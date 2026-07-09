@@ -653,31 +653,8 @@
     "flag_count": 0,
     "flag_total": 8
   },
-  "fundamentals": {
-    "pe_trailing": 96.83402,
-    "pe_forward": 51.17763,
-    "eps_trailing": 2.41,
-    "eps_forward": 4.56,
-    "roe": 0.012130001,
-    "profit_margin": 0.57768,
-    "gross_margin": 1.0,
-    "operating_margin": 0.43075,
-    "market_cap": 1540975099904,
-    "current_price": 233.37,
-    "sector": "Financial Services",
-    "name": "Jio Financial Services Limited",
-    "roce": 0.016259182911722687,
-    "revenue_growth_yoy": 1.2166917606355716
-  },
-  "analyst": {
-    "recommendation": "strong_buy",
-    "recommendation_mean": 1.0,
-    "num_analysts": 3,
-    "target_low": 273.0,
-    "target_mean": 295.33334,
-    "target_median": 298.0,
-    "target_high": 315.0
-  },
+  "fundamentals": null,
+  "analyst": null,
   "shareholding": null,
-  "updated_at": "2026-07-09T16:56:18.898482+00:00"
+  "updated_at": "2026-07-09T17:39:23.938092+00:00"
 }

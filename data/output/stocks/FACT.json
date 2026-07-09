@@ -656,23 +656,8 @@
     "flag_count": 2,
     "flag_total": 8
   },
-  "fundamentals": {
-    "pe_trailing": null,
-    "pe_forward": null,
-    "eps_trailing": -0.59,
-    "eps_forward": null,
-    "roe": null,
-    "profit_margin": 0.07694,
-    "gross_margin": 0.47467998,
-    "operating_margin": 0.02437,
-    "market_cap": 550075891712,
-    "current_price": 850.1,
-    "sector": "Basic Materials",
-    "name": "The Fertilisers and Chemicals Travancore Limited",
-    "roce": 0.14213242946266666,
-    "revenue_growth_yoy": 0.4129565949379275
-  },
+  "fundamentals": null,
   "analyst": null,
   "shareholding": null,
-  "updated_at": "2026-07-09T16:54:42.573863+00:00"
+  "updated_at": "2026-07-09T17:27:01.494376+00:00"
 }

@@ -653,31 +653,8 @@
     "flag_count": 0,
     "flag_total": 8
   },
-  "fundamentals": {
-    "pe_trailing": 5.743212,
-    "pe_forward": 5.3536134,
-    "eps_trailing": 21.73,
-    "eps_forward": 23.31136,
-    "roe": 0.15935999,
-    "profit_margin": 0.37035,
-    "gross_margin": 0.0,
-    "operating_margin": -0.32213002,
-    "market_cap": 1132017352704,
-    "current_price": 124.8,
-    "sector": "Financial Services",
-    "name": "Canara Bank",
-    "roce": null,
-    "revenue_growth_yoy": -0.09858333209176945
-  },
-  "analyst": {
-    "recommendation": "buy",
-    "recommendation_mean": 1.77778,
-    "num_analysts": 18,
-    "target_low": 103.0,
-    "target_mean": 151.22221,
-    "target_median": 155.0,
-    "target_high": 170.0
-  },
+  "fundamentals": null,
+  "analyst": null,
   "shareholding": null,
-  "updated_at": "2026-07-09T16:53:41.756374+00:00"
+  "updated_at": "2026-07-09T17:19:32.901520+00:00"
 }

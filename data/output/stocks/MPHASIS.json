@@ -655,31 +655,8 @@
     "flag_count": 1,
     "flag_total": 8
   },
-  "fundamentals": {
-    "pe_trailing": 24.542002,
-    "pe_forward": 17.818085,
-    "eps_trailing": 92.14,
-    "eps_forward": 126.91039,
-    "roe": 0.18285999,
-    "profit_margin": 0.11729,
-    "gross_margin": 0.43835998,
-    "operating_margin": 0.15379,
-    "market_cap": 431494627328,
-    "current_price": 2261.3,
-    "sector": "Technology",
-    "name": "Mphasis Limited",
-    "roce": 0.23048222898796794,
-    "revenue_growth_yoy": 0.11592842635766287
-  },
-  "analyst": {
-    "recommendation": "buy",
-    "recommendation_mean": 2.0,
-    "num_analysts": 37,
-    "target_low": 1840.0,
-    "target_mean": 2603.5676,
-    "target_median": 2620.0,
-    "target_high": 3200.0
-  },
+  "fundamentals": null,
+  "analyst": null,
   "shareholding": null,
-  "updated_at": "2026-07-09T16:57:58.563746+00:00"
+  "updated_at": "2026-07-09T17:49:15.632051+00:00"
 }

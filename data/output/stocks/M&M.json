@@ -655,31 +655,8 @@
     "flag_count": 1,
     "flag_total": 8
   },
-  "fundamentals": {
-    "pe_trailing": 20.25471,
-    "pe_forward": 19.332157,
-    "eps_trailing": 152.33,
-    "eps_forward": 159.59937,
-    "roe": 0.18754,
-    "profit_margin": 0.08473,
-    "gross_margin": 0.38669,
-    "operating_margin": 0.17093,
-    "market_cap": 3704831606784,
-    "current_price": 3085.4,
-    "sector": "Consumer Cyclical",
-    "name": "Mahindra & Mahindra Limited",
-    "roce": 0.17255277566180705,
-    "revenue_growth_yoy": 0.24594073376493505
-  },
-  "analyst": {
-    "recommendation": "strong_buy",
-    "recommendation_mean": 1.29412,
-    "num_analysts": 34,
-    "target_low": 3508.0,
-    "target_mean": 4120.353,
-    "target_median": 4114.0,
-    "target_high": 4590.0
-  },
+  "fundamentals": null,
+  "analyst": null,
   "shareholding": null,
-  "updated_at": "2026-07-09T16:57:31.523078+00:00"
+  "updated_at": "2026-07-09T17:45:53.575821+00:00"
 }

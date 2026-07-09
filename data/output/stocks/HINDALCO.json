@@ -656,31 +656,8 @@
     "flag_count": 2,
     "flag_total": 8
   },
-  "fundamentals": {
-    "pe_trailing": 15.9935255,
-    "pe_forward": 9.044558,
-    "eps_trailing": 60.24,
-    "eps_forward": 106.52263,
-    "roe": 0.10288,
-    "profit_margin": 0.048699997,
-    "gross_margin": 0.30653998,
-    "operating_margin": 0.11056,
-    "market_cap": 2138702217216,
-    "current_price": 963.45,
-    "sector": "Basic Materials",
-    "name": "Hindalco Industries Limited",
-    "roce": 0.09422965505910431,
-    "revenue_growth_yoy": 0.15028140847685026
-  },
-  "analyst": {
-    "recommendation": "hold",
-    "recommendation_mean": 2.72414,
-    "num_analysts": 29,
-    "target_low": 850.0,
-    "target_mean": 1129.3448,
-    "target_median": 1111.0,
-    "target_high": 1430.0
-  },
+  "fundamentals": null,
+  "analyst": null,
   "shareholding": null,
-  "updated_at": "2026-07-09T16:55:24.682691+00:00"
+  "updated_at": "2026-07-09T17:32:38.267994+00:00"
 }

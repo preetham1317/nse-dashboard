@@ -653,31 +653,8 @@
     "flag_count": 0,
     "flag_total": 8
   },
-  "fundamentals": {
-    "pe_trailing": 10.979656,
-    "pe_forward": 7.1737447,
-    "eps_trailing": 50.63,
-    "eps_forward": 77.49091,
-    "roe": 0.10586,
-    "profit_margin": 0.06311,
-    "gross_margin": 0.28269,
-    "operating_margin": 0.1329,
-    "market_cap": 36228624384,
-    "current_price": 555.9,
-    "sector": "Industrials",
-    "name": "H.G. Infra Engineering Limited",
-    "roce": 0.1426769795741506,
-    "revenue_growth_yoy": 0.035301735578347454
-  },
-  "analyst": {
-    "recommendation": "none",
-    "recommendation_mean": null,
-    "num_analysts": 12,
-    "target_low": 569.0,
-    "target_mean": 848.75,
-    "target_median": 755.5,
-    "target_high": 1300.0
-  },
+  "fundamentals": null,
+  "analyst": null,
   "shareholding": null,
-  "updated_at": "2026-07-09T16:55:21.496762+00:00"
+  "updated_at": "2026-07-09T17:32:11.201888+00:00"
 }

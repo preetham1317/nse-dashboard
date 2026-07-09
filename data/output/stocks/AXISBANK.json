@@ -656,31 +656,8 @@
     "flag_count": 2,
     "flag_total": 8
   },
-  "fundamentals": {
-    "pe_trailing": 15.363485,
-    "pe_forward": 10.863765,
-    "eps_trailing": 84.46,
-    "eps_forward": 119.44294,
-    "roe": 0.13152,
-    "profit_margin": 0.35393003,
-    "gross_margin": 0.0,
-    "operating_margin": 0.39288,
-    "market_cap": 4036723998720,
-    "current_price": 1297.6,
-    "sector": "Financial Services",
-    "name": "Axis Bank Limited",
-    "roce": null,
-    "revenue_growth_yoy": 0.04014464440245839
-  },
-  "analyst": {
-    "recommendation": "strong_buy",
-    "recommendation_mean": 1.25641,
-    "num_analysts": 39,
-    "target_low": 1430.0,
-    "target_mean": 1590.0,
-    "target_median": 1600.0,
-    "target_high": 1740.0
-  },
+  "fundamentals": null,
+  "analyst": null,
   "shareholding": null,
-  "updated_at": "2026-07-09T16:52:55.672811+00:00"
+  "updated_at": "2026-07-09T17:13:55.663848+00:00"
 }

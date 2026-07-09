@@ -662,31 +662,8 @@
     "flag_count": 8,
     "flag_total": 8
   },
-  "fundamentals": {
-    "pe_trailing": 63.192505,
-    "pe_forward": 45.27971,
-    "eps_trailing": 13.61,
-    "eps_forward": 18.99416,
-    "roe": 0.41393003,
-    "profit_margin": 0.12945,
-    "gross_margin": 0.44464,
-    "operating_margin": 0.13831,
-    "market_cap": 1114525925376,
-    "current_price": 860.05,
-    "sector": "Consumer Defensive",
-    "name": "Marico Limited",
-    "roce": 0.3900234348844995,
-    "revenue_growth_yoy": 0.25667066752839074
-  },
-  "analyst": {
-    "recommendation": "buy",
-    "recommendation_mean": 1.53846,
-    "num_analysts": 38,
-    "target_low": 556.0,
-    "target_mean": 908.6053,
-    "target_median": 906.0,
-    "target_high": 1000.0
-  },
+  "fundamentals": null,
+  "analyst": null,
   "shareholding": null,
-  "updated_at": "2026-07-09T16:57:37.484591+00:00"
+  "updated_at": "2026-07-09T17:46:38.597506+00:00"
 }

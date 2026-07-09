@@ -662,31 +662,8 @@
     "flag_count": 8,
     "flag_total": 8
   },
-  "fundamentals": {
-    "pe_trailing": 42.22443,
-    "pe_forward": 24.775724,
-    "eps_trailing": 10.07,
-    "eps_forward": 17.16196,
-    "roe": 0.06172,
-    "profit_margin": 0.047470003,
-    "gross_margin": 0.31847,
-    "operating_margin": 0.07638,
-    "market_cap": 361419997184,
-    "current_price": 425.2,
-    "sector": "Consumer Cyclical",
-    "name": "Exide Industries Limited",
-    "roce": 0.08811111989149177,
-    "revenue_growth_yoy": 0.04453143045124623
-  },
-  "analyst": {
-    "recommendation": "hold",
-    "recommendation_mean": 2.875,
-    "num_analysts": 16,
-    "target_low": 300.0,
-    "target_mean": 383.375,
-    "target_median": 378.0,
-    "target_high": 485.0
-  },
+  "fundamentals": null,
+  "analyst": null,
   "shareholding": null,
-  "updated_at": "2026-07-09T16:54:39.598496+00:00"
+  "updated_at": "2026-07-09T17:26:38.955077+00:00"
 }

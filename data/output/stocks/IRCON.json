@@ -653,31 +653,8 @@
     "flag_count": 0,
     "flag_total": 8
   },
-  "fundamentals": {
-    "pe_trailing": 20.43286,
-    "pe_forward": 15.397619,
-    "eps_trailing": 6.33,
-    "eps_forward": 8.4,
-    "roe": 0.09084,
-    "profit_margin": 0.06565,
-    "gross_margin": 0.12166,
-    "operating_margin": 0.0699,
-    "market_cap": 121646301184,
-    "current_price": 129.34,
-    "sector": "Industrials",
-    "name": "Ircon International Limited",
-    "roce": 0.07887853055261806,
-    "revenue_growth_yoy": -0.1569327055517037
-  },
-  "analyst": {
-    "recommendation": "none",
-    "recommendation_mean": null,
-    "num_analysts": 2,
-    "target_low": 136.0,
-    "target_mean": 147.5,
-    "target_median": 147.5,
-    "target_high": 159.0
-  },
+  "fundamentals": null,
+  "analyst": null,
   "shareholding": null,
-  "updated_at": "2026-07-09T16:56:03.767932+00:00"
+  "updated_at": "2026-07-09T17:37:31.320810+00:00"
 }

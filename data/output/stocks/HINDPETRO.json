@@ -655,31 +655,8 @@
     "flag_count": 1,
     "flag_total": 8
   },
-  "fundamentals": {
-    "pe_trailing": 4.623821,
-    "pe_forward": 7.116846,
-    "eps_trailing": 84.8,
-    "eps_forward": 55.09463,
-    "roe": 0.30929002,
-    "profit_margin": 0.041050002,
-    "gross_margin": 0.12337,
-    "operating_margin": 0.08081,
-    "market_cap": 834319220736,
-    "current_price": 392.1,
-    "sector": "Energy",
-    "name": "Hindustan Petroleum Corporation Limited",
-    "roce": 0.23537216432597904,
-    "revenue_growth_yoy": 0.01764943459245755
-  },
-  "analyst": {
-    "recommendation": "hold",
-    "recommendation_mean": 2.83871,
-    "num_analysts": 31,
-    "target_low": 275.0,
-    "target_mean": 403.9355,
-    "target_median": 400.0,
-    "target_high": 679.0
-  },
+  "fundamentals": null,
+  "analyst": null,
   "shareholding": null,
-  "updated_at": "2026-07-09T16:55:27.741957+00:00"
+  "updated_at": "2026-07-09T17:33:00.558580+00:00"
 }

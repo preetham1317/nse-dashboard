@@ -661,31 +661,8 @@
     "flag_count": 7,
     "flag_total": 8
   },
-  "fundamentals": {
-    "pe_trailing": 28.379063,
-    "pe_forward": 12.282812,
-    "eps_trailing": 2.77,
-    "eps_forward": 6.4,
-    "roe": 0.09021,
-    "profit_margin": 0.32421002,
-    "gross_margin": 0.92934,
-    "operating_margin": 0.19674,
-    "market_cap": 789640183808,
-    "current_price": 78.61,
-    "sector": "Utilities",
-    "name": "NHPC Limited",
-    "roce": 0.040917283509504,
-    "revenue_growth_yoy": 0.11902183651802625
-  },
-  "analyst": {
-    "recommendation": "buy",
-    "recommendation_mean": 2.42857,
-    "num_analysts": 7,
-    "target_low": 72.0,
-    "target_mean": 89.85714,
-    "target_median": 86.0,
-    "target_high": 117.0
-  },
+  "fundamentals": null,
+  "analyst": null,
   "shareholding": null,
-  "updated_at": "2026-07-09T16:58:17.238229+00:00"
+  "updated_at": "2026-07-09T17:51:30.218641+00:00"
 }

@@ -656,31 +656,8 @@
     "flag_count": 2,
     "flag_total": 8
   },
-  "fundamentals": {
-    "pe_trailing": 120.902466,
-    "pe_forward": 42.6543,
-    "eps_trailing": 10.97,
-    "eps_forward": 31.09417,
-    "roe": 0.1019,
-    "profit_margin": 0.17214,
-    "gross_margin": 0.49935,
-    "operating_margin": 0.073709995,
-    "market_cap": 486171869184,
-    "current_price": 1326.3,
-    "sector": "Industrials",
-    "name": "Bharat Dynamics Limited",
-    "roce": 0.07216153007749494,
-    "revenue_growth_yoy": -0.27315479597212566
-  },
-  "analyst": {
-    "recommendation": "hold",
-    "recommendation_mean": 2.66667,
-    "num_analysts": 12,
-    "target_low": 1080.0,
-    "target_mean": 1311.0834,
-    "target_median": 1282.5,
-    "target_high": 1558.0
-  },
+  "fundamentals": null,
+  "analyst": null,
   "shareholding": null,
-  "updated_at": "2026-07-09T16:53:13.657137+00:00"
+  "updated_at": "2026-07-09T17:16:10.765037+00:00"
 }

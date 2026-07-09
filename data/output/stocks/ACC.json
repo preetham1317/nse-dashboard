@@ -659,31 +659,8 @@
     "flag_count": 5,
     "flag_total": 8
   },
-  "fundamentals": {
-    "pe_trailing": 12.003877,
-    "pe_forward": 12.104261,
-    "eps_trailing": 113.48,
-    "eps_forward": 112.53887,
-    "roe": 0.109280005,
-    "profit_margin": 0.082959995,
-    "gross_margin": 0.41567,
-    "operating_margin": 0.04952,
-    "market_cap": 255803801600,
-    "current_price": 1362.2,
-    "sector": "Basic Materials",
-    "name": "ACC Limited",
-    "roce": 0.10423759886857682,
-    "revenue_growth_yoy": 0.2023866848010032
-  },
-  "analyst": {
-    "recommendation": "buy",
-    "recommendation_mean": 2.48276,
-    "num_analysts": 29,
-    "target_low": 1200.0,
-    "target_mean": 1693.7587,
-    "target_median": 1595.0,
-    "target_high": 2447.0
-  },
+  "fundamentals": null,
+  "analyst": null,
   "shareholding": null,
-  "updated_at": "2026-07-09T16:52:19.554364+00:00"
+  "updated_at": "2026-07-09T17:09:25.783930+00:00"
 }

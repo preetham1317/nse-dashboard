@@ -661,31 +661,8 @@
     "flag_count": 7,
     "flag_total": 8
   },
-  "fundamentals": {
-    "pe_trailing": 50.094784,
-    "pe_forward": 52.104,
-    "eps_trailing": 269.03,
-    "eps_forward": 258.65576,
-    "roe": 0.37133,
-    "profit_margin": 0.02944,
-    "gross_margin": 0.07357,
-    "operating_margin": 0.028870001,
-    "market_cap": 819427082240,
-    "current_price": 13477.0,
-    "sector": "Technology",
-    "name": "Dixon Technologies (India) Limited",
-    "roce": 0.3416231520805774,
-    "revenue_growth_yoy": 0.2576601707149493
-  },
-  "analyst": {
-    "recommendation": "buy",
-    "recommendation_mean": 2.31034,
-    "num_analysts": 29,
-    "target_low": 8157.0,
-    "target_mean": 12109.655,
-    "target_median": 12092.0,
-    "target_high": 16200.0
-  },
+  "fundamentals": null,
+  "analyst": null,
   "shareholding": null,
-  "updated_at": "2026-07-09T16:54:27.148011+00:00"
+  "updated_at": "2026-07-09T17:25:09.234705+00:00"
 }

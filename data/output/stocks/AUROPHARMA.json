@@ -662,31 +662,8 @@
     "flag_count": 8,
     "flag_total": 8
   },
-  "fundamentals": {
-    "pe_trailing": 26.338144,
-    "pe_forward": 17.775478,
-    "eps_trailing": 60.27,
-    "eps_forward": 89.3028,
-    "roe": 0.09932999,
-    "profit_margin": 0.10414,
-    "gross_margin": 0.59919,
-    "operating_margin": 0.14936,
-    "market_cap": 913354915840,
-    "current_price": 1587.4,
-    "sector": "Healthcare",
-    "name": "Aurobindo Pharma Limited",
-    "roce": 0.1358228748436231,
-    "revenue_growth_yoy": 0.06394931756608822
-  },
-  "analyst": {
-    "recommendation": "buy",
-    "recommendation_mean": 2.07143,
-    "num_analysts": 29,
-    "target_low": 1020.0,
-    "target_mean": 1547.5518,
-    "target_median": 1555.0,
-    "target_high": 1810.0
-  },
+  "fundamentals": null,
+  "analyst": null,
   "shareholding": null,
-  "updated_at": "2026-07-09T16:52:52.766811+00:00"
+  "updated_at": "2026-07-09T17:13:32.857543+00:00"
 }

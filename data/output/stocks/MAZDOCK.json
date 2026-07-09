@@ -655,31 +655,8 @@
     "flag_count": 1,
     "flag_total": 8
   },
-  "fundamentals": {
-    "pe_trailing": 37.098186,
-    "pe_forward": 29.120527,
-    "eps_trailing": 63.96,
-    "eps_forward": 81.48204,
-    "roe": 0.2877,
-    "profit_margin": 0.19863,
-    "gross_margin": 0.35751,
-    "operating_margin": 0.13505,
-    "market_cap": 957140107264,
-    "current_price": 2372.8,
-    "sector": "Industrials",
-    "name": "Mazagon Dock Shipbuilders Limited",
-    "roce": 0.2851488766804974,
-    "revenue_growth_yoy": 0.13772275426264097
-  },
-  "analyst": {
-    "recommendation": "buy",
-    "recommendation_mean": 2.2,
-    "num_analysts": 10,
-    "target_low": 2100.0,
-    "target_mean": 2831.3,
-    "target_median": 2885.0,
-    "target_high": 3380.0
-  },
+  "fundamentals": null,
+  "analyst": null,
   "shareholding": null,
-  "updated_at": "2026-07-09T16:57:46.592655+00:00"
+  "updated_at": "2026-07-09T17:47:46.091764+00:00"
 }

@@ -655,31 +655,8 @@
     "flag_count": 1,
     "flag_total": 8
   },
-  "fundamentals": {
-    "pe_trailing": 5.2983904,
-    "pe_forward": 4.801081,
-    "eps_trailing": 101.88,
-    "eps_forward": 112.43301,
-    "roe": 0.14409,
-    "profit_margin": 0.65779,
-    "gross_margin": 0.98502,
-    "operating_margin": 0.81481004,
-    "market_cap": 296923987968,
-    "current_price": 539.8,
-    "sector": "Financial Services",
-    "name": "LIC Housing Finance Limited",
-    "roce": null,
-    "revenue_growth_yoy": 0.05732369990878218
-  },
-  "analyst": {
-    "recommendation": "hold",
-    "recommendation_mean": 2.54167,
-    "num_analysts": 24,
-    "target_low": 460.0,
-    "target_mean": 613.9167,
-    "target_median": 623.0,
-    "target_high": 750.0
-  },
+  "fundamentals": null,
+  "analyst": null,
   "shareholding": null,
-  "updated_at": "2026-07-09T16:57:16.930022+00:00"
+  "updated_at": "2026-07-09T17:43:57.619871+00:00"
 }

@@ -660,31 +660,8 @@
     "flag_count": 6,
     "flag_total": 8
   },
-  "fundamentals": {
-    "pe_trailing": 30.045862,
-    "pe_forward": 22.724138,
-    "eps_trailing": 47.97,
-    "eps_forward": 63.42595,
-    "roe": 0.11736,
-    "profit_margin": 0.13939999,
-    "gross_margin": 0.64747,
-    "operating_margin": 0.11262,
-    "market_cap": 1164347441152,
-    "current_price": 1441.3,
-    "sector": "Healthcare",
-    "name": "Cipla Limited",
-    "roce": 0.14857680105539678,
-    "revenue_growth_yoy": 0.02086136140929955
-  },
-  "analyst": {
-    "recommendation": "buy",
-    "recommendation_mean": 2.2973,
-    "num_analysts": 37,
-    "target_low": 1080.0,
-    "target_mean": 1471.8649,
-    "target_median": 1500.0,
-    "target_high": 1768.0
-  },
+  "fundamentals": null,
+  "analyst": null,
   "shareholding": null,
-  "updated_at": "2026-07-09T16:53:53.858908+00:00"
+  "updated_at": "2026-07-09T17:21:02.462329+00:00"
 }

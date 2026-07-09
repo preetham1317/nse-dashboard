@@ -653,31 +653,8 @@
     "flag_count": 0,
     "flag_total": 8
   },
-  "fundamentals": {
-    "pe_trailing": 6.373111,
-    "pe_forward": 5.649585,
-    "eps_trailing": 38.38,
-    "eps_forward": 43.29522,
-    "roe": 0.12738,
-    "profit_margin": 0.31175,
-    "gross_margin": 0.0,
-    "operating_margin": 0.38452998,
-    "market_cap": 1264915185664,
-    "current_price": 244.6,
-    "sector": "Financial Services",
-    "name": "Bank of Baroda Limited",
-    "roce": null,
-    "revenue_growth_yoy": 0.004340454553529417
-  },
-  "analyst": {
-    "recommendation": "buy",
-    "recommendation_mean": 1.93939,
-    "num_analysts": 33,
-    "target_low": 225.0,
-    "target_mean": 309.21213,
-    "target_median": 310.0,
-    "target_high": 350.0
-  },
+  "fundamentals": null,
+  "analyst": null,
   "shareholding": null,
-  "updated_at": "2026-07-09T16:53:10.846482+00:00"
+  "updated_at": "2026-07-09T17:15:48.169985+00:00"
 }

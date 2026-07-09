@@ -655,31 +655,8 @@
     "flag_count": 1,
     "flag_total": 8
   },
-  "fundamentals": {
-    "pe_trailing": 8.193694,
-    "pe_forward": 14.374042,
-    "eps_trailing": 15.54,
-    "eps_forward": 8.85833,
-    "roe": 0.091850005,
-    "profit_margin": 0.162,
-    "gross_margin": 0.43435,
-    "operating_margin": 0.22309999,
-    "market_cap": 35809599488,
-    "current_price": 127.33,
-    "sector": "Industrials",
-    "name": "KNR Constructions Limited",
-    "roce": 0.09787645803128218,
-    "revenue_growth_yoy": -0.43237550706735345
-  },
-  "analyst": {
-    "recommendation": "hold",
-    "recommendation_mean": 3.0,
-    "num_analysts": 14,
-    "target_low": 110.0,
-    "target_mean": 143.35715,
-    "target_median": 132.5,
-    "target_high": 260.0
-  },
+  "fundamentals": null,
+  "analyst": null,
   "shareholding": null,
-  "updated_at": "2026-07-09T16:57:07.002404+00:00"
+  "updated_at": "2026-07-09T17:42:48.881939+00:00"
 }

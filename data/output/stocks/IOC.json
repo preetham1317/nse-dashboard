@@ -653,31 +653,8 @@
     "flag_count": 0,
     "flag_total": 8
   },
-  "fundamentals": {
-    "pe_trailing": 4.5227346,
-    "pe_forward": 7.730176,
-    "eps_trailing": 30.57,
-    "eps_forward": 17.88575,
-    "roe": 0.20969999,
-    "profit_margin": 0.05367,
-    "gross_margin": 0.19287,
-    "operating_margin": 0.09243,
-    "market_cap": 1952402374656,
-    "current_price": 138.26,
-    "sector": "Energy",
-    "name": "Indian Oil Corporation Limited",
-    "roce": 0.2070185173738933,
-    "revenue_growth_yoy": 0.034704416788469146
-  },
-  "analyst": {
-    "recommendation": "hold",
-    "recommendation_mean": 2.51613,
-    "num_analysts": 31,
-    "target_low": 110.0,
-    "target_mean": 159.6129,
-    "target_median": 160.0,
-    "target_high": 203.0
-  },
+  "fundamentals": null,
+  "analyst": null,
   "shareholding": null,
-  "updated_at": "2026-07-09T16:55:57.835768+00:00"
+  "updated_at": "2026-07-09T17:36:46.441704+00:00"
 }

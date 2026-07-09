@@ -660,31 +660,8 @@
     "flag_count": 6,
     "flag_total": 8
   },
-  "fundamentals": {
-    "pe_trailing": 74.66441,
-    "pe_forward": 45.32123,
-    "eps_trailing": 14.75,
-    "eps_forward": 24.29987,
-    "roe": 0.14333001,
-    "profit_margin": 0.17226,
-    "gross_margin": 0.62415004,
-    "operating_margin": 0.22559,
-    "market_cap": 1071866052608,
-    "current_price": 1101.3,
-    "sector": "Healthcare",
-    "name": "Max Healthcare Institute Limited",
-    "roce": 0.1270061153948418,
-    "revenue_growth_yoy": 0.1913633996636532
-  },
-  "analyst": {
-    "recommendation": "buy",
-    "recommendation_mean": 2.0,
-    "num_analysts": 26,
-    "target_low": 825.0,
-    "target_mean": 1158.9615,
-    "target_median": 1177.5,
-    "target_high": 1370.0
-  },
+  "fundamentals": null,
+  "analyst": null,
   "shareholding": null,
-  "updated_at": "2026-07-09T16:57:43.707411+00:00"
+  "updated_at": "2026-07-09T17:47:23.757408+00:00"
 }

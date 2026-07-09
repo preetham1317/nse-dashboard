@@ -659,31 +659,8 @@
     "flag_count": 5,
     "flag_total": 8
   },
-  "fundamentals": {
-    "pe_trailing": 28.642117,
-    "pe_forward": 22.97912,
-    "eps_trailing": 60.83,
-    "eps_forward": 75.82101,
-    "roe": 0.06501,
-    "profit_margin": 0.07694,
-    "gross_margin": 0.61875,
-    "operating_margin": 0.1265,
-    "market_cap": 327079886848,
-    "current_price": 1742.3,
-    "sector": "Basic Materials",
-    "name": "Dalmia Bharat Limited",
-    "roce": 0.06983139156234171,
-    "revenue_growth_yoy": 0.05894134477825465
-  },
-  "analyst": {
-    "recommendation": "buy",
-    "recommendation_mean": 1.85294,
-    "num_analysts": 34,
-    "target_low": 1800.0,
-    "target_mean": 2179.2058,
-    "target_median": 2166.5,
-    "target_high": 2522.0
-  },
+  "fundamentals": null,
+  "analyst": null,
   "shareholding": null,
-  "updated_at": "2026-07-09T16:54:14.967484+00:00"
+  "updated_at": "2026-07-09T17:23:39.371126+00:00"
 }

@@ -656,31 +656,8 @@
     "flag_count": 2,
     "flag_total": 8
   },
-  "fundamentals": {
-    "pe_trailing": 39.01639,
-    "pe_forward": 21.718037,
-    "eps_trailing": 3.66,
-    "eps_forward": 6.57518,
-    "roe": 0.10114,
-    "profit_margin": 0.030869998,
-    "gross_margin": 0.45731997,
-    "operating_margin": 0.07129,
-    "market_cap": 1503859834880,
-    "current_price": 142.8,
-    "sector": "Consumer Cyclical",
-    "name": "Samvardhana Motherson International Limited",
-    "roce": 0.11823313126779382,
-    "revenue_growth_yoy": 0.11091080858795488
-  },
-  "analyst": {
-    "recommendation": "buy",
-    "recommendation_mean": 1.7619,
-    "num_analysts": 21,
-    "target_low": 110.0,
-    "target_mean": 153.80952,
-    "target_median": 155.0,
-    "target_high": 182.0
-  },
+  "fundamentals": null,
+  "analyst": null,
   "shareholding": null,
-  "updated_at": "2026-07-09T16:57:55.615323+00:00"
+  "updated_at": "2026-07-09T17:48:53.299414+00:00"
 }

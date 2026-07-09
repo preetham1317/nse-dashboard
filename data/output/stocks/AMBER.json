@@ -655,31 +655,8 @@
     "flag_count": 1,
     "flag_total": 8
   },
-  "fundamentals": {
-    "pe_trailing": 155.11224,
-    "pe_forward": 38.93134,
-    "eps_trailing": 49.0,
-    "eps_forward": 195.22832,
-    "roe": 0.05583,
-    "profit_margin": 0.014579999,
-    "gross_margin": 0.18370001,
-    "operating_margin": 0.06243,
-    "market_cap": 268052676608,
-    "current_price": 7600.5,
-    "sector": "Consumer Cyclical",
-    "name": "Amber Enterprises India Limited",
-    "roce": 0.07697027081857954,
-    "revenue_growth_yoy": 0.2219449930275353
-  },
-  "analyst": {
-    "recommendation": "buy",
-    "recommendation_mean": 1.96,
-    "num_analysts": 25,
-    "target_low": 5467.0,
-    "target_mean": 8443.76,
-    "target_median": 8500.0,
-    "target_high": 9770.0
-  },
+  "fundamentals": null,
+  "analyst": null,
   "shareholding": null,
-  "updated_at": "2026-07-09T16:52:28.258656+00:00"
+  "updated_at": "2026-07-09T17:10:33.385424+00:00"
 }

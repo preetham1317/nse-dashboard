@@ -659,31 +659,8 @@
     "flag_count": 5,
     "flag_total": 8
   },
-  "fundamentals": {
-    "pe_trailing": 5.094215,
-    "pe_forward": 7.7294564,
-    "eps_trailing": 60.5,
-    "eps_forward": 39.87344,
-    "roe": 0.28469,
-    "profit_margin": 0.05677,
-    "gross_margin": 0.16704,
-    "operating_margin": 0.08165,
-    "market_cap": 1316810784768,
-    "current_price": 308.2,
-    "sector": "Energy",
-    "name": "Bharat Petroleum Corporation Limited",
-    "roce": 0.26364751489571964,
-    "revenue_growth_yoy": 0.033970306437481605
-  },
-  "analyst": {
-    "recommendation": "hold",
-    "recommendation_mean": 2.6129,
-    "num_analysts": 31,
-    "target_low": 236.0,
-    "target_mean": 336.96774,
-    "target_median": 340.0,
-    "target_high": 518.0
-  },
+  "fundamentals": null,
+  "analyst": null,
   "shareholding": null,
-  "updated_at": "2026-07-09T16:53:31.886856+00:00"
+  "updated_at": "2026-07-09T17:18:25.467973+00:00"
 }

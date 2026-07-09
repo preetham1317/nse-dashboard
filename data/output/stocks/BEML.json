@@ -660,31 +660,8 @@
     "flag_count": 6,
     "flag_total": 8
   },
-  "fundamentals": {
-    "pe_trailing": 106.516136,
-    "pe_forward": 25.578873,
-    "eps_trailing": 17.05,
-    "eps_forward": 71.0,
-    "roe": 0.04858,
-    "profit_margin": 0.03249,
-    "gross_margin": 0.47625,
-    "operating_margin": 0.13881,
-    "market_cap": 151261151232,
-    "current_price": 1816.1,
-    "sector": "Industrials",
-    "name": "BEML Limited",
-    "roce": 0.059096863849221574,
-    "revenue_growth_yoy": 0.08162407824534709
-  },
-  "analyst": {
-    "recommendation": "none",
-    "recommendation_mean": null,
-    "num_analysts": 3,
-    "target_low": 1940.0,
-    "target_mean": 2048.6667,
-    "target_median": 1960.0,
-    "target_high": 2246.0
-  },
+  "fundamentals": null,
+  "analyst": null,
   "shareholding": null,
-  "updated_at": "2026-07-09T16:53:19.900459+00:00"
+  "updated_at": "2026-07-09T17:16:55.620498+00:00"
 }

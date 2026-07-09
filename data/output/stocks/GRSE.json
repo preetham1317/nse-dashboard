@@ -656,31 +656,8 @@
     "flag_count": 2,
     "flag_total": 8
   },
-  "fundamentals": {
-    "pe_trailing": 43.60664,
-    "pe_forward": 31.277382,
-    "eps_trailing": 60.25,
-    "eps_forward": 84.0,
-    "roe": 0.31791002,
-    "profit_margin": 0.106809996,
-    "gross_margin": 0.19424,
-    "operating_margin": 0.16153,
-    "market_cap": 300962480128,
-    "current_price": 2627.3,
-    "sector": "Industrials",
-    "name": "Garden Reach Shipbuilders & Engineers Limited",
-    "roce": 0.3236360911957514,
-    "revenue_growth_yoy": 0.41313508281581607
-  },
-  "analyst": {
-    "recommendation": "none",
-    "recommendation_mean": null,
-    "num_analysts": 6,
-    "target_low": 2660.0,
-    "target_mean": 3146.0,
-    "target_median": 3108.0,
-    "target_high": 3500.0
-  },
+  "fundamentals": null,
+  "analyst": null,
   "shareholding": null,
-  "updated_at": "2026-07-09T16:55:03.683834+00:00"
+  "updated_at": "2026-07-09T17:29:38.917065+00:00"
 }

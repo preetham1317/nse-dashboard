@@ -658,31 +658,8 @@
     "flag_count": 4,
     "flag_total": 8
   },
-  "fundamentals": {
-    "pe_trailing": 40.148586,
-    "pe_forward": 26.6926,
-    "eps_trailing": 40.38,
-    "eps_forward": 60.73593,
-    "roe": 0.09751,
-    "profit_margin": 0.0698,
-    "gross_margin": 0.24052,
-    "operating_margin": 0.14781,
-    "market_cap": 221120397312,
-    "current_price": 1621.2,
-    "sector": "Basic Materials",
-    "name": "Deepak Nitrite Limited",
-    "roce": 0.10849993380113862,
-    "revenue_growth_yoy": -0.047677292611746296
-  },
-  "analyst": {
-    "recommendation": "hold",
-    "recommendation_mean": 2.73684,
-    "num_analysts": 19,
-    "target_low": 1327.0,
-    "target_mean": 1791.8948,
-    "target_median": 1869.0,
-    "target_high": 2100.0
-  },
+  "fundamentals": null,
+  "analyst": null,
   "shareholding": null,
-  "updated_at": "2026-07-09T16:54:18.172016+00:00"
+  "updated_at": "2026-07-09T17:24:01.988402+00:00"
 }

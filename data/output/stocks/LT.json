@@ -656,31 +656,8 @@
     "flag_count": 2,
     "flag_total": 8
   },
-  "fundamentals": {
-    "pe_trailing": 33.281944,
-    "pe_forward": 21.173042,
-    "eps_trailing": 116.76,
-    "eps_forward": 183.53526,
-    "roe": 0.16951999,
-    "profit_margin": 0.05515,
-    "gross_margin": 0.36905998,
-    "operating_margin": 0.10707,
-    "market_cap": 5346083471360,
-    "current_price": 3886.0,
-    "sector": "Industrials",
-    "name": "Larsen & Toubro Limited",
-    "roce": 0.1455308512591897,
-    "revenue_growth_yoy": 0.11807835807318122
-  },
-  "analyst": {
-    "recommendation": "buy",
-    "recommendation_mean": 1.71875,
-    "num_analysts": 31,
-    "target_low": 3600.0,
-    "target_mean": 4512.1934,
-    "target_median": 4530.0,
-    "target_high": 5060.0
-  },
+  "fundamentals": null,
+  "analyst": null,
   "shareholding": null,
-  "updated_at": "2026-07-09T16:57:22.731377+00:00"
+  "updated_at": "2026-07-09T17:44:42.591929+00:00"
 }

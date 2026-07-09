@@ -659,31 +659,8 @@
     "flag_count": 5,
     "flag_total": 8
   },
-  "fundamentals": {
-    "pe_trailing": 27.024292,
-    "pe_forward": 14.612267,
-    "eps_trailing": 19.76,
-    "eps_forward": 36.54464,
-    "roe": 0.10786,
-    "profit_margin": 0.11311,
-    "gross_margin": 0.50282,
-    "operating_margin": 0.19521,
-    "market_cap": 174170701824,
-    "current_price": 534.0,
-    "sector": "Real Estate",
-    "name": "Brigade Enterprises Limited",
-    "roce": 0.09894390125197952,
-    "revenue_growth_yoy": 0.12277970363859596
-  },
-  "analyst": {
-    "recommendation": "strong_buy",
-    "recommendation_mean": 1.2,
-    "num_analysts": 15,
-    "target_low": 475.0,
-    "target_mean": 756.95,
-    "target_median": 768.0,
-    "target_high": 920.0
-  },
+  "fundamentals": null,
+  "analyst": null,
   "shareholding": null,
-  "updated_at": "2026-07-09T16:53:36.233055+00:00"
+  "updated_at": "2026-07-09T17:18:47.904455+00:00"
 }

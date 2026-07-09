@@ -662,31 +662,8 @@
     "flag_count": 8,
     "flag_total": 8
   },
-  "fundamentals": {
-    "pe_trailing": 70.527954,
-    "pe_forward": 48.255688,
-    "eps_trailing": 96.6,
-    "eps_forward": 141.18542,
-    "roe": 0.16187,
-    "profit_margin": 0.24318,
-    "gross_margin": 0.61241,
-    "operating_margin": 0.28753,
-    "market_cap": 1808637362176,
-    "current_price": 6813.0,
-    "sector": "Healthcare",
-    "name": "Divi's Laboratories Limited",
-    "roce": 0.1896053362979433,
-    "revenue_growth_yoy": 0.1282051282051282
-  },
-  "analyst": {
-    "recommendation": "hold",
-    "recommendation_mean": 2.56667,
-    "num_analysts": 30,
-    "target_low": 5160.0,
-    "target_mean": 7059.1333,
-    "target_median": 6981.0,
-    "target_high": 9450.0
-  },
+  "fundamentals": null,
+  "analyst": null,
   "shareholding": null,
-  "updated_at": "2026-07-09T16:54:24.008322+00:00"
+  "updated_at": "2026-07-09T17:24:46.756852+00:00"
 }

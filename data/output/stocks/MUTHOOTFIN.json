@@ -655,31 +655,8 @@
     "flag_count": 1,
     "flag_total": 8
   },
-  "fundamentals": {
-    "pe_trailing": 11.584132,
-    "pe_forward": 9.100081,
-    "eps_trailing": 263.93,
-    "eps_forward": 335.975,
-    "roe": 0.30406,
-    "profit_margin": 0.55206,
-    "gross_margin": 1.0,
-    "operating_margin": 0.78154,
-    "market_cap": 1227449696256,
-    "current_price": 3057.4,
-    "sector": "Financial Services",
-    "name": "Muthoot Finance Limited",
-    "roce": null,
-    "revenue_growth_yoy": 0.5766058155182566
-  },
-  "analyst": {
-    "recommendation": "buy",
-    "recommendation_mean": 2.5,
-    "num_analysts": 22,
-    "target_low": 2650.0,
-    "target_mean": 3678.682,
-    "target_median": 3648.0,
-    "target_high": 4600.0
-  },
+  "fundamentals": null,
+  "analyst": null,
   "shareholding": null,
-  "updated_at": "2026-07-09T16:58:01.672164+00:00"
+  "updated_at": "2026-07-09T17:49:38.057142+00:00"
 }

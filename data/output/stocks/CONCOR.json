@@ -653,31 +653,8 @@
     "flag_count": 0,
     "flag_total": 8
   },
-  "fundamentals": {
-    "pe_trailing": 27.974297,
-    "pe_forward": 19.029974,
-    "eps_trailing": 16.34,
-    "eps_forward": 24.02,
-    "roe": 0.097559996,
-    "profit_margin": 0.13678001,
-    "gross_margin": 0.39079,
-    "operating_margin": 0.12122,
-    "market_cap": 348135555072,
-    "current_price": 457.1,
-    "sector": "Industrials",
-    "name": "Container Corporation of India Limited",
-    "roce": 0.12166706658883107,
-    "revenue_growth_yoy": 0.02159891617212519
-  },
-  "analyst": {
-    "recommendation": "hold",
-    "recommendation_mean": 2.5625,
-    "num_analysts": 16,
-    "target_low": 456.0,
-    "target_mean": 523.375,
-    "target_median": 520.0,
-    "target_high": 625.0
-  },
+  "fundamentals": null,
+  "analyst": null,
   "shareholding": null,
-  "updated_at": "2026-07-09T16:54:06.171270+00:00"
+  "updated_at": "2026-07-09T17:22:32.110713+00:00"
 }

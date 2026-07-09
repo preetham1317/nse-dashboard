@@ -661,31 +661,8 @@
     "flag_count": 7,
     "flag_total": 8
   },
-  "fundamentals": {
-    "pe_trailing": 134.72682,
-    "pe_forward": 47.383667,
-    "eps_trailing": 6.04,
-    "eps_forward": 17.17364,
-    "roe": 0.09724,
-    "profit_margin": 0.06182,
-    "gross_margin": 0.5924,
-    "operating_margin": 0.11502,
-    "market_cap": 325613060096,
-    "current_price": 813.75,
-    "sector": "Healthcare",
-    "name": "Krishna Institute of Medical Sciences Limited",
-    "roce": 0.08227246234547073,
-    "revenue_growth_yoy": 0.28652388797364087
-  },
-  "analyst": {
-    "recommendation": "strong_buy",
-    "recommendation_mean": 1.4375,
-    "num_analysts": 16,
-    "target_low": 695.0,
-    "target_mean": 827.1875,
-    "target_median": 825.0,
-    "target_high": 1025.0
-  },
+  "fundamentals": null,
+  "analyst": null,
   "shareholding": null,
-  "updated_at": "2026-07-09T16:57:04.262309+00:00"
+  "updated_at": "2026-07-09T17:42:26.346433+00:00"
 }

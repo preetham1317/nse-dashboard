@@ -653,31 +653,8 @@
     "flag_count": 0,
     "flag_total": 8
   },
-  "fundamentals": {
-    "pe_trailing": 21.778805,
-    "pe_forward": 12.630987,
-    "eps_trailing": 22.74,
-    "eps_forward": 39.20913,
-    "roe": 0.10524999,
-    "profit_margin": 0.02576,
-    "gross_margin": 0.22083999,
-    "operating_margin": 0.06221,
-    "market_cap": 131835551744,
-    "current_price": 495.25,
-    "sector": "Industrials",
-    "name": "KEC International Limited",
-    "roce": 0.20317331561833502,
-    "revenue_growth_yoy": 0.07593091862844274
-  },
-  "analyst": {
-    "recommendation": "buy",
-    "recommendation_mean": 1.65217,
-    "num_analysts": 23,
-    "target_low": 411.0,
-    "target_mean": 583.86957,
-    "target_median": 600.0,
-    "target_high": 736.0
-  },
+  "fundamentals": null,
+  "analyst": null,
   "shareholding": null,
-  "updated_at": "2026-07-09T16:56:39.760117+00:00"
+  "updated_at": "2026-07-09T17:42:03.603499+00:00"
 }

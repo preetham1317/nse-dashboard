@@ -659,31 +659,8 @@
     "flag_count": 5,
     "flag_total": 8
   },
-  "fundamentals": {
-    "pe_trailing": 41.972763,
-    "pe_forward": 28.396805,
-    "eps_trailing": 128.5,
-    "eps_forward": 189.93333,
-    "roe": 0.15032,
-    "profit_margin": 0.07225,
-    "gross_margin": 0.63228,
-    "operating_margin": 0.13306,
-    "market_cap": 416746307584,
-    "current_price": 5393.5,
-    "sector": "Basic Materials",
-    "name": "J.K. Cement Limited",
-    "roce": 0.1327869939474399,
-    "revenue_growth_yoy": 0.16509982677029705
-  },
-  "analyst": {
-    "recommendation": "buy",
-    "recommendation_mean": 1.68966,
-    "num_analysts": 28,
-    "target_low": 3800.0,
-    "target_mean": 6127.0,
-    "target_median": 6163.5,
-    "target_high": 7400.0
-  },
+  "fundamentals": null,
+  "analyst": null,
   "shareholding": null,
-  "updated_at": "2026-07-09T16:56:21.982863+00:00"
+  "updated_at": "2026-07-09T17:39:46.341900+00:00"
 }

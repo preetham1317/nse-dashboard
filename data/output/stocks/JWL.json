@@ -653,31 +653,8 @@
     "flag_count": 0,
     "flag_total": 8
   },
-  "fundamentals": {
-    "pe_trailing": 62.34491,
-    "pe_forward": 25.57252,
-    "eps_trailing": 4.03,
-    "eps_forward": 9.825,
-    "roe": 0.05768,
-    "profit_margin": 0.05868,
-    "gross_margin": 0.28186,
-    "operating_margin": 0.08394,
-    "market_cap": 107376812032,
-    "current_price": 251.25,
-    "sector": "Industrials",
-    "name": "Jupiter Wagons Limited",
-    "roce": 0.09366124092044675,
-    "revenue_growth_yoy": -0.26432059611238623
-  },
-  "analyst": {
-    "recommendation": "none",
-    "recommendation_mean": null,
-    "num_analysts": 4,
-    "target_low": 210.0,
-    "target_mean": 275.5,
-    "target_median": 277.5,
-    "target_high": 337.0
-  },
+  "fundamentals": null,
+  "analyst": null,
   "shareholding": null,
-  "updated_at": "2026-07-09T16:56:30.762275+00:00"
+  "updated_at": "2026-07-09T17:40:53.490380+00:00"
 }

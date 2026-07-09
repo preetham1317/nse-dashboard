@@ -659,31 +659,8 @@
     "flag_count": 5,
     "flag_total": 8
   },
-  "fundamentals": {
-    "pe_trailing": 18.736156,
-    "pe_forward": 14.361802,
-    "eps_trailing": 61.4,
-    "eps_forward": 80.10137,
-    "roe": 0.23357001,
-    "profit_margin": 0.128,
-    "gross_margin": 0.34077,
-    "operating_margin": 0.16486,
-    "market_cap": 3112714108928,
-    "current_price": 1150.4,
-    "sector": "Technology",
-    "name": "HCL Technologies Limited",
-    "roce": 0.27206509380329735,
-    "revenue_growth_yoy": 0.11181923027636581
-  },
-  "analyst": {
-    "recommendation": "hold",
-    "recommendation_mean": 2.825,
-    "num_analysts": 40,
-    "target_low": 910.0,
-    "target_mean": 1298.9,
-    "target_median": 1276.0,
-    "target_high": 1697.0
-  },
+  "fundamentals": null,
+  "analyst": null,
   "shareholding": null,
-  "updated_at": "2026-07-09T16:55:09.558385+00:00"
+  "updated_at": "2026-07-09T17:30:27.424727+00:00"
 }

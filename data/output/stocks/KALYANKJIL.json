@@ -660,23 +660,8 @@
     "flag_count": 6,
     "flag_total": 8
   },
-  "fundamentals": {
-    "pe_trailing": 33.92037,
-    "pe_forward": 23.604748,
-    "eps_trailing": 13.06,
-    "eps_forward": 18.76741,
-    "roe": 0.24305001,
-    "profit_margin": 0.03778,
-    "gross_margin": 0.13161999,
-    "operating_margin": 0.060599998,
-    "market_cap": 457503932416,
-    "current_price": 443.0,
-    "sector": "Consumer Cyclical",
-    "name": "Kalyan Jewellers India Limited",
-    "roce": 0.27425262026066577,
-    "revenue_growth_yoy": 0.42714177714684404
-  },
+  "fundamentals": null,
   "analyst": null,
   "shareholding": null,
-  "updated_at": "2026-07-09T16:56:33.669133+00:00"
+  "updated_at": "2026-07-09T17:41:15.797691+00:00"
 }

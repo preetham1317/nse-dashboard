@@ -655,31 +655,8 @@
     "flag_count": 1,
     "flag_total": 8
   },
-  "fundamentals": {
-    "pe_trailing": 49.11729,
-    "pe_forward": 35.695145,
-    "eps_trailing": 8.27,
-    "eps_forward": 11.3797,
-    "roe": 0.27556,
-    "profit_margin": 0.21956,
-    "gross_margin": 0.49174,
-    "operating_margin": 0.2747,
-    "market_cap": 2969232211968,
-    "current_price": 406.2,
-    "sector": "Industrials",
-    "name": "Bharat Electronics Limited",
-    "roce": 0.318844977227026,
-    "revenue_growth_yoy": 0.16161388377596633
-  },
-  "analyst": {
-    "recommendation": "buy",
-    "recommendation_mean": 1.64286,
-    "num_analysts": 28,
-    "target_low": 346.0,
-    "target_mean": 490.17856,
-    "target_median": 501.0,
-    "target_high": 585.0
-  },
+  "fundamentals": null,
+  "analyst": null,
   "shareholding": null,
-  "updated_at": "2026-07-09T16:53:16.748101+00:00"
+  "updated_at": "2026-07-09T17:16:33.116685+00:00"
 }

@@ -657,31 +657,8 @@
     "flag_count": 3,
     "flag_total": 8
   },
-  "fundamentals": {
-    "pe_trailing": 36.614605,
-    "pe_forward": 27.620026,
-    "eps_trailing": 201.04,
-    "eps_forward": 266.50952,
-    "roe": 0.23774,
-    "profit_margin": 0.23562,
-    "gross_margin": 0.44173,
-    "operating_margin": 0.21086,
-    "market_cap": 2020576329728,
-    "current_price": 7361.0,
-    "sector": "Consumer Cyclical",
-    "name": "Eicher Motors Limited",
-    "roce": 0.26432207130692514,
-    "revenue_growth_yoy": 0.23947080111833882
-  },
-  "analyst": {
-    "recommendation": "buy",
-    "recommendation_mean": 2.08108,
-    "num_analysts": 36,
-    "target_low": 6200.0,
-    "target_mean": 7877.472,
-    "target_median": 7843.5,
-    "target_high": 9100.0
-  },
+  "fundamentals": null,
+  "analyst": null,
   "shareholding": null,
-  "updated_at": "2026-07-09T16:54:36.622777+00:00"
+  "updated_at": "2026-07-09T17:26:16.601121+00:00"
 }

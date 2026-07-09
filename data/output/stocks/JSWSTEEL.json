@@ -655,31 +655,8 @@
     "flag_count": 1,
     "flag_total": 8
   },
-  "fundamentals": {
-    "pe_trailing": 13.437843,
-    "pe_forward": 17.06205,
-    "eps_trailing": 91.22,
-    "eps_forward": 71.84366,
-    "roe": 0.27261,
-    "profit_margin": 0.12031999,
-    "gross_margin": 0.42561,
-    "operating_margin": 0.18778999,
-    "market_cap": 2991965601792,
-    "current_price": 1225.8,
-    "sector": "Basic Materials",
-    "name": "JSW Steel Limited",
-    "roce": 0.18746973274953943,
-    "revenue_growth_yoy": 0.09282305267897344
-  },
-  "analyst": {
-    "recommendation": "buy",
-    "recommendation_mean": 2.34286,
-    "num_analysts": 36,
-    "target_low": 1090.0,
-    "target_mean": 1369.2222,
-    "target_median": 1390.5,
-    "target_high": 1650.0
-  },
+  "fundamentals": null,
+  "analyst": null,
   "shareholding": null,
-  "updated_at": "2026-07-09T16:56:27.927359+00:00"
+  "updated_at": "2026-07-09T17:40:31.067013+00:00"
 }

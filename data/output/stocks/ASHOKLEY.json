@@ -655,31 +655,8 @@
     "flag_count": 1,
     "flag_total": 8
   },
-  "fundamentals": {
-    "pe_trailing": 26.258884,
-    "pe_forward": 19.121347,
-    "eps_trailing": 5.91,
-    "eps_forward": 8.11606,
-    "roe": 0.21639,
-    "profit_margin": 0.06158,
-    "gross_margin": 0.39931,
-    "operating_margin": 0.17361,
-    "market_cap": 911563489280,
-    "current_price": 155.19,
-    "sector": "Industrials",
-    "name": "Ashok Leyland Limited",
-    "roce": 0.14515600445562965,
-    "revenue_growth_yoy": 0.15999148562236873
-  },
-  "analyst": {
-    "recommendation": "buy",
-    "recommendation_mean": 1.90909,
-    "num_analysts": 32,
-    "target_low": 155.0,
-    "target_mean": 183.3125,
-    "target_median": 182.5,
-    "target_high": 250.0
-  },
+  "fundamentals": null,
+  "analyst": null,
   "shareholding": null,
-  "updated_at": "2026-07-09T16:52:40.539197+00:00"
+  "updated_at": "2026-07-09T17:12:03.102002+00:00"
 }

@@ -659,31 +659,8 @@
     "flag_count": 5,
     "flag_total": 8
   },
-  "fundamentals": {
-    "pe_trailing": 33.522026,
-    "pe_forward": 21.463318,
-    "eps_trailing": 43.81,
-    "eps_forward": 68.42371,
-    "roe": 0.18596001,
-    "profit_margin": 0.094840005,
-    "gross_margin": 0.36431,
-    "operating_margin": 0.16555999,
-    "market_cap": 650135732224,
-    "current_price": 1468.6,
-    "sector": "Technology",
-    "name": "Coforge Limited",
-    "roce": 0.187424188369604,
-    "revenue_growth_yoy": 0.3585929281969304
-  },
-  "analyst": {
-    "recommendation": "buy",
-    "recommendation_mean": 1.6,
-    "num_analysts": 35,
-    "target_low": 1225.0,
-    "target_mean": 1719.8572,
-    "target_median": 1725.0,
-    "target_high": 2410.0
-  },
+  "fundamentals": null,
+  "analyst": null,
   "shareholding": null,
-  "updated_at": "2026-07-09T16:54:00.214201+00:00"
+  "updated_at": "2026-07-09T17:21:47.346051+00:00"
 }

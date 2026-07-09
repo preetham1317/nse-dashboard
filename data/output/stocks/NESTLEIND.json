@@ -662,31 +662,8 @@
     "flag_count": 8,
     "flag_total": 8
   },
-  "fundamentals": {
-    "pe_trailing": 80.70602,
-    "pe_forward": 61.496067,
-    "eps_trailing": 18.13,
-    "eps_forward": 23.79339,
-    "roe": 0.76338995,
-    "profit_margin": 0.15139,
-    "gross_margin": 0.54565,
-    "operating_margin": 0.2296,
-    "market_cap": 2821509611520,
-    "current_price": 1463.2,
-    "sector": "Consumer Defensive",
-    "name": "Nestl\u00e9 India Limited",
-    "roce": null,
-    "revenue_growth_yoy": 0.19583454688725652
-  },
-  "analyst": {
-    "recommendation": "buy",
-    "recommendation_mean": 2.41667,
-    "num_analysts": 36,
-    "target_low": 1265.0,
-    "target_mean": 1480.1945,
-    "target_median": 1466.5,
-    "target_high": 1675.0
-  },
+  "fundamentals": null,
+  "analyst": null,
   "shareholding": null,
-  "updated_at": "2026-07-09T16:58:14.395088+00:00"
+  "updated_at": "2026-07-09T17:51:07.798455+00:00"
 }

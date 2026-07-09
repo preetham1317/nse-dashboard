@@ -656,31 +656,8 @@
     "flag_count": 2,
     "flag_total": 8
   },
-  "fundamentals": {
-    "pe_trailing": 69.04572,
-    "pe_forward": 40.71153,
-    "eps_trailing": 13.78,
-    "eps_forward": 23.37053,
-    "roe": 0.11006,
-    "profit_margin": 0.11413,
-    "gross_margin": 0.41551,
-    "operating_margin": 0.17354,
-    "market_cap": 718304903168,
-    "current_price": 951.45,
-    "sector": "Healthcare",
-    "name": "Fortis Healthcare Limited",
-    "roce": 0.12131197012828464,
-    "revenue_growth_yoy": 0.17282965532748706
-  },
-  "analyst": {
-    "recommendation": "strong_buy",
-    "recommendation_mean": 1.45,
-    "num_analysts": 20,
-    "target_low": 950.0,
-    "target_mean": 1115.15,
-    "target_median": 1127.5,
-    "target_high": 1240.0
-  },
+  "fundamentals": null,
+  "analyst": null,
   "shareholding": null,
-  "updated_at": "2026-07-09T16:54:48.275192+00:00"
+  "updated_at": "2026-07-09T17:27:46.287826+00:00"
 }

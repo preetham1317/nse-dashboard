@@ -662,31 +662,8 @@
     "flag_count": 8,
     "flag_total": 8
   },
-  "fundamentals": {
-    "pe_trailing": 256.5423,
-    "pe_forward": 44.659214,
-    "eps_trailing": 2.01,
-    "eps_forward": 11.54633,
-    "roe": 0.01596,
-    "profit_margin": 0.014529999,
-    "gross_margin": 0.84731,
-    "operating_margin": 0.01086,
-    "market_cap": 386143551488,
-    "current_price": 515.65,
-    "sector": "Industrials",
-    "name": "Delhivery Limited",
-    "roce": 0.026213954856206378,
-    "revenue_growth_yoy": 0.17649165614352422
-  },
-  "analyst": {
-    "recommendation": "strong_buy",
-    "recommendation_mean": 1.40909,
-    "num_analysts": 22,
-    "target_low": 450.0,
-    "target_mean": 558.2273,
-    "target_median": 567.5,
-    "target_high": 650.0
-  },
+  "fundamentals": null,
+  "analyst": null,
   "shareholding": null,
-  "updated_at": "2026-07-09T16:54:21.109957+00:00"
+  "updated_at": "2026-07-09T17:24:24.397097+00:00"
 }

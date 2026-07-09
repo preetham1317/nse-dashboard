@@ -659,31 +659,8 @@
     "flag_count": 5,
     "flag_total": 8
   },
-  "fundamentals": {
-    "pe_trailing": 50.940617,
-    "pe_forward": 41.348045,
-    "eps_trailing": 105.25,
-    "eps_forward": 129.66756,
-    "roe": 0.53314,
-    "profit_margin": 0.13229,
-    "gross_margin": 0.41869998,
-    "operating_margin": 0.16267,
-    "market_cap": 1291415322624,
-    "current_price": 5361.5,
-    "sector": "Consumer Defensive",
-    "name": "Britannia Industries Limited",
-    "roce": 0.6126748259620494,
-    "revenue_growth_yoy": 0.07545985120062594
-  },
-  "analyst": {
-    "recommendation": "buy",
-    "recommendation_mean": 1.94118,
-    "num_analysts": 34,
-    "target_low": 4800.0,
-    "target_mean": 6242.2354,
-    "target_median": 6209.5,
-    "target_high": 7240.0
-  },
+  "fundamentals": null,
+  "analyst": null,
   "shareholding": null,
-  "updated_at": "2026-07-09T16:53:39.209727+00:00"
+  "updated_at": "2026-07-09T17:19:10.359447+00:00"
 }

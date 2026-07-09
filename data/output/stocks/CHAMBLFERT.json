@@ -655,31 +655,8 @@
     "flag_count": 1,
     "flag_total": 8
   },
-  "fundamentals": {
-    "pe_trailing": 9.309744,
-    "pe_forward": 9.122613,
-    "eps_trailing": 48.75,
-    "eps_forward": 49.75,
-    "roe": 0.20451,
-    "profit_margin": 0.09394,
-    "gross_margin": 0.36071,
-    "operating_margin": 0.05923,
-    "market_cap": 181836038144,
-    "current_price": 453.85,
-    "sector": "Basic Materials",
-    "name": "Chambal Fertilisers and Chemicals Limited",
-    "roce": 0.21821131513597375,
-    "revenue_growth_yoy": 0.2491535605723829
-  },
-  "analyst": {
-    "recommendation": "none",
-    "recommendation_mean": null,
-    "num_analysts": 2,
-    "target_low": 610.0,
-    "target_mean": 615.0,
-    "target_median": 615.0,
-    "target_high": 620.0
-  },
+  "fundamentals": null,
+  "analyst": null,
   "shareholding": null,
-  "updated_at": "2026-07-09T16:53:47.748971+00:00"
+  "updated_at": "2026-07-09T17:20:17.724853+00:00"
 }

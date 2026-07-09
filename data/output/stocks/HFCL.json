@@ -661,31 +661,8 @@
     "flag_count": 7,
     "flag_total": 8
   },
-  "fundamentals": {
-    "pe_trailing": 100.78873,
-    "pe_forward": 41.284615,
-    "eps_trailing": 2.13,
-    "eps_forward": 5.2,
-    "roe": 0.07266,
-    "profit_margin": 0.062989995,
-    "gross_margin": 0.35305,
-    "operating_margin": 0.14757,
-    "market_cap": 328516993024,
-    "current_price": 214.68,
-    "sector": "Technology",
-    "name": "HFCL Limited",
-    "roce": 0.12175342087227471,
-    "revenue_growth_yoy": 0.2176763799907492
-  },
-  "analyst": {
-    "recommendation": "none",
-    "recommendation_mean": null,
-    "num_analysts": 1,
-    "target_low": 150.0,
-    "target_mean": 150.0,
-    "target_median": 150.0,
-    "target_high": 150.0
-  },
+  "fundamentals": null,
+  "analyst": null,
   "shareholding": null,
-  "updated_at": "2026-07-09T16:55:18.866727+00:00"
+  "updated_at": "2026-07-09T17:31:43.696985+00:00"
 }

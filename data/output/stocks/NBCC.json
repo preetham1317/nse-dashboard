@@ -655,31 +655,8 @@
     "flag_count": 1,
     "flag_total": 8
   },
-  "fundamentals": {
-    "pe_trailing": 36.610485,
-    "pe_forward": 31.532259,
-    "eps_trailing": 2.67,
-    "eps_forward": 3.1,
-    "roe": 0.25225002,
-    "profit_margin": 0.05456,
-    "gross_margin": 0.11921,
-    "operating_margin": 0.09509,
-    "market_cap": 263925006336,
-    "current_price": 97.75,
-    "sector": "Industrials",
-    "name": "NBCC (India) Limited",
-    "roce": 0.2972708842038915,
-    "revenue_growth_yoy": 0.0701470550114563
-  },
-  "analyst": {
-    "recommendation": "none",
-    "recommendation_mean": null,
-    "num_analysts": 2,
-    "target_low": 110.0,
-    "target_mean": 124.5,
-    "target_median": 124.5,
-    "target_high": 139.0
-  },
+  "fundamentals": null,
+  "analyst": null,
   "shareholding": null,
-  "updated_at": "2026-07-09T16:58:08.246459+00:00"
+  "updated_at": "2026-07-09T17:50:22.951704+00:00"
 }

@@ -656,31 +656,8 @@
     "flag_count": 2,
     "flag_total": 8
   },
-  "fundamentals": {
-    "pe_trailing": 30.913618,
-    "pe_forward": 23.33412,
-    "eps_trailing": 58.23,
-    "eps_forward": 77.14454,
-    "roe": 0.15592,
-    "profit_margin": 0.33060002,
-    "gross_margin": 0.64403,
-    "operating_margin": 0.41182,
-    "market_cap": 4147356631040,
-    "current_price": 1800.1,
-    "sector": "Industrials",
-    "name": "Adani Ports and Special Economic Zone Limited",
-    "roce": 0.10969888662878187,
-    "revenue_growth_yoy": 0.2710533405216613
-  },
-  "analyst": {
-    "recommendation": "strong_buy",
-    "recommendation_mean": 1.24,
-    "num_analysts": 25,
-    "target_low": 1764.0,
-    "target_mean": 1970.04,
-    "target_median": 1960.0,
-    "target_high": 2178.0
-  },
+  "fundamentals": null,
+  "analyst": null,
   "shareholding": null,
-  "updated_at": "2026-07-09T16:52:22.036578+00:00"
+  "updated_at": "2026-07-09T17:09:48.141306+00:00"
 }

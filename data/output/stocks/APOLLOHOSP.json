@@ -662,31 +662,8 @@
     "flag_count": 8,
     "flag_total": 8
   },
-  "fundamentals": {
-    "pe_trailing": 65.61944,
-    "pe_forward": 41.366955,
-    "eps_trailing": 134.8,
-    "eps_forward": 213.8301,
-    "roe": 0.21503,
-    "profit_margin": 0.07696,
-    "gross_margin": 0.36279,
-    "operating_margin": 0.11908,
-    "market_cap": 1271847190528,
-    "current_price": 8845.5,
-    "sector": "Healthcare",
-    "name": "Apollo Hospitals Enterprise Limited",
-    "roce": 0.19792435541754688,
-    "revenue_growth_yoy": 0.15758924474626043
-  },
-  "analyst": {
-    "recommendation": "strong_buy",
-    "recommendation_mean": 1.43333,
-    "num_analysts": 31,
-    "target_low": 6230.0,
-    "target_mean": 9350.0,
-    "target_median": 9587.0,
-    "target_high": 10770.0
-  },
+  "fundamentals": null,
+  "analyst": null,
   "shareholding": null,
-  "updated_at": "2026-07-09T16:52:34.598359+00:00"
+  "updated_at": "2026-07-09T17:11:18.107377+00:00"
 }

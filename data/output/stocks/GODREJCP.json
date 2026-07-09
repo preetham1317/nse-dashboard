@@ -661,31 +661,8 @@
     "flag_count": 7,
     "flag_total": 8
   },
-  "fundamentals": {
-    "pe_trailing": 59.8459,
-    "pe_forward": 39.86687,
-    "eps_trailing": 18.17,
-    "eps_forward": 27.27578,
-    "roe": 0.15099,
-    "profit_margin": 0.12264,
-    "gross_margin": 0.51282,
-    "operating_margin": 0.19620001,
-    "market_cap": 1112741773312,
-    "current_price": 1087.4,
-    "sector": "Consumer Defensive",
-    "name": "Godrej Consumer Products Limited",
-    "roce": 0.21441655255011954,
-    "revenue_growth_yoy": 0.08500645969766603
-  },
-  "analyst": {
-    "recommendation": "buy",
-    "recommendation_mean": 1.52941,
-    "num_analysts": 35,
-    "target_low": 821.0,
-    "target_mean": 1259.4286,
-    "target_median": 1275.0,
-    "target_high": 1505.0
-  },
+  "fundamentals": null,
+  "analyst": null,
   "shareholding": null,
-  "updated_at": "2026-07-09T16:54:57.185712+00:00"
+  "updated_at": "2026-07-09T17:28:53.990317+00:00"
 }

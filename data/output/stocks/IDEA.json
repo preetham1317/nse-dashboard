@@ -656,31 +656,8 @@
     "flag_count": 2,
     "flag_total": 8
   },
-  "fundamentals": {
-    "pe_trailing": 4.3738317,
-    "pe_forward": -9.315101,
-    "eps_trailing": 3.21,
-    "eps_forward": -1.50723,
-    "roe": null,
-    "profit_margin": 0.77143997,
-    "gross_margin": 0.4456,
-    "operating_margin": -0.05821,
-    "market_cap": 1521136173056,
-    "current_price": 14.04,
-    "sector": "Communication Services",
-    "name": "Vodafone Idea Limited",
-    "roce": 0.36882769876734955,
-    "revenue_growth_yoy": 0.030674705449189984
-  },
-  "analyst": {
-    "recommendation": "hold",
-    "recommendation_mean": 3.31818,
-    "num_analysts": 22,
-    "target_low": 5.5,
-    "target_mean": 11.70682,
-    "target_median": 11.5,
-    "target_high": 19.0
-  },
+  "fundamentals": null,
+  "analyst": null,
   "shareholding": null,
-  "updated_at": "2026-07-09T16:55:36.733199+00:00"
+  "updated_at": "2026-07-09T17:34:08.145752+00:00"
 }

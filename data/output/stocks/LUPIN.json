@@ -662,31 +662,8 @@
     "flag_count": 8,
     "flag_total": 8
   },
-  "fundamentals": {
-    "pe_trailing": 21.476494,
-    "pe_forward": 24.472698,
-    "eps_trailing": 116.56,
-    "eps_forward": 102.2895,
-    "roe": 0.26907,
-    "profit_margin": 0.19073999,
-    "gross_margin": 0.73794997,
-    "operating_margin": 0.24244,
-    "market_cap": 1144596070400,
-    "current_price": 2503.3,
-    "sector": "Healthcare",
-    "name": "Lupin Limited",
-    "roce": 0.2841703550534951,
-    "revenue_growth_yoy": 0.23861768889934307
-  },
-  "analyst": {
-    "recommendation": "buy",
-    "recommendation_mean": 2.48649,
-    "num_analysts": 37,
-    "target_low": 1800.0,
-    "target_mean": 2473.946,
-    "target_median": 2530.0,
-    "target_high": 2900.0
-  },
+  "fundamentals": null,
+  "analyst": null,
   "shareholding": null,
-  "updated_at": "2026-07-09T16:57:28.655953+00:00"
+  "updated_at": "2026-07-09T17:45:31.141212+00:00"
 }

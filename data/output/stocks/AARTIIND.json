@@ -656,31 +656,8 @@
     "flag_count": 2,
     "flag_total": 8
   },
-  "fundamentals": {
-    "pe_trailing": 40.550262,
-    "pe_forward": 23.182655,
-    "eps_trailing": 11.54,
-    "eps_forward": 20.18535,
-    "roe": 0.07249,
-    "profit_margin": 0.05057,
-    "gross_margin": 0.35445,
-    "operating_margin": 0.09837,
-    "market_cap": 169737961472,
-    "current_price": 467.95,
-    "sector": "Basic Materials",
-    "name": "Aarti Industries Limited",
-    "roce": 0.08534075777750878,
-    "revenue_growth_yoy": 0.1399092034667767
-  },
-  "analyst": {
-    "recommendation": "buy",
-    "recommendation_mean": 2.18182,
-    "num_analysts": 22,
-    "target_low": 366.0,
-    "target_mean": 526.0909,
-    "target_median": 530.0,
-    "target_high": 622.0
-  },
+  "fundamentals": null,
+  "analyst": null,
   "shareholding": null,
-  "updated_at": "2026-07-09T16:52:13.157575+00:00"
+  "updated_at": "2026-07-09T17:08:40.663092+00:00"
 }

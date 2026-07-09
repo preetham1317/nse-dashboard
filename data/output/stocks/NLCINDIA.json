@@ -655,31 +655,8 @@
     "flag_count": 1,
     "flag_total": 8
   },
-  "fundamentals": {
-    "pe_trailing": 11.943679,
-    "pe_forward": 11.231482,
-    "eps_trailing": 25.39,
-    "eps_forward": 27.0,
-    "roe": 0.15966,
-    "profit_margin": 0.20139,
-    "gross_margin": 0.80739,
-    "operating_margin": 0.28304002,
-    "market_cap": 420497555456,
-    "current_price": 303.25,
-    "sector": "Utilities",
-    "name": "NLC India Limited",
-    "roce": 0.09327833059112696,
-    "revenue_growth_yoy": 0.14438106230730172
-  },
-  "analyst": {
-    "recommendation": "strong_buy",
-    "recommendation_mean": 1.0,
-    "num_analysts": 1,
-    "target_low": 390.0,
-    "target_mean": 390.0,
-    "target_median": 390.0,
-    "target_high": 390.0
-  },
+  "fundamentals": null,
+  "analyst": null,
   "shareholding": null,
-  "updated_at": "2026-07-09T16:58:20.041712+00:00"
+  "updated_at": "2026-07-09T17:51:52.561078+00:00"
 }

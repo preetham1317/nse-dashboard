@@ -661,31 +661,8 @@
     "flag_count": 7,
     "flag_total": 8
   },
-  "fundamentals": {
-    "pe_trailing": 29.91717,
-    "pe_forward": 17.2873,
-    "eps_trailing": 35.01,
-    "eps_forward": 60.58783,
-    "roe": null,
-    "profit_margin": 0.21372999,
-    "gross_margin": 0.0,
-    "operating_margin": 0.35549998,
-    "market_cap": 783831007232,
-    "current_price": 1047.4,
-    "sector": "Financial Services",
-    "name": "AU Small Finance Bank Limited",
-    "roce": null,
-    "revenue_growth_yoy": 0.14734718400906838
-  },
-  "analyst": {
-    "recommendation": "buy",
-    "recommendation_mean": 2.48148,
-    "num_analysts": 28,
-    "target_low": 775.0,
-    "target_mean": 1093.0,
-    "target_median": 1147.5,
-    "target_high": 1275.0
-  },
+  "fundamentals": null,
+  "analyst": null,
   "shareholding": null,
-  "updated_at": "2026-07-09T16:52:49.290562+00:00"
+  "updated_at": "2026-07-09T17:13:10.447619+00:00"
 }

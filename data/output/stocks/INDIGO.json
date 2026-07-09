@@ -660,31 +660,8 @@
     "flag_count": 6,
     "flag_total": 8
   },
-  "fundamentals": {
-    "pe_trailing": null,
-    "pe_forward": 22.731222,
-    "eps_trailing": -62.0,
-    "eps_forward": 230.05803,
-    "roe": null,
-    "profit_margin": 0.03793,
-    "gross_margin": 0.34529,
-    "operating_margin": 0.15758,
-    "market_cap": 2022072909824,
-    "current_price": 5229.5,
-    "sector": "Industrials",
-    "name": "InterGlobe Aviation Limited",
-    "roce": 0.040215448306629105,
-    "revenue_growth_yoy": 0.051470924929674554
-  },
-  "analyst": {
-    "recommendation": "strong_buy",
-    "recommendation_mean": 1.48,
-    "num_analysts": 25,
-    "target_low": 4050.0,
-    "target_mean": 5443.6,
-    "target_median": 5335.0,
-    "target_high": 6600.0
-  },
+  "fundamentals": null,
+  "analyst": null,
   "shareholding": null,
-  "updated_at": "2026-07-09T16:55:45.803461+00:00"
+  "updated_at": "2026-07-09T17:35:15.877236+00:00"
 }

@@ -662,31 +662,8 @@
     "flag_count": 8,
     "flag_total": 8
   },
-  "fundamentals": {
-    "pe_trailing": 88.73689,
-    "pe_forward": 13.84945,
-    "eps_trailing": 11.44,
-    "eps_forward": 73.29894,
-    "roe": 0.01362,
-    "profit_margin": 0.05158,
-    "gross_margin": 0.0,
-    "operating_margin": 0.17665,
-    "market_cap": 790936616960,
-    "current_price": 1015.15,
-    "sector": "Financial Services",
-    "name": "IndusInd Bank Limited",
-    "roce": null,
-    "revenue_growth_yoy": -0.056522121492791455
-  },
-  "analyst": {
-    "recommendation": "hold",
-    "recommendation_mean": 3.13889,
-    "num_analysts": 36,
-    "target_low": 625.0,
-    "target_mean": 889.2778,
-    "target_median": 900.0,
-    "target_high": 1170.0
-  },
+  "fundamentals": null,
+  "analyst": null,
   "shareholding": null,
-  "updated_at": "2026-07-09T16:55:48.700344+00:00"
+  "updated_at": "2026-07-09T17:35:38.970163+00:00"
 }

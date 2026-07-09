@@ -655,31 +655,8 @@
     "flag_count": 1,
     "flag_total": 8
   },
-  "fundamentals": {
-    "pe_trailing": 13.919725,
-    "pe_forward": 12.893261,
-    "eps_trailing": 75.49,
-    "eps_forward": 81.49995,
-    "roe": 0.31439,
-    "profit_margin": 0.16434999,
-    "gross_margin": 0.29517,
-    "operating_margin": 0.20928,
-    "market_cap": 4254613635072,
-    "current_price": 1050.8,
-    "sector": "Technology",
-    "name": "Infosys Limited",
-    "roce": 0.41655992680695336,
-    "revenue_growth_yoy": 0.04570213207449292
-  },
-  "analyst": {
-    "recommendation": "buy",
-    "recommendation_mean": 1.90244,
-    "num_analysts": 40,
-    "target_low": 950.0,
-    "target_mean": 1332.225,
-    "target_median": 1337.0,
-    "target_high": 1800.0
-  },
+  "fundamentals": null,
+  "analyst": null,
   "shareholding": null,
-  "updated_at": "2026-07-09T16:55:54.547778+00:00"
+  "updated_at": "2026-07-09T17:36:24.088326+00:00"
 }

@@ -661,31 +661,8 @@
     "flag_count": 7,
     "flag_total": 8
   },
-  "fundamentals": {
-    "pe_trailing": 18.760733,
-    "pe_forward": 13.809647,
-    "eps_trailing": 17.47,
-    "eps_forward": 23.73341,
-    "roe": 0.11731,
-    "profit_margin": 0.29906,
-    "gross_margin": 0.0,
-    "operating_margin": 0.43172002,
-    "market_cap": 808428961792,
-    "current_price": 327.75,
-    "sector": "Financial Services",
-    "name": "The Federal Bank Limited",
-    "roce": null,
-    "revenue_growth_yoy": 0.1459742287300906
-  },
-  "analyst": {
-    "recommendation": "buy",
-    "recommendation_mean": 1.94118,
-    "num_analysts": 35,
-    "target_low": 260.0,
-    "target_mean": 320.02856,
-    "target_median": 325.0,
-    "target_high": 380.0
-  },
+  "fundamentals": null,
+  "analyst": null,
   "shareholding": null,
-  "updated_at": "2026-07-09T16:54:45.155005+00:00"
+  "updated_at": "2026-07-09T17:27:23.954091+00:00"
 }

@@ -661,31 +661,8 @@
     "flag_count": 7,
     "flag_total": 8
   },
-  "fundamentals": {
-    "pe_trailing": 37.01459,
-    "pe_forward": 25.355207,
-    "eps_trailing": 17.82,
-    "eps_forward": 26.01438,
-    "roe": 0.10031,
-    "profit_margin": 0.53876996,
-    "gross_margin": 0.40828,
-    "operating_margin": 0.19984,
-    "market_cap": 1632715538432,
-    "current_price": 659.6,
-    "sector": "Real Estate",
-    "name": "DLF Limited",
-    "roce": 0.06354069040369949,
-    "revenue_growth_yoy": 0.025064863904644432
-  },
-  "analyst": {
-    "recommendation": "strong_buy",
-    "recommendation_mean": 1.17391,
-    "num_analysts": 23,
-    "target_low": 676.0,
-    "target_mean": 815.73914,
-    "target_median": 800.0,
-    "target_high": 1000.0
-  },
+  "fundamentals": null,
+  "analyst": null,
   "shareholding": null,
-  "updated_at": "2026-07-09T16:54:30.399869+00:00"
+  "updated_at": "2026-07-09T17:25:31.727988+00:00"
 }

@@ -656,23 +656,8 @@
     "flag_count": 2,
     "flag_total": 8
   },
-  "fundamentals": {
-    "pe_trailing": 9.176213,
-    "pe_forward": 8.04913,
-    "eps_trailing": 54.99,
-    "eps_forward": 62.69,
-    "roe": 0.091350004,
-    "profit_margin": 0.10395,
-    "gross_margin": 0.2838,
-    "operating_margin": 0.18252,
-    "market_cap": 74146275328,
-    "current_price": 504.6,
-    "sector": "Basic Materials",
-    "name": "Gujarat Narmada Valley Fertilizers & Chemicals Limited",
-    "roce": 0.10379918588873813,
-    "revenue_growth_yoy": -0.015078560567663457
-  },
+  "fundamentals": null,
   "analyst": null,
   "shareholding": null,
-  "updated_at": "2026-07-09T16:54:54.214304+00:00"
+  "updated_at": "2026-07-09T17:28:31.642305+00:00"
 }

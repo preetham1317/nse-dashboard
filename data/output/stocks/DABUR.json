@@ -659,31 +659,8 @@
     "flag_count": 5,
     "flag_total": 8
   },
-  "fundamentals": {
-    "pe_trailing": 41.61033,
-    "pe_forward": 33.66777,
-    "eps_trailing": 10.65,
-    "eps_forward": 13.16244,
-    "roe": 0.16239999,
-    "profit_margin": 0.14364,
-    "gross_margin": 0.48276,
-    "operating_margin": 0.11179,
-    "market_cap": 786126995456,
-    "current_price": 443.15,
-    "sector": "Consumer Defensive",
-    "name": "Dabur India Limited",
-    "roce": 0.20798426250507523,
-    "revenue_growth_yoy": 0.051773345344076335
-  },
-  "analyst": {
-    "recommendation": "buy",
-    "recommendation_mean": 2.37838,
-    "num_analysts": 37,
-    "target_low": 375.0,
-    "target_mean": 523.2973,
-    "target_median": 520.0,
-    "target_high": 620.0
-  },
+  "fundamentals": null,
+  "analyst": null,
   "shareholding": null,
-  "updated_at": "2026-07-09T16:54:12.092712+00:00"
+  "updated_at": "2026-07-09T17:23:16.957066+00:00"
 }

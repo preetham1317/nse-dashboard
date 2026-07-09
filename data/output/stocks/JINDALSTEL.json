@@ -655,31 +655,8 @@
     "flag_count": 1,
     "flag_total": 8
   },
-  "fundamentals": {
-    "pe_trailing": 31.111786,
-    "pe_forward": 10.886882,
-    "eps_trailing": 33.1,
-    "eps_forward": 94.59091,
-    "roe": 0.067719996,
-    "profit_margin": 0.06327,
-    "gross_margin": 0.52532,
-    "operating_margin": 0.12809,
-    "market_cap": 1047809294336,
-    "current_price": 1029.8,
-    "sector": "Basic Materials",
-    "name": "Jindal Steel Limited",
-    "roce": 0.07448198332574461,
-    "revenue_growth_yoy": 0.0663530603052226
-  },
-  "analyst": {
-    "recommendation": "buy",
-    "recommendation_mean": 2.16129,
-    "num_analysts": 32,
-    "target_low": 595.0,
-    "target_mean": 1283.0,
-    "target_median": 1319.5,
-    "target_high": 1450.0
-  },
+  "fundamentals": null,
+  "analyst": null,
   "shareholding": null,
-  "updated_at": "2026-07-09T16:56:15.679727+00:00"
+  "updated_at": "2026-07-09T17:39:01.503630+00:00"
 }

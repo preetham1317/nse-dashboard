@@ -661,31 +661,8 @@
     "flag_count": 7,
     "flag_total": 8
   },
-  "fundamentals": {
-    "pe_trailing": 58.99639,
-    "pe_forward": 40.914715,
-    "eps_trailing": 130.33,
-    "eps_forward": 187.9275,
-    "roe": 0.20105,
-    "profit_margin": 0.20023,
-    "gross_margin": 0.58466,
-    "operating_margin": 0.29853,
-    "market_cap": 394337746944,
-    "current_price": 7689.0,
-    "sector": "Basic Materials",
-    "name": "Navin Fluorine International Limited",
-    "roce": 0.1865951682052769,
-    "revenue_growth_yoy": 0.4105423558555874
-  },
-  "analyst": {
-    "recommendation": "buy",
-    "recommendation_mean": 2.07407,
-    "num_analysts": 28,
-    "target_low": 4600.0,
-    "target_mean": 7316.0,
-    "target_median": 7519.5,
-    "target_high": 8700.0
-  },
+  "fundamentals": null,
+  "analyst": null,
   "shareholding": null,
-  "updated_at": "2026-07-09T16:58:04.556115+00:00"
+  "updated_at": "2026-07-09T17:50:00.564707+00:00"
 }

@@ -662,31 +662,8 @@
     "flag_count": 8,
     "flag_total": 8
   },
-  "fundamentals": {
-    "pe_trailing": 44.90158,
-    "pe_forward": 41.002113,
-    "eps_trailing": 940.39,
-    "eps_forward": 1029.825,
-    "roe": 0.19353001,
-    "profit_margin": 0.13842,
-    "gross_margin": 0.36113,
-    "operating_margin": 0.11963,
-    "market_cap": 1245472882688,
-    "current_price": 42225.0,
-    "sector": "Consumer Cyclical",
-    "name": "Bosch Limited",
-    "roce": 0.24277479600007942,
-    "revenue_growth_yoy": 0.10766058139920608
-  },
-  "analyst": {
-    "recommendation": "strong_buy",
-    "recommendation_mean": 1.4,
-    "num_analysts": 5,
-    "target_low": 37499.0,
-    "target_mean": 44288.8,
-    "target_median": 45530.0,
-    "target_high": 48165.0
-  },
+  "fundamentals": null,
+  "analyst": null,
   "shareholding": null,
-  "updated_at": "2026-07-09T16:53:29.088366+00:00"
+  "updated_at": "2026-07-09T17:18:03.059740+00:00"
 }

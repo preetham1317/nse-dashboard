@@ -655,31 +655,8 @@
     "flag_count": 1,
     "flag_total": 8
   },
-  "fundamentals": {
-    "pe_trailing": 14.005159,
-    "pe_forward": 11.358597,
-    "eps_trailing": 11.63,
-    "eps_forward": 14.3398,
-    "roe": 0.12547,
-    "profit_margin": 0.08304,
-    "gross_margin": 0.38287997,
-    "operating_margin": 0.123050004,
-    "market_cap": 215908925440,
-    "current_price": 162.88,
-    "sector": "Utilities",
-    "name": "CESC Limited",
-    "roce": 0.10173883965891992,
-    "revenue_growth_yoy": 0.09228868890065291
-  },
-  "analyst": {
-    "recommendation": "strong_buy",
-    "recommendation_mean": 1.36364,
-    "num_analysts": 11,
-    "target_low": 172.0,
-    "target_mean": 214.27274,
-    "target_median": 216.0,
-    "target_high": 244.0
-  },
+  "fundamentals": null,
+  "analyst": null,
   "shareholding": null,
-  "updated_at": "2026-07-09T16:53:45.085678+00:00"
+  "updated_at": "2026-07-09T17:19:55.230912+00:00"
 }

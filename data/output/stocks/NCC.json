@@ -653,31 +653,8 @@
     "flag_count": 0,
     "flag_total": 8
   },
-  "fundamentals": {
-    "pe_trailing": 13.297398,
-    "pe_forward": 9.408002,
-    "eps_trailing": 10.76,
-    "eps_forward": 15.20833,
-    "roe": 0.093219995,
-    "profit_margin": 0.03243,
-    "gross_margin": 0.14719,
-    "operating_margin": 0.07795,
-    "market_cap": 89832292352,
-    "current_price": 143.08,
-    "sector": "Industrials",
-    "name": "NCC Limited",
-    "roce": 0.17547985721359757,
-    "revenue_growth_yoy": -0.061999985585170024
-  },
-  "analyst": {
-    "recommendation": "none",
-    "recommendation_mean": null,
-    "num_analysts": 12,
-    "target_low": 160.0,
-    "target_mean": 207.0,
-    "target_median": 202.0,
-    "target_high": 268.0
-  },
+  "fundamentals": null,
+  "analyst": null,
   "shareholding": null,
-  "updated_at": "2026-07-09T16:58:11.163898+00:00"
+  "updated_at": "2026-07-09T17:50:45.413685+00:00"
 }

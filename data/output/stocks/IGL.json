@@ -653,31 +653,8 @@
     "flag_count": 0,
     "flag_total": 8
   },
-  "fundamentals": {
-    "pe_trailing": 13.722423,
-    "pe_forward": 10.75961,
-    "eps_trailing": 11.06,
-    "eps_forward": 14.10553,
-    "roe": 0.13926,
-    "profit_margin": 0.09585,
-    "gross_margin": 0.2339,
-    "operating_margin": 0.06922,
-    "market_cap": 212478246912,
-    "current_price": 151.77,
-    "sector": "Utilities",
-    "name": "Indraprastha Gas Limited",
-    "roce": 0.1639183214638031,
-    "revenue_growth_yoy": 0.08415489699328488
-  },
-  "analyst": {
-    "recommendation": "buy",
-    "recommendation_mean": 1.7,
-    "num_analysts": 30,
-    "target_low": 120.0,
-    "target_mean": 193.93333,
-    "target_median": 189.0,
-    "target_high": 255.0
-  },
+  "fundamentals": null,
+  "analyst": null,
   "shareholding": null,
-  "updated_at": "2026-07-09T16:55:42.702718+00:00"
+  "updated_at": "2026-07-09T17:34:53.088663+00:00"
 }

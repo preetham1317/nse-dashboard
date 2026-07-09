@@ -662,31 +662,8 @@
     "flag_count": 8,
     "flag_total": 8
   },
-  "fundamentals": {
-    "pe_trailing": 29.018623,
-    "pe_forward": 18.60449,
-    "eps_trailing": 61.75,
-    "eps_forward": 96.31546,
-    "roe": 0.19334999,
-    "profit_margin": 0.39784,
-    "gross_margin": 1.0,
-    "operating_margin": 0.56111,
-    "market_cap": 1527749935104,
-    "current_price": 1791.9,
-    "sector": "Financial Services",
-    "name": "Cholamandalam Investment and Finance Company Limited",
-    "roce": null,
-    "revenue_growth_yoy": 0.24914343150844787
-  },
-  "analyst": {
-    "recommendation": "buy",
-    "recommendation_mean": 1.60606,
-    "num_analysts": 33,
-    "target_low": 1495.0,
-    "target_mean": 1893.909,
-    "target_median": 1900.0,
-    "target_high": 2130.0
-  },
+  "fundamentals": null,
+  "analyst": null,
   "shareholding": null,
-  "updated_at": "2026-07-09T16:53:50.698657+00:00"
+  "updated_at": "2026-07-09T17:20:40.056742+00:00"
 }

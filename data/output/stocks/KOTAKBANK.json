@@ -655,31 +655,8 @@
     "flag_count": 1,
     "flag_total": 8
   },
-  "fundamentals": {
-    "pe_trailing": 19.450748,
-    "pe_forward": 15.649377,
-    "eps_trailing": 19.39,
-    "eps_forward": 24.1,
-    "roe": 0.11389,
-    "profit_margin": 0.26049,
-    "gross_margin": 0.0,
-    "operating_margin": 0.35119998,
-    "market_cap": 3751309213696,
-    "current_price": 377.15,
-    "sector": "Financial Services",
-    "name": "Kotak Mahindra Bank Limited",
-    "roce": null,
-    "revenue_growth_yoy": 0.04356827851466372
-  },
-  "analyst": {
-    "recommendation": "buy",
-    "recommendation_mean": 1.7027,
-    "num_analysts": 37,
-    "target_low": 380.0,
-    "target_mean": 464.14594,
-    "target_median": 470.0,
-    "target_high": 518.0
-  },
+  "fundamentals": null,
+  "analyst": null,
   "shareholding": null,
-  "updated_at": "2026-07-09T16:57:10.177049+00:00"
+  "updated_at": "2026-07-09T17:43:11.519090+00:00"
 }

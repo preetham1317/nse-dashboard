@@ -657,31 +657,8 @@
     "flag_count": 3,
     "flag_total": 8
   },
-  "fundamentals": {
-    "pe_trailing": 32.155235,
-    "pe_forward": 25.99111,
-    "eps_trailing": 136.18,
-    "eps_forward": 168.47684,
-    "roe": 0.23979001,
-    "profit_margin": 0.27549,
-    "gross_margin": 0.53306,
-    "operating_margin": 0.26945,
-    "market_cap": 2928498704384,
-    "current_price": 4378.9,
-    "sector": "Industrials",
-    "name": "Hindustan Aeronautics Limited",
-    "roce": 0.13798778352103266,
-    "revenue_growth_yoy": 0.06803761666443411
-  },
-  "analyst": {
-    "recommendation": "buy",
-    "recommendation_mean": 1.83333,
-    "num_analysts": 24,
-    "target_low": 3200.0,
-    "target_mean": 5180.7915,
-    "target_median": 5315.0,
-    "target_high": 6300.0
-  },
+  "fundamentals": null,
+  "analyst": null,
   "shareholding": null,
-  "updated_at": "2026-07-09T16:55:06.594396+00:00"
+  "updated_at": "2026-07-09T17:30:01.538077+00:00"
 }

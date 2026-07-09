@@ -653,31 +653,8 @@
     "flag_count": 0,
     "flag_total": 8
   },
-  "fundamentals": {
-    "pe_trailing": 23.535852,
-    "pe_forward": 16.010149,
-    "eps_trailing": 23.29,
-    "eps_forward": 34.23766,
-    "roe": 0.1973,
-    "profit_margin": 0.09874,
-    "gross_margin": 0.36686,
-    "operating_margin": 0.15857,
-    "market_cap": 149221359616,
-    "current_price": 548.15,
-    "sector": "Technology",
-    "name": "KPIT Technologies Limited",
-    "roce": 0.21278008392111863,
-    "revenue_growth_yoy": 0.10485276032141204
-  },
-  "analyst": {
-    "recommendation": "hold",
-    "recommendation_mean": 2.66667,
-    "num_analysts": 21,
-    "target_low": 485.0,
-    "target_mean": 732.4286,
-    "target_median": 715.0,
-    "target_high": 1030.0
-  },
+  "fundamentals": null,
+  "analyst": null,
   "shareholding": null,
-  "updated_at": "2026-07-09T16:57:13.054512+00:00"
+  "updated_at": "2026-07-09T17:43:35.104374+00:00"
 }

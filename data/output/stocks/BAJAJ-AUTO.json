@@ -661,31 +661,8 @@
     "flag_count": 7,
     "flag_total": 8
   },
-  "fundamentals": {
-    "pe_trailing": 26.431545,
-    "pe_forward": 21.830494,
-    "eps_trailing": 384.2,
-    "eps_forward": 465.175,
-    "roe": 0.28046,
-    "profit_margin": 0.16886,
-    "gross_margin": 0.33151,
-    "operating_margin": 0.19327,
-    "market_cap": 2836004601856,
-    "current_price": 10155.0,
-    "sector": "Consumer Cyclical",
-    "name": "Bajaj Auto Limited",
-    "roce": 0.26119347677102966,
-    "revenue_growth_yoy": 0.22569856668618618
-  },
-  "analyst": {
-    "recommendation": "buy",
-    "recommendation_mean": 2.33333,
-    "num_analysts": 38,
-    "target_low": 8550.0,
-    "target_mean": 10859.5,
-    "target_median": 10964.0,
-    "target_high": 13000.0
-  },
+  "fundamentals": null,
+  "analyst": null,
   "shareholding": null,
-  "updated_at": "2026-07-09T16:52:58.715591+00:00"
+  "updated_at": "2026-07-09T17:14:17.977311+00:00"
 }

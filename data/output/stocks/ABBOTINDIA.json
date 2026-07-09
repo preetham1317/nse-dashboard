@@ -659,31 +659,8 @@
     "flag_count": 5,
     "flag_total": 8
   },
-  "fundamentals": {
-    "pe_trailing": 36.690834,
-    "pe_forward": 29.585648,
-    "eps_trailing": 729.61,
-    "eps_forward": 904.8306,
-    "roe": 0.34460998,
-    "profit_margin": 0.22399001,
-    "gross_margin": 0.46705002,
-    "operating_margin": 0.27012,
-    "market_cap": 568843829248,
-    "current_price": 26770.0,
-    "sector": "Healthcare",
-    "name": "Abbott India Limited",
-    "roce": 0.4187282105162615,
-    "revenue_growth_yoy": 0.08111840103601882
-  },
-  "analyst": {
-    "recommendation": "buy",
-    "recommendation_mean": 1.875,
-    "num_analysts": 8,
-    "target_low": 27500.0,
-    "target_mean": 32563.375,
-    "target_median": 32200.0,
-    "target_high": 38100.0
-  },
+  "fundamentals": null,
+  "analyst": null,
   "shareholding": null,
-  "updated_at": "2026-07-09T16:52:16.182419+00:00"
+  "updated_at": "2026-07-09T17:09:03.269640+00:00"
 }

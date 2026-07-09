@@ -653,31 +653,8 @@
     "flag_count": 0,
     "flag_total": 8
   },
-  "fundamentals": {
-    "pe_trailing": 28.871428,
-    "pe_forward": 14.970369,
-    "eps_trailing": 0.7,
-    "eps_forward": 1.35,
-    "roe": 0.04171,
-    "profit_margin": 0.13434,
-    "gross_margin": 0.55772,
-    "operating_margin": 0.23645,
-    "market_cap": 244096368640,
-    "current_price": 20.21,
-    "sector": "Industrials",
-    "name": "IRB Infrastructure Developers Limited",
-    "roce": 0.0597319254645388,
-    "revenue_growth_yoy": -0.10367673515671696
-  },
-  "analyst": {
-    "recommendation": "buy",
-    "recommendation_mean": 2.0,
-    "num_analysts": 4,
-    "target_low": 25.0,
-    "target_mean": 26.0,
-    "target_median": 26.0,
-    "target_high": 27.0
-  },
+  "fundamentals": null,
+  "analyst": null,
   "shareholding": null,
-  "updated_at": "2026-07-09T16:56:00.537536+00:00"
+  "updated_at": "2026-07-09T17:37:08.870142+00:00"
 }

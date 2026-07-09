@@ -659,31 +659,8 @@
     "flag_count": 5,
     "flag_total": 8
   },
-  "fundamentals": {
-    "pe_trailing": 42.3788,
-    "pe_forward": 35.048164,
-    "eps_trailing": 48.68,
-    "eps_forward": 58.86186,
-    "roe": 0.81593,
-    "profit_margin": 0.21959999,
-    "gross_margin": 0.68656,
-    "operating_margin": 0.29988,
-    "market_cap": 561106386944,
-    "current_price": 2063.0,
-    "sector": "Consumer Defensive",
-    "name": "Colgate-Palmolive (India) Limited",
-    "roce": 1.0736076580309637,
-    "revenue_growth_yoy": -0.00260534737965062
-  },
-  "analyst": {
-    "recommendation": "hold",
-    "recommendation_mean": 3.07692,
-    "num_analysts": 26,
-    "target_low": 1900.0,
-    "target_mean": 2248.8462,
-    "target_median": 2250.0,
-    "target_high": 2745.0
-  },
+  "fundamentals": null,
+  "analyst": null,
   "shareholding": null,
-  "updated_at": "2026-07-09T16:54:03.330940+00:00"
+  "updated_at": "2026-07-09T17:22:09.708580+00:00"
 }

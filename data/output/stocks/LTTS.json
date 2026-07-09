@@ -653,31 +653,8 @@
     "flag_count": 0,
     "flag_total": 8
   },
-  "fundamentals": {
-    "pe_trailing": 27.836319,
-    "pe_forward": 19.743422,
-    "eps_trailing": 115.59,
-    "eps_forward": 162.97075,
-    "roe": 0.19540001,
-    "profit_margin": 0.116330005,
-    "gross_margin": 0.40462002,
-    "operating_margin": 0.15217,
-    "market_cap": 341286322176,
-    "current_price": 3217.6,
-    "sector": "Technology",
-    "name": "L&T Technology Services Limited",
-    "roce": 0.23969779272882688,
-    "revenue_growth_yoy": 0.14039327124515152
-  },
-  "analyst": {
-    "recommendation": "hold",
-    "recommendation_mean": 2.86207,
-    "num_analysts": 29,
-    "target_low": 2900.0,
-    "target_mean": 3626.724,
-    "target_median": 3610.0,
-    "target_high": 4400.0
-  },
+  "fundamentals": null,
+  "analyst": null,
   "shareholding": null,
-  "updated_at": "2026-07-09T16:57:25.946930+00:00"
+  "updated_at": "2026-07-09T17:45:05.004753+00:00"
 }

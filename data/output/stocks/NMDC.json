@@ -655,31 +655,8 @@
     "flag_count": 1,
     "flag_total": 8
   },
-  "fundamentals": {
-    "pe_trailing": 9.966942,
-    "pe_forward": 8.291541,
-    "eps_trailing": 8.47,
-    "eps_forward": 10.18146,
-    "roe": 0.23363,
-    "profit_margin": 0.23231001,
-    "gross_margin": 0.45644,
-    "operating_margin": 0.21968001,
-    "market_cap": 742205161472,
-    "current_price": 84.42,
-    "sector": "Basic Materials",
-    "name": "NMDC Limited",
-    "roce": 0.28360989680541643,
-    "revenue_growth_yoy": 0.34156839089883845
-  },
-  "analyst": {
-    "recommendation": "hold",
-    "recommendation_mean": 3.25,
-    "num_analysts": 21,
-    "target_low": 67.0,
-    "target_mean": 88.33333,
-    "target_median": 86.0,
-    "target_high": 106.0
-  },
+  "fundamentals": null,
+  "analyst": null,
   "shareholding": null,
-  "updated_at": "2026-07-09T16:58:23.349087+00:00"
+  "updated_at": "2026-07-09T17:52:14.913980+00:00"
 }
