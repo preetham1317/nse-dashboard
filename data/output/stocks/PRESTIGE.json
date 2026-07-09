@@ -3,24 +3,24 @@
   "name": "Prestige Estates Projects",
   "sector": "Realty",
   "indicators": {
-    "date": "2026-07-08",
-    "close": 1635.3,
-    "prev_close": 1673.3,
-    "change_pct": -2.2709615729397,
-    "ema20": 1560.7150017462104,
-    "ema50": 1478.3189064410726,
-    "ema200": 1464.671508808188,
-    "rsi14": 64.14647982709495,
-    "macd": 70.55640310215858,
-    "macd_signal": 59.238128286401604,
-    "atr14": 52.938322933667386,
-    "adx14": 34.01221116379595,
-    "adx_pos": 34.512145838892934,
-    "adx_neg": 15.891238837741852,
-    "bb_high": 1748.7100303290852,
-    "bb_low": 1329.9699696709147,
-    "bb_mid": 1539.34,
-    "vwap20": 1563.3912552910626
+    "date": "2026-07-09",
+    "close": 1673.9,
+    "prev_close": 1635.3,
+    "change_pct": 2.3604231639454616,
+    "ema20": 1571.4945253894289,
+    "ema50": 1485.9887979455737,
+    "ema200": 1467.174868056507,
+    "rsi14": 67.56869438893688,
+    "macd": 70.74676898218786,
+    "macd_signal": 61.53985642483547,
+    "atr14": 53.09987129502057,
+    "adx14": 34.221607716634516,
+    "adx_pos": 31.949494415619956,
+    "adx_neg": 14.711256984441471,
+    "bb_high": 1749.8387812777019,
+    "bb_low": 1363.4312187222981,
+    "bb_mid": 1556.635,
+    "vwap20": 1569.0224570779121
   },
   "flags": {
     "flags": {
@@ -34,14 +34,14 @@
       "price_above_bb_mid": true
     },
     "flags_detail": {
-      "price_above_ema20": "Close 1,635.30 vs EMA20 1,560.72",
-      "ema20_above_ema50": "EMA20 1,560.72 vs EMA50 1,478.32",
-      "ema50_above_ema200": "EMA50 1,478.32 vs EMA200 1,464.67",
-      "rsi_above_50": "RSI(14) 64.15 vs 50",
-      "macd_bullish": "MACD 70.56 vs signal 59.24",
-      "adx_trending_up": "ADX(14) 34.01 vs 20, +DI 34.51 vs -DI 15.89",
-      "price_above_vwap20": "Close 1,635.30 vs 20d VWAP 1,563.39",
-      "price_above_bb_mid": "Close 1,635.30 vs BB mid 1,539.34"
+      "price_above_ema20": "Close 1,673.90 vs EMA20 1,571.49",
+      "ema20_above_ema50": "EMA20 1,571.49 vs EMA50 1,485.99",
+      "ema50_above_ema200": "EMA50 1,485.99 vs EMA200 1,467.17",
+      "rsi_above_50": "RSI(14) 67.57 vs 50",
+      "macd_bullish": "MACD 70.75 vs signal 61.54",
+      "adx_trending_up": "ADX(14) 34.22 vs 20, +DI 31.95 vs -DI 14.71",
+      "price_above_vwap20": "Close 1,673.90 vs 20d VWAP 1,569.02",
+      "price_above_bb_mid": "Close 1,673.90 vs BB mid 1,556.63"
     },
     "flags_on": [
       "price_above_ema20",
@@ -58,5 +58,5 @@
   },
   "fundamentals": null,
   "shareholding": null,
-  "updated_at": "2026-07-08T19:01:04.640785+00:00"
+  "updated_at": "2026-07-09T11:12:10.398935+00:00"
 }

@@ -3,24 +3,24 @@
   "name": "SJVN Ltd",
   "sector": "Power",
   "indicators": {
-    "date": "2026-07-08",
-    "close": 70.14,
-    "prev_close": 71.8,
-    "change_pct": -2.3119777158774326,
-    "ema20": 72.54416406631759,
-    "ema50": 73.38148424285507,
-    "ema200": 77.97465036444122,
-    "rsi14": 37.227117355658194,
-    "macd": -0.6604274488412187,
-    "macd_signal": -0.5166810566280329,
-    "atr14": 1.6823204878629554,
-    "adx14": 7.936537051200339,
-    "adx_pos": 18.494302355193447,
-    "adx_neg": 25.827693210098847,
-    "bb_high": 74.68092776613223,
-    "bb_low": 70.41707223386778,
-    "bb_mid": 72.549,
-    "vwap20": 72.93965976882737
+    "date": "2026-07-09",
+    "close": 70.07,
+    "prev_close": 70.14,
+    "change_pct": -0.09980039920160734,
+    "ema20": 72.308529393335,
+    "ema50": 73.25162673617952,
+    "ema200": 77.93956623001196,
+    "rsi14": 36.98132961675763,
+    "macd": -0.7761014160151092,
+    "macd_signal": -0.5685651285801808,
+    "atr14": 1.6342975959106563,
+    "adx14": 8.551478332891818,
+    "adx_pos": 17.6779077042014,
+    "adx_neg": 24.687580427441034,
+    "bb_high": 74.83575314639184,
+    "bb_low": 70.08824685360817,
+    "bb_mid": 72.462,
+    "vwap20": 72.90012830053392
   },
   "flags": {
     "flags": {
@@ -34,14 +34,14 @@
       "price_above_bb_mid": false
     },
     "flags_detail": {
-      "price_above_ema20": "Close 70.14 vs EMA20 72.54",
-      "ema20_above_ema50": "EMA20 72.54 vs EMA50 73.38",
-      "ema50_above_ema200": "EMA50 73.38 vs EMA200 77.97",
-      "rsi_above_50": "RSI(14) 37.23 vs 50",
-      "macd_bullish": "MACD -0.66 vs signal -0.52",
-      "adx_trending_up": "ADX(14) 7.94 vs 20, +DI 18.49 vs -DI 25.83",
-      "price_above_vwap20": "Close 70.14 vs 20d VWAP 72.94",
-      "price_above_bb_mid": "Close 70.14 vs BB mid 72.55"
+      "price_above_ema20": "Close 70.07 vs EMA20 72.31",
+      "ema20_above_ema50": "EMA20 72.31 vs EMA50 73.25",
+      "ema50_above_ema200": "EMA50 73.25 vs EMA200 77.94",
+      "rsi_above_50": "RSI(14) 36.98 vs 50",
+      "macd_bullish": "MACD -0.78 vs signal -0.57",
+      "adx_trending_up": "ADX(14) 8.55 vs 20, +DI 17.68 vs -DI 24.69",
+      "price_above_vwap20": "Close 70.07 vs 20d VWAP 72.90",
+      "price_above_bb_mid": "Close 70.07 vs BB mid 72.46"
     },
     "flags_on": [],
     "flag_count": 0,
@@ -49,5 +49,5 @@
   },
   "fundamentals": null,
   "shareholding": null,
-  "updated_at": "2026-07-08T19:01:27.749424+00:00"
+  "updated_at": "2026-07-09T11:12:28.874567+00:00"
 }

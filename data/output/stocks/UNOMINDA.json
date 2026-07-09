@@ -3,24 +3,24 @@
   "name": "UNO Minda",
   "sector": "Auto Ancillary",
   "indicators": {
-    "date": "2026-07-08",
-    "close": 1131.9,
-    "prev_close": 1129.2,
-    "change_pct": 0.23910733262487116,
-    "ema20": 1110.9206017192269,
-    "ema50": 1107.6893580987337,
-    "ema200": 1129.8114207838205,
-    "rsi14": 55.762144792490474,
-    "macd": 8.107361363446671,
-    "macd_signal": 4.383040588588349,
-    "atr14": 37.56506385564363,
-    "adx14": 9.306724185520553,
-    "adx_pos": 20.27757358234211,
-    "adx_neg": 18.335208340590782,
-    "bb_high": 1151.466046847776,
-    "bb_low": 1059.593953152224,
-    "bb_mid": 1105.53,
-    "vwap20": 1108.873404871988
+    "date": "2026-07-09",
+    "close": 1154.5,
+    "prev_close": 1131.9,
+    "change_pct": 1.9966428129693354,
+    "ema20": 1115.071020603108,
+    "ema50": 1109.524944240021,
+    "ema200": 1128.8755031574335,
+    "rsi14": 60.16639340139877,
+    "macd": 10.520283351621401,
+    "macd_signal": 5.610489143221902,
+    "atr14": 37.5318450078176,
+    "adx14": 9.410316833365362,
+    "adx_pos": 21.148647238640677,
+    "adx_neg": 17.04061964990582,
+    "bb_high": 1158.3184141116906,
+    "bb_low": 1060.1415858883095,
+    "bb_mid": 1109.23,
+    "vwap20": 1112.0231282495024
   },
   "flags": {
     "flags": {
@@ -34,14 +34,14 @@
       "price_above_bb_mid": true
     },
     "flags_detail": {
-      "price_above_ema20": "Close 1,131.90 vs EMA20 1,110.92",
-      "ema20_above_ema50": "EMA20 1,110.92 vs EMA50 1,107.69",
-      "ema50_above_ema200": "EMA50 1,107.69 vs EMA200 1,129.81",
-      "rsi_above_50": "RSI(14) 55.76 vs 50",
-      "macd_bullish": "MACD 8.11 vs signal 4.38",
-      "adx_trending_up": "ADX(14) 9.31 vs 20, +DI 20.28 vs -DI 18.34",
-      "price_above_vwap20": "Close 1,131.90 vs 20d VWAP 1,108.87",
-      "price_above_bb_mid": "Close 1,131.90 vs BB mid 1,105.53"
+      "price_above_ema20": "Close 1,154.50 vs EMA20 1,115.07",
+      "ema20_above_ema50": "EMA20 1,115.07 vs EMA50 1,109.52",
+      "ema50_above_ema200": "EMA50 1,109.52 vs EMA200 1,128.88",
+      "rsi_above_50": "RSI(14) 60.17 vs 50",
+      "macd_bullish": "MACD 10.52 vs signal 5.61",
+      "adx_trending_up": "ADX(14) 9.41 vs 20, +DI 21.15 vs -DI 17.04",
+      "price_above_vwap20": "Close 1,154.50 vs 20d VWAP 1,112.02",
+      "price_above_bb_mid": "Close 1,154.50 vs BB mid 1,109.23"
     },
     "flags_on": [
       "price_above_ema20",
@@ -56,5 +56,5 @@
   },
   "fundamentals": null,
   "shareholding": null,
-  "updated_at": "2026-07-08T19:02:02.751810+00:00"
+  "updated_at": "2026-07-09T11:13:02.802684+00:00"
 }

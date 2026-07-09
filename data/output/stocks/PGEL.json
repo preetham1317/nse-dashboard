@@ -3,24 +3,24 @@
   "name": "PG Electroplast",
   "sector": "Electronics",
   "indicators": {
-    "date": "2026-07-08",
-    "close": 562.7,
-    "prev_close": 578.6,
-    "change_pct": -2.7480124438299303,
-    "ema20": 542.7162812680249,
-    "ema50": 526.8073124364173,
-    "ema200": 573.4900574291903,
-    "rsi14": 59.96101888770269,
-    "macd": 17.936549439351438,
-    "macd_signal": 15.874300068694918,
-    "atr14": 18.92826992944016,
-    "adx14": 29.376977087759283,
-    "adx_pos": 35.08521615409153,
-    "adx_neg": 17.413349457728692,
-    "bb_high": 608.8121144958293,
-    "bb_low": 469.6278855041708,
-    "bb_mid": 539.22,
-    "vwap20": 533.7663941721635
+    "date": "2026-07-09",
+    "close": 583.7,
+    "prev_close": 562.7,
+    "change_pct": 3.732006397725253,
+    "ema20": 546.6194925758323,
+    "ema50": 529.0384225812699,
+    "ema200": 573.821333842866,
+    "rsi14": 65.31345627742814,
+    "macd": 18.94780831981359,
+    "macd_signal": 16.489001718524598,
+    "atr14": 19.351250648951797,
+    "adx14": 29.751705609005118,
+    "adx_pos": 32.56833334395137,
+    "adx_neg": 15.816104100294154,
+    "bb_high": 608.5514974602631,
+    "bb_low": 481.6685025397369,
+    "bb_mid": 545.11,
+    "vwap20": 537.042080089345
   },
   "flags": {
     "flags": {
@@ -34,14 +34,14 @@
       "price_above_bb_mid": true
     },
     "flags_detail": {
-      "price_above_ema20": "Close 562.70 vs EMA20 542.72",
-      "ema20_above_ema50": "EMA20 542.72 vs EMA50 526.81",
-      "ema50_above_ema200": "EMA50 526.81 vs EMA200 573.49",
-      "rsi_above_50": "RSI(14) 59.96 vs 50",
-      "macd_bullish": "MACD 17.94 vs signal 15.87",
-      "adx_trending_up": "ADX(14) 29.38 vs 20, +DI 35.09 vs -DI 17.41",
-      "price_above_vwap20": "Close 562.70 vs 20d VWAP 533.77",
-      "price_above_bb_mid": "Close 562.70 vs BB mid 539.22"
+      "price_above_ema20": "Close 583.70 vs EMA20 546.62",
+      "ema20_above_ema50": "EMA20 546.62 vs EMA50 529.04",
+      "ema50_above_ema200": "EMA50 529.04 vs EMA200 573.82",
+      "rsi_above_50": "RSI(14) 65.31 vs 50",
+      "macd_bullish": "MACD 18.95 vs signal 16.49",
+      "adx_trending_up": "ADX(14) 29.75 vs 20, +DI 32.57 vs -DI 15.82",
+      "price_above_vwap20": "Close 583.70 vs 20d VWAP 537.04",
+      "price_above_bb_mid": "Close 583.70 vs BB mid 545.11"
     },
     "flags_on": [
       "price_above_ema20",
@@ -57,5 +57,5 @@
   },
   "fundamentals": null,
   "shareholding": null,
-  "updated_at": "2026-07-08T19:00:54.824602+00:00"
+  "updated_at": "2026-07-09T11:11:59.994964+00:00"
 }

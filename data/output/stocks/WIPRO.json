@@ -3,24 +3,24 @@
   "name": "Wipro",
   "sector": "IT",
   "indicators": {
-    "date": "2026-07-08",
-    "close": 172.72,
-    "prev_close": 173.0,
-    "change_pct": -0.16184971098265963,
-    "ema20": 178.3242030233168,
-    "ema50": 187.30665156191768,
-    "ema200": 214.24165187279905,
-    "rsi14": 35.74114574978846,
-    "macd": -5.195346949699342,
-    "macd_signal": -5.500283146061357,
-    "atr14": 4.34481930849926,
-    "adx14": 31.18632300521156,
-    "adx_pos": 18.64417974180108,
-    "adx_neg": 34.88744696424993,
-    "bb_high": 185.19755179290772,
-    "bb_low": 168.68944820709234,
-    "bb_mid": 176.94350000000003,
-    "vwap20": 176.06081930168835
+    "date": "2026-07-09",
+    "close": 172.76,
+    "prev_close": 172.72,
+    "change_pct": 0.02315886984714685,
+    "ema20": 177.7942789258583,
+    "ema50": 186.7362129692334,
+    "ema200": 214.0017547983366,
+    "rsi14": 35.83164301071052,
+    "macd": -5.011381475658283,
+    "macd_signal": -5.402502812277275,
+    "atr14": 4.223046500821096,
+    "adx14": 31.221336591026887,
+    "adx_pos": 17.81166236026416,
+    "adx_neg": 34.32754548272597,
+    "bb_high": 185.02903240403555,
+    "bb_low": 168.24096759596443,
+    "bb_mid": 176.635,
+    "vwap20": 175.84442504328908
   },
   "flags": {
     "flags": {
@@ -34,14 +34,14 @@
       "price_above_bb_mid": false
     },
     "flags_detail": {
-      "price_above_ema20": "Close 172.72 vs EMA20 178.32",
-      "ema20_above_ema50": "EMA20 178.32 vs EMA50 187.31",
-      "ema50_above_ema200": "EMA50 187.31 vs EMA200 214.24",
-      "rsi_above_50": "RSI(14) 35.74 vs 50",
-      "macd_bullish": "MACD -5.20 vs signal -5.50",
-      "adx_trending_up": "ADX(14) 31.19 vs 20, +DI 18.64 vs -DI 34.89",
-      "price_above_vwap20": "Close 172.72 vs 20d VWAP 176.06",
-      "price_above_bb_mid": "Close 172.72 vs BB mid 176.94"
+      "price_above_ema20": "Close 172.76 vs EMA20 177.79",
+      "ema20_above_ema50": "EMA20 177.79 vs EMA50 186.74",
+      "ema50_above_ema200": "EMA50 186.74 vs EMA200 214.00",
+      "rsi_above_50": "RSI(14) 35.83 vs 50",
+      "macd_bullish": "MACD -5.01 vs signal -5.40",
+      "adx_trending_up": "ADX(14) 31.22 vs 20, +DI 17.81 vs -DI 34.33",
+      "price_above_vwap20": "Close 172.76 vs 20d VWAP 175.84",
+      "price_above_bb_mid": "Close 172.76 vs BB mid 176.63"
     },
     "flags_on": [
       "macd_bullish"
@@ -51,5 +51,5 @@
   },
   "fundamentals": null,
   "shareholding": null,
-  "updated_at": "2026-07-08T19:02:11.870730+00:00"
+  "updated_at": "2026-07-09T11:13:08.958105+00:00"
 }

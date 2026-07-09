@@ -3,24 +3,24 @@
   "name": "Yes Bank",
   "sector": "Banking",
   "indicators": {
-    "date": "2026-07-08",
-    "close": 23.42,
-    "prev_close": 24.01,
-    "change_pct": -2.457309454394002,
-    "ema20": 24.053162251021504,
-    "ema50": 23.049051365843415,
-    "ema200": 21.471898938964237,
-    "rsi14": 45.88974589388748,
-    "macd": 0.3439138348845887,
-    "macd_signal": 0.5668716773180563,
-    "atr14": 0.6577356049066504,
-    "adx14": 21.431682724609477,
-    "adx_pos": 20.50880176640125,
-    "adx_neg": 24.029280812058083,
-    "bb_high": 26.00236158128968,
-    "bb_low": 22.498638418710318,
-    "bb_mid": 24.2505,
-    "vwap20": 24.457405454402263
+    "date": "2026-07-09",
+    "close": 23.64,
+    "prev_close": 23.42,
+    "change_pct": 0.9393680614859046,
+    "ema20": 24.013813465209953,
+    "ema50": 23.07222757988195,
+    "ema200": 21.510047286089016,
+    "rsi14": 48.23080529497909,
+    "macd": 0.2738079290719071,
+    "macd_signal": 0.5082589276403882,
+    "atr14": 0.6378973474223733,
+    "adx14": 20.46544997932475,
+    "adx_pos": 19.63614180080443,
+    "adx_neg": 23.006822671122205,
+    "bb_high": 25.91119978554072,
+    "bb_low": 22.693800214459284,
+    "bb_mid": 24.302500000000002,
+    "vwap20": 24.49968343717198
   },
   "flags": {
     "flags": {
@@ -34,14 +34,14 @@
       "price_above_bb_mid": false
     },
     "flags_detail": {
-      "price_above_ema20": "Close 23.42 vs EMA20 24.05",
-      "ema20_above_ema50": "EMA20 24.05 vs EMA50 23.05",
-      "ema50_above_ema200": "EMA50 23.05 vs EMA200 21.47",
-      "rsi_above_50": "RSI(14) 45.89 vs 50",
-      "macd_bullish": "MACD 0.34 vs signal 0.57",
-      "adx_trending_up": "ADX(14) 21.43 vs 20, +DI 20.51 vs -DI 24.03",
-      "price_above_vwap20": "Close 23.42 vs 20d VWAP 24.46",
-      "price_above_bb_mid": "Close 23.42 vs BB mid 24.25"
+      "price_above_ema20": "Close 23.64 vs EMA20 24.01",
+      "ema20_above_ema50": "EMA20 24.01 vs EMA50 23.07",
+      "ema50_above_ema200": "EMA50 23.07 vs EMA200 21.51",
+      "rsi_above_50": "RSI(14) 48.23 vs 50",
+      "macd_bullish": "MACD 0.27 vs signal 0.51",
+      "adx_trending_up": "ADX(14) 20.47 vs 20, +DI 19.64 vs -DI 23.01",
+      "price_above_vwap20": "Close 23.64 vs 20d VWAP 24.50",
+      "price_above_bb_mid": "Close 23.64 vs BB mid 24.30"
     },
     "flags_on": [
       "ema20_above_ema50",
@@ -52,5 +52,5 @@
   },
   "fundamentals": null,
   "shareholding": null,
-  "updated_at": "2026-07-08T19:02:13.122521+00:00"
+  "updated_at": "2026-07-09T11:13:10.522622+00:00"
 }

@@ -3,24 +3,24 @@
   "name": "Tata Steel",
   "sector": "Metals",
   "indicators": {
-    "date": "2026-07-08",
-    "close": 188.2,
-    "prev_close": 189.79,
-    "change_pct": -0.8377680594341133,
-    "ema20": 193.68121125120132,
-    "ema50": 199.25312689711237,
-    "ema200": 189.892553545585,
-    "rsi14": 35.24480955327395,
-    "macd": -4.568513251853943,
-    "macd_signal": -4.628371743370705,
-    "atr14": 3.9087690231208603,
-    "adx14": 28.63439955639911,
-    "adx_pos": 16.621755313385375,
-    "adx_neg": 33.95236176432401,
-    "bb_high": 203.14103484051313,
-    "bb_low": 183.60196515948687,
-    "bb_mid": 193.3715,
-    "vwap20": 193.42293156620607
+    "date": "2026-07-09",
+    "close": 187.91,
+    "prev_close": 188.2,
+    "change_pct": -0.15409139213602127,
+    "ema20": 193.1315720844203,
+    "ema50": 198.80830120381864,
+    "ema200": 189.89934696821615,
+    "rsi14": 34.849211434313304,
+    "macd": -4.469232280937774,
+    "macd_signal": -4.596543850929578,
+    "atr14": 3.8617140929373925,
+    "adx14": 29.00701825436511,
+    "adx_pos": 15.770528858489294,
+    "adx_neg": 31.91135145745445,
+    "bb_high": 202.4480875313502,
+    "bb_low": 183.15491246864974,
+    "bb_mid": 192.80149999999998,
+    "vwap20": 192.83858991564526
   },
   "flags": {
     "flags": {
@@ -34,14 +34,14 @@
       "price_above_bb_mid": false
     },
     "flags_detail": {
-      "price_above_ema20": "Close 188.20 vs EMA20 193.68",
-      "ema20_above_ema50": "EMA20 193.68 vs EMA50 199.25",
-      "ema50_above_ema200": "EMA50 199.25 vs EMA200 189.89",
-      "rsi_above_50": "RSI(14) 35.24 vs 50",
-      "macd_bullish": "MACD -4.57 vs signal -4.63",
-      "adx_trending_up": "ADX(14) 28.63 vs 20, +DI 16.62 vs -DI 33.95",
-      "price_above_vwap20": "Close 188.20 vs 20d VWAP 193.42",
-      "price_above_bb_mid": "Close 188.20 vs BB mid 193.37"
+      "price_above_ema20": "Close 187.91 vs EMA20 193.13",
+      "ema20_above_ema50": "EMA20 193.13 vs EMA50 198.81",
+      "ema50_above_ema200": "EMA50 198.81 vs EMA200 189.90",
+      "rsi_above_50": "RSI(14) 34.85 vs 50",
+      "macd_bullish": "MACD -4.47 vs signal -4.60",
+      "adx_trending_up": "ADX(14) 29.01 vs 20, +DI 15.77 vs -DI 31.91",
+      "price_above_vwap20": "Close 187.91 vs 20d VWAP 192.84",
+      "price_above_bb_mid": "Close 187.91 vs BB mid 192.80"
     },
     "flags_on": [
       "ema50_above_ema200",
@@ -52,5 +52,5 @@
   },
   "fundamentals": null,
   "shareholding": null,
-  "updated_at": "2026-07-08T19:01:45.540043+00:00"
+  "updated_at": "2026-07-09T11:12:41.496719+00:00"
 }

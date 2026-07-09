@@ -3,24 +3,24 @@
   "name": "Transport Corporation of India",
   "sector": "Logistics",
   "indicators": {
-    "date": "2026-07-08",
-    "close": 931.45,
-    "prev_close": 954.6,
-    "change_pct": -2.4250995181227712,
-    "ema20": 934.9396921574853,
-    "ema50": 940.0545865040385,
-    "ema200": 1010.6221553119987,
-    "rsi14": 48.823884837351976,
-    "macd": 0.8184189243747824,
-    "macd_signal": 0.615722504303493,
-    "atr14": 25.180781260935895,
-    "adx14": 15.681697632803505,
-    "adx_pos": 18.117407380728867,
-    "adx_neg": 9.04164333724246,
-    "bb_high": 953.1491831776639,
-    "bb_low": 918.8708168223361,
-    "bb_mid": 936.01,
-    "vwap20": 939.6929616414413
+    "date": "2026-07-09",
+    "close": 926.95,
+    "prev_close": 931.45,
+    "change_pct": -0.48311771968436307,
+    "ema20": 934.1787690948673,
+    "ema50": 939.5406630707402,
+    "ema200": 1009.6191087582187,
+    "rsi14": 47.34404896831203,
+    "macd": 0.06610704820104729,
+    "macd_signal": 0.5057994133755855,
+    "atr14": 24.864296885952363,
+    "adx14": 16.548035959346528,
+    "adx_pos": 17.037441754128718,
+    "adx_neg": 9.623044687942588,
+    "bb_high": 952.1504656726485,
+    "bb_low": 918.0595343273518,
+    "bb_mid": 935.1050000000001,
+    "vwap20": 938.6531988164014
   },
   "flags": {
     "flags": {
@@ -28,28 +28,26 @@
       "ema20_above_ema50": false,
       "ema50_above_ema200": false,
       "rsi_above_50": false,
-      "macd_bullish": true,
+      "macd_bullish": false,
       "adx_trending_up": false,
       "price_above_vwap20": false,
       "price_above_bb_mid": false
     },
     "flags_detail": {
-      "price_above_ema20": "Close 931.45 vs EMA20 934.94",
-      "ema20_above_ema50": "EMA20 934.94 vs EMA50 940.05",
-      "ema50_above_ema200": "EMA50 940.05 vs EMA200 1,010.62",
-      "rsi_above_50": "RSI(14) 48.82 vs 50",
-      "macd_bullish": "MACD 0.82 vs signal 0.62",
-      "adx_trending_up": "ADX(14) 15.68 vs 20, +DI 18.12 vs -DI 9.04",
-      "price_above_vwap20": "Close 931.45 vs 20d VWAP 939.69",
-      "price_above_bb_mid": "Close 931.45 vs BB mid 936.01"
+      "price_above_ema20": "Close 926.95 vs EMA20 934.18",
+      "ema20_above_ema50": "EMA20 934.18 vs EMA50 939.54",
+      "ema50_above_ema200": "EMA50 939.54 vs EMA200 1,009.62",
+      "rsi_above_50": "RSI(14) 47.34 vs 50",
+      "macd_bullish": "MACD 0.07 vs signal 0.51",
+      "adx_trending_up": "ADX(14) 16.55 vs 20, +DI 17.04 vs -DI 9.62",
+      "price_above_vwap20": "Close 926.95 vs 20d VWAP 938.65",
+      "price_above_bb_mid": "Close 926.95 vs BB mid 935.11"
     },
-    "flags_on": [
-      "macd_bullish"
-    ],
-    "flag_count": 1,
+    "flags_on": [],
+    "flag_count": 0,
     "flag_total": 8
   },
   "fundamentals": null,
   "shareholding": null,
-  "updated_at": "2026-07-08T19:01:46.934863+00:00"
+  "updated_at": "2026-07-09T11:12:43.205113+00:00"
 }

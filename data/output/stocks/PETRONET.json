@@ -3,24 +3,24 @@
   "name": "Petronet LNG",
   "sector": "Energy",
   "indicators": {
-    "date": "2026-07-08",
-    "close": 271.6,
-    "prev_close": 279.6,
-    "change_pct": -2.8612303290414873,
-    "ema20": 278.4385652546052,
-    "ema50": 277.3076726672105,
-    "ema200": 280.712428166897,
-    "rsi14": 42.16178791303726,
-    "macd": 0.07713652280745009,
-    "macd_signal": 1.4739103195414898,
-    "atr14": 6.393627306011932,
-    "adx14": 11.085536367350787,
-    "adx_pos": 21.35101917122755,
-    "adx_neg": 24.028504827813812,
-    "bb_high": 295.7367153744413,
-    "bb_low": 265.46828462555874,
-    "bb_mid": 280.6025,
-    "vwap20": 279.41577612219425
+    "date": "2026-07-09",
+    "close": 277.15,
+    "prev_close": 271.6,
+    "change_pct": 2.0434462444771553,
+    "ema20": 278.3158447541668,
+    "ema50": 277.3015125278353,
+    "ema200": 280.894826635599,
+    "rsi14": 49.001241701225545,
+    "macd": -0.013980290996926215,
+    "macd_signal": 1.1763321970602272,
+    "atr14": 6.476225355564371,
+    "adx14": 10.377576715383961,
+    "adx_pos": 22.551010558888574,
+    "adx_neg": 22.02761253737558,
+    "bb_high": 295.2003841346667,
+    "bb_low": 266.8896158653333,
+    "bb_mid": 281.045,
+    "vwap20": 279.8632713744517
   },
   "flags": {
     "flags": {
@@ -34,14 +34,14 @@
       "price_above_bb_mid": false
     },
     "flags_detail": {
-      "price_above_ema20": "Close 271.60 vs EMA20 278.44",
-      "ema20_above_ema50": "EMA20 278.44 vs EMA50 277.31",
-      "ema50_above_ema200": "EMA50 277.31 vs EMA200 280.71",
-      "rsi_above_50": "RSI(14) 42.16 vs 50",
-      "macd_bullish": "MACD 0.08 vs signal 1.47",
-      "adx_trending_up": "ADX(14) 11.09 vs 20, +DI 21.35 vs -DI 24.03",
-      "price_above_vwap20": "Close 271.60 vs 20d VWAP 279.42",
-      "price_above_bb_mid": "Close 271.60 vs BB mid 280.60"
+      "price_above_ema20": "Close 277.15 vs EMA20 278.32",
+      "ema20_above_ema50": "EMA20 278.32 vs EMA50 277.30",
+      "ema50_above_ema200": "EMA50 277.30 vs EMA200 280.89",
+      "rsi_above_50": "RSI(14) 49.00 vs 50",
+      "macd_bullish": "MACD -0.01 vs signal 1.18",
+      "adx_trending_up": "ADX(14) 10.38 vs 20, +DI 22.55 vs -DI 22.03",
+      "price_above_vwap20": "Close 277.15 vs 20d VWAP 279.86",
+      "price_above_bb_mid": "Close 277.15 vs BB mid 281.05"
     },
     "flags_on": [
       "ema20_above_ema50"
@@ -51,5 +51,5 @@
   },
   "fundamentals": null,
   "shareholding": null,
-  "updated_at": "2026-07-08T19:00:52.108228+00:00"
+  "updated_at": "2026-07-09T11:11:56.967397+00:00"
 }

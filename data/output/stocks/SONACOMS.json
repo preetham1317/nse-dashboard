@@ -3,24 +3,24 @@
   "name": "Sona BLW Precision Forgings",
   "sector": "Auto",
   "indicators": {
-    "date": "2026-07-08",
-    "close": 662.05,
-    "prev_close": 671.2,
-    "change_pct": -1.363230035756867,
-    "ema20": 630.7835855995255,
-    "ema50": 604.0416714908723,
-    "ema200": 539.5023849723275,
-    "rsi14": 69.62490848173732,
-    "macd": 18.48793261898186,
-    "macd_signal": 13.559186139081405,
-    "atr14": 17.48808045642659,
-    "adx14": 34.692420400885126,
-    "adx_pos": 32.09321937698611,
-    "adx_neg": 7.313455889390642,
-    "bb_high": 675.9819143259771,
-    "bb_low": 568.3180856740229,
-    "bb_mid": 622.15,
-    "vwap20": 629.0957378293526
+    "date": "2026-07-09",
+    "close": 670.75,
+    "prev_close": 662.05,
+    "change_pct": 1.3141001434937007,
+    "ema20": 634.5899107805222,
+    "ema50": 606.6576052727137,
+    "ema200": 540.0624472897656,
+    "rsi14": 72.08028772890776,
+    "macd": 19.356003726013455,
+    "macd_signal": 14.718549657747316,
+    "atr14": 17.353217566783155,
+    "adx14": 36.70597230747135,
+    "adx_pos": 30.032447896430885,
+    "adx_neg": 6.843843876968925,
+    "bb_high": 681.7890396299558,
+    "bb_low": 570.6609603700442,
+    "bb_mid": 626.225,
+    "vwap20": 631.4711201046002
   },
   "flags": {
     "flags": {
@@ -34,14 +34,14 @@
       "price_above_bb_mid": true
     },
     "flags_detail": {
-      "price_above_ema20": "Close 662.05 vs EMA20 630.78",
-      "ema20_above_ema50": "EMA20 630.78 vs EMA50 604.04",
-      "ema50_above_ema200": "EMA50 604.04 vs EMA200 539.50",
-      "rsi_above_50": "RSI(14) 69.62 vs 50",
-      "macd_bullish": "MACD 18.49 vs signal 13.56",
-      "adx_trending_up": "ADX(14) 34.69 vs 20, +DI 32.09 vs -DI 7.31",
-      "price_above_vwap20": "Close 662.05 vs 20d VWAP 629.10",
-      "price_above_bb_mid": "Close 662.05 vs BB mid 622.15"
+      "price_above_ema20": "Close 670.75 vs EMA20 634.59",
+      "ema20_above_ema50": "EMA20 634.59 vs EMA50 606.66",
+      "ema50_above_ema200": "EMA50 606.66 vs EMA200 540.06",
+      "rsi_above_50": "RSI(14) 72.08 vs 50",
+      "macd_bullish": "MACD 19.36 vs signal 14.72",
+      "adx_trending_up": "ADX(14) 36.71 vs 20, +DI 30.03 vs -DI 6.84",
+      "price_above_vwap20": "Close 670.75 vs 20d VWAP 631.47",
+      "price_above_bb_mid": "Close 670.75 vs BB mid 626.23"
     },
     "flags_on": [
       "price_above_ema20",
@@ -58,5 +58,5 @@
   },
   "fundamentals": null,
   "shareholding": null,
-  "updated_at": "2026-07-08T19:01:29.093947+00:00"
+  "updated_at": "2026-07-09T11:12:30.385971+00:00"
 }

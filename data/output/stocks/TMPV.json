@@ -3,24 +3,24 @@
   "name": "Tata Motors Passenger Vehicles",
   "sector": "Auto",
   "indicators": {
-    "date": "2026-07-08",
-    "close": 332.05,
-    "prev_close": 342.3,
-    "change_pct": -2.9944493134677184,
-    "ema20": 355.23294931799086,
-    "ema50": 359.52392387513567,
-    "ema200": 366.2817950858148,
-    "rsi14": 33.61195644752168,
-    "macd": -8.694445262809097,
-    "macd_signal": -5.729929175469571,
-    "atr14": 10.824532205967163,
-    "adx14": 19.625212606546093,
-    "adx_pos": 18.663444524527094,
-    "adx_neg": 33.23616294184972,
-    "bb_high": 395.6497340322732,
-    "bb_low": 324.0952659677268,
-    "bb_mid": 359.8725,
-    "vwap20": 361.2272139205284
+    "date": "2026-07-09",
+    "close": 331.5,
+    "prev_close": 332.05,
+    "change_pct": -0.16563770516488824,
+    "ema20": 352.972668430563,
+    "ema50": 358.42492778539565,
+    "ema200": 365.7595368515847,
+    "rsi14": 33.37983117240775,
+    "macd": -9.446710628086066,
+    "macd_signal": -6.473285465690616,
+    "atr14": 10.379922762731095,
+    "adx14": 20.281250854964348,
+    "adx_pos": 18.072662226739588,
+    "adx_neg": 32.70019453374947,
+    "bb_high": 393.8287156673374,
+    "bb_low": 320.96628433266255,
+    "bb_mid": 357.3975,
+    "vwap20": 359.4360766005437
   },
   "flags": {
     "flags": {
@@ -34,14 +34,14 @@
       "price_above_bb_mid": false
     },
     "flags_detail": {
-      "price_above_ema20": "Close 332.05 vs EMA20 355.23",
-      "ema20_above_ema50": "EMA20 355.23 vs EMA50 359.52",
-      "ema50_above_ema200": "EMA50 359.52 vs EMA200 366.28",
-      "rsi_above_50": "RSI(14) 33.61 vs 50",
-      "macd_bullish": "MACD -8.69 vs signal -5.73",
-      "adx_trending_up": "ADX(14) 19.63 vs 20, +DI 18.66 vs -DI 33.24",
-      "price_above_vwap20": "Close 332.05 vs 20d VWAP 361.23",
-      "price_above_bb_mid": "Close 332.05 vs BB mid 359.87"
+      "price_above_ema20": "Close 331.50 vs EMA20 352.97",
+      "ema20_above_ema50": "EMA20 352.97 vs EMA50 358.42",
+      "ema50_above_ema200": "EMA50 358.42 vs EMA200 365.76",
+      "rsi_above_50": "RSI(14) 33.38 vs 50",
+      "macd_bullish": "MACD -9.45 vs signal -6.47",
+      "adx_trending_up": "ADX(14) 20.28 vs 20, +DI 18.07 vs -DI 32.70",
+      "price_above_vwap20": "Close 331.50 vs 20d VWAP 359.44",
+      "price_above_bb_mid": "Close 331.50 vs BB mid 357.40"
     },
     "flags_on": [],
     "flag_count": 0,
@@ -49,5 +49,5 @@
   },
   "fundamentals": null,
   "shareholding": null,
-  "updated_at": "2026-07-08T19:01:54.809610+00:00"
+  "updated_at": "2026-07-09T11:12:53.474746+00:00"
 }

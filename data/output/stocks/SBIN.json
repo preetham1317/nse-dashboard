@@ -3,24 +3,24 @@
   "name": "State Bank of India",
   "sector": "Banking",
   "indicators": {
-    "date": "2026-07-08",
-    "close": 1016.9,
-    "prev_close": 1038.1,
-    "change_pct": -2.042192467007026,
-    "ema20": 1026.805076077249,
-    "ema50": 1024.2183408472472,
-    "ema200": 995.4092982831105,
-    "rsi14": 47.38996625176757,
-    "macd": 8.343034320650759,
-    "macd_signal": 9.462618382671437,
-    "atr14": 19.653518918798056,
-    "adx14": 12.422462500425853,
-    "adx_pos": 19.14158142409892,
-    "adx_neg": 25.680131362546266,
-    "bb_high": 1057.8399856011413,
-    "bb_low": 1002.2800143988586,
-    "bb_mid": 1030.06,
-    "vwap20": 1029.9030790864051
+    "date": "2026-07-09",
+    "close": 1022.1,
+    "prev_close": 1016.9,
+    "change_pct": 0.5113580489723715,
+    "ema20": 1026.3569735937017,
+    "ema50": 1024.1353100909485,
+    "ema200": 996.0655786003015,
+    "rsi14": 49.426778420091765,
+    "macd": 6.911675483826798,
+    "macd_signal": 8.952429802232306,
+    "atr14": 19.306838996278866,
+    "adx14": 12.577137091977999,
+    "adx_pos": 18.093487218660883,
+    "adx_neg": 24.274019909826084,
+    "bb_high": 1056.2431710489166,
+    "bb_low": 1005.7618289510835,
+    "bb_mid": 1031.0025,
+    "vwap20": 1031.8641197504528
   },
   "flags": {
     "flags": {
@@ -34,14 +34,14 @@
       "price_above_bb_mid": false
     },
     "flags_detail": {
-      "price_above_ema20": "Close 1,016.90 vs EMA20 1,026.81",
-      "ema20_above_ema50": "EMA20 1,026.81 vs EMA50 1,024.22",
-      "ema50_above_ema200": "EMA50 1,024.22 vs EMA200 995.41",
-      "rsi_above_50": "RSI(14) 47.39 vs 50",
-      "macd_bullish": "MACD 8.34 vs signal 9.46",
-      "adx_trending_up": "ADX(14) 12.42 vs 20, +DI 19.14 vs -DI 25.68",
-      "price_above_vwap20": "Close 1,016.90 vs 20d VWAP 1,029.90",
-      "price_above_bb_mid": "Close 1,016.90 vs BB mid 1,030.06"
+      "price_above_ema20": "Close 1,022.10 vs EMA20 1,026.36",
+      "ema20_above_ema50": "EMA20 1,026.36 vs EMA50 1,024.14",
+      "ema50_above_ema200": "EMA50 1,024.14 vs EMA200 996.07",
+      "rsi_above_50": "RSI(14) 49.43 vs 50",
+      "macd_bullish": "MACD 6.91 vs signal 8.95",
+      "adx_trending_up": "ADX(14) 12.58 vs 20, +DI 18.09 vs -DI 24.27",
+      "price_above_vwap20": "Close 1,022.10 vs 20d VWAP 1,031.86",
+      "price_above_bb_mid": "Close 1,022.10 vs BB mid 1,031.00"
     },
     "flags_on": [
       "ema20_above_ema50",
@@ -52,5 +52,5 @@
   },
   "fundamentals": null,
   "shareholding": null,
-  "updated_at": "2026-07-08T19:01:19.607321+00:00"
+  "updated_at": "2026-07-09T11:12:22.656183+00:00"
 }
