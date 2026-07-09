@@ -82,6 +82,136 @@ function kvGridHtml(entries) {
     .join("")}</div>`;
 }
 
+function formatVolume(value) {
+  if (value === null || value === undefined) return "—";
+  if (value >= 1e7) return `${(value / 1e7).toFixed(2)} Cr`;
+  if (value >= 1e5) return `${(value / 1e5).toFixed(2)} L`;
+  if (value >= 1e3) return `${(value / 1e3).toFixed(1)} K`;
+  return `${Math.round(value)}`;
+}
+
+// Inline SVG line chart (close + EMA50). No chart library — keeps the dashboard
+// dependency-free and works offline on GitHub Pages. Non-scaling strokes keep the
+// line crisp even though the SVG stretches to the panel width.
+function buildPriceChartSvg(history) {
+  if (!Array.isArray(history) || history.length < 2) return "";
+  const closes = history.map((h) => h.close);
+  const emas = history.map((h) => (h.ema50 === null || h.ema50 === undefined ? null : h.ema50));
+  const values = closes.concat(emas.filter((v) => v !== null));
+  const min = Math.min(...values);
+  const max = Math.max(...values);
+  const span = max - min || 1;
+  const W = 320, H = 90, pad = 4;
+  const xAt = (i) => pad + (i / (history.length - 1)) * (W - 2 * pad);
+  const yAt = (v) => pad + (1 - (v - min) / span) * (H - 2 * pad);
+  const closePts = closes.map((v, i) => `${xAt(i).toFixed(1)},${yAt(v).toFixed(1)}`).join(" ");
+  const emaPts = emas
+    .map((v, i) => (v === null ? null : `${xAt(i).toFixed(1)},${yAt(v).toFixed(1)}`))
+    .filter(Boolean)
+    .join(" ");
+  const rising = closes[closes.length - 1] >= closes[0];
+  const stroke = rising ? "var(--teal)" : "var(--rose)";
+  const areaFill = rising ? "rgba(31,122,99,0.10)" : "rgba(168,64,58,0.10)";
+  const area = `${pad},${H - pad} ${closePts} ${(W - pad).toFixed(1)},${H - pad}`;
+  return `<svg class="price-chart" viewBox="0 0 ${W} ${H}" preserveAspectRatio="none" role="img" aria-label="Recent price line chart">
+    <polygon points="${area}" fill="${areaFill}"></polygon>
+    ${emaPts ? `<polyline points="${emaPts}" fill="none" stroke="var(--amber)" stroke-width="1" stroke-dasharray="3 3" opacity="0.75" vector-effect="non-scaling-stroke"></polyline>` : ""}
+    <polyline points="${closePts}" fill="none" stroke="${stroke}" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round" vector-effect="non-scaling-stroke"></polyline>
+  </svg>`;
+}
+
+function priceChartSectionHtml(stock) {
+  const history = stock.price_history;
+  if (!Array.isArray(history) || history.length < 2) {
+    return `<div class="detail-section"><h6>Price trend</h6><span class="empty-note">Chart available after the next pipeline run.</span></div>`;
+  }
+  const first = history[0].date;
+  const last = history[history.length - 1].date;
+  return `<div class="detail-section">
+    <h6>Price trend · last ${history.length} sessions</h6>
+    <div class="chart-wrap">${buildPriceChartSvg(history)}</div>
+    <div class="chart-legend">
+      <span><i class="swatch close"></i> Close</span>
+      <span><i class="swatch ema"></i> EMA50</span>
+      <span class="range mono">${first} → ${last}</span>
+    </div>
+  </div>`;
+}
+
+function rangeSectionHtml(ind) {
+  if (ind.low_52w === null || ind.low_52w === undefined || ind.high_52w === null || ind.high_52w === undefined) {
+    return "";
+  }
+  const span = ind.high_52w - ind.low_52w || 1;
+  const pos = Math.max(0, Math.min(100, ((ind.close - ind.low_52w) / span) * 100));
+  const fromLow = (((ind.close - ind.low_52w) / ind.low_52w) * 100).toFixed(1);
+  const fromHigh = (((ind.close - ind.high_52w) / ind.high_52w) * 100).toFixed(1);
+  return `<div class="detail-section">
+    <h6>52-week range</h6>
+    <div class="range-row">
+      <span class="range-end mono">${formatPrice(ind.low_52w)}</span>
+      <div class="range-track"><div class="range-marker" style="left:${pos.toFixed(1)}%"></div></div>
+      <span class="range-end mono">${formatPrice(ind.high_52w)}</span>
+    </div>
+    <div class="range-sub">Now ${formatPrice(ind.close)} · <span class="up">+${fromLow}%</span> from low · <span class="down">${fromHigh}%</span> from high</div>
+  </div>`;
+}
+
+const ANALYST_LABELS = {
+  strong_buy: "Strong Buy",
+  buy: "Buy",
+  hold: "Hold",
+  underperform: "Underperform",
+  sell: "Sell",
+};
+
+function analystClass(rec) {
+  if (rec === "strong_buy" || rec === "buy") return "ok";
+  if (rec === "hold") return "watch";
+  if (rec === "underperform" || rec === "sell") return "review";
+  return "watch";
+}
+
+// External third-party analyst consensus, shown as-is and clearly labelled. The dashboard
+// never turns this (or the flags) into its own buy/hold/sell verdict — CLAUDE.md hard rule.
+function analystSectionHtml(stock) {
+  const a = stock.analyst;
+  if (!a) {
+    return `<div class="detail-section"><h6>Analyst view <span class="ext-tag">external</span></h6><span class="empty-note">No analyst coverage available this run.</span></div>`;
+  }
+  const label = ANALYST_LABELS[a.recommendation] || (a.recommendation || "—");
+  const cls = analystClass(a.recommendation);
+  const close = stock.indicators.close;
+
+  let targetHtml = "";
+  if (a.target_low != null && a.target_high != null && a.target_mean != null) {
+    const span = a.target_high - a.target_low || 1;
+    const meanPos = Math.max(0, Math.min(100, ((a.target_mean - a.target_low) / span) * 100));
+    const nowPos = Math.max(0, Math.min(100, ((close - a.target_low) / span) * 100));
+    const upside = (((a.target_mean - close) / close) * 100).toFixed(1);
+    const upsideCls = a.target_mean >= close ? "up" : "down";
+    targetHtml = `
+      <div class="target-row">
+        <span class="range-end mono">${formatPrice(a.target_low)}</span>
+        <div class="range-track target">
+          <div class="range-tick now" style="left:${nowPos.toFixed(1)}%" title="Current price"></div>
+          <div class="range-marker mean" style="left:${meanPos.toFixed(1)}%" title="Mean target"></div>
+        </div>
+        <span class="range-end mono">${formatPrice(a.target_high)}</span>
+      </div>
+      <div class="range-sub">Mean target ${formatPrice(a.target_mean)} · <span class="${upsideCls}">${a.target_mean >= close ? "+" : ""}${upside}%</span> vs current · ● now ◆ target</div>`;
+  }
+
+  return `<div class="detail-section">
+    <h6>Analyst view <span class="ext-tag">external · third-party opinion, not this dashboard's</span></h6>
+    <div class="analyst-head">
+      <span class="pill-status ${cls}">${label}</span>
+      <span class="analyst-meta mono">${a.num_analysts != null ? `${a.num_analysts} analysts` : ""}${a.recommendation_mean != null ? ` · mean ${a.recommendation_mean.toFixed(2)}/5` : ""}</span>
+    </div>
+    ${targetHtml}
+  </div>`;
+}
+
 function renderDetailPanelHtml(stock, flagDefinitions) {
   const checkRows = flagDefinitions
     .map((def) => {
@@ -111,6 +241,8 @@ function renderDetailPanelHtml(stock, flagDefinitions) {
     ["BB mid", formatPrice(ind.bb_mid)],
     ["BB low", formatPrice(ind.bb_low)],
     ["VWAP(20)", formatPrice(ind.vwap20)],
+    ["Volume", formatVolume(ind.volume)],
+    ["Avg vol (20d)", formatVolume(ind.avg_volume20)],
   ]);
 
   let fundamentalsHtml = "";
@@ -142,9 +274,12 @@ function renderDetailPanelHtml(stock, flagDefinitions) {
   }
 
   return `
+    ${priceChartSectionHtml(stock)}
+    ${rangeSectionHtml(ind)}
     <div class="detail-section"><h6>Why ${stock.flags.flag_count}/${stock.flags.flag_total}</h6>${checkRows}</div>
     <div class="detail-section"><h6>Indicators (${ind.date})</h6>${indicatorsHtml}</div>
     ${fundamentalsHtml}
+    ${analystSectionHtml(stock)}
     ${shareholdingHtml}
   `;
 }

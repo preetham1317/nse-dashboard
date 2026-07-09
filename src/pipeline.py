@@ -3,11 +3,11 @@ from datetime import datetime, timezone
 
 from src import config
 from src.angel_auth import AngelAuthError, login
-from src.fetch_fundamentals import fetch_fundamentals
+from src.fetch_fundamentals import fetch_market_view
 from src.fetch_ohlcv import fetch_daily_ohlcv
 from src.fetch_shareholding import fetch_shareholding
 from src.flags import FLAG_DEFINITIONS, evaluate_flags
-from src.indicators import compute_indicators, latest_indicator_snapshot
+from src.indicators import compute_indicators, latest_indicator_snapshot, recent_price_history
 from src.instrument_master import build_nse_equity_token_map, get_token
 from src.logging_utils import get_logger, log_skip
 
@@ -70,7 +70,9 @@ def run() -> None:
         snapshot = latest_indicator_snapshot(enriched)
         flag_result = evaluate_flags(snapshot)
 
-        fundamentals = fetch_fundamentals(symbol)
+        market_view = fetch_market_view(symbol)
+        fundamentals = market_view["fundamentals"]
+        analyst = market_view["analyst"]
         shareholding = fetch_shareholding(symbol)
 
         stock_json = {
@@ -78,8 +80,10 @@ def run() -> None:
             "name": watch_info.get("name"),
             "sector": watch_info.get("sector"),
             "indicators": snapshot,
+            "price_history": recent_price_history(enriched),
             "flags": flag_result,
             "fundamentals": fundamentals,
+            "analyst": analyst,
             "shareholding": shareholding,
             "updated_at": datetime.now(timezone.utc).isoformat(),
         }
@@ -91,6 +95,7 @@ def run() -> None:
         meta["symbols"][symbol] = {
             "status": "ok",
             "fundamentals_available": fundamentals is not None,
+            "analyst_available": analyst is not None,
             "shareholding_available": shareholding is not None,
         }
         logger.info(
