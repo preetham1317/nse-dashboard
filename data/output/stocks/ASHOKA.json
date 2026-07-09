@@ -3,24 +3,24 @@
   "name": "Ashoka Buildcon",
   "sector": "Infrastructure",
   "indicators": {
-    "date": "2026-07-08",
-    "close": 125.98,
-    "prev_close": 128.67,
-    "change_pct": -2.0906194140048058,
-    "ema20": 129.72024066386325,
-    "ema50": 129.2221098575958,
-    "ema200": 147.82576563838677,
-    "rsi14": 43.34763759206628,
-    "macd": 0.74767471898096,
-    "macd_signal": 1.3157940937275032,
-    "atr14": 4.069721948891531,
-    "adx14": 23.892811605570046,
-    "adx_pos": 21.169257571435317,
-    "adx_neg": 25.85643197599481,
-    "bb_high": 140.6266627112982,
-    "bb_low": 119.27733728870182,
-    "bb_mid": 129.952,
-    "vwap20": 132.7227923387546
+    "date": "2026-07-09",
+    "close": 126.55,
+    "prev_close": 125.98,
+    "change_pct": 0.45245277028099157,
+    "ema20": 129.4183129815905,
+    "ema50": 129.11731787080342,
+    "ema200": 147.58233680494854,
+    "rsi14": 44.599610656717864,
+    "macd": 0.40667035920739636,
+    "macd_signal": 1.1339693468778822,
+    "atr14": 3.956884666906974,
+    "adx14": 22.898129589866873,
+    "adx_pos": 20.217725246303505,
+    "adx_neg": 24.694216875508634,
+    "bb_high": 139.6633536702015,
+    "bb_low": 121.11464632979846,
+    "bb_mid": 130.38899999999998,
+    "vwap20": 132.82794794924044
   },
   "flags": {
     "flags": {
@@ -34,14 +34,14 @@
       "price_above_bb_mid": false
     },
     "flags_detail": {
-      "price_above_ema20": "Close 125.98 vs EMA20 129.72",
-      "ema20_above_ema50": "EMA20 129.72 vs EMA50 129.22",
-      "ema50_above_ema200": "EMA50 129.22 vs EMA200 147.83",
-      "rsi_above_50": "RSI(14) 43.35 vs 50",
-      "macd_bullish": "MACD 0.75 vs signal 1.32",
-      "adx_trending_up": "ADX(14) 23.89 vs 20, +DI 21.17 vs -DI 25.86",
-      "price_above_vwap20": "Close 125.98 vs 20d VWAP 132.72",
-      "price_above_bb_mid": "Close 125.98 vs BB mid 129.95"
+      "price_above_ema20": "Close 126.55 vs EMA20 129.42",
+      "ema20_above_ema50": "EMA20 129.42 vs EMA50 129.12",
+      "ema50_above_ema200": "EMA50 129.12 vs EMA200 147.58",
+      "rsi_above_50": "RSI(14) 44.60 vs 50",
+      "macd_bullish": "MACD 0.41 vs signal 1.13",
+      "adx_trending_up": "ADX(14) 22.90 vs 20, +DI 20.22 vs -DI 24.69",
+      "price_above_vwap20": "Close 126.55 vs 20d VWAP 132.83",
+      "price_above_bb_mid": "Close 126.55 vs BB mid 130.39"
     },
     "flags_on": [
       "ema20_above_ema50"
@@ -51,5 +51,5 @@
   },
   "fundamentals": null,
   "shareholding": null,
-  "updated_at": "2026-07-08T18:57:44.067936+00:00"
+  "updated_at": "2026-07-09T04:46:44.514260+00:00"
 }

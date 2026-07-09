@@ -3,24 +3,24 @@
   "name": "Vedanta Ltd",
   "sector": "Metals",
   "indicators": {
-    "date": "2026-07-08",
-    "close": 272.3,
-    "prev_close": 275.05,
-    "change_pct": -0.9998182148700235,
-    "ema20": 293.2098403182993,
-    "ema50": 362.62667255042896,
-    "ema200": 488.00119487534994,
-    "rsi14": 31.629425511906675,
-    "macd": -21.975748816813052,
-    "macd_signal": -25.969839680875385,
-    "atr14": 11.440319996756227,
-    "adx14": 37.82572120441172,
-    "adx_pos": 15.13281804516175,
-    "adx_neg": 35.41622046937586,
-    "bb_high": 316.27751997327545,
-    "bb_low": 263.70748002672445,
-    "bb_mid": 289.99249999999995,
-    "vwap20": 288.0614321696106
+    "date": "2026-07-09",
+    "close": 272.05,
+    "prev_close": 272.3,
+    "change_pct": -0.0918105031215571,
+    "ema20": 291.19461743084236,
+    "ema50": 359.07466074050683,
+    "ema200": 485.9897641571165,
+    "rsi14": 31.545379466834035,
+    "macd": -21.193047558515843,
+    "macd_signal": -25.014481256639122,
+    "atr14": 10.851725711183756,
+    "adx14": 37.99004027865339,
+    "adx_pos": 14.814073364700425,
+    "adx_neg": 34.6702436250184,
+    "bb_high": 315.6584553756864,
+    "bb_low": 261.6015446243136,
+    "bb_mid": 288.63,
+    "vwap20": 287.6793439626817
   },
   "flags": {
     "flags": {
@@ -34,14 +34,14 @@
       "price_above_bb_mid": false
     },
     "flags_detail": {
-      "price_above_ema20": "Close 272.30 vs EMA20 293.21",
-      "ema20_above_ema50": "EMA20 293.21 vs EMA50 362.63",
-      "ema50_above_ema200": "EMA50 362.63 vs EMA200 488.00",
-      "rsi_above_50": "RSI(14) 31.63 vs 50",
-      "macd_bullish": "MACD -21.98 vs signal -25.97",
-      "adx_trending_up": "ADX(14) 37.83 vs 20, +DI 15.13 vs -DI 35.42",
-      "price_above_vwap20": "Close 272.30 vs 20d VWAP 288.06",
-      "price_above_bb_mid": "Close 272.30 vs BB mid 289.99"
+      "price_above_ema20": "Close 272.05 vs EMA20 291.19",
+      "ema20_above_ema50": "EMA20 291.19 vs EMA50 359.07",
+      "ema50_above_ema200": "EMA50 359.07 vs EMA200 485.99",
+      "rsi_above_50": "RSI(14) 31.55 vs 50",
+      "macd_bullish": "MACD -21.19 vs signal -25.01",
+      "adx_trending_up": "ADX(14) 37.99 vs 20, +DI 14.81 vs -DI 34.67",
+      "price_above_vwap20": "Close 272.05 vs 20d VWAP 287.68",
+      "price_above_bb_mid": "Close 272.05 vs BB mid 288.63"
     },
     "flags_on": [
       "macd_bullish"
@@ -51,5 +51,5 @@
   },
   "fundamentals": null,
   "shareholding": null,
-  "updated_at": "2026-07-08T19:02:10.588756+00:00"
+  "updated_at": "2026-07-09T04:49:34.994816+00:00"
 }

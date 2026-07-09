@@ -3,24 +3,24 @@
   "name": "Torrent Pharmaceuticals",
   "sector": "Pharma",
   "indicators": {
-    "date": "2026-07-08",
-    "close": 4866.4,
-    "prev_close": 4856.7,
-    "change_pct": 0.19972409249078218,
-    "ema20": 4624.370341481994,
-    "ema50": 4484.656033634437,
-    "ema200": 4107.79487089894,
-    "rsi14": 74.5702287137333,
-    "macd": 107.00132736898104,
-    "macd_signal": 74.41763722458015,
-    "atr14": 106.69170116013018,
-    "adx14": 31.7577840305461,
-    "adx_pos": 35.990919747838035,
-    "adx_neg": 8.69306708822235,
-    "bb_high": 4868.457906069893,
-    "bb_low": 4309.7020939301065,
-    "bb_mid": 4589.08,
-    "vwap20": 4605.700812049538
+    "date": "2026-07-09",
+    "close": 4927.0,
+    "prev_close": 4866.4,
+    "change_pct": 1.2452737136281515,
+    "ema20": 4653.192213721804,
+    "ema50": 4502.0028603649025,
+    "ema200": 4115.988787664481,
+    "rsi14": 76.97810079848074,
+    "macd": 117.6495532108047,
+    "macd_signal": 83.0640204217516,
+    "atr14": 105.52800821934655,
+    "adx14": 33.853007030376936,
+    "adx_pos": 33.78867491852402,
+    "adx_neg": 8.161147866669365,
+    "bb_high": 4921.436691188488,
+    "bb_low": 4303.053308811512,
+    "bb_mid": 4612.245,
+    "vwap20": 4613.307360617134
   },
   "flags": {
     "flags": {
@@ -34,14 +34,14 @@
       "price_above_bb_mid": true
     },
     "flags_detail": {
-      "price_above_ema20": "Close 4,866.40 vs EMA20 4,624.37",
-      "ema20_above_ema50": "EMA20 4,624.37 vs EMA50 4,484.66",
-      "ema50_above_ema200": "EMA50 4,484.66 vs EMA200 4,107.79",
-      "rsi_above_50": "RSI(14) 74.57 vs 50",
-      "macd_bullish": "MACD 107.00 vs signal 74.42",
-      "adx_trending_up": "ADX(14) 31.76 vs 20, +DI 35.99 vs -DI 8.69",
-      "price_above_vwap20": "Close 4,866.40 vs 20d VWAP 4,605.70",
-      "price_above_bb_mid": "Close 4,866.40 vs BB mid 4,589.08"
+      "price_above_ema20": "Close 4,927.00 vs EMA20 4,653.19",
+      "ema20_above_ema50": "EMA20 4,653.19 vs EMA50 4,502.00",
+      "ema50_above_ema200": "EMA50 4,502.00 vs EMA200 4,115.99",
+      "rsi_above_50": "RSI(14) 76.98 vs 50",
+      "macd_bullish": "MACD 117.65 vs signal 83.06",
+      "adx_trending_up": "ADX(14) 33.85 vs 20, +DI 33.79 vs -DI 8.16",
+      "price_above_vwap20": "Close 4,927.00 vs 20d VWAP 4,613.31",
+      "price_above_bb_mid": "Close 4,927.00 vs BB mid 4,612.24"
     },
     "flags_on": [
       "price_above_ema20",
@@ -58,5 +58,5 @@
   },
   "fundamentals": null,
   "shareholding": null,
-  "updated_at": "2026-07-08T19:01:56.254438+00:00"
+  "updated_at": "2026-07-09T04:49:28.412177+00:00"
 }

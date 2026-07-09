@@ -3,24 +3,24 @@
   "name": "Global Health Ltd",
   "sector": "Healthcare",
   "indicators": {
-    "date": "2026-07-08",
-    "close": 1305.0,
-    "prev_close": 1324.3,
-    "change_pct": -1.4573737068640003,
-    "ema20": 1294.980350422819,
-    "ema50": 1241.147148932372,
-    "ema200": 1202.0069140751134,
-    "rsi14": 56.841227723997626,
-    "macd": 31.24341003173413,
-    "macd_signal": 31.560539875340726,
-    "atr14": 34.706460986729766,
-    "adx14": 37.29154851830508,
-    "adx_pos": 21.00917167179766,
-    "adx_neg": 14.249045525526988,
-    "bb_high": 1374.5710847728803,
-    "bb_low": 1202.2989152271196,
-    "bb_mid": 1288.435,
-    "vwap20": 1284.4667746600478
+    "date": "2026-07-09",
+    "close": 1345.8,
+    "prev_close": 1305.0,
+    "change_pct": 3.1264367816091916,
+    "ema20": 1299.8203170492184,
+    "ema50": 1245.2512822508943,
+    "ema200": 1204.3801096910695,
+    "rsi14": 64.74675751776707,
+    "macd": 31.5140703947377,
+    "macd_signal": 31.55124597760356,
+    "atr14": 35.43457091612248,
+    "adx14": 36.31301457107794,
+    "adx_pos": 20.9621800160857,
+    "adx_neg": 12.959380563567649,
+    "bb_high": 1378.9526035101928,
+    "bb_low": 1209.9473964898073,
+    "bb_mid": 1294.45,
+    "vwap20": 1285.6646935262877
   },
   "flags": {
     "flags": {
@@ -34,14 +34,14 @@
       "price_above_bb_mid": true
     },
     "flags_detail": {
-      "price_above_ema20": "Close 1,305.00 vs EMA20 1,294.98",
-      "ema20_above_ema50": "EMA20 1,294.98 vs EMA50 1,241.15",
-      "ema50_above_ema200": "EMA50 1,241.15 vs EMA200 1,202.01",
-      "rsi_above_50": "RSI(14) 56.84 vs 50",
-      "macd_bullish": "MACD 31.24 vs signal 31.56",
-      "adx_trending_up": "ADX(14) 37.29 vs 20, +DI 21.01 vs -DI 14.25",
-      "price_above_vwap20": "Close 1,305.00 vs 20d VWAP 1,284.47",
-      "price_above_bb_mid": "Close 1,305.00 vs BB mid 1,288.43"
+      "price_above_ema20": "Close 1,345.80 vs EMA20 1,299.82",
+      "ema20_above_ema50": "EMA20 1,299.82 vs EMA50 1,245.25",
+      "ema50_above_ema200": "EMA50 1,245.25 vs EMA200 1,204.38",
+      "rsi_above_50": "RSI(14) 64.75 vs 50",
+      "macd_bullish": "MACD 31.51 vs signal 31.55",
+      "adx_trending_up": "ADX(14) 36.31 vs 20, +DI 20.96 vs -DI 12.96",
+      "price_above_vwap20": "Close 1,345.80 vs 20d VWAP 1,285.66",
+      "price_above_bb_mid": "Close 1,345.80 vs BB mid 1,294.45"
     },
     "flags_on": [
       "price_above_ema20",
@@ -57,5 +57,5 @@
   },
   "fundamentals": null,
   "shareholding": null,
-  "updated_at": "2026-07-08T18:59:58.898285+00:00"
+  "updated_at": "2026-07-09T04:48:24.500225+00:00"
 }

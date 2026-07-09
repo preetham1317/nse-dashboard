@@ -3,24 +3,24 @@
   "name": "Chambal Fertilisers and Chemicals",
   "sector": "Agri & Fertilizers",
   "indicators": {
-    "date": "2026-07-08",
-    "close": 451.0,
-    "prev_close": 463.7,
-    "change_pct": -2.738839767090789,
-    "ema20": 470.7762725017939,
-    "ema50": 464.5375823286699,
-    "ema200": 477.320644564203,
-    "rsi14": 39.96567657591462,
-    "macd": 0.6533945748207088,
-    "macd_signal": 3.747126382311666,
-    "atr14": 12.325725962112228,
-    "adx14": 13.92054050052946,
-    "adx_pos": 17.906288028809172,
-    "adx_neg": 28.602608997754885,
-    "bb_high": 493.3351702245499,
-    "bb_low": 457.3898297754501,
-    "bb_mid": 475.3625,
-    "vwap20": 477.55457200246946
+    "date": "2026-07-09",
+    "close": 457.6,
+    "prev_close": 451.0,
+    "change_pct": 1.4634146341463465,
+    "ema20": 469.5213894063845,
+    "ema50": 464.26547382049915,
+    "ema200": 476.68636032884416,
+    "rsi14": 43.96026186423794,
+    "macd": -0.41943384049102406,
+    "macd_signal": 2.9138143385025512,
+    "atr14": 11.988174107578612,
+    "adx14": 14.568961894393057,
+    "adx_pos": 17.095442586179512,
+    "adx_neg": 27.307405036603676,
+    "bb_high": 493.8805430252437,
+    "bb_low": 454.8394569747562,
+    "bb_mid": 474.35999999999996,
+    "vwap20": 479.1264191786569
   },
   "flags": {
     "flags": {
@@ -34,14 +34,14 @@
       "price_above_bb_mid": false
     },
     "flags_detail": {
-      "price_above_ema20": "Close 451.00 vs EMA20 470.78",
-      "ema20_above_ema50": "EMA20 470.78 vs EMA50 464.54",
-      "ema50_above_ema200": "EMA50 464.54 vs EMA200 477.32",
-      "rsi_above_50": "RSI(14) 39.97 vs 50",
-      "macd_bullish": "MACD 0.65 vs signal 3.75",
-      "adx_trending_up": "ADX(14) 13.92 vs 20, +DI 17.91 vs -DI 28.60",
-      "price_above_vwap20": "Close 451.00 vs 20d VWAP 477.55",
-      "price_above_bb_mid": "Close 451.00 vs BB mid 475.36"
+      "price_above_ema20": "Close 457.60 vs EMA20 469.52",
+      "ema20_above_ema50": "EMA20 469.52 vs EMA50 464.27",
+      "ema50_above_ema200": "EMA50 464.27 vs EMA200 476.69",
+      "rsi_above_50": "RSI(14) 43.96 vs 50",
+      "macd_bullish": "MACD -0.42 vs signal 2.91",
+      "adx_trending_up": "ADX(14) 14.57 vs 20, +DI 17.10 vs -DI 27.31",
+      "price_above_vwap20": "Close 457.60 vs 20d VWAP 479.13",
+      "price_above_bb_mid": "Close 457.60 vs BB mid 474.36"
     },
     "flags_on": [
       "ema20_above_ema50"
@@ -51,5 +51,5 @@
   },
   "fundamentals": null,
   "shareholding": null,
-  "updated_at": "2026-07-08T18:58:17.593814+00:00"
+  "updated_at": "2026-07-09T04:47:07.739464+00:00"
 }

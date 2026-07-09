@@ -3,55 +3,55 @@
   "name": "Persistent Systems",
   "sector": "IT",
   "indicators": {
-    "date": "2026-07-08",
-    "close": 4769.5,
-    "prev_close": 4884.8,
-    "change_pct": -2.360383229610223,
-    "ema20": 4767.577661565853,
-    "ema50": 4903.070321578759,
-    "ema200": 5254.417017128388,
-    "rsi14": 48.70905144152691,
-    "macd": -83.61028831094427,
-    "macd_signal": -99.16248612987043,
-    "atr14": 181.962996599041,
-    "adx14": 15.821121664843306,
-    "adx_pos": 30.762922747721937,
-    "adx_neg": 30.036097315030748,
-    "bb_high": 5202.125149669433,
-    "bb_low": 4336.884850330567,
-    "bb_mid": 4769.505,
-    "vwap20": 4610.3561413555835
+    "date": "2026-07-09",
+    "close": 4765.0,
+    "prev_close": 4769.5,
+    "change_pct": -0.09434951252751861,
+    "ema20": 4767.3321699881535,
+    "ema50": 4897.655746429995,
+    "ema200": 5249.049939995267,
+    "rsi14": 48.556905110972025,
+    "macd": -73.65695633483756,
+    "macd_signal": -94.06138017001052,
+    "atr14": 174.3799254143722,
+    "adx14": 14.762978691364347,
+    "adx_pos": 29.80777121480728,
+    "adx_neg": 30.414279698807622,
+    "bb_high": 5187.822384333187,
+    "bb_low": 4334.887615666814,
+    "bb_mid": 4761.3550000000005,
+    "vwap20": 4607.0021588582695
   },
   "flags": {
     "flags": {
-      "price_above_ema20": true,
+      "price_above_ema20": false,
       "ema20_above_ema50": false,
       "ema50_above_ema200": false,
       "rsi_above_50": false,
       "macd_bullish": true,
       "adx_trending_up": false,
       "price_above_vwap20": true,
-      "price_above_bb_mid": false
+      "price_above_bb_mid": true
     },
     "flags_detail": {
-      "price_above_ema20": "Close 4,769.50 vs EMA20 4,767.58",
-      "ema20_above_ema50": "EMA20 4,767.58 vs EMA50 4,903.07",
-      "ema50_above_ema200": "EMA50 4,903.07 vs EMA200 5,254.42",
-      "rsi_above_50": "RSI(14) 48.71 vs 50",
-      "macd_bullish": "MACD -83.61 vs signal -99.16",
-      "adx_trending_up": "ADX(14) 15.82 vs 20, +DI 30.76 vs -DI 30.04",
-      "price_above_vwap20": "Close 4,769.50 vs 20d VWAP 4,610.36",
-      "price_above_bb_mid": "Close 4,769.50 vs BB mid 4,769.51"
+      "price_above_ema20": "Close 4,765.00 vs EMA20 4,767.33",
+      "ema20_above_ema50": "EMA20 4,767.33 vs EMA50 4,897.66",
+      "ema50_above_ema200": "EMA50 4,897.66 vs EMA200 5,249.05",
+      "rsi_above_50": "RSI(14) 48.56 vs 50",
+      "macd_bullish": "MACD -73.66 vs signal -94.06",
+      "adx_trending_up": "ADX(14) 14.76 vs 20, +DI 29.81 vs -DI 30.41",
+      "price_above_vwap20": "Close 4,765.00 vs 20d VWAP 4,607.00",
+      "price_above_bb_mid": "Close 4,765.00 vs BB mid 4,761.36"
     },
     "flags_on": [
-      "price_above_ema20",
       "macd_bullish",
-      "price_above_vwap20"
+      "price_above_vwap20",
+      "price_above_bb_mid"
     ],
     "flag_count": 3,
     "flag_total": 8
   },
   "fundamentals": null,
   "shareholding": null,
-  "updated_at": "2026-07-08T19:00:50.768958+00:00"
+  "updated_at": "2026-07-09T04:48:43.893395+00:00"
 }

@@ -3,24 +3,24 @@
   "name": "Tata Chemicals",
   "sector": "Chemicals",
   "indicators": {
-    "date": "2026-07-08",
-    "close": 710.4,
-    "prev_close": 718.6,
-    "change_pct": -1.1411077094350188,
-    "ema20": 718.568977023093,
-    "ema50": 725.5671467300248,
-    "ema200": 761.7825200953932,
-    "rsi14": 45.5596771527029,
-    "macd": -9.188182369009951,
-    "macd_signal": -7.769044938148166,
-    "atr14": 22.671155465360545,
-    "adx14": 18.818533703831015,
-    "adx_pos": 29.48638934185382,
-    "adx_neg": 17.58922193553795,
-    "bb_high": 757.5997733016762,
-    "bb_low": 686.4702266983239,
-    "bb_mid": 722.0350000000001,
-    "vwap20": 732.4232417796042
+    "date": "2026-07-09",
+    "close": 711.45,
+    "prev_close": 710.4,
+    "change_pct": 0.14780405405406366,
+    "ema20": 717.8909792113699,
+    "ema50": 725.0135361461352,
+    "ema200": 761.3101136323257,
+    "rsi14": 45.991052081953825,
+    "macd": -8.590610597827208,
+    "macd_signal": -7.933358070132872,
+    "atr14": 21.77678721810602,
+    "adx14": 19.276305289785288,
+    "adx_pos": 28.504718717930295,
+    "adx_neg": 17.020035906774687,
+    "bb_high": 757.4473086302703,
+    "bb_low": 685.7276913697297,
+    "bb_mid": 721.5875,
+    "vwap20": 732.4845506581204
   },
   "flags": {
     "flags": {
@@ -34,14 +34,14 @@
       "price_above_bb_mid": false
     },
     "flags_detail": {
-      "price_above_ema20": "Close 710.40 vs EMA20 718.57",
-      "ema20_above_ema50": "EMA20 718.57 vs EMA50 725.57",
-      "ema50_above_ema200": "EMA50 725.57 vs EMA200 761.78",
-      "rsi_above_50": "RSI(14) 45.56 vs 50",
-      "macd_bullish": "MACD -9.19 vs signal -7.77",
-      "adx_trending_up": "ADX(14) 18.82 vs 20, +DI 29.49 vs -DI 17.59",
-      "price_above_vwap20": "Close 710.40 vs 20d VWAP 732.42",
-      "price_above_bb_mid": "Close 710.40 vs BB mid 722.04"
+      "price_above_ema20": "Close 711.45 vs EMA20 717.89",
+      "ema20_above_ema50": "EMA20 717.89 vs EMA50 725.01",
+      "ema50_above_ema200": "EMA50 725.01 vs EMA200 761.31",
+      "rsi_above_50": "RSI(14) 45.99 vs 50",
+      "macd_bullish": "MACD -8.59 vs signal -7.93",
+      "adx_trending_up": "ADX(14) 19.28 vs 20, +DI 28.50 vs -DI 17.02",
+      "price_above_vwap20": "Close 711.45 vs 20d VWAP 732.48",
+      "price_above_bb_mid": "Close 711.45 vs BB mid 721.59"
     },
     "flags_on": [],
     "flag_count": 0,
@@ -49,5 +49,5 @@
   },
   "fundamentals": null,
   "shareholding": null,
-  "updated_at": "2026-07-08T19:01:38.176379+00:00"
+  "updated_at": "2026-07-09T04:49:12.888410+00:00"
 }

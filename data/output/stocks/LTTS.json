@@ -3,24 +3,24 @@
   "name": "L&T Technology Services",
   "sector": "IT",
   "indicators": {
-    "date": "2026-07-08",
-    "close": 3141.1,
-    "prev_close": 3221.3,
-    "change_pct": -2.489678080278157,
-    "ema20": 3255.8443733421186,
-    "ema50": 3359.6492840111246,
-    "ema200": 3712.242091442836,
-    "rsi14": 41.11723184120083,
-    "macd": -72.16501148723728,
-    "macd_signal": -66.73134192883902,
-    "atr14": 117.05494408702206,
-    "adx14": 21.75045508799023,
-    "adx_pos": 18.241694601884518,
-    "adx_neg": 27.953996684594834,
-    "bb_high": 3506.6470867917906,
-    "bb_low": 3047.66291320821,
-    "bb_mid": 3277.155,
-    "vwap20": 3242.2786372387204
+    "date": "2026-07-09",
+    "close": 3224.8,
+    "prev_close": 3141.1,
+    "change_pct": 2.664671611855728,
+    "ema20": 3252.887766357149,
+    "ema50": 3354.360483161811,
+    "ema200": 3701.794238794066,
+    "rsi14": 46.54262360888968,
+    "macd": -65.74514135657864,
+    "macd_signal": -66.53410180478431,
+    "atr14": 115.75816236506599,
+    "adx14": 21.69858398370829,
+    "adx_pos": 17.128472519526188,
+    "adx_neg": 26.24806929910205,
+    "bb_high": 3501.322891674895,
+    "bb_low": 3042.667108325105,
+    "bb_mid": 3271.995,
+    "vwap20": 3237.0844536464324
   },
   "flags": {
     "flags": {
@@ -28,26 +28,28 @@
       "ema20_above_ema50": false,
       "ema50_above_ema200": false,
       "rsi_above_50": false,
-      "macd_bullish": false,
+      "macd_bullish": true,
       "adx_trending_up": false,
       "price_above_vwap20": false,
       "price_above_bb_mid": false
     },
     "flags_detail": {
-      "price_above_ema20": "Close 3,141.10 vs EMA20 3,255.84",
-      "ema20_above_ema50": "EMA20 3,255.84 vs EMA50 3,359.65",
-      "ema50_above_ema200": "EMA50 3,359.65 vs EMA200 3,712.24",
-      "rsi_above_50": "RSI(14) 41.12 vs 50",
-      "macd_bullish": "MACD -72.17 vs signal -66.73",
-      "adx_trending_up": "ADX(14) 21.75 vs 20, +DI 18.24 vs -DI 27.95",
-      "price_above_vwap20": "Close 3,141.10 vs 20d VWAP 3,242.28",
-      "price_above_bb_mid": "Close 3,141.10 vs BB mid 3,277.16"
+      "price_above_ema20": "Close 3,224.80 vs EMA20 3,252.89",
+      "ema20_above_ema50": "EMA20 3,252.89 vs EMA50 3,354.36",
+      "ema50_above_ema200": "EMA50 3,354.36 vs EMA200 3,701.79",
+      "rsi_above_50": "RSI(14) 46.54 vs 50",
+      "macd_bullish": "MACD -65.75 vs signal -66.53",
+      "adx_trending_up": "ADX(14) 21.70 vs 20, +DI 17.13 vs -DI 26.25",
+      "price_above_vwap20": "Close 3,224.80 vs 20d VWAP 3,237.08",
+      "price_above_bb_mid": "Close 3,224.80 vs BB mid 3,271.99"
     },
-    "flags_on": [],
-    "flag_count": 0,
+    "flags_on": [
+      "macd_bullish"
+    ],
+    "flag_count": 1,
     "flag_total": 8
   },
   "fundamentals": null,
   "shareholding": null,
-  "updated_at": "2026-07-08T18:59:47.064886+00:00"
+  "updated_at": "2026-07-09T04:48:14.403304+00:00"
 }

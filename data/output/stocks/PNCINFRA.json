@@ -3,24 +3,24 @@
   "name": "PNC Infratech",
   "sector": "Infrastructure",
   "indicators": {
-    "date": "2026-07-08",
-    "close": 238.18,
-    "prev_close": 239.44,
-    "change_pct": -0.5262278650183724,
-    "ema20": 227.8923558148546,
-    "ema50": 219.1990326191961,
-    "ema200": 232.11091363941014,
-    "rsi14": 65.22722854797578,
-    "macd": 7.406929266893968,
-    "macd_signal": 6.161714662506347,
-    "atr14": 7.362758243996081,
-    "adx14": 30.307355314060107,
-    "adx_pos": 29.723031235967206,
-    "adx_neg": 13.924503772076177,
-    "bb_high": 252.80149880382723,
-    "bb_low": 195.74450119617276,
-    "bb_mid": 224.273,
-    "vwap20": 223.68715734777723
+    "date": "2026-07-09",
+    "close": 237.92,
+    "prev_close": 238.18,
+    "change_pct": -0.10916113863465417,
+    "ema20": 228.84736954677336,
+    "ema50": 219.93319925176735,
+    "ema200": 232.27290247924563,
+    "rsi14": 64.8413950514394,
+    "macd": 7.277745208798194,
+    "macd_signal": 6.38492077158599,
+    "atr14": 7.1132755121535,
+    "adx14": 30.72795080273128,
+    "adx_pos": 28.567966308100782,
+    "adx_neg": 13.383384470315063,
+    "bb_high": 253.11798838318063,
+    "bb_low": 199.12301161681935,
+    "bb_mid": 226.1205,
+    "vwap20": 223.9714570429228
   },
   "flags": {
     "flags": {
@@ -34,14 +34,14 @@
       "price_above_bb_mid": true
     },
     "flags_detail": {
-      "price_above_ema20": "Close 238.18 vs EMA20 227.89",
-      "ema20_above_ema50": "EMA20 227.89 vs EMA50 219.20",
-      "ema50_above_ema200": "EMA50 219.20 vs EMA200 232.11",
-      "rsi_above_50": "RSI(14) 65.23 vs 50",
-      "macd_bullish": "MACD 7.41 vs signal 6.16",
-      "adx_trending_up": "ADX(14) 30.31 vs 20, +DI 29.72 vs -DI 13.92",
-      "price_above_vwap20": "Close 238.18 vs 20d VWAP 223.69",
-      "price_above_bb_mid": "Close 238.18 vs BB mid 224.27"
+      "price_above_ema20": "Close 237.92 vs EMA20 228.85",
+      "ema20_above_ema50": "EMA20 228.85 vs EMA50 219.93",
+      "ema50_above_ema200": "EMA50 219.93 vs EMA200 232.27",
+      "rsi_above_50": "RSI(14) 64.84 vs 50",
+      "macd_bullish": "MACD 7.28 vs signal 6.38",
+      "adx_trending_up": "ADX(14) 30.73 vs 20, +DI 28.57 vs -DI 13.38",
+      "price_above_vwap20": "Close 237.92 vs 20d VWAP 223.97",
+      "price_above_bb_mid": "Close 237.92 vs BB mid 226.12"
     },
     "flags_on": [
       "price_above_ema20",
@@ -57,5 +57,5 @@
   },
   "fundamentals": null,
   "shareholding": null,
-  "updated_at": "2026-07-08T19:01:01.937292+00:00"
+  "updated_at": "2026-07-09T04:48:49.782685+00:00"
 }

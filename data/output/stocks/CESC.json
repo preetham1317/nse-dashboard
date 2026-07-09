@@ -3,24 +3,24 @@
   "name": "CESC Ltd",
   "sector": "Power",
   "indicators": {
-    "date": "2026-07-08",
-    "close": 163.78,
-    "prev_close": 166.7,
-    "change_pct": -1.7516496700659794,
-    "ema20": 169.90823598340148,
-    "ema50": 171.65894952039298,
-    "ema200": 167.61144557526174,
-    "rsi14": 37.60156679356517,
-    "macd": -2.3159388805441097,
-    "macd_signal": -2.151986262181561,
-    "atr14": 4.279053351590008,
-    "adx14": 15.031159810288145,
-    "adx_pos": 15.8601077616368,
-    "adx_neg": 28.199521486085988,
-    "bb_high": 173.6101241939788,
-    "bb_low": 164.44087580602118,
-    "bb_mid": 169.0255,
-    "vwap20": 169.37327847679475
+    "date": "2026-07-09",
+    "close": 163.56,
+    "prev_close": 163.78,
+    "change_pct": -0.13432653559653124,
+    "ema20": 169.3036420802204,
+    "ema50": 171.3413471724424,
+    "ema200": 167.6042830884432,
+    "rsi14": 37.31507291077642,
+    "macd": -2.5348328089993686,
+    "macd_signal": -2.2285555716019942,
+    "atr14": 4.10126382654648,
+    "adx14": 16.11063456516072,
+    "adx_pos": 15.365667962363966,
+    "adx_neg": 28.62661729944219,
+    "bb_high": 173.9550434707084,
+    "bb_low": 163.63195652929159,
+    "bb_mid": 168.7935,
+    "vwap20": 169.32034534899555
   },
   "flags": {
     "flags": {
@@ -34,14 +34,14 @@
       "price_above_bb_mid": false
     },
     "flags_detail": {
-      "price_above_ema20": "Close 163.78 vs EMA20 169.91",
-      "ema20_above_ema50": "EMA20 169.91 vs EMA50 171.66",
-      "ema50_above_ema200": "EMA50 171.66 vs EMA200 167.61",
-      "rsi_above_50": "RSI(14) 37.60 vs 50",
-      "macd_bullish": "MACD -2.32 vs signal -2.15",
-      "adx_trending_up": "ADX(14) 15.03 vs 20, +DI 15.86 vs -DI 28.20",
-      "price_above_vwap20": "Close 163.78 vs 20d VWAP 169.37",
-      "price_above_bb_mid": "Close 163.78 vs BB mid 169.03"
+      "price_above_ema20": "Close 163.56 vs EMA20 169.30",
+      "ema20_above_ema50": "EMA20 169.30 vs EMA50 171.34",
+      "ema50_above_ema200": "EMA50 171.34 vs EMA200 167.60",
+      "rsi_above_50": "RSI(14) 37.32 vs 50",
+      "macd_bullish": "MACD -2.53 vs signal -2.23",
+      "adx_trending_up": "ADX(14) 16.11 vs 20, +DI 15.37 vs -DI 28.63",
+      "price_above_vwap20": "Close 163.56 vs 20d VWAP 169.32",
+      "price_above_bb_mid": "Close 163.56 vs BB mid 168.79"
     },
     "flags_on": [
       "ema50_above_ema200"
@@ -51,5 +51,5 @@
   },
   "fundamentals": null,
   "shareholding": null,
-  "updated_at": "2026-07-08T18:58:16.334123+00:00"
+  "updated_at": "2026-07-09T04:47:06.373154+00:00"
 }

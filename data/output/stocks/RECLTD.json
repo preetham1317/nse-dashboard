@@ -3,24 +3,24 @@
   "name": "REC Limited",
   "sector": "NBFC",
   "indicators": {
-    "date": "2026-07-08",
-    "close": 348.75,
-    "prev_close": 356.25,
-    "change_pct": -2.1052631578947367,
-    "ema20": 357.99755136846085,
-    "ema50": 353.35620007875315,
-    "ema200": 360.3881279155157,
-    "rsi14": 43.589379883015624,
-    "macd": 3.394560447779156,
-    "macd_signal": 4.7607010504386205,
-    "atr14": 8.398328619769662,
-    "adx14": 22.365525481905593,
-    "adx_pos": 20.34146922019608,
-    "adx_neg": 25.352529776592558,
-    "bb_high": 375.89864213000334,
-    "bb_low": 341.9313578699967,
-    "bb_mid": 358.915,
-    "vwap20": 360.54209547478905
+    "date": "2026-07-09",
+    "close": 347.95,
+    "prev_close": 348.75,
+    "change_pct": -0.22939068100358748,
+    "ema20": 357.0406417143217,
+    "ema50": 353.1441997659436,
+    "ema200": 360.3354020297183,
+    "rsi14": 43.00786222671881,
+    "macd": 2.186422259360427,
+    "macd_signal": 4.2458452921011425,
+    "atr14": 8.016305146831275,
+    "adx14": 21.551313779574375,
+    "adx_pos": 19.788654140326283,
+    "adx_neg": 24.663530344517678,
+    "bb_high": 375.9611065845058,
+    "bb_low": 341.7838934154942,
+    "bb_mid": 358.8725,
+    "vwap20": 360.8862395098063
   },
   "flags": {
     "flags": {
@@ -34,14 +34,14 @@
       "price_above_bb_mid": false
     },
     "flags_detail": {
-      "price_above_ema20": "Close 348.75 vs EMA20 358.00",
-      "ema20_above_ema50": "EMA20 358.00 vs EMA50 353.36",
-      "ema50_above_ema200": "EMA50 353.36 vs EMA200 360.39",
-      "rsi_above_50": "RSI(14) 43.59 vs 50",
-      "macd_bullish": "MACD 3.39 vs signal 4.76",
-      "adx_trending_up": "ADX(14) 22.37 vs 20, +DI 20.34 vs -DI 25.35",
-      "price_above_vwap20": "Close 348.75 vs 20d VWAP 360.54",
-      "price_above_bb_mid": "Close 348.75 vs BB mid 358.92"
+      "price_above_ema20": "Close 347.95 vs EMA20 357.04",
+      "ema20_above_ema50": "EMA20 357.04 vs EMA50 353.14",
+      "ema50_above_ema200": "EMA50 353.14 vs EMA200 360.34",
+      "rsi_above_50": "RSI(14) 43.01 vs 50",
+      "macd_bullish": "MACD 2.19 vs signal 4.25",
+      "adx_trending_up": "ADX(14) 21.55 vs 20, +DI 19.79 vs -DI 24.66",
+      "price_above_vwap20": "Close 347.95 vs 20d VWAP 360.89",
+      "price_above_bb_mid": "Close 347.95 vs BB mid 358.87"
     },
     "flags_on": [
       "ema20_above_ema50"
@@ -51,5 +51,5 @@
   },
   "fundamentals": null,
   "shareholding": null,
-  "updated_at": "2026-07-08T19:01:09.885198+00:00"
+  "updated_at": "2026-07-09T04:48:55.742463+00:00"
 }

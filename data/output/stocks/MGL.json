@@ -3,24 +3,24 @@
   "name": "Mahanagar Gas",
   "sector": "Energy",
   "indicators": {
-    "date": "2026-07-08",
-    "close": 1093.9,
-    "prev_close": 1133.7,
-    "change_pct": -3.5106289141748217,
-    "ema20": 1142.0048489277926,
-    "ema50": 1123.3756050918976,
-    "ema200": 1151.2920973888897,
-    "rsi14": 41.67855849191635,
-    "macd": 3.8599803597151094,
-    "macd_signal": 15.095582614552875,
-    "atr14": 36.40754465248523,
-    "adx14": 17.699506811539063,
-    "adx_pos": 20.02464374450401,
-    "adx_neg": 27.197470254164063,
-    "bb_high": 1255.4618804750994,
-    "bb_low": 1057.4781195249006,
-    "bb_mid": 1156.47,
-    "vwap20": 1169.3368643252809
+    "date": "2026-07-09",
+    "close": 1115.3,
+    "prev_close": 1093.9,
+    "change_pct": 1.9563031355699663,
+    "ema20": 1139.4615299822851,
+    "ema50": 1123.0585972882043,
+    "ema200": 1147.9409591194858,
+    "rsi14": 46.075599962325406,
+    "macd": 1.4332648471604443,
+    "macd_signal": 12.363119066208794,
+    "atr14": 35.92129146237737,
+    "adx14": 17.520224171892327,
+    "adx_pos": 18.846016350717793,
+    "adx_neg": 25.596658574368742,
+    "bb_high": 1252.9305764340377,
+    "bb_low": 1063.489423565962,
+    "bb_mid": 1158.2099999999998,
+    "vwap20": 1171.700737162218
   },
   "flags": {
     "flags": {
@@ -34,14 +34,14 @@
       "price_above_bb_mid": false
     },
     "flags_detail": {
-      "price_above_ema20": "Close 1,093.90 vs EMA20 1,142.00",
-      "ema20_above_ema50": "EMA20 1,142.00 vs EMA50 1,123.38",
-      "ema50_above_ema200": "EMA50 1,123.38 vs EMA200 1,151.29",
-      "rsi_above_50": "RSI(14) 41.68 vs 50",
-      "macd_bullish": "MACD 3.86 vs signal 15.10",
-      "adx_trending_up": "ADX(14) 17.70 vs 20, +DI 20.02 vs -DI 27.20",
-      "price_above_vwap20": "Close 1,093.90 vs 20d VWAP 1,169.34",
-      "price_above_bb_mid": "Close 1,093.90 vs BB mid 1,156.47"
+      "price_above_ema20": "Close 1,115.30 vs EMA20 1,139.46",
+      "ema20_above_ema50": "EMA20 1,139.46 vs EMA50 1,123.06",
+      "ema50_above_ema200": "EMA50 1,123.06 vs EMA200 1,147.94",
+      "rsi_above_50": "RSI(14) 46.08 vs 50",
+      "macd_bullish": "MACD 1.43 vs signal 12.36",
+      "adx_trending_up": "ADX(14) 17.52 vs 20, +DI 18.85 vs -DI 25.60",
+      "price_above_vwap20": "Close 1,115.30 vs 20d VWAP 1,171.70",
+      "price_above_bb_mid": "Close 1,115.30 vs BB mid 1,158.21"
     },
     "flags_on": [
       "ema20_above_ema50"
@@ -51,5 +51,5 @@
   },
   "fundamentals": null,
   "shareholding": null,
-  "updated_at": "2026-07-08T19:00:00.142981+00:00"
+  "updated_at": "2026-07-09T04:48:25.816470+00:00"
 }

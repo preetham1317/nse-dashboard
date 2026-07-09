@@ -3,54 +3,58 @@
   "name": "JK Cement",
   "sector": "Cement",
   "indicators": {
-    "date": "2026-07-08",
-    "close": 5332.0,
-    "prev_close": 5395.0,
-    "change_pct": -1.1677479147358667,
-    "ema20": 5372.534111533317,
-    "ema50": 5351.286953508535,
-    "ema200": 5547.257883544583,
-    "rsi14": 48.97215831764559,
-    "macd": 50.38173231730525,
-    "macd_signal": 50.796949069250076,
-    "atr14": 181.31790098288326,
-    "adx14": 13.819039275807281,
-    "adx_pos": 21.679329179902687,
-    "adx_neg": 25.79426263196094,
-    "bb_high": 5842.311216606744,
-    "bb_low": 4840.938783393256,
-    "bb_mid": 5341.625,
-    "vwap20": 5315.768923291994
+    "date": "2026-07-09",
+    "close": 5470.0,
+    "prev_close": 5332.0,
+    "change_pct": 2.5881470367591897,
+    "ema20": 5381.81657710157,
+    "ema50": 5355.942324407077,
+    "ema200": 5546.086607759133,
+    "rsi14": 54.543621164216546,
+    "macd": 51.65320432796943,
+    "macd_signal": 50.96820012168531,
+    "atr14": 178.4023366258817,
+    "adx14": 13.170304550233427,
+    "adx_pos": 22.141388410869688,
+    "adx_neg": 24.34325108778181,
+    "bb_high": 5815.085434979679,
+    "bb_low": 4933.664565020321,
+    "bb_mid": 5374.375,
+    "vwap20": 5345.033257083536
   },
   "flags": {
     "flags": {
-      "price_above_ema20": false,
+      "price_above_ema20": true,
       "ema20_above_ema50": true,
       "ema50_above_ema200": false,
-      "rsi_above_50": false,
-      "macd_bullish": false,
+      "rsi_above_50": true,
+      "macd_bullish": true,
       "adx_trending_up": false,
       "price_above_vwap20": true,
-      "price_above_bb_mid": false
+      "price_above_bb_mid": true
     },
     "flags_detail": {
-      "price_above_ema20": "Close 5,332.00 vs EMA20 5,372.53",
-      "ema20_above_ema50": "EMA20 5,372.53 vs EMA50 5,351.29",
-      "ema50_above_ema200": "EMA50 5,351.29 vs EMA200 5,547.26",
-      "rsi_above_50": "RSI(14) 48.97 vs 50",
-      "macd_bullish": "MACD 50.38 vs signal 50.80",
-      "adx_trending_up": "ADX(14) 13.82 vs 20, +DI 21.68 vs -DI 25.79",
-      "price_above_vwap20": "Close 5,332.00 vs 20d VWAP 5,315.77",
-      "price_above_bb_mid": "Close 5,332.00 vs BB mid 5,341.62"
+      "price_above_ema20": "Close 5,470.00 vs EMA20 5,381.82",
+      "ema20_above_ema50": "EMA20 5,381.82 vs EMA50 5,355.94",
+      "ema50_above_ema200": "EMA50 5,355.94 vs EMA200 5,546.09",
+      "rsi_above_50": "RSI(14) 54.54 vs 50",
+      "macd_bullish": "MACD 51.65 vs signal 50.97",
+      "adx_trending_up": "ADX(14) 13.17 vs 20, +DI 22.14 vs -DI 24.34",
+      "price_above_vwap20": "Close 5,470.00 vs 20d VWAP 5,345.03",
+      "price_above_bb_mid": "Close 5,470.00 vs BB mid 5,374.38"
     },
     "flags_on": [
+      "price_above_ema20",
       "ema20_above_ema50",
-      "price_above_vwap20"
+      "rsi_above_50",
+      "macd_bullish",
+      "price_above_vwap20",
+      "price_above_bb_mid"
     ],
-    "flag_count": 2,
+    "flag_count": 6,
     "flag_total": 8
   },
   "fundamentals": null,
   "shareholding": null,
-  "updated_at": "2026-07-08T18:59:28.501695+00:00"
+  "updated_at": "2026-07-09T04:47:56.836019+00:00"
 }

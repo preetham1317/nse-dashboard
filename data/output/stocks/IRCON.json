@@ -3,24 +3,24 @@
   "name": "Ircon International",
   "sector": "Railways",
   "indicators": {
-    "date": "2026-07-08",
-    "close": 129.0,
-    "prev_close": 133.13,
-    "change_pct": -3.1022309021257386,
-    "ema20": 134.9036728349242,
-    "ema50": 138.0819889534146,
-    "ema200": 149.92157408596077,
-    "rsi14": 36.650284642482696,
-    "macd": -1.9551302498946086,
-    "macd_signal": -1.7392435107868283,
-    "atr14": 3.740734000154192,
-    "adx14": 11.340121583035128,
-    "adx_pos": 19.91771312218928,
-    "adx_neg": 29.542598343341332,
-    "bb_high": 141.29696740164286,
-    "bb_low": 128.78103259835711,
-    "bb_mid": 135.039,
-    "vwap20": 135.94310464877918
+    "date": "2026-07-09",
+    "close": 130.5,
+    "prev_close": 129.0,
+    "change_pct": 1.1627906976744187,
+    "ema20": 134.48427542207438,
+    "ema50": 137.78466760451883,
+    "ema200": 149.83724735013777,
+    "rsi14": 40.16803859534863,
+    "macd": -2.0683411264773213,
+    "macd_signal": -1.8050630341118068,
+    "atr14": 3.6656815715782995,
+    "adx14": 11.92009974047322,
+    "adx_pos": 18.873692729039977,
+    "adx_neg": 27.994073427016176,
+    "bb_high": 141.42474342963476,
+    "bb_low": 128.40225657036524,
+    "bb_mid": 134.9135,
+    "vwap20": 135.93621222600208
   },
   "flags": {
     "flags": {
@@ -34,14 +34,14 @@
       "price_above_bb_mid": false
     },
     "flags_detail": {
-      "price_above_ema20": "Close 129.00 vs EMA20 134.90",
-      "ema20_above_ema50": "EMA20 134.90 vs EMA50 138.08",
-      "ema50_above_ema200": "EMA50 138.08 vs EMA200 149.92",
-      "rsi_above_50": "RSI(14) 36.65 vs 50",
-      "macd_bullish": "MACD -1.96 vs signal -1.74",
-      "adx_trending_up": "ADX(14) 11.34 vs 20, +DI 19.92 vs -DI 29.54",
-      "price_above_vwap20": "Close 129.00 vs 20d VWAP 135.94",
-      "price_above_bb_mid": "Close 129.00 vs BB mid 135.04"
+      "price_above_ema20": "Close 130.50 vs EMA20 134.48",
+      "ema20_above_ema50": "EMA20 134.48 vs EMA50 137.78",
+      "ema50_above_ema200": "EMA50 137.78 vs EMA200 149.84",
+      "rsi_above_50": "RSI(14) 40.17 vs 50",
+      "macd_bullish": "MACD -2.07 vs signal -1.81",
+      "adx_trending_up": "ADX(14) 11.92 vs 20, +DI 18.87 vs -DI 27.99",
+      "price_above_vwap20": "Close 130.50 vs 20d VWAP 135.94",
+      "price_above_bb_mid": "Close 130.50 vs BB mid 134.91"
     },
     "flags_on": [],
     "flag_count": 0,
@@ -49,5 +49,5 @@
   },
   "fundamentals": null,
   "shareholding": null,
-  "updated_at": "2026-07-08T18:59:20.692171+00:00"
+  "updated_at": "2026-07-09T04:47:51.475315+00:00"
 }

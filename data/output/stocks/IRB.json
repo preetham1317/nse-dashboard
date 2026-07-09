@@ -3,24 +3,24 @@
   "name": "IRB Infrastructure Developers",
   "sector": "Infrastructure",
   "indicators": {
-    "date": "2026-07-08",
-    "close": 19.97,
-    "prev_close": 20.48,
-    "change_pct": -2.4902343750000075,
-    "ema20": 21.057407379542532,
-    "ema50": 21.16181468144317,
-    "ema200": 21.460088967922328,
-    "rsi14": 33.946410999800804,
-    "macd": -0.15478274361458944,
-    "macd_signal": -0.027216690550129513,
-    "atr14": 0.5627191136151259,
-    "adx14": 16.890050068803145,
-    "adx_pos": 16.997093869629946,
-    "adx_neg": 27.746987181772088,
-    "bb_high": 22.043802178519584,
-    "bb_low": 20.157197821480416,
-    "bb_mid": 21.1005,
-    "vwap20": 21.14581142854054
+    "date": "2026-07-09",
+    "close": 20.47,
+    "prev_close": 19.97,
+    "change_pct": 2.5037556334501754,
+    "ema20": 21.00146381958611,
+    "ema50": 21.134685698391074,
+    "ema200": 21.459708880537196,
+    "rsi14": 42.135304269348886,
+    "macd": -0.18115421632324313,
+    "macd_signal": -0.058004195721004494,
+    "atr14": 0.5639534626503097,
+    "adx14": 17.011520931090143,
+    "adx_pos": 17.648323585520735,
+    "adx_neg": 25.70866644084151,
+    "bb_high": 22.047686263983973,
+    "bb_low": 20.148313736016025,
+    "bb_mid": 21.098,
+    "vwap20": 21.149612303571647
   },
   "flags": {
     "flags": {
@@ -34,14 +34,14 @@
       "price_above_bb_mid": false
     },
     "flags_detail": {
-      "price_above_ema20": "Close 19.97 vs EMA20 21.06",
-      "ema20_above_ema50": "EMA20 21.06 vs EMA50 21.16",
-      "ema50_above_ema200": "EMA50 21.16 vs EMA200 21.46",
-      "rsi_above_50": "RSI(14) 33.95 vs 50",
-      "macd_bullish": "MACD -0.15 vs signal -0.03",
-      "adx_trending_up": "ADX(14) 16.89 vs 20, +DI 17.00 vs -DI 27.75",
-      "price_above_vwap20": "Close 19.97 vs 20d VWAP 21.15",
-      "price_above_bb_mid": "Close 19.97 vs BB mid 21.10"
+      "price_above_ema20": "Close 20.47 vs EMA20 21.00",
+      "ema20_above_ema50": "EMA20 21.00 vs EMA50 21.13",
+      "ema50_above_ema200": "EMA50 21.13 vs EMA200 21.46",
+      "rsi_above_50": "RSI(14) 42.14 vs 50",
+      "macd_bullish": "MACD -0.18 vs signal -0.06",
+      "adx_trending_up": "ADX(14) 17.01 vs 20, +DI 17.65 vs -DI 25.71",
+      "price_above_vwap20": "Close 20.47 vs 20d VWAP 21.15",
+      "price_above_bb_mid": "Close 20.47 vs BB mid 21.10"
     },
     "flags_on": [],
     "flag_count": 0,
@@ -49,5 +49,5 @@
   },
   "fundamentals": null,
   "shareholding": null,
-  "updated_at": "2026-07-08T18:59:19.376995+00:00"
+  "updated_at": "2026-07-09T04:47:50.148332+00:00"
 }

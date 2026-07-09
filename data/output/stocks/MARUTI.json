@@ -3,24 +3,24 @@
   "name": "Maruti Suzuki",
   "sector": "Auto",
   "indicators": {
-    "date": "2026-07-08",
-    "close": 13951.0,
-    "prev_close": 14538.0,
-    "change_pct": -4.037694318338148,
-    "ema20": 13840.665610519454,
-    "ema50": 13604.471339403164,
-    "ema200": 13977.709243814697,
-    "rsi14": 54.19534290139567,
-    "macd": 283.8320105077655,
-    "macd_signal": 222.67939080071375,
-    "atr14": 343.6997968337033,
-    "adx14": 24.003939097500727,
-    "adx_pos": 26.025626806768503,
-    "adx_neg": 20.580899746772225,
-    "bb_high": 14672.284044720656,
-    "bb_low": 12826.515955279343,
-    "bb_mid": 13749.4,
-    "vwap20": 13805.44245639039
+    "date": "2026-07-09",
+    "close": 13869.0,
+    "prev_close": 13951.0,
+    "change_pct": -0.5877714859149882,
+    "ema20": 13843.364123803303,
+    "ema50": 13614.844053112758,
+    "ema200": 13967.58223514631,
+    "rsi14": 52.54566592666632,
+    "macd": 250.0749653206749,
+    "macd_signal": 228.15850572022325,
+    "atr14": 333.006954201043,
+    "adx14": 22.984559593589125,
+    "adx_pos": 24.942643932720152,
+    "adx_neg": 20.518118013681754,
+    "bb_high": 14659.105879966311,
+    "bb_low": 12919.29412003369,
+    "bb_mid": 13789.2,
+    "vwap20": 13818.854153624565
   },
   "flags": {
     "flags": {
@@ -34,14 +34,14 @@
       "price_above_bb_mid": true
     },
     "flags_detail": {
-      "price_above_ema20": "Close 13,951.00 vs EMA20 13,840.67",
-      "ema20_above_ema50": "EMA20 13,840.67 vs EMA50 13,604.47",
-      "ema50_above_ema200": "EMA50 13,604.47 vs EMA200 13,977.71",
-      "rsi_above_50": "RSI(14) 54.20 vs 50",
-      "macd_bullish": "MACD 283.83 vs signal 222.68",
-      "adx_trending_up": "ADX(14) 24.00 vs 20, +DI 26.03 vs -DI 20.58",
-      "price_above_vwap20": "Close 13,951.00 vs 20d VWAP 13,805.44",
-      "price_above_bb_mid": "Close 13,951.00 vs BB mid 13,749.40"
+      "price_above_ema20": "Close 13,869.00 vs EMA20 13,843.36",
+      "ema20_above_ema50": "EMA20 13,843.36 vs EMA50 13,614.84",
+      "ema50_above_ema200": "EMA50 13,614.84 vs EMA200 13,967.58",
+      "rsi_above_50": "RSI(14) 52.55 vs 50",
+      "macd_bullish": "MACD 250.07 vs signal 228.16",
+      "adx_trending_up": "ADX(14) 22.98 vs 20, +DI 24.94 vs -DI 20.52",
+      "price_above_vwap20": "Close 13,869.00 vs 20d VWAP 13,818.85",
+      "price_above_bb_mid": "Close 13,869.00 vs BB mid 13,789.20"
     },
     "flags_on": [
       "price_above_ema20",
@@ -57,5 +57,5 @@
   },
   "fundamentals": null,
   "shareholding": null,
-  "updated_at": "2026-07-08T18:59:54.974340+00:00"
+  "updated_at": "2026-07-09T04:48:20.536058+00:00"
 }

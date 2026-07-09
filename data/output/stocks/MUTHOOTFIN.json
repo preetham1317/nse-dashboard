@@ -3,24 +3,24 @@
   "name": "Muthoot Finance",
   "sector": "NBFC",
   "indicators": {
-    "date": "2026-07-08",
-    "close": 3083.3,
-    "prev_close": 3124.5,
-    "change_pct": -1.3186109777564352,
-    "ema20": 3093.779965983399,
-    "ema50": 3197.991544092648,
-    "ema200": 3246.4954452630946,
-    "rsi14": 47.52757302400686,
-    "macd": -42.76928765434377,
-    "macd_signal": -57.645684351533426,
-    "atr14": 99.46323101664404,
-    "adx14": 18.95324229291814,
-    "adx_pos": 20.602471325016293,
-    "adx_neg": 24.444472965784836,
-    "bb_high": 3268.4254073632756,
-    "bb_low": 2874.7345926367243,
-    "bb_mid": 3071.58,
-    "vwap20": 3051.965836643305
+    "date": "2026-07-09",
+    "close": 3045.2,
+    "prev_close": 3083.3,
+    "change_pct": -1.23568903447606,
+    "ema20": 3089.1533025564104,
+    "ema50": 3191.9998679957534,
+    "ema200": 3245.899029813499,
+    "rsi14": 45.149316302188446,
+    "macd": -41.78571564672984,
+    "macd_signal": -54.47369061298606,
+    "atr14": 97.86585737302508,
+    "adx14": 18.452685236184355,
+    "adx_pos": 19.443121620740655,
+    "adx_neg": 24.71841290237703,
+    "bb_high": 3259.7379937955893,
+    "bb_low": 2898.062006204411,
+    "bb_mid": 3078.9,
+    "vwap20": 3060.889864676734
   },
   "flags": {
     "flags": {
@@ -30,28 +30,26 @@
       "rsi_above_50": false,
       "macd_bullish": true,
       "adx_trending_up": false,
-      "price_above_vwap20": true,
-      "price_above_bb_mid": true
+      "price_above_vwap20": false,
+      "price_above_bb_mid": false
     },
     "flags_detail": {
-      "price_above_ema20": "Close 3,083.30 vs EMA20 3,093.78",
-      "ema20_above_ema50": "EMA20 3,093.78 vs EMA50 3,197.99",
-      "ema50_above_ema200": "EMA50 3,197.99 vs EMA200 3,246.50",
-      "rsi_above_50": "RSI(14) 47.53 vs 50",
-      "macd_bullish": "MACD -42.77 vs signal -57.65",
-      "adx_trending_up": "ADX(14) 18.95 vs 20, +DI 20.60 vs -DI 24.44",
-      "price_above_vwap20": "Close 3,083.30 vs 20d VWAP 3,051.97",
-      "price_above_bb_mid": "Close 3,083.30 vs BB mid 3,071.58"
+      "price_above_ema20": "Close 3,045.20 vs EMA20 3,089.15",
+      "ema20_above_ema50": "EMA20 3,089.15 vs EMA50 3,192.00",
+      "ema50_above_ema200": "EMA50 3,192.00 vs EMA200 3,245.90",
+      "rsi_above_50": "RSI(14) 45.15 vs 50",
+      "macd_bullish": "MACD -41.79 vs signal -54.47",
+      "adx_trending_up": "ADX(14) 18.45 vs 20, +DI 19.44 vs -DI 24.72",
+      "price_above_vwap20": "Close 3,045.20 vs 20d VWAP 3,060.89",
+      "price_above_bb_mid": "Close 3,045.20 vs BB mid 3,078.90"
     },
     "flags_on": [
-      "macd_bullish",
-      "price_above_vwap20",
-      "price_above_bb_mid"
+      "macd_bullish"
     ],
-    "flag_count": 3,
+    "flag_count": 1,
     "flag_total": 8
   },
   "fundamentals": null,
   "shareholding": null,
-  "updated_at": "2026-07-08T19:00:04.060558+00:00"
+  "updated_at": "2026-07-09T04:48:29.167487+00:00"
 }

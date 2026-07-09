@@ -3,24 +3,24 @@
   "name": "Godrej Properties",
   "sector": "Realty",
   "indicators": {
-    "date": "2026-07-08",
-    "close": 1979.5,
-    "prev_close": 2043.1,
-    "change_pct": -3.1129166462728164,
-    "ema20": 1880.63336215162,
-    "ema50": 1809.1347962822952,
-    "ema200": 1859.8246979148823,
-    "rsi14": 65.08588557037902,
-    "macd": 72.34777096710923,
-    "macd_signal": 51.02129466577078,
-    "atr14": 57.61023576679151,
-    "adx14": 30.257125592005572,
-    "adx_pos": 34.9026961376883,
-    "adx_neg": 13.710238664350308,
-    "bb_high": 2082.720790920307,
-    "bb_low": 1602.8992090796935,
-    "bb_mid": 1842.8100000000002,
-    "vwap20": 1875.0155950007443
+    "date": "2026-07-09",
+    "close": 2025.6,
+    "prev_close": 1979.5,
+    "change_pct": 2.3288709270017636,
+    "ema20": 1894.4397086133692,
+    "ema50": 1817.623550959792,
+    "ema200": 1860.7496302818263,
+    "rsi14": 68.56194441718111,
+    "macd": 74.67089603854379,
+    "macd_signal": 55.75121494156852,
+    "atr14": 57.81664749884269,
+    "adx14": 31.20977924628142,
+    "adx_pos": 32.29394044492689,
+    "adx_neg": 12.68548507507562,
+    "bb_high": 2095.807970595796,
+    "bb_low": 1628.2220294042042,
+    "bb_mid": 1862.015,
+    "vwap20": 1882.076773976755
   },
   "flags": {
     "flags": {
@@ -34,14 +34,14 @@
       "price_above_bb_mid": true
     },
     "flags_detail": {
-      "price_above_ema20": "Close 1,979.50 vs EMA20 1,880.63",
-      "ema20_above_ema50": "EMA20 1,880.63 vs EMA50 1,809.13",
-      "ema50_above_ema200": "EMA50 1,809.13 vs EMA200 1,859.82",
-      "rsi_above_50": "RSI(14) 65.09 vs 50",
-      "macd_bullish": "MACD 72.35 vs signal 51.02",
-      "adx_trending_up": "ADX(14) 30.26 vs 20, +DI 34.90 vs -DI 13.71",
-      "price_above_vwap20": "Close 1,979.50 vs 20d VWAP 1,875.02",
-      "price_above_bb_mid": "Close 1,979.50 vs BB mid 1,842.81"
+      "price_above_ema20": "Close 2,025.60 vs EMA20 1,894.44",
+      "ema20_above_ema50": "EMA20 1,894.44 vs EMA50 1,817.62",
+      "ema50_above_ema200": "EMA50 1,817.62 vs EMA200 1,860.75",
+      "rsi_above_50": "RSI(14) 68.56 vs 50",
+      "macd_bullish": "MACD 74.67 vs signal 55.75",
+      "adx_trending_up": "ADX(14) 31.21 vs 20, +DI 32.29 vs -DI 12.69",
+      "price_above_vwap20": "Close 2,025.60 vs 20d VWAP 1,882.08",
+      "price_above_bb_mid": "Close 2,025.60 vs BB mid 1,862.02"
     },
     "flags_on": [
       "price_above_ema20",
@@ -57,5 +57,5 @@
   },
   "fundamentals": null,
   "shareholding": null,
-  "updated_at": "2026-07-08T18:58:53.455598+00:00"
+  "updated_at": "2026-07-09T04:47:31.229863+00:00"
 }

@@ -3,24 +3,24 @@
   "name": "NMDC Ltd",
   "sector": "Metals",
   "indicators": {
-    "date": "2026-07-08",
-    "close": 83.74,
-    "prev_close": 84.35,
-    "change_pct": -0.7231772377000586,
-    "ema20": 86.41974712593797,
-    "ema50": 87.15910984917629,
-    "ema200": 81.97115165797543,
-    "rsi14": 37.284770082030995,
-    "macd": -1.3782697285925138,
-    "macd_signal": -1.1257581852074146,
-    "atr14": 2.143871929390384,
-    "adx14": 23.606193973145277,
-    "adx_pos": 13.379918406488029,
-    "adx_neg": 26.926985800275123,
-    "bb_high": 90.49825515488365,
-    "bb_low": 82.75074484511634,
-    "bb_mid": 86.6245,
-    "vwap20": 86.6090560237073
+    "date": "2026-07-09",
+    "close": 84.41,
+    "prev_close": 83.74,
+    "change_pct": 0.800095533795082,
+    "ema20": 86.22834263775346,
+    "ema50": 87.05130463316327,
+    "ema200": 82.02383343806669,
+    "rsi14": 40.47219233304055,
+    "macd": -1.362272724271449,
+    "macd_signal": -1.1730610930689587,
+    "atr14": 2.1043096487237962,
+    "adx14": 24.399609001019787,
+    "adx_pos": 12.657792530195719,
+    "adx_neg": 26.118647832010634,
+    "bb_high": 90.31570883077028,
+    "bb_low": 82.52929116922972,
+    "bb_mid": 86.4225,
+    "vwap20": 86.44542274131996
   },
   "flags": {
     "flags": {
@@ -34,14 +34,14 @@
       "price_above_bb_mid": false
     },
     "flags_detail": {
-      "price_above_ema20": "Close 83.74 vs EMA20 86.42",
-      "ema20_above_ema50": "EMA20 86.42 vs EMA50 87.16",
-      "ema50_above_ema200": "EMA50 87.16 vs EMA200 81.97",
-      "rsi_above_50": "RSI(14) 37.28 vs 50",
-      "macd_bullish": "MACD -1.38 vs signal -1.13",
-      "adx_trending_up": "ADX(14) 23.61 vs 20, +DI 13.38 vs -DI 26.93",
-      "price_above_vwap20": "Close 83.74 vs 20d VWAP 86.61",
-      "price_above_bb_mid": "Close 83.74 vs BB mid 86.62"
+      "price_above_ema20": "Close 84.41 vs EMA20 86.23",
+      "ema20_above_ema50": "EMA20 86.23 vs EMA50 87.05",
+      "ema50_above_ema200": "EMA50 87.05 vs EMA200 82.02",
+      "rsi_above_50": "RSI(14) 40.47 vs 50",
+      "macd_bullish": "MACD -1.36 vs signal -1.17",
+      "adx_trending_up": "ADX(14) 24.40 vs 20, +DI 12.66 vs -DI 26.12",
+      "price_above_vwap20": "Close 84.41 vs 20d VWAP 86.45",
+      "price_above_bb_mid": "Close 84.41 vs BB mid 86.42"
     },
     "flags_on": [
       "ema50_above_ema200"
@@ -51,5 +51,5 @@
   },
   "fundamentals": null,
   "shareholding": null,
-  "updated_at": "2026-07-08T19:00:40.729973+00:00"
+  "updated_at": "2026-07-09T04:48:35.827187+00:00"
 }

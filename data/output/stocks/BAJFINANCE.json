@@ -3,24 +3,24 @@
   "name": "Bajaj Finance",
   "sector": "NBFC",
   "indicators": {
-    "date": "2026-07-08",
-    "close": 1010.4,
-    "prev_close": 1042.5,
-    "change_pct": -3.079136690647484,
-    "ema20": 983.6262286434198,
-    "ema50": 952.0479649768248,
-    "ema200": 946.5534155002762,
-    "rsi14": 61.47744351999279,
-    "macd": 29.363892978864214,
-    "macd_signal": 24.599283100958356,
-    "atr14": 25.40595249837026,
-    "adx14": 34.2932284961198,
-    "adx_pos": 31.284229477391523,
-    "adx_neg": 14.382497729224236,
-    "bb_high": 1065.2629424813667,
-    "bb_low": 883.6870575186334,
-    "bb_mid": 974.475,
-    "vwap20": 975.0833054391386
+    "date": "2026-07-09",
+    "close": 999.5,
+    "prev_close": 1010.4,
+    "change_pct": -1.078780680918446,
+    "ema20": 985.1380163916651,
+    "ema50": 953.9087866571367,
+    "ema200": 946.6800744470744,
+    "rsi14": 57.72708294559919,
+    "macd": 26.933871190302284,
+    "macd_signal": 25.06620071951348,
+    "atr14": 24.562670177173366,
+    "adx14": 34.035559633168134,
+    "adx_pos": 30.046970086654984,
+    "adx_neg": 15.936534307106989,
+    "bb_high": 1061.4915439264953,
+    "bb_low": 898.9984560735046,
+    "bb_mid": 980.2449999999999,
+    "vwap20": 978.8965787389175
   },
   "flags": {
     "flags": {
@@ -34,14 +34,14 @@
       "price_above_bb_mid": true
     },
     "flags_detail": {
-      "price_above_ema20": "Close 1,010.40 vs EMA20 983.63",
-      "ema20_above_ema50": "EMA20 983.63 vs EMA50 952.05",
-      "ema50_above_ema200": "EMA50 952.05 vs EMA200 946.55",
-      "rsi_above_50": "RSI(14) 61.48 vs 50",
-      "macd_bullish": "MACD 29.36 vs signal 24.60",
-      "adx_trending_up": "ADX(14) 34.29 vs 20, +DI 31.28 vs -DI 14.38",
-      "price_above_vwap20": "Close 1,010.40 vs 20d VWAP 975.08",
-      "price_above_bb_mid": "Close 1,010.40 vs BB mid 974.48"
+      "price_above_ema20": "Close 999.50 vs EMA20 985.14",
+      "ema20_above_ema50": "EMA20 985.14 vs EMA50 953.91",
+      "ema50_above_ema200": "EMA50 953.91 vs EMA200 946.68",
+      "rsi_above_50": "RSI(14) 57.73 vs 50",
+      "macd_bullish": "MACD 26.93 vs signal 25.07",
+      "adx_trending_up": "ADX(14) 34.04 vs 20, +DI 30.05 vs -DI 15.94",
+      "price_above_vwap20": "Close 999.50 vs 20d VWAP 978.90",
+      "price_above_bb_mid": "Close 999.50 vs BB mid 980.24"
     },
     "flags_on": [
       "price_above_ema20",
@@ -58,5 +58,5 @@
   },
   "fundamentals": null,
   "shareholding": null,
-  "updated_at": "2026-07-08T18:57:56.324889+00:00"
+  "updated_at": "2026-07-09T04:46:52.016582+00:00"
 }

@@ -3,24 +3,24 @@
   "name": "Macrotech Developers",
   "sector": "Realty",
   "indicators": {
-    "date": "2026-07-08",
-    "close": 1115.1,
-    "prev_close": 1102.55,
-    "change_pct": 1.1382703732257,
-    "ema20": 986.2563965744534,
-    "ema50": 938.5141549419893,
-    "ema200": 1005.3114742508039,
-    "rsi14": 79.01133336609439,
-    "macd": 50.26259866946077,
-    "macd_signal": 30.94707079265133,
-    "atr14": 36.085544465438026,
-    "adx14": 33.76358990629823,
-    "adx_pos": 50.748506337032794,
-    "adx_neg": 8.995777668347413,
-    "bb_high": 1109.1367756920286,
-    "bb_low": 814.0282243079716,
-    "bb_mid": 961.5825000000001,
-    "vwap20": 998.9969883089361
+    "date": "2026-07-09",
+    "close": 1145.65,
+    "prev_close": 1115.1,
+    "change_pct": 2.7396646040714003,
+    "ema20": 1001.4367397578401,
+    "ema50": 946.6372638550245,
+    "ema200": 1007.9770644063774,
+    "rsi14": 81.26583786293759,
+    "macd": 56.53898913746707,
+    "macd_signal": 36.06545445943737,
+    "atr14": 37.079434145768914,
+    "adx14": 36.34374275636831,
+    "adx_pos": 45.86049577906054,
+    "adx_neg": 8.129319533104038,
+    "bb_high": 1136.2658570070566,
+    "bb_low": 815.2641429929434,
+    "bb_mid": 975.7650000000001,
+    "vwap20": 1003.7674368254488
   },
   "flags": {
     "flags": {
@@ -34,14 +34,14 @@
       "price_above_bb_mid": true
     },
     "flags_detail": {
-      "price_above_ema20": "Close 1,115.10 vs EMA20 986.26",
-      "ema20_above_ema50": "EMA20 986.26 vs EMA50 938.51",
-      "ema50_above_ema200": "EMA50 938.51 vs EMA200 1,005.31",
-      "rsi_above_50": "RSI(14) 79.01 vs 50",
-      "macd_bullish": "MACD 50.26 vs signal 30.95",
-      "adx_trending_up": "ADX(14) 33.76 vs 20, +DI 50.75 vs -DI 9.00",
-      "price_above_vwap20": "Close 1,115.10 vs 20d VWAP 999.00",
-      "price_above_bb_mid": "Close 1,115.10 vs BB mid 961.58"
+      "price_above_ema20": "Close 1,145.65 vs EMA20 1,001.44",
+      "ema20_above_ema50": "EMA20 1,001.44 vs EMA50 946.64",
+      "ema50_above_ema200": "EMA50 946.64 vs EMA200 1,007.98",
+      "rsi_above_50": "RSI(14) 81.27 vs 50",
+      "macd_bullish": "MACD 56.54 vs signal 36.07",
+      "adx_trending_up": "ADX(14) 36.34 vs 20, +DI 45.86 vs -DI 8.13",
+      "price_above_vwap20": "Close 1,145.65 vs 20d VWAP 1,003.77",
+      "price_above_bb_mid": "Close 1,145.65 vs BB mid 975.77"
     },
     "flags_on": [
       "price_above_ema20",
@@ -57,5 +57,5 @@
   },
   "fundamentals": null,
   "shareholding": null,
-  "updated_at": "2026-07-08T18:59:44.501085+00:00"
+  "updated_at": "2026-07-09T04:48:11.693113+00:00"
 }

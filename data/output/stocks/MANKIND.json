@@ -3,24 +3,24 @@
   "name": "Mankind Pharma",
   "sector": "Pharma",
   "indicators": {
-    "date": "2026-07-08",
-    "close": 2491.2,
-    "prev_close": 2527.4,
-    "change_pct": -1.432301970404379,
-    "ema20": 2471.26905819309,
-    "ema50": 2399.291954349205,
-    "ema200": 2314.791830095579,
-    "rsi14": 54.77633892926215,
-    "macd": 37.75502521259932,
-    "macd_signal": 35.97052741894147,
-    "atr14": 68.19616573845697,
-    "adx14": 31.22583740209729,
-    "adx_pos": 24.487303713488878,
-    "adx_neg": 13.924895606813198,
-    "bb_high": 2592.19542706943,
-    "bb_low": 2323.85457293057,
-    "bb_mid": 2458.025,
-    "vwap20": 2475.163884066391
+    "date": "2026-07-09",
+    "close": 2548.0,
+    "prev_close": 2491.2,
+    "change_pct": 2.280025690430322,
+    "ema20": 2478.576766936611,
+    "ema50": 2405.1241140057928,
+    "ema200": 2321.5591993701883,
+    "rsi14": 60.45781248409883,
+    "macd": 39.28983168003515,
+    "macd_signal": 36.63438826353175,
+    "atr14": 67.45358247197535,
+    "adx14": 30.959530156359346,
+    "adx_pos": 22.98853109152488,
+    "adx_neg": 13.07260690745569,
+    "bb_high": 2600.7290749511126,
+    "bb_low": 2332.500925048887,
+    "bb_mid": 2466.615,
+    "vwap20": 2479.4523311320518
   },
   "flags": {
     "flags": {
@@ -34,14 +34,14 @@
       "price_above_bb_mid": true
     },
     "flags_detail": {
-      "price_above_ema20": "Close 2,491.20 vs EMA20 2,471.27",
-      "ema20_above_ema50": "EMA20 2,471.27 vs EMA50 2,399.29",
-      "ema50_above_ema200": "EMA50 2,399.29 vs EMA200 2,314.79",
-      "rsi_above_50": "RSI(14) 54.78 vs 50",
-      "macd_bullish": "MACD 37.76 vs signal 35.97",
-      "adx_trending_up": "ADX(14) 31.23 vs 20, +DI 24.49 vs -DI 13.92",
-      "price_above_vwap20": "Close 2,491.20 vs 20d VWAP 2,475.16",
-      "price_above_bb_mid": "Close 2,491.20 vs BB mid 2,458.03"
+      "price_above_ema20": "Close 2,548.00 vs EMA20 2,478.58",
+      "ema20_above_ema50": "EMA20 2,478.58 vs EMA50 2,405.12",
+      "ema50_above_ema200": "EMA50 2,405.12 vs EMA200 2,321.56",
+      "rsi_above_50": "RSI(14) 60.46 vs 50",
+      "macd_bullish": "MACD 39.29 vs signal 36.63",
+      "adx_trending_up": "ADX(14) 30.96 vs 20, +DI 22.99 vs -DI 13.07",
+      "price_above_vwap20": "Close 2,548.00 vs 20d VWAP 2,479.45",
+      "price_above_bb_mid": "Close 2,548.00 vs BB mid 2,466.61"
     },
     "flags_on": [
       "price_above_ema20",
@@ -58,5 +58,5 @@
   },
   "fundamentals": null,
   "shareholding": null,
-  "updated_at": "2026-07-08T18:59:51.074810+00:00"
+  "updated_at": "2026-07-09T04:48:17.791510+00:00"
 }

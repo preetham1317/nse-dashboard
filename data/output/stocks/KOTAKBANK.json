@@ -3,24 +3,24 @@
   "name": "Kotak Mahindra Bank",
   "sector": "Banking",
   "indicators": {
-    "date": "2026-07-08",
-    "close": 370.1,
-    "prev_close": 381.7,
-    "change_pct": -3.03903589206182,
-    "ema20": 391.6880067477767,
-    "ema50": 390.00010551838125,
-    "ema200": 400.37598562855055,
-    "rsi14": 33.921312637737486,
-    "macd": -1.3289964421978766,
-    "macd_signal": 2.3985061941551447,
-    "atr14": 8.760485107272943,
-    "adx14": 19.487395880386597,
-    "adx_pos": 19.370436080210176,
-    "adx_neg": 35.52191218560256,
-    "bb_high": 416.76364815228806,
-    "bb_low": 377.35135184771195,
-    "bb_mid": 397.0575,
-    "vwap20": 394.93804661097096
+    "date": "2026-07-09",
+    "close": 372.3,
+    "prev_close": 370.1,
+    "change_pct": 0.5944339367738418,
+    "ema20": 389.8415299146551,
+    "ema50": 389.3059869476044,
+    "ema200": 400.1269315287068,
+    "rsi14": 36.04573704861658,
+    "macd": -2.6539565144391872,
+    "macd_signal": 1.388013652384353,
+    "atr14": 8.341879028249444,
+    "adx14": 20.19714699619907,
+    "adx_pos": 18.88943564161881,
+    "adx_neg": 34.63984348733389,
+    "bb_high": 418.45703075213714,
+    "bb_low": 374.07796924786294,
+    "bb_mid": 396.26750000000004,
+    "vwap20": 395.37771134100154
   },
   "flags": {
     "flags": {
@@ -34,14 +34,14 @@
       "price_above_bb_mid": false
     },
     "flags_detail": {
-      "price_above_ema20": "Close 370.10 vs EMA20 391.69",
-      "ema20_above_ema50": "EMA20 391.69 vs EMA50 390.00",
-      "ema50_above_ema200": "EMA50 390.00 vs EMA200 400.38",
-      "rsi_above_50": "RSI(14) 33.92 vs 50",
-      "macd_bullish": "MACD -1.33 vs signal 2.40",
-      "adx_trending_up": "ADX(14) 19.49 vs 20, +DI 19.37 vs -DI 35.52",
-      "price_above_vwap20": "Close 370.10 vs 20d VWAP 394.94",
-      "price_above_bb_mid": "Close 370.10 vs BB mid 397.06"
+      "price_above_ema20": "Close 372.30 vs EMA20 389.84",
+      "ema20_above_ema50": "EMA20 389.84 vs EMA50 389.31",
+      "ema50_above_ema200": "EMA50 389.31 vs EMA200 400.13",
+      "rsi_above_50": "RSI(14) 36.05 vs 50",
+      "macd_bullish": "MACD -2.65 vs signal 1.39",
+      "adx_trending_up": "ADX(14) 20.20 vs 20, +DI 18.89 vs -DI 34.64",
+      "price_above_vwap20": "Close 372.30 vs 20d VWAP 395.38",
+      "price_above_bb_mid": "Close 372.30 vs BB mid 396.27"
     },
     "flags_on": [
       "ema20_above_ema50"
@@ -51,5 +51,5 @@
   },
   "fundamentals": null,
   "shareholding": null,
-  "updated_at": "2026-07-08T18:59:40.495549+00:00"
+  "updated_at": "2026-07-09T04:48:08.240243+00:00"
 }

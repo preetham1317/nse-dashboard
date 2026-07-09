@@ -3,24 +3,24 @@
   "name": "Jupiter Wagons",
   "sector": "Railways",
   "indicators": {
-    "date": "2026-07-08",
-    "close": 248.9,
-    "prev_close": 254.0,
-    "change_pct": -2.0078740157480293,
-    "ema20": 267.1795891528836,
-    "ema50": 273.75671911339634,
-    "ema200": 296.0719093548875,
-    "rsi14": 30.855969745068123,
-    "macd": -6.226743813184839,
-    "macd_signal": -4.156618237964633,
-    "atr14": 8.666708428647848,
-    "adx14": 12.974594177066601,
-    "adx_pos": 17.606980084179362,
-    "adx_neg": 30.4101499954679,
-    "bb_high": 285.96718158522424,
-    "bb_low": 251.8728184147758,
-    "bb_mid": 268.92,
-    "vwap20": 270.8138290802442
+    "date": "2026-07-09",
+    "close": 252.95,
+    "prev_close": 248.9,
+    "change_pct": 1.6271595018079483,
+    "ema20": 265.8243901859425,
+    "ema50": 272.9407859177592,
+    "ema200": 295.799116108215,
+    "rsi14": 35.69129004696799,
+    "macd": -6.568254199487853,
+    "macd_signal": -4.63894543053728,
+    "atr14": 8.533372112201901,
+    "adx14": 13.952391362535646,
+    "adx_pos": 16.60480162048559,
+    "adx_neg": 28.679222985785685,
+    "bb_high": 286.4006768582708,
+    "bb_low": 249.64932314172916,
+    "bb_mid": 268.025,
+    "vwap20": 270.5227254202967
   },
   "flags": {
     "flags": {
@@ -34,14 +34,14 @@
       "price_above_bb_mid": false
     },
     "flags_detail": {
-      "price_above_ema20": "Close 248.90 vs EMA20 267.18",
-      "ema20_above_ema50": "EMA20 267.18 vs EMA50 273.76",
-      "ema50_above_ema200": "EMA50 273.76 vs EMA200 296.07",
-      "rsi_above_50": "RSI(14) 30.86 vs 50",
-      "macd_bullish": "MACD -6.23 vs signal -4.16",
-      "adx_trending_up": "ADX(14) 12.97 vs 20, +DI 17.61 vs -DI 30.41",
-      "price_above_vwap20": "Close 248.90 vs 20d VWAP 270.81",
-      "price_above_bb_mid": "Close 248.90 vs BB mid 268.92"
+      "price_above_ema20": "Close 252.95 vs EMA20 265.82",
+      "ema20_above_ema50": "EMA20 265.82 vs EMA50 272.94",
+      "ema50_above_ema200": "EMA50 272.94 vs EMA200 295.80",
+      "rsi_above_50": "RSI(14) 35.69 vs 50",
+      "macd_bullish": "MACD -6.57 vs signal -4.64",
+      "adx_trending_up": "ADX(14) 13.95 vs 20, +DI 16.60 vs -DI 28.68",
+      "price_above_vwap20": "Close 252.95 vs 20d VWAP 270.52",
+      "price_above_bb_mid": "Close 252.95 vs BB mid 268.02"
     },
     "flags_on": [],
     "flag_count": 0,
@@ -49,5 +49,5 @@
   },
   "fundamentals": null,
   "shareholding": null,
-  "updated_at": "2026-07-08T18:59:32.521508+00:00"
+  "updated_at": "2026-07-09T04:48:00.153726+00:00"
 }

@@ -3,24 +3,24 @@
   "name": "Canara Bank",
   "sector": "Banking",
   "indicators": {
-    "date": "2026-07-08",
-    "close": 121.15,
-    "prev_close": 125.03,
-    "change_pct": -3.1032552187474973,
-    "ema20": 128.42007175192143,
-    "ema50": 131.52538855563247,
-    "ema200": 132.65877093905468,
-    "rsi14": 31.368744644137323,
-    "macd": -2.276092643972845,
-    "macd_signal": -1.4967782527047326,
-    "atr14": 3.257644999167578,
-    "adx14": 17.624361182077017,
-    "adx_pos": 15.07352422758148,
-    "adx_neg": 35.0733384319544,
-    "bb_high": 137.50735970405697,
-    "bb_low": 121.897640295943,
-    "bb_mid": 129.7025,
-    "vwap20": 129.47051769922783
+    "date": "2026-07-09",
+    "close": 123.92,
+    "prev_close": 121.15,
+    "change_pct": 2.2864217911679705,
+    "ema20": 127.9914934898338,
+    "ema50": 131.22714811881664,
+    "ema200": 132.667007012959,
+    "rsi14": 39.08270760679194,
+    "macd": -2.346132744270534,
+    "macd_signal": -1.6666491511811823,
+    "atr14": 3.232098927835435,
+    "adx14": 19.214227034257664,
+    "adx_pos": 14.107473079565741,
+    "adx_neg": 32.82551381641016,
+    "bb_high": 137.21733452030958,
+    "bb_low": 121.23366547969037,
+    "bb_mid": 129.22549999999998,
+    "vwap20": 129.02162007519996
   },
   "flags": {
     "flags": {
@@ -34,14 +34,14 @@
       "price_above_bb_mid": false
     },
     "flags_detail": {
-      "price_above_ema20": "Close 121.15 vs EMA20 128.42",
-      "ema20_above_ema50": "EMA20 128.42 vs EMA50 131.53",
-      "ema50_above_ema200": "EMA50 131.53 vs EMA200 132.66",
-      "rsi_above_50": "RSI(14) 31.37 vs 50",
-      "macd_bullish": "MACD -2.28 vs signal -1.50",
-      "adx_trending_up": "ADX(14) 17.62 vs 20, +DI 15.07 vs -DI 35.07",
-      "price_above_vwap20": "Close 121.15 vs 20d VWAP 129.47",
-      "price_above_bb_mid": "Close 121.15 vs BB mid 129.70"
+      "price_above_ema20": "Close 123.92 vs EMA20 127.99",
+      "ema20_above_ema50": "EMA20 127.99 vs EMA50 131.23",
+      "ema50_above_ema200": "EMA50 131.23 vs EMA200 132.67",
+      "rsi_above_50": "RSI(14) 39.08 vs 50",
+      "macd_bullish": "MACD -2.35 vs signal -1.67",
+      "adx_trending_up": "ADX(14) 19.21 vs 20, +DI 14.11 vs -DI 32.83",
+      "price_above_vwap20": "Close 123.92 vs 20d VWAP 129.02",
+      "price_above_bb_mid": "Close 123.92 vs BB mid 129.23"
     },
     "flags_on": [],
     "flag_count": 0,
@@ -49,5 +49,5 @@
   },
   "fundamentals": null,
   "shareholding": null,
-  "updated_at": "2026-07-08T18:58:15.018787+00:00"
+  "updated_at": "2026-07-09T04:47:04.984679+00:00"
 }
