@@ -3,24 +3,24 @@
   "name": "Godrej Consumer Products",
   "sector": "FMCG",
   "indicators": {
-    "date": "2026-07-08",
-    "close": 1075.2,
-    "prev_close": 1097.2,
-    "change_pct": -2.005103900838498,
-    "ema20": 1047.3945566843893,
-    "ema50": 1046.0480093379954,
-    "ema200": 1110.409258971388,
-    "rsi14": 58.82970197808144,
-    "macd": 14.699584459773178,
-    "macd_signal": 6.099379876116904,
-    "atr14": 26.923615067108013,
-    "adx14": 21.020780685228413,
-    "adx_pos": 29.745410721599306,
-    "adx_neg": 16.438319577998087,
-    "bb_high": 1097.4825067218453,
-    "bb_low": 979.3974932781548,
-    "bb_mid": 1038.44,
-    "vwap20": 1044.5502258118397
+    "date": "2026-07-09",
+    "close": 1087.4,
+    "prev_close": 1075.2,
+    "change_pct": 1.134672619047623,
+    "ema20": 1051.2045989049252,
+    "ema50": 1047.6697981610741,
+    "ema200": 1111.5205346162375,
+    "rsi14": 61.44393009455537,
+    "macd": 15.918278946684268,
+    "macd_signal": 8.063159687931602,
+    "atr14": 27.143356847938314,
+    "adx14": 21.577394529900435,
+    "adx_pos": 27.39713205440873,
+    "adx_neg": 15.140581398339378,
+    "bb_high": 1103.9293791969117,
+    "bb_low": 978.9306208030883,
+    "bb_mid": 1041.43,
+    "vwap20": 1046.6193169359426
   },
   "flags": {
     "flags": {
@@ -34,14 +34,14 @@
       "price_above_bb_mid": true
     },
     "flags_detail": {
-      "price_above_ema20": "Close 1,075.20 vs EMA20 1,047.39",
-      "ema20_above_ema50": "EMA20 1,047.39 vs EMA50 1,046.05",
-      "ema50_above_ema200": "EMA50 1,046.05 vs EMA200 1,110.41",
-      "rsi_above_50": "RSI(14) 58.83 vs 50",
-      "macd_bullish": "MACD 14.70 vs signal 6.10",
-      "adx_trending_up": "ADX(14) 21.02 vs 20, +DI 29.75 vs -DI 16.44",
-      "price_above_vwap20": "Close 1,075.20 vs 20d VWAP 1,044.55",
-      "price_above_bb_mid": "Close 1,075.20 vs BB mid 1,038.44"
+      "price_above_ema20": "Close 1,087.40 vs EMA20 1,051.20",
+      "ema20_above_ema50": "EMA20 1,051.20 vs EMA50 1,047.67",
+      "ema50_above_ema200": "EMA50 1,047.67 vs EMA200 1,111.52",
+      "rsi_above_50": "RSI(14) 61.44 vs 50",
+      "macd_bullish": "MACD 15.92 vs signal 8.06",
+      "adx_trending_up": "ADX(14) 21.58 vs 20, +DI 27.40 vs -DI 15.14",
+      "price_above_vwap20": "Close 1,087.40 vs 20d VWAP 1,046.62",
+      "price_above_bb_mid": "Close 1,087.40 vs BB mid 1,041.43"
     },
     "flags_on": [
       "price_above_ema20",
@@ -57,5 +57,5 @@
   },
   "fundamentals": null,
   "shareholding": null,
-  "updated_at": "2026-07-08T18:58:52.202794+00:00"
+  "updated_at": "2026-07-09T11:10:06.219295+00:00"
 }

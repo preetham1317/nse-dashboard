@@ -4,23 +4,23 @@
   "sector": "FMCG",
   "indicators": {
     "date": "2026-07-09",
-    "close": 5352.0,
+    "close": 5361.5,
     "prev_close": 5315.5,
-    "change_pct": 0.6866710563446524,
-    "ema20": 5292.506728370296,
-    "ema50": 5351.402378249595,
-    "ema200": 5608.860169663095,
-    "rsi14": 54.23040689852906,
-    "macd": 23.822914940844385,
-    "macd_signal": -2.7873371473798896,
+    "change_pct": 0.8653936600507948,
+    "ema20": 5293.411490275058,
+    "ema50": 5351.774927269203,
+    "ema200": 5608.954697026278,
+    "rsi14": 54.80522429371556,
+    "macd": 24.580749698679938,
+    "macd_signal": -2.6357701958127793,
     "atr14": 99.18545260541792,
     "adx14": 18.214310572920315,
     "adx_pos": 23.646402499158327,
     "adx_neg": 22.41249962452673,
-    "bb_high": 5454.4730398604925,
-    "bb_low": 5061.326960139507,
-    "bb_mid": 5257.9,
-    "vwap20": 5236.800212647487
+    "bb_high": 5455.898890960043,
+    "bb_low": 5060.851109039957,
+    "bb_mid": 5258.375,
+    "vwap20": 5240.232106650101
   },
   "flags": {
     "flags": {
@@ -34,14 +34,14 @@
       "price_above_bb_mid": true
     },
     "flags_detail": {
-      "price_above_ema20": "Close 5,352.00 vs EMA20 5,292.51",
-      "ema20_above_ema50": "EMA20 5,292.51 vs EMA50 5,351.40",
-      "ema50_above_ema200": "EMA50 5,351.40 vs EMA200 5,608.86",
-      "rsi_above_50": "RSI(14) 54.23 vs 50",
-      "macd_bullish": "MACD 23.82 vs signal -2.79",
+      "price_above_ema20": "Close 5,361.50 vs EMA20 5,293.41",
+      "ema20_above_ema50": "EMA20 5,293.41 vs EMA50 5,351.77",
+      "ema50_above_ema200": "EMA50 5,351.77 vs EMA200 5,608.95",
+      "rsi_above_50": "RSI(14) 54.81 vs 50",
+      "macd_bullish": "MACD 24.58 vs signal -2.64",
       "adx_trending_up": "ADX(14) 18.21 vs 20, +DI 23.65 vs -DI 22.41",
-      "price_above_vwap20": "Close 5,352.00 vs 20d VWAP 5,236.80",
-      "price_above_bb_mid": "Close 5,352.00 vs BB mid 5,257.90"
+      "price_above_vwap20": "Close 5,361.50 vs 20d VWAP 5,240.23",
+      "price_above_bb_mid": "Close 5,361.50 vs BB mid 5,258.38"
     },
     "flags_on": [
       "price_above_ema20",
@@ -55,5 +55,5 @@
   },
   "fundamentals": null,
   "shareholding": null,
-  "updated_at": "2026-07-09T04:47:03.625233+00:00"
+  "updated_at": "2026-07-09T11:09:25.699659+00:00"
 }

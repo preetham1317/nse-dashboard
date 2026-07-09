@@ -3,24 +3,24 @@
   "name": "Asian Paints",
   "sector": "Consumer Durables",
   "indicators": {
-    "date": "2026-07-08",
-    "close": 2665.9,
-    "prev_close": 2731.4,
-    "change_pct": -2.3980376363769493,
-    "ema20": 2695.29102305692,
-    "ema50": 2633.568136848715,
-    "ema200": 2543.610663954819,
-    "rsi14": 47.667609260768764,
-    "macd": 19.933256149004137,
-    "macd_signal": 24.857726887264295,
-    "atr14": 54.54540204912064,
-    "adx14": 26.378068516632258,
-    "adx_pos": 22.424547078969244,
-    "adx_neg": 22.089039037151082,
-    "bb_high": 2787.643283778865,
-    "bb_low": 2628.1667162211343,
-    "bb_mid": 2707.9049999999997,
-    "vwap20": 2699.876577458937
+    "date": "2026-07-09",
+    "close": 2673.8,
+    "prev_close": 2665.9,
+    "change_pct": 0.29633519636895944,
+    "ema20": 2693.244258956264,
+    "ema50": 2635.146078956957,
+    "ema200": 2546.9992914880368,
+    "rsi14": 48.80811797528668,
+    "macd": 16.01436033287655,
+    "macd_signal": 23.08905357279584,
+    "atr14": 55.42073047443513,
+    "adx14": 24.759115851985467,
+    "adx_pos": 21.74409032337003,
+    "adx_neg": 20.18729088230304,
+    "bb_high": 2786.854897395473,
+    "bb_low": 2624.8251026045264,
+    "bb_mid": 2705.8399999999997,
+    "vwap20": 2698.2745631549183
   },
   "flags": {
     "flags": {
@@ -34,14 +34,14 @@
       "price_above_bb_mid": false
     },
     "flags_detail": {
-      "price_above_ema20": "Close 2,665.90 vs EMA20 2,695.29",
-      "ema20_above_ema50": "EMA20 2,695.29 vs EMA50 2,633.57",
-      "ema50_above_ema200": "EMA50 2,633.57 vs EMA200 2,543.61",
-      "rsi_above_50": "RSI(14) 47.67 vs 50",
-      "macd_bullish": "MACD 19.93 vs signal 24.86",
-      "adx_trending_up": "ADX(14) 26.38 vs 20, +DI 22.42 vs -DI 22.09",
-      "price_above_vwap20": "Close 2,665.90 vs 20d VWAP 2,699.88",
-      "price_above_bb_mid": "Close 2,665.90 vs BB mid 2,707.90"
+      "price_above_ema20": "Close 2,673.80 vs EMA20 2,693.24",
+      "ema20_above_ema50": "EMA20 2,693.24 vs EMA50 2,635.15",
+      "ema50_above_ema200": "EMA50 2,635.15 vs EMA200 2,547.00",
+      "rsi_above_50": "RSI(14) 48.81 vs 50",
+      "macd_bullish": "MACD 16.01 vs signal 23.09",
+      "adx_trending_up": "ADX(14) 24.76 vs 20, +DI 21.74 vs -DI 20.19",
+      "price_above_vwap20": "Close 2,673.80 vs 20d VWAP 2,698.27",
+      "price_above_bb_mid": "Close 2,673.80 vs BB mid 2,705.84"
     },
     "flags_on": [
       "ema20_above_ema50",
@@ -53,5 +53,5 @@
   },
   "fundamentals": null,
   "shareholding": null,
-  "updated_at": "2026-07-08T18:57:47.053427+00:00"
+  "updated_at": "2026-07-09T11:08:55.007947+00:00"
 }

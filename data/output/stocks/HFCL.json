@@ -3,24 +3,24 @@
   "name": "HFCL Ltd",
   "sector": "Telecom",
   "indicators": {
-    "date": "2026-07-08",
-    "close": 214.74,
-    "prev_close": 226.04,
-    "change_pct": -4.9991152008494,
-    "ema20": 203.32747880091068,
-    "ema50": 173.68858303230888,
-    "ema200": 114.72314396622598,
-    "rsi14": 61.70248534545338,
-    "macd": 14.300399905980896,
-    "macd_signal": 14.807487527215628,
-    "atr14": 10.785030494991398,
-    "adx14": 47.15899259023597,
-    "adx_pos": 37.92925648942317,
-    "adx_neg": 15.916155418071313,
-    "bb_high": 236.630852088857,
-    "bb_low": 165.93314791114295,
-    "bb_mid": 201.28199999999998,
-    "vwap20": 201.2645588979692
+    "date": "2026-07-09",
+    "close": 214.68,
+    "prev_close": 214.74,
+    "change_pct": -0.027940765576977868,
+    "ema20": 204.40867129606204,
+    "ema50": 175.29608892716547,
+    "ema200": 115.71158304496292,
+    "rsi14": 61.65620215038178,
+    "macd": 13.504575807944804,
+    "macd_signal": 14.54690518337202,
+    "atr14": 10.631814030997834,
+    "adx14": 45.977765250886925,
+    "adx_pos": 35.727584258084185,
+    "adx_neg": 18.97627301746967,
+    "bb_high": 236.082321274339,
+    "bb_low": 171.038678725661,
+    "bb_mid": 203.5605,
+    "vwap20": 202.62533718685214
   },
   "flags": {
     "flags": {
@@ -34,14 +34,14 @@
       "price_above_bb_mid": true
     },
     "flags_detail": {
-      "price_above_ema20": "Close 214.74 vs EMA20 203.33",
-      "ema20_above_ema50": "EMA20 203.33 vs EMA50 173.69",
-      "ema50_above_ema200": "EMA50 173.69 vs EMA200 114.72",
-      "rsi_above_50": "RSI(14) 61.70 vs 50",
-      "macd_bullish": "MACD 14.30 vs signal 14.81",
-      "adx_trending_up": "ADX(14) 47.16 vs 20, +DI 37.93 vs -DI 15.92",
-      "price_above_vwap20": "Close 214.74 vs 20d VWAP 201.26",
-      "price_above_bb_mid": "Close 214.74 vs BB mid 201.28"
+      "price_above_ema20": "Close 214.68 vs EMA20 204.41",
+      "ema20_above_ema50": "EMA20 204.41 vs EMA50 175.30",
+      "ema50_above_ema200": "EMA50 175.30 vs EMA200 115.71",
+      "rsi_above_50": "RSI(14) 61.66 vs 50",
+      "macd_bullish": "MACD 13.50 vs signal 14.55",
+      "adx_trending_up": "ADX(14) 45.98 vs 20, +DI 35.73 vs -DI 18.98",
+      "price_above_vwap20": "Close 214.68 vs 20d VWAP 202.63",
+      "price_above_bb_mid": "Close 214.68 vs BB mid 203.56"
     },
     "flags_on": [
       "price_above_ema20",
@@ -57,5 +57,5 @@
   },
   "fundamentals": null,
   "shareholding": null,
-  "updated_at": "2026-07-08T18:59:01.267491+00:00"
+  "updated_at": "2026-07-09T11:10:16.792595+00:00"
 }

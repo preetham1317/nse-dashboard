@@ -3,24 +3,24 @@
   "name": "Adani Power",
   "sector": "Power",
   "indicators": {
-    "date": "2026-07-08",
-    "close": 216.48,
-    "prev_close": 218.07,
-    "change_pct": -0.729123675883892,
-    "ema20": 224.11279576524024,
-    "ema50": 217.5429883915226,
-    "ema200": 176.69651893337635,
-    "rsi14": 40.833323524466074,
-    "macd": -0.9938177863625128,
-    "macd_signal": 0.7060297313885092,
-    "atr14": 7.145858954914502,
-    "adx14": 13.905381895500401,
-    "adx_pos": 15.478634659592153,
-    "adx_neg": 20.3996867717684,
-    "bb_high": 234.91728525786488,
-    "bb_low": 213.84571474213516,
-    "bb_mid": 224.38150000000002,
-    "vwap20": 224.76665913694288
+    "date": "2026-07-09",
+    "close": 216.32,
+    "prev_close": 216.48,
+    "change_pct": -0.0739098300073894,
+    "ema20": 223.37062473997926,
+    "ema50": 217.4950314273692,
+    "ema200": 177.1225120994338,
+    "rsi14": 40.67066717256809,
+    "macd": -1.4474999802355342,
+    "macd_signal": 0.2753237890092902,
+    "atr14": 7.080440458089313,
+    "adx14": 13.891850929319208,
+    "adx_pos": 14.505814894849046,
+    "adx_neg": 19.117582831238668,
+    "bb_high": 235.16525274796356,
+    "bb_low": 213.17174725203643,
+    "bb_mid": 224.1685,
+    "vwap20": 224.62855388185622
   },
   "flags": {
     "flags": {
@@ -34,14 +34,14 @@
       "price_above_bb_mid": false
     },
     "flags_detail": {
-      "price_above_ema20": "Close 216.48 vs EMA20 224.11",
-      "ema20_above_ema50": "EMA20 224.11 vs EMA50 217.54",
-      "ema50_above_ema200": "EMA50 217.54 vs EMA200 176.70",
-      "rsi_above_50": "RSI(14) 40.83 vs 50",
-      "macd_bullish": "MACD -0.99 vs signal 0.71",
-      "adx_trending_up": "ADX(14) 13.91 vs 20, +DI 15.48 vs -DI 20.40",
-      "price_above_vwap20": "Close 216.48 vs 20d VWAP 224.77",
-      "price_above_bb_mid": "Close 216.48 vs BB mid 224.38"
+      "price_above_ema20": "Close 216.32 vs EMA20 223.37",
+      "ema20_above_ema50": "EMA20 223.37 vs EMA50 217.50",
+      "ema50_above_ema200": "EMA50 217.50 vs EMA200 177.12",
+      "rsi_above_50": "RSI(14) 40.67 vs 50",
+      "macd_bullish": "MACD -1.45 vs signal 0.28",
+      "adx_trending_up": "ADX(14) 13.89 vs 20, +DI 14.51 vs -DI 19.12",
+      "price_above_vwap20": "Close 216.32 vs 20d VWAP 224.63",
+      "price_above_bb_mid": "Close 216.32 vs BB mid 224.17"
     },
     "flags_on": [
       "ema20_above_ema50",
@@ -52,5 +52,5 @@
   },
   "fundamentals": null,
   "shareholding": null,
-  "updated_at": "2026-07-08T18:57:36.029307+00:00"
+  "updated_at": "2026-07-09T11:08:44.887692+00:00"
 }

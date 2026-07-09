@@ -4,23 +4,23 @@
   "sector": "IT",
   "indicators": {
     "date": "2026-07-09",
-    "close": 1051.1,
+    "close": 1050.8,
     "prev_close": 1069.3,
-    "change_pct": -1.7020480688300799,
-    "ema20": 1073.321107333892,
-    "ema50": 1134.2454430935409,
-    "ema200": 1319.8296868331424,
-    "rsi14": 43.206748482864135,
-    "macd": -29.65606228938873,
-    "macd_signal": -34.87157894114531,
+    "change_pct": -1.7301038062283738,
+    "ema20": 1073.2925359053206,
+    "ema50": 1134.2336783876585,
+    "ema200": 1319.8267017585156,
+    "rsi14": 43.162938291099984,
+    "macd": -29.67999391332046,
+    "macd_signal": -34.87636526593165,
     "atr14": 33.77738220478809,
     "adx14": 20.642526294413386,
     "adx_pos": 25.22563325138537,
     "adx_neg": 34.02677435425478,
-    "bb_high": 1162.3578283536904,
-    "bb_low": 975.9921716463094,
-    "bb_mid": 1069.175,
-    "vwap20": 1060.6838188547367
+    "bb_high": 1162.354557780985,
+    "bb_low": 975.9654422190151,
+    "bb_mid": 1069.16,
+    "vwap20": 1060.471664483945
   },
   "flags": {
     "flags": {
@@ -34,14 +34,14 @@
       "price_above_bb_mid": false
     },
     "flags_detail": {
-      "price_above_ema20": "Close 1,051.10 vs EMA20 1,073.32",
-      "ema20_above_ema50": "EMA20 1,073.32 vs EMA50 1,134.25",
-      "ema50_above_ema200": "EMA50 1,134.25 vs EMA200 1,319.83",
-      "rsi_above_50": "RSI(14) 43.21 vs 50",
-      "macd_bullish": "MACD -29.66 vs signal -34.87",
+      "price_above_ema20": "Close 1,050.80 vs EMA20 1,073.29",
+      "ema20_above_ema50": "EMA20 1,073.29 vs EMA50 1,134.23",
+      "ema50_above_ema200": "EMA50 1,134.23 vs EMA200 1,319.83",
+      "rsi_above_50": "RSI(14) 43.16 vs 50",
+      "macd_bullish": "MACD -29.68 vs signal -34.88",
       "adx_trending_up": "ADX(14) 20.64 vs 20, +DI 25.23 vs -DI 34.03",
-      "price_above_vwap20": "Close 1,051.10 vs 20d VWAP 1,060.68",
-      "price_above_bb_mid": "Close 1,051.10 vs BB mid 1,069.17"
+      "price_above_vwap20": "Close 1,050.80 vs 20d VWAP 1,060.47",
+      "price_above_bb_mid": "Close 1,050.80 vs BB mid 1,069.16"
     },
     "flags_on": [
       "macd_bullish"
@@ -51,5 +51,5 @@
   },
   "fundamentals": null,
   "shareholding": null,
-  "updated_at": "2026-07-09T04:47:48.094538+00:00"
+  "updated_at": "2026-07-09T11:10:35.709750+00:00"
 }

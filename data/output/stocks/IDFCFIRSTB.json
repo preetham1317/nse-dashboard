@@ -4,23 +4,23 @@
   "sector": "Banking",
   "indicators": {
     "date": "2026-07-09",
-    "close": 78.65,
+    "close": 79.46,
     "prev_close": 77.82,
-    "change_pct": 1.0665638653302656,
-    "ema20": 77.96198371844275,
-    "ema50": 74.87620988704168,
-    "ema200": 73.47111590346923,
-    "rsi14": 56.36748065046963,
-    "macd": 1.7941165125191674,
-    "macd_signal": 2.1421249320424174,
-    "atr14": 1.8200043735578757,
+    "change_pct": 2.1074273965561563,
+    "ema20": 78.03912657558561,
+    "ema50": 74.90797459292403,
+    "ema200": 73.47917560496177,
+    "rsi14": 58.796769751338545,
+    "macd": 1.858731897134561,
+    "macd_signal": 2.155048008965496,
+    "atr14": 1.8942900878435904,
     "adx14": 38.888303403593454,
-    "adx_pos": 24.806772406490158,
-    "adx_neg": 17.282014268037145,
-    "bb_high": 82.06877461471642,
-    "bb_low": 75.12422538528357,
-    "bb_mid": 78.59649999999999,
-    "vwap20": 78.49052029281374
+    "adx_pos": 23.83396004836796,
+    "adx_neg": 16.60428978305771,
+    "bb_high": 82.1296614493827,
+    "bb_low": 75.1443385506173,
+    "bb_mid": 78.637,
+    "vwap20": 78.50241456140998
   },
   "flags": {
     "flags": {
@@ -34,14 +34,14 @@
       "price_above_bb_mid": true
     },
     "flags_detail": {
-      "price_above_ema20": "Close 78.65 vs EMA20 77.96",
-      "ema20_above_ema50": "EMA20 77.96 vs EMA50 74.88",
-      "ema50_above_ema200": "EMA50 74.88 vs EMA200 73.47",
-      "rsi_above_50": "RSI(14) 56.37 vs 50",
-      "macd_bullish": "MACD 1.79 vs signal 2.14",
-      "adx_trending_up": "ADX(14) 38.89 vs 20, +DI 24.81 vs -DI 17.28",
-      "price_above_vwap20": "Close 78.65 vs 20d VWAP 78.49",
-      "price_above_bb_mid": "Close 78.65 vs BB mid 78.60"
+      "price_above_ema20": "Close 79.46 vs EMA20 78.04",
+      "ema20_above_ema50": "EMA20 78.04 vs EMA50 74.91",
+      "ema50_above_ema200": "EMA50 74.91 vs EMA200 73.48",
+      "rsi_above_50": "RSI(14) 58.80 vs 50",
+      "macd_bullish": "MACD 1.86 vs signal 2.16",
+      "adx_trending_up": "ADX(14) 38.89 vs 20, +DI 23.83 vs -DI 16.60",
+      "price_above_vwap20": "Close 79.46 vs 20d VWAP 78.50",
+      "price_above_bb_mid": "Close 79.46 vs BB mid 78.64"
     },
     "flags_on": [
       "price_above_ema20",
@@ -57,5 +57,5 @@
   },
   "fundamentals": null,
   "shareholding": null,
-  "updated_at": "2026-07-09T04:47:43.460540+00:00"
+  "updated_at": "2026-07-09T11:10:27.766649+00:00"
 }

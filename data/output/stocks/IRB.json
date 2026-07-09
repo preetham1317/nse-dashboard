@@ -4,23 +4,23 @@
   "sector": "Infrastructure",
   "indicators": {
     "date": "2026-07-09",
-    "close": 20.47,
+    "close": 20.21,
     "prev_close": 19.97,
-    "change_pct": 2.5037556334501754,
-    "ema20": 21.00146381958611,
-    "ema50": 21.134685698391074,
-    "ema200": 21.459708880537196,
-    "rsi14": 42.135304269348886,
-    "macd": -0.18115421632324313,
-    "macd_signal": -0.058004195721004494,
+    "change_pct": 1.2018027040560941,
+    "ema20": 20.976701914824204,
+    "ema50": 21.124489619959704,
+    "ema200": 21.45712181586058,
+    "rsi14": 38.14793617037066,
+    "macd": -0.2018949570639812,
+    "macd_signal": -0.06215234386915211,
     "atr14": 0.5639534626503097,
     "adx14": 17.011520931090143,
     "adx_pos": 17.648323585520735,
     "adx_neg": 25.70866644084151,
-    "bb_high": 22.047686263983973,
-    "bb_low": 20.148313736016025,
-    "bb_mid": 21.098,
-    "vwap20": 21.149612303571647
+    "bb_high": 22.07497979777359,
+    "bb_low": 20.09502020222641,
+    "bb_mid": 21.085,
+    "vwap20": 21.115279677506802
   },
   "flags": {
     "flags": {
@@ -34,14 +34,14 @@
       "price_above_bb_mid": false
     },
     "flags_detail": {
-      "price_above_ema20": "Close 20.47 vs EMA20 21.00",
-      "ema20_above_ema50": "EMA20 21.00 vs EMA50 21.13",
-      "ema50_above_ema200": "EMA50 21.13 vs EMA200 21.46",
-      "rsi_above_50": "RSI(14) 42.14 vs 50",
-      "macd_bullish": "MACD -0.18 vs signal -0.06",
+      "price_above_ema20": "Close 20.21 vs EMA20 20.98",
+      "ema20_above_ema50": "EMA20 20.98 vs EMA50 21.12",
+      "ema50_above_ema200": "EMA50 21.12 vs EMA200 21.46",
+      "rsi_above_50": "RSI(14) 38.15 vs 50",
+      "macd_bullish": "MACD -0.20 vs signal -0.06",
       "adx_trending_up": "ADX(14) 17.01 vs 20, +DI 17.65 vs -DI 25.71",
-      "price_above_vwap20": "Close 20.47 vs 20d VWAP 21.15",
-      "price_above_bb_mid": "Close 20.47 vs BB mid 21.10"
+      "price_above_vwap20": "Close 20.21 vs 20d VWAP 21.12",
+      "price_above_bb_mid": "Close 20.21 vs BB mid 21.09"
     },
     "flags_on": [],
     "flag_count": 0,
@@ -49,5 +49,5 @@
   },
   "fundamentals": null,
   "shareholding": null,
-  "updated_at": "2026-07-09T04:47:50.148332+00:00"
+  "updated_at": "2026-07-09T11:10:38.972089+00:00"
 }

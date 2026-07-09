@@ -3,24 +3,24 @@
   "name": "Power Finance Corporation",
   "sector": "NBFC",
   "indicators": {
-    "date": "2026-07-08",
-    "close": 403.6,
-    "prev_close": 413.15,
-    "change_pct": -2.311509137117259,
-    "ema20": 425.1457348992503,
-    "ema50": 428.5302923494085,
-    "ema200": 414.8602877872087,
-    "rsi14": 34.58864474754098,
-    "macd": -4.3973645005750654,
-    "macd_signal": -2.3096446886013093,
-    "atr14": 10.586191137989516,
-    "adx14": 12.589354596979083,
-    "adx_pos": 17.2827903991053,
-    "adx_neg": 28.747474371787042,
-    "bb_high": 443.14935604834034,
-    "bb_low": 409.3256439516597,
-    "bb_mid": 426.2375,
-    "vwap20": 427.2614802303657
+    "date": "2026-07-09",
+    "close": 404.1,
+    "prev_close": 403.6,
+    "change_pct": 0.1238850346878097,
+    "ema20": 423.14137919455965,
+    "ema50": 427.5722328800541,
+    "ema200": 414.67034423584323,
+    "rsi14": 35.01990111037955,
+    "macd": -5.517075236170967,
+    "macd_signal": -2.951130797972999,
+    "atr14": 10.347891770827404,
+    "adx14": 13.711708476281517,
+    "adx_pos": 16.41787833176493,
+    "adx_neg": 29.379630818662996,
+    "bb_high": 444.15184758947225,
+    "bb_low": 405.60315241052785,
+    "bb_mid": 424.87750000000005,
+    "vwap20": 425.7706148295862
   },
   "flags": {
     "flags": {
@@ -34,14 +34,14 @@
       "price_above_bb_mid": false
     },
     "flags_detail": {
-      "price_above_ema20": "Close 403.60 vs EMA20 425.15",
-      "ema20_above_ema50": "EMA20 425.15 vs EMA50 428.53",
-      "ema50_above_ema200": "EMA50 428.53 vs EMA200 414.86",
-      "rsi_above_50": "RSI(14) 34.59 vs 50",
-      "macd_bullish": "MACD -4.40 vs signal -2.31",
-      "adx_trending_up": "ADX(14) 12.59 vs 20, +DI 17.28 vs -DI 28.75",
-      "price_above_vwap20": "Close 403.60 vs 20d VWAP 427.26",
-      "price_above_bb_mid": "Close 403.60 vs BB mid 426.24"
+      "price_above_ema20": "Close 404.10 vs EMA20 423.14",
+      "ema20_above_ema50": "EMA20 423.14 vs EMA50 427.57",
+      "ema50_above_ema200": "EMA50 427.57 vs EMA200 414.67",
+      "rsi_above_50": "RSI(14) 35.02 vs 50",
+      "macd_bullish": "MACD -5.52 vs signal -2.95",
+      "adx_trending_up": "ADX(14) 13.71 vs 20, +DI 16.42 vs -DI 29.38",
+      "price_above_vwap20": "Close 404.10 vs 20d VWAP 425.77",
+      "price_above_bb_mid": "Close 404.10 vs BB mid 424.88"
     },
     "flags_on": [
       "ema50_above_ema200"
@@ -51,5 +51,5 @@
   },
   "fundamentals": null,
   "shareholding": null,
-  "updated_at": "2026-07-08T19:00:53.456879+00:00"
+  "updated_at": "2026-07-09T11:11:58.399828+00:00"
 }

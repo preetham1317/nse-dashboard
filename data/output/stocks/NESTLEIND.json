@@ -4,23 +4,23 @@
   "sector": "FMCG",
   "indicators": {
     "date": "2026-07-09",
-    "close": 1476.4,
+    "close": 1463.2,
     "prev_close": 1450.5,
-    "change_pct": 1.7855911754567453,
-    "ema20": 1432.1260600560913,
-    "ema50": 1405.5391697798702,
-    "ema200": 1318.1264458831024,
-    "rsi14": 62.280709697488554,
-    "macd": 16.978147833679714,
-    "macd_signal": 9.870689648683385,
-    "atr14": 30.5195710911656,
-    "adx14": 20.944351878212075,
-    "adx_pos": 21.494699302680324,
-    "adx_neg": 13.572708939349305,
-    "bb_high": 1486.7437036636327,
-    "bb_low": 1352.3662963363674,
-    "bb_mid": 1419.555,
-    "vwap20": 1417.3441495320496
+    "change_pct": 0.8755601516718404,
+    "ema20": 1430.8689171989486,
+    "ema50": 1405.0215227210467,
+    "ema200": 1317.9951025995204,
+    "rsi14": 59.90189950344659,
+    "macd": 15.925156380688122,
+    "macd_signal": 9.660091358085067,
+    "atr14": 30.776713948308448,
+    "adx14": 20.984648688535348,
+    "adx_pos": 21.570403761217744,
+    "adx_neg": 13.459307451403443,
+    "bb_high": 1484.0662045308313,
+    "bb_low": 1353.7237954691686,
+    "bb_mid": 1418.895,
+    "vwap20": 1418.7640710008075
   },
   "flags": {
     "flags": {
@@ -34,14 +34,14 @@
       "price_above_bb_mid": true
     },
     "flags_detail": {
-      "price_above_ema20": "Close 1,476.40 vs EMA20 1,432.13",
-      "ema20_above_ema50": "EMA20 1,432.13 vs EMA50 1,405.54",
-      "ema50_above_ema200": "EMA50 1,405.54 vs EMA200 1,318.13",
-      "rsi_above_50": "RSI(14) 62.28 vs 50",
-      "macd_bullish": "MACD 16.98 vs signal 9.87",
-      "adx_trending_up": "ADX(14) 20.94 vs 20, +DI 21.49 vs -DI 13.57",
-      "price_above_vwap20": "Close 1,476.40 vs 20d VWAP 1,417.34",
-      "price_above_bb_mid": "Close 1,476.40 vs BB mid 1,419.56"
+      "price_above_ema20": "Close 1,463.20 vs EMA20 1,430.87",
+      "ema20_above_ema50": "EMA20 1,430.87 vs EMA50 1,405.02",
+      "ema50_above_ema200": "EMA50 1,405.02 vs EMA200 1,318.00",
+      "rsi_above_50": "RSI(14) 59.90 vs 50",
+      "macd_bullish": "MACD 15.93 vs signal 9.66",
+      "adx_trending_up": "ADX(14) 20.98 vs 20, +DI 21.57 vs -DI 13.46",
+      "price_above_vwap20": "Close 1,463.20 vs 20d VWAP 1,418.76",
+      "price_above_bb_mid": "Close 1,463.20 vs BB mid 1,418.89"
     },
     "flags_on": [
       "price_above_ema20",
@@ -58,5 +58,5 @@
   },
   "fundamentals": null,
   "shareholding": null,
-  "updated_at": "2026-07-09T04:48:32.454702+00:00"
+  "updated_at": "2026-07-09T11:11:40.298633+00:00"
 }

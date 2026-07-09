@@ -4,23 +4,23 @@
   "sector": "Agri & Fertilizers",
   "indicators": {
     "date": "2026-07-09",
-    "close": 131.92,
+    "close": 131.59,
     "prev_close": 130.21,
-    "change_pct": 1.3132631902311491,
-    "ema20": 131.22022322425812,
-    "ema50": 129.6798813097573,
-    "ema200": 133.2783642568533,
-    "rsi14": 52.93693990907849,
-    "macd": 0.7160581488223556,
-    "macd_signal": 1.0808856984300745,
-    "atr14": 4.079728562177082,
+    "change_pct": 1.0598264342216384,
+    "ema20": 131.18879465282956,
+    "ema50": 129.6669401332867,
+    "ema200": 133.27508067476376,
+    "rsi14": 52.177420175902334,
+    "macd": 0.6897333624975488,
+    "macd_signal": 1.075620741165113,
+    "atr14": 4.121157133605654,
     "adx14": 15.198591465538911,
-    "adx_pos": 24.940970750617318,
-    "adx_neg": 20.01562900793817,
-    "bb_high": 137.81004509577232,
-    "bb_low": 126.08495490422766,
-    "bb_mid": 131.9475,
-    "vwap20": 133.051964808718
+    "adx_pos": 24.69024777289084,
+    "adx_neg": 19.81441879218044,
+    "bb_high": 137.79561899870436,
+    "bb_low": 126.06638100129562,
+    "bb_mid": 131.93099999999998,
+    "vwap20": 133.0261647254705
   },
   "flags": {
     "flags": {
@@ -34,14 +34,14 @@
       "price_above_bb_mid": false
     },
     "flags_detail": {
-      "price_above_ema20": "Close 131.92 vs EMA20 131.22",
-      "ema20_above_ema50": "EMA20 131.22 vs EMA50 129.68",
-      "ema50_above_ema200": "EMA50 129.68 vs EMA200 133.28",
-      "rsi_above_50": "RSI(14) 52.94 vs 50",
-      "macd_bullish": "MACD 0.72 vs signal 1.08",
-      "adx_trending_up": "ADX(14) 15.20 vs 20, +DI 24.94 vs -DI 20.02",
-      "price_above_vwap20": "Close 131.92 vs 20d VWAP 133.05",
-      "price_above_bb_mid": "Close 131.92 vs BB mid 131.95"
+      "price_above_ema20": "Close 131.59 vs EMA20 131.19",
+      "ema20_above_ema50": "EMA20 131.19 vs EMA50 129.67",
+      "ema50_above_ema200": "EMA50 129.67 vs EMA200 133.28",
+      "rsi_above_50": "RSI(14) 52.18 vs 50",
+      "macd_bullish": "MACD 0.69 vs signal 1.08",
+      "adx_trending_up": "ADX(14) 15.20 vs 20, +DI 24.69 vs -DI 19.81",
+      "price_above_vwap20": "Close 131.59 vs 20d VWAP 133.03",
+      "price_above_bb_mid": "Close 131.59 vs BB mid 131.93"
     },
     "flags_on": [
       "price_above_ema20",
@@ -53,5 +53,5 @@
   },
   "fundamentals": null,
   "shareholding": null,
-  "updated_at": "2026-07-09T04:48:54.375530+00:00"
+  "updated_at": "2026-07-09T11:12:15.124947+00:00"
 }

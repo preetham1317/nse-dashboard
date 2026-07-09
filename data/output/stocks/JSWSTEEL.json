@@ -3,24 +3,24 @@
   "name": "JSW Steel",
   "sector": "Metals",
   "indicators": {
-    "date": "2026-07-08",
-    "close": 1219.5,
-    "prev_close": 1246.4,
-    "change_pct": -2.1582156611039864,
-    "ema20": 1248.8237954530916,
-    "ema50": 1254.370838005052,
-    "ema200": 1196.2459452474743,
-    "rsi14": 38.459118666482844,
-    "macd": -13.044366015695914,
-    "macd_signal": -10.483030911021277,
-    "atr14": 25.49781324459129,
-    "adx14": 16.35366618825601,
-    "adx_pos": 16.193559939599297,
-    "adx_neg": 22.70057372500303,
-    "bb_high": 1313.0444887480535,
-    "bb_low": 1198.3755112519466,
-    "bb_mid": 1255.71,
-    "vwap20": 1253.8788625815398
+    "date": "2026-07-09",
+    "close": 1225.8,
+    "prev_close": 1219.5,
+    "change_pct": 0.5166051660516569,
+    "ema20": 1246.631053028988,
+    "ema50": 1253.2504200164335,
+    "ema200": 1196.6063162529717,
+    "rsi14": 40.99453208780852,
+    "macd": -13.197276780082348,
+    "macd_signal": -11.025880084947406,
+    "atr14": 25.176540870498076,
+    "adx14": 16.38055181405033,
+    "adx_pos": 15.228759412628301,
+    "adx_neg": 21.348090046929926,
+    "bb_high": 1311.8803657689466,
+    "bb_low": 1195.1396342310534,
+    "bb_mid": 1253.51,
+    "vwap20": 1251.0104046611727
   },
   "flags": {
     "flags": {
@@ -34,14 +34,14 @@
       "price_above_bb_mid": false
     },
     "flags_detail": {
-      "price_above_ema20": "Close 1,219.50 vs EMA20 1,248.82",
-      "ema20_above_ema50": "EMA20 1,248.82 vs EMA50 1,254.37",
-      "ema50_above_ema200": "EMA50 1,254.37 vs EMA200 1,196.25",
-      "rsi_above_50": "RSI(14) 38.46 vs 50",
-      "macd_bullish": "MACD -13.04 vs signal -10.48",
-      "adx_trending_up": "ADX(14) 16.35 vs 20, +DI 16.19 vs -DI 22.70",
-      "price_above_vwap20": "Close 1,219.50 vs 20d VWAP 1,253.88",
-      "price_above_bb_mid": "Close 1,219.50 vs BB mid 1,255.71"
+      "price_above_ema20": "Close 1,225.80 vs EMA20 1,246.63",
+      "ema20_above_ema50": "EMA20 1,246.63 vs EMA50 1,253.25",
+      "ema50_above_ema200": "EMA50 1,253.25 vs EMA200 1,196.61",
+      "rsi_above_50": "RSI(14) 40.99 vs 50",
+      "macd_bullish": "MACD -13.20 vs signal -11.03",
+      "adx_trending_up": "ADX(14) 16.38 vs 20, +DI 15.23 vs -DI 21.35",
+      "price_above_vwap20": "Close 1,225.80 vs 20d VWAP 1,251.01",
+      "price_above_bb_mid": "Close 1,225.80 vs BB mid 1,253.51"
     },
     "flags_on": [
       "ema50_above_ema200"
@@ -51,5 +51,5 @@
   },
   "fundamentals": null,
   "shareholding": null,
-  "updated_at": "2026-07-08T18:59:31.223437+00:00"
+  "updated_at": "2026-07-09T11:10:52.887041+00:00"
 }

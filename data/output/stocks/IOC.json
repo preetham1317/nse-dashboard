@@ -3,24 +3,24 @@
   "name": "Indian Oil Corporation",
   "sector": "Energy",
   "indicators": {
-    "date": "2026-07-08",
-    "close": 137.63,
-    "prev_close": 142.18,
-    "change_pct": -3.2001688001125412,
-    "ema20": 141.27838486279762,
-    "ema50": 142.55432929097208,
-    "ema200": 149.03957209527397,
-    "rsi14": 42.35342659632707,
-    "macd": -0.20309075881112904,
-    "macd_signal": 0.15662654275533563,
-    "atr14": 3.404914314586955,
-    "adx14": 16.252651853660417,
-    "adx_pos": 27.856705595953347,
-    "adx_neg": 27.90656193041483,
-    "bb_high": 148.2258277710712,
-    "bb_low": 135.5161722289288,
-    "bb_mid": 141.871,
-    "vwap20": 142.02246543884277
+    "date": "2026-07-09",
+    "close": 138.26,
+    "prev_close": 137.63,
+    "change_pct": 0.45774903727384686,
+    "ema20": 140.9909196377693,
+    "ema50": 142.38592904212413,
+    "ema200": 148.97777608329545,
+    "rsi14": 43.80703427449452,
+    "macd": -0.41731454414366453,
+    "macd_signal": 0.041838325297543694,
+    "atr14": 3.310991863621251,
+    "adx14": 15.09813435605136,
+    "adx_pos": 26.60070486750468,
+    "adx_neg": 26.648313284042946,
+    "bb_high": 148.10365475996002,
+    "bb_low": 135.77634524003997,
+    "bb_mid": 141.94,
+    "vwap20": 141.97337309866063
   },
   "flags": {
     "flags": {
@@ -34,14 +34,14 @@
       "price_above_bb_mid": false
     },
     "flags_detail": {
-      "price_above_ema20": "Close 137.63 vs EMA20 141.28",
-      "ema20_above_ema50": "EMA20 141.28 vs EMA50 142.55",
-      "ema50_above_ema200": "EMA50 142.55 vs EMA200 149.04",
-      "rsi_above_50": "RSI(14) 42.35 vs 50",
-      "macd_bullish": "MACD -0.20 vs signal 0.16",
-      "adx_trending_up": "ADX(14) 16.25 vs 20, +DI 27.86 vs -DI 27.91",
-      "price_above_vwap20": "Close 137.63 vs 20d VWAP 142.02",
-      "price_above_bb_mid": "Close 137.63 vs BB mid 141.87"
+      "price_above_ema20": "Close 138.26 vs EMA20 140.99",
+      "ema20_above_ema50": "EMA20 140.99 vs EMA50 142.39",
+      "ema50_above_ema200": "EMA50 142.39 vs EMA200 148.98",
+      "rsi_above_50": "RSI(14) 43.81 vs 50",
+      "macd_bullish": "MACD -0.42 vs signal 0.04",
+      "adx_trending_up": "ADX(14) 15.10 vs 20, +DI 26.60 vs -DI 26.65",
+      "price_above_vwap20": "Close 138.26 vs 20d VWAP 141.97",
+      "price_above_bb_mid": "Close 138.26 vs BB mid 141.94"
     },
     "flags_on": [],
     "flag_count": 0,
@@ -49,5 +49,5 @@
   },
   "fundamentals": null,
   "shareholding": null,
-  "updated_at": "2026-07-08T18:59:18.129074+00:00"
+  "updated_at": "2026-07-09T11:10:37.223054+00:00"
 }

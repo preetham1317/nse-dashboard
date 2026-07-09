@@ -3,24 +3,24 @@
   "name": "UPL Ltd",
   "sector": "Agri & Fertilizers",
   "indicators": {
-    "date": "2026-07-08",
-    "close": 581.7,
-    "prev_close": 600.85,
-    "change_pct": -3.1871515353249524,
-    "ema20": 600.4874274043543,
-    "ema50": 618.1190398598405,
-    "ema200": 661.1695800739307,
-    "rsi14": 40.315577043882136,
-    "macd": -10.105363253431165,
-    "macd_signal": -11.347956449393092,
-    "atr14": 17.109761936202855,
-    "adx14": 21.225852164240866,
-    "adx_pos": 19.945950516380613,
-    "adx_neg": 32.15428402622692,
-    "bb_high": 629.4834735627187,
-    "bb_low": 566.9865264372811,
-    "bb_mid": 598.2349999999999,
-    "vwap20": 592.4008706287167
+    "date": "2026-07-09",
+    "close": 584.1,
+    "prev_close": 581.7,
+    "change_pct": 0.4125838060856072,
+    "ema20": 598.9267200325111,
+    "ema50": 616.7849681520951,
+    "ema200": 660.4808588197842,
+    "rsi14": 41.46427201335059,
+    "macd": -10.19633074155638,
+    "macd_signal": -11.117631307959616,
+    "atr14": 16.530493226313194,
+    "adx14": 21.383462471426075,
+    "adx_pos": 19.170269077869246,
+    "adx_neg": 30.90383064444051,
+    "bb_high": 628.1406255937372,
+    "bb_low": 565.6393744062627,
+    "bb_mid": 596.89,
+    "vwap20": 590.5877761588464
   },
   "flags": {
     "flags": {
@@ -34,14 +34,14 @@
       "price_above_bb_mid": false
     },
     "flags_detail": {
-      "price_above_ema20": "Close 581.70 vs EMA20 600.49",
-      "ema20_above_ema50": "EMA20 600.49 vs EMA50 618.12",
-      "ema50_above_ema200": "EMA50 618.12 vs EMA200 661.17",
-      "rsi_above_50": "RSI(14) 40.32 vs 50",
-      "macd_bullish": "MACD -10.11 vs signal -11.35",
-      "adx_trending_up": "ADX(14) 21.23 vs 20, +DI 19.95 vs -DI 32.15",
-      "price_above_vwap20": "Close 581.70 vs 20d VWAP 592.40",
-      "price_above_bb_mid": "Close 581.70 vs BB mid 598.23"
+      "price_above_ema20": "Close 584.10 vs EMA20 598.93",
+      "ema20_above_ema50": "EMA20 598.93 vs EMA50 616.78",
+      "ema50_above_ema200": "EMA50 616.78 vs EMA200 660.48",
+      "rsi_above_50": "RSI(14) 41.46 vs 50",
+      "macd_bullish": "MACD -10.20 vs signal -11.12",
+      "adx_trending_up": "ADX(14) 21.38 vs 20, +DI 19.17 vs -DI 30.90",
+      "price_above_vwap20": "Close 584.10 vs 20d VWAP 590.59",
+      "price_above_bb_mid": "Close 584.10 vs BB mid 596.89"
     },
     "flags_on": [
       "macd_bullish"
@@ -51,5 +51,5 @@
   },
   "fundamentals": null,
   "shareholding": null,
-  "updated_at": "2026-07-08T19:02:04.027259+00:00"
+  "updated_at": "2026-07-09T11:13:04.341718+00:00"
 }

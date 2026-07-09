@@ -4,23 +4,23 @@
   "sector": "Infrastructure",
   "indicators": {
     "date": "2026-07-09",
-    "close": 237.92,
+    "close": 241.53,
     "prev_close": 238.18,
-    "change_pct": -0.10916113863465417,
-    "ema20": 228.84736954677336,
-    "ema50": 219.93319925176735,
-    "ema200": 232.27290247924563,
-    "rsi14": 64.8413950514394,
-    "macd": 7.277745208798194,
-    "macd_signal": 6.38492077158599,
-    "atr14": 7.1132755121535,
-    "adx14": 30.72795080273128,
-    "adx_pos": 28.567966308100782,
-    "adx_neg": 13.383384470315063,
-    "bb_high": 253.11798838318063,
-    "bb_low": 199.12301161681935,
-    "bb_mid": 226.1205,
-    "vwap20": 223.9714570429228
+    "change_pct": 1.406499286254091,
+    "ema20": 229.1911790705829,
+    "ema50": 220.0747678792183,
+    "ema200": 232.30882287725558,
+    "rsi14": 67.70337420934145,
+    "macd": 7.5657224167753725,
+    "macd_signal": 6.442516213181426,
+    "atr14": 7.2932755121535005,
+    "adx14": 30.89301635053769,
+    "adx_pos": 29.40052114147793,
+    "adx_neg": 13.05307894426861,
+    "bb_high": 253.65751578691945,
+    "bb_low": 198.94448421308053,
+    "bb_mid": 226.301,
+    "vwap20": 224.29619326286124
   },
   "flags": {
     "flags": {
@@ -34,14 +34,14 @@
       "price_above_bb_mid": true
     },
     "flags_detail": {
-      "price_above_ema20": "Close 237.92 vs EMA20 228.85",
-      "ema20_above_ema50": "EMA20 228.85 vs EMA50 219.93",
-      "ema50_above_ema200": "EMA50 219.93 vs EMA200 232.27",
-      "rsi_above_50": "RSI(14) 64.84 vs 50",
-      "macd_bullish": "MACD 7.28 vs signal 6.38",
-      "adx_trending_up": "ADX(14) 30.73 vs 20, +DI 28.57 vs -DI 13.38",
-      "price_above_vwap20": "Close 237.92 vs 20d VWAP 223.97",
-      "price_above_bb_mid": "Close 237.92 vs BB mid 226.12"
+      "price_above_ema20": "Close 241.53 vs EMA20 229.19",
+      "ema20_above_ema50": "EMA20 229.19 vs EMA50 220.07",
+      "ema50_above_ema200": "EMA50 220.07 vs EMA200 232.31",
+      "rsi_above_50": "RSI(14) 67.70 vs 50",
+      "macd_bullish": "MACD 7.57 vs signal 6.44",
+      "adx_trending_up": "ADX(14) 30.89 vs 20, +DI 29.40 vs -DI 13.05",
+      "price_above_vwap20": "Close 241.53 vs 20d VWAP 224.30",
+      "price_above_bb_mid": "Close 241.53 vs BB mid 226.30"
     },
     "flags_on": [
       "price_above_ema20",
@@ -57,5 +57,5 @@
   },
   "fundamentals": null,
   "shareholding": null,
-  "updated_at": "2026-07-09T04:48:49.782685+00:00"
+  "updated_at": "2026-07-09T11:12:07.479809+00:00"
 }

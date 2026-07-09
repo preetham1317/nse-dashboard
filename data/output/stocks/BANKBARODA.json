@@ -3,24 +3,24 @@
   "name": "Bank of Baroda",
   "sector": "Banking",
   "indicators": {
-    "date": "2026-07-08",
-    "close": 240.45,
-    "prev_close": 247.85,
-    "change_pct": -2.985676820657658,
-    "ema20": 264.55335113386406,
-    "ema50": 269.1914487029698,
-    "ema200": 271.97714949314917,
-    "rsi14": 26.71026424042546,
-    "macd": -5.7009154501544685,
-    "macd_signal": -1.475265259959886,
-    "atr14": 7.340193716145533,
-    "adx14": 21.055801370814596,
-    "adx_pos": 14.534757908174894,
-    "adx_neg": 43.072211821590486,
-    "bb_high": 295.34625661913105,
-    "bb_low": 244.59374338086897,
-    "bb_mid": 269.97,
-    "vwap20": 267.4335513022123
+    "date": "2026-07-09",
+    "close": 244.6,
+    "prev_close": 240.45,
+    "change_pct": 1.725930546891248,
+    "ema20": 262.6530319782583,
+    "ema50": 268.2271074956986,
+    "ema200": 271.98130913424126,
+    "rsi14": 31.826853801210163,
+    "macd": -6.532673071192903,
+    "macd_signal": -2.486746822680969,
+    "atr14": 7.24803702224457,
+    "adx14": 23.051536767302455,
+    "adx_pos": 13.865263481305565,
+    "adx_neg": 40.50415806942551,
+    "bb_high": 296.42057566676186,
+    "bb_low": 241.04942433323816,
+    "bb_mid": 268.735,
+    "vwap20": 266.39866679754806
   },
   "flags": {
     "flags": {
@@ -34,14 +34,14 @@
       "price_above_bb_mid": false
     },
     "flags_detail": {
-      "price_above_ema20": "Close 240.45 vs EMA20 264.55",
-      "ema20_above_ema50": "EMA20 264.55 vs EMA50 269.19",
-      "ema50_above_ema200": "EMA50 269.19 vs EMA200 271.98",
-      "rsi_above_50": "RSI(14) 26.71 vs 50",
-      "macd_bullish": "MACD -5.70 vs signal -1.48",
-      "adx_trending_up": "ADX(14) 21.06 vs 20, +DI 14.53 vs -DI 43.07",
-      "price_above_vwap20": "Close 240.45 vs 20d VWAP 267.43",
-      "price_above_bb_mid": "Close 240.45 vs BB mid 269.97"
+      "price_above_ema20": "Close 244.60 vs EMA20 262.65",
+      "ema20_above_ema50": "EMA20 262.65 vs EMA50 268.23",
+      "ema50_above_ema200": "EMA50 268.23 vs EMA200 271.98",
+      "rsi_above_50": "RSI(14) 31.83 vs 50",
+      "macd_bullish": "MACD -6.53 vs signal -2.49",
+      "adx_trending_up": "ADX(14) 23.05 vs 20, +DI 13.87 vs -DI 40.50",
+      "price_above_vwap20": "Close 244.60 vs 20d VWAP 266.40",
+      "price_above_bb_mid": "Close 244.60 vs BB mid 268.74"
     },
     "flags_on": [],
     "flag_count": 0,
@@ -49,5 +49,5 @@
   },
   "fundamentals": null,
   "shareholding": null,
-  "updated_at": "2026-07-08T18:57:58.889786+00:00"
+  "updated_at": "2026-07-09T11:09:10.256280+00:00"
 }

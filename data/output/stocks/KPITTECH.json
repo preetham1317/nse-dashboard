@@ -3,24 +3,24 @@
   "name": "KPIT Technologies",
   "sector": "IT",
   "indicators": {
-    "date": "2026-07-08",
-    "close": 554.6,
-    "prev_close": 562.4,
-    "change_pct": -1.386913229018484,
-    "ema20": 657.9100898647292,
-    "ema50": 709.9847605223804,
-    "ema200": 895.2244662200245,
-    "rsi14": 19.087280654507623,
-    "macd": -51.95151152677988,
-    "macd_signal": -32.89908751864355,
-    "atr14": 27.985661222506007,
-    "adx14": 38.82693211230885,
-    "adx_pos": 8.291805253182755,
-    "adx_neg": 48.14196144276754,
-    "bb_high": 855.0893591507893,
-    "bb_low": 514.9456408492106,
-    "bb_mid": 685.0174999999999,
-    "vwap20": 612.3971019169505
+    "date": "2026-07-09",
+    "close": 548.15,
+    "prev_close": 554.6,
+    "change_pct": -1.163000360620275,
+    "ema20": 647.45674797285,
+    "ema50": 703.6382862675033,
+    "ema200": 891.6478588704277,
+    "rsi14": 18.48155400675668,
+    "macd": -54.00725113940689,
+    "macd_signal": -37.120720242585065,
+    "atr14": 26.729542564089865,
+    "adx14": 41.14245745524762,
+    "adx_pos": 8.061362598685534,
+    "adx_neg": 48.006540389737154,
+    "bb_high": 854.2991078658434,
+    "bb_low": 497.2558921341564,
+    "bb_mid": 675.7774999999999,
+    "vwap20": 609.5225191344186
   },
   "flags": {
     "flags": {
@@ -34,14 +34,14 @@
       "price_above_bb_mid": false
     },
     "flags_detail": {
-      "price_above_ema20": "Close 554.60 vs EMA20 657.91",
-      "ema20_above_ema50": "EMA20 657.91 vs EMA50 709.98",
-      "ema50_above_ema200": "EMA50 709.98 vs EMA200 895.22",
-      "rsi_above_50": "RSI(14) 19.09 vs 50",
-      "macd_bullish": "MACD -51.95 vs signal -32.90",
-      "adx_trending_up": "ADX(14) 38.83 vs 20, +DI 8.29 vs -DI 48.14",
-      "price_above_vwap20": "Close 554.60 vs 20d VWAP 612.40",
-      "price_above_bb_mid": "Close 554.60 vs BB mid 685.02"
+      "price_above_ema20": "Close 548.15 vs EMA20 647.46",
+      "ema20_above_ema50": "EMA20 647.46 vs EMA50 703.64",
+      "ema50_above_ema200": "EMA50 703.64 vs EMA200 891.65",
+      "rsi_above_50": "RSI(14) 18.48 vs 50",
+      "macd_bullish": "MACD -54.01 vs signal -37.12",
+      "adx_trending_up": "ADX(14) 41.14 vs 20, +DI 8.06 vs -DI 48.01",
+      "price_above_vwap20": "Close 548.15 vs 20d VWAP 609.52",
+      "price_above_bb_mid": "Close 548.15 vs BB mid 675.78"
     },
     "flags_on": [],
     "flag_count": 0,
@@ -49,5 +49,5 @@
   },
   "fundamentals": null,
   "shareholding": null,
-  "updated_at": "2026-07-08T18:59:41.773803+00:00"
+  "updated_at": "2026-07-09T11:11:05.074492+00:00"
 }

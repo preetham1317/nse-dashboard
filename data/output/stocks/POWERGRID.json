@@ -3,24 +3,24 @@
   "name": "Power Grid Corporation",
   "sector": "Power",
   "indicators": {
-    "date": "2026-07-08",
-    "close": 279.7,
-    "prev_close": 284.35,
-    "change_pct": -1.6353085985581268,
-    "ema20": 287.31407309797873,
-    "ema50": 291.8659859837412,
-    "ema200": 291.0721988949922,
-    "rsi14": 35.11433890969353,
-    "macd": -2.5881511336924063,
-    "macd_signal": -2.4964016897699635,
-    "atr14": 5.389518095356223,
-    "adx14": 13.622616016541048,
-    "adx_pos": 14.933385947589251,
-    "adx_neg": 24.519125070105268,
-    "bb_high": 292.67569803775933,
-    "bb_low": 281.21430196224065,
-    "bb_mid": 286.945,
-    "vwap20": 287.3839162006107
+    "date": "2026-07-09",
+    "close": 281.35,
+    "prev_close": 279.7,
+    "change_pct": 0.5899177690382675,
+    "ema20": 286.7460661362665,
+    "ema50": 291.4536004032686,
+    "ema200": 291.0322898623483,
+    "rsi14": 38.484554204150164,
+    "macd": -2.7582878565755777,
+    "macd_signal": -2.5487789232284954,
+    "atr14": 5.3081239457116585,
+    "adx14": 14.385065214712194,
+    "adx_pos": 14.079346111892054,
+    "adx_neg": 23.116877137909327,
+    "bb_high": 292.8771666577406,
+    "bb_low": 280.4278333422595,
+    "bb_mid": 286.65250000000003,
+    "vwap20": 287.20632956725706
   },
   "flags": {
     "flags": {
@@ -34,14 +34,14 @@
       "price_above_bb_mid": false
     },
     "flags_detail": {
-      "price_above_ema20": "Close 279.70 vs EMA20 287.31",
-      "ema20_above_ema50": "EMA20 287.31 vs EMA50 291.87",
-      "ema50_above_ema200": "EMA50 291.87 vs EMA200 291.07",
-      "rsi_above_50": "RSI(14) 35.11 vs 50",
-      "macd_bullish": "MACD -2.59 vs signal -2.50",
-      "adx_trending_up": "ADX(14) 13.62 vs 20, +DI 14.93 vs -DI 24.52",
-      "price_above_vwap20": "Close 279.70 vs 20d VWAP 287.38",
-      "price_above_bb_mid": "Close 279.70 vs BB mid 286.94"
+      "price_above_ema20": "Close 281.35 vs EMA20 286.75",
+      "ema20_above_ema50": "EMA20 286.75 vs EMA50 291.45",
+      "ema50_above_ema200": "EMA50 291.45 vs EMA200 291.03",
+      "rsi_above_50": "RSI(14) 38.48 vs 50",
+      "macd_bullish": "MACD -2.76 vs signal -2.55",
+      "adx_trending_up": "ADX(14) 14.39 vs 20, +DI 14.08 vs -DI 23.12",
+      "price_above_vwap20": "Close 281.35 vs 20d VWAP 287.21",
+      "price_above_bb_mid": "Close 281.35 vs BB mid 286.65"
     },
     "flags_on": [
       "ema50_above_ema200"
@@ -51,5 +51,5 @@
   },
   "fundamentals": null,
   "shareholding": null,
-  "updated_at": "2026-07-08T19:01:03.235391+00:00"
+  "updated_at": "2026-07-09T11:12:08.895545+00:00"
 }

@@ -3,24 +3,24 @@
   "name": "Divi's Laboratories",
   "sector": "Pharma",
   "indicators": {
-    "date": "2026-07-08",
-    "close": 6755.0,
-    "prev_close": 6771.5,
-    "change_pct": -0.2436683157350661,
-    "ema20": 6703.549015663858,
-    "ema50": 6627.564012093446,
-    "ema200": 6411.923210088143,
-    "rsi14": 53.80988805856232,
-    "macd": 26.958375800880276,
-    "macd_signal": 18.95359960604145,
-    "atr14": 145.2567308654711,
-    "adx14": 23.533001542369135,
-    "adx_pos": 23.042400839511647,
-    "adx_neg": 12.954066584967649,
-    "bb_high": 6860.266037346151,
-    "bb_low": 6533.083962653849,
-    "bb_mid": 6696.675,
-    "vwap20": 6706.081095883697
+    "date": "2026-07-09",
+    "close": 6813.0,
+    "prev_close": 6755.0,
+    "change_pct": 0.8586232420429312,
+    "ema20": 6713.972918933967,
+    "ema50": 6634.836109553604,
+    "ema200": 6416.837499471423,
+    "rsi14": 56.74001691392719,
+    "macd": 32.467856646669134,
+    "macd_signal": 21.656451012583148,
+    "atr14": 149.4883929473199,
+    "adx14": 24.398295610062668,
+    "adx_pos": 24.637282919952586,
+    "adx_neg": 11.688269974187273,
+    "bb_high": 6874.180804595751,
+    "bb_low": 6536.619195404248,
+    "bb_mid": 6705.4,
+    "vwap20": 6714.012884142518
   },
   "flags": {
     "flags": {
@@ -34,14 +34,14 @@
       "price_above_bb_mid": true
     },
     "flags_detail": {
-      "price_above_ema20": "Close 6,755.00 vs EMA20 6,703.55",
-      "ema20_above_ema50": "EMA20 6,703.55 vs EMA50 6,627.56",
-      "ema50_above_ema200": "EMA50 6,627.56 vs EMA200 6,411.92",
-      "rsi_above_50": "RSI(14) 53.81 vs 50",
-      "macd_bullish": "MACD 26.96 vs signal 18.95",
-      "adx_trending_up": "ADX(14) 23.53 vs 20, +DI 23.04 vs -DI 12.95",
-      "price_above_vwap20": "Close 6,755.00 vs 20d VWAP 6,706.08",
-      "price_above_bb_mid": "Close 6,755.00 vs BB mid 6,696.68"
+      "price_above_ema20": "Close 6,813.00 vs EMA20 6,713.97",
+      "ema20_above_ema50": "EMA20 6,713.97 vs EMA50 6,634.84",
+      "ema50_above_ema200": "EMA50 6,634.84 vs EMA200 6,416.84",
+      "rsi_above_50": "RSI(14) 56.74 vs 50",
+      "macd_bullish": "MACD 32.47 vs signal 21.66",
+      "adx_trending_up": "ADX(14) 24.40 vs 20, +DI 24.64 vs -DI 11.69",
+      "price_above_vwap20": "Close 6,813.00 vs 20d VWAP 6,714.01",
+      "price_above_bb_mid": "Close 6,813.00 vs BB mid 6,705.40"
     },
     "flags_on": [
       "price_above_ema20",
@@ -58,5 +58,5 @@
   },
   "fundamentals": null,
   "shareholding": null,
-  "updated_at": "2026-07-08T18:58:33.700406+00:00"
+  "updated_at": "2026-07-09T11:09:48.823596+00:00"
 }

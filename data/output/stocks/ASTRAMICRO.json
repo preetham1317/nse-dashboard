@@ -4,23 +4,23 @@
   "sector": "Defence",
   "indicators": {
     "date": "2026-07-09",
-    "close": 1834.8,
+    "close": 1833.1,
     "prev_close": 1809.3,
-    "change_pct": 1.4093848449676671,
-    "ema20": 1685.4532112654133,
-    "ema50": 1472.9556324491614,
-    "ema200": 1155.192716939111,
-    "rsi14": 74.49609797186035,
-    "macd": 125.74118017100568,
-    "macd_signal": 127.84346938157098,
+    "change_pct": 1.3154258553031535,
+    "ema20": 1685.2913065035084,
+    "ema50": 1472.8889657824948,
+    "ema200": 1155.1758015162254,
+    "rsi14": 74.40164107710541,
+    "macd": 125.60556763539307,
+    "macd_signal": 127.81634687444847,
     "atr14": 68.55463556151939,
     "adx14": 47.33897633663928,
     "adx_pos": 28.95311358066124,
     "adx_neg": 11.795284885321799,
-    "bb_high": 1954.6636483084899,
-    "bb_low": 1407.03635169151,
-    "bb_mid": 1680.85,
-    "vwap20": 1661.5114288636262
+    "bb_high": 1954.38842206033,
+    "bb_low": 1407.1415779396702,
+    "bb_mid": 1680.765,
+    "vwap20": 1663.2312196952776
   },
   "flags": {
     "flags": {
@@ -34,14 +34,14 @@
       "price_above_bb_mid": true
     },
     "flags_detail": {
-      "price_above_ema20": "Close 1,834.80 vs EMA20 1,685.45",
-      "ema20_above_ema50": "EMA20 1,685.45 vs EMA50 1,472.96",
-      "ema50_above_ema200": "EMA50 1,472.96 vs EMA200 1,155.19",
-      "rsi_above_50": "RSI(14) 74.50 vs 50",
-      "macd_bullish": "MACD 125.74 vs signal 127.84",
+      "price_above_ema20": "Close 1,833.10 vs EMA20 1,685.29",
+      "ema20_above_ema50": "EMA20 1,685.29 vs EMA50 1,472.89",
+      "ema50_above_ema200": "EMA50 1,472.89 vs EMA200 1,155.18",
+      "rsi_above_50": "RSI(14) 74.40 vs 50",
+      "macd_bullish": "MACD 125.61 vs signal 127.82",
       "adx_trending_up": "ADX(14) 47.34 vs 20, +DI 28.95 vs -DI 11.80",
-      "price_above_vwap20": "Close 1,834.80 vs 20d VWAP 1,661.51",
-      "price_above_bb_mid": "Close 1,834.80 vs BB mid 1,680.85"
+      "price_above_vwap20": "Close 1,833.10 vs 20d VWAP 1,663.23",
+      "price_above_bb_mid": "Close 1,833.10 vs BB mid 1,680.77"
     },
     "flags_on": [
       "price_above_ema20",
@@ -57,5 +57,5 @@
   },
   "fundamentals": null,
   "shareholding": null,
-  "updated_at": "2026-07-09T04:46:47.409502+00:00"
+  "updated_at": "2026-07-09T11:08:56.591514+00:00"
 }

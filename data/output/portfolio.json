@@ -5,11 +5,36 @@
       "quantity": 10,
       "buy_price": 1250.0,
       "buy_date": "2026-01-15",
-      "current_price": null,
-      "pnl": null,
-      "pnl_pct": null,
-      "flags": null
+      "current_price": 1279.8,
+      "pnl": 297.99999999999955,
+      "pnl_pct": 2.3839999999999963,
+      "flags": {
+        "flags": {
+          "price_above_ema20": false,
+          "ema20_above_ema50": false,
+          "ema50_above_ema200": false,
+          "rsi_above_50": false,
+          "macd_bullish": false,
+          "adx_trending_up": false,
+          "price_above_vwap20": false,
+          "price_above_bb_mid": false
+        },
+        "flags_detail": {
+          "price_above_ema20": "Close 1,279.80 vs EMA20 1,305.42",
+          "ema20_above_ema50": "EMA20 1,305.42 vs EMA50 1,326.70",
+          "ema50_above_ema200": "EMA50 1,326.70 vs EMA200 1,380.05",
+          "rsi_above_50": "RSI(14) 40.70 vs 50",
+          "macd_bullish": "MACD -9.15 vs signal -8.23",
+          "adx_trending_up": "ADX(14) 14.92 vs 20, +DI 15.73 vs -DI 24.60",
+          "price_above_vwap20": "Close 1,279.80 vs 20d VWAP 1,307.13",
+          "price_above_bb_mid": "Close 1,279.80 vs BB mid 1,306.28"
+        },
+        "flags_on": [],
+        "flag_count": 0,
+        "flag_total": 8
+      },
+      "sector": "Energy"
     }
   ],
-  "updated_at": "2026-07-09T04:49:38.297949+00:00"
+  "updated_at": "2026-07-09T11:13:12.075258+00:00"
 }

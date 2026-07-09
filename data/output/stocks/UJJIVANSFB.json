@@ -3,24 +3,24 @@
   "name": "Ujjivan Small Finance Bank",
   "sector": "Banking",
   "indicators": {
-    "date": "2026-07-08",
-    "close": 59.63,
-    "prev_close": 61.62,
-    "change_pct": -3.22947095098993,
-    "ema20": 58.18063206544893,
-    "ema50": 57.110692266303715,
-    "ema200": 54.61546986712187,
-    "rsi14": 56.2717022866816,
-    "macd": 1.3296992621734844,
-    "macd_signal": 0.9798918963927508,
-    "atr14": 2.042094858127473,
-    "adx14": 29.07590209225417,
-    "adx_pos": 33.090842072661985,
-    "adx_neg": 15.202975005639473,
-    "bb_high": 62.487310122841485,
-    "bb_low": 52.849689877158504,
-    "bb_mid": 57.668499999999995,
-    "vwap20": 58.57554523622886
+    "date": "2026-07-09",
+    "close": 62.58,
+    "prev_close": 59.63,
+    "change_pct": 4.947174241153774,
+    "ema20": 58.5996194877871,
+    "ema50": 57.32517266250225,
+    "ema200": 54.67340794886334,
+    "rsi14": 63.32481597791702,
+    "macd": 1.5096437746776061,
+    "macd_signal": 1.0858422720862826,
+    "atr14": 2.176230939716853,
+    "adx14": 30.23580628896219,
+    "adx_pos": 35.20077764673375,
+    "adx_neg": 13.24691743621242,
+    "bb_high": 62.90911944265354,
+    "bb_low": 53.39188055734646,
+    "bb_mid": 58.1505,
+    "vwap20": 59.023663620329025
   },
   "flags": {
     "flags": {
@@ -34,14 +34,14 @@
       "price_above_bb_mid": true
     },
     "flags_detail": {
-      "price_above_ema20": "Close 59.63 vs EMA20 58.18",
-      "ema20_above_ema50": "EMA20 58.18 vs EMA50 57.11",
-      "ema50_above_ema200": "EMA50 57.11 vs EMA200 54.62",
-      "rsi_above_50": "RSI(14) 56.27 vs 50",
-      "macd_bullish": "MACD 1.33 vs signal 0.98",
-      "adx_trending_up": "ADX(14) 29.08 vs 20, +DI 33.09 vs -DI 15.20",
-      "price_above_vwap20": "Close 59.63 vs 20d VWAP 58.58",
-      "price_above_bb_mid": "Close 59.63 vs BB mid 57.67"
+      "price_above_ema20": "Close 62.58 vs EMA20 58.60",
+      "ema20_above_ema50": "EMA20 58.60 vs EMA50 57.33",
+      "ema50_above_ema200": "EMA50 57.33 vs EMA200 54.67",
+      "rsi_above_50": "RSI(14) 63.32 vs 50",
+      "macd_bullish": "MACD 1.51 vs signal 1.09",
+      "adx_trending_up": "ADX(14) 30.24 vs 20, +DI 35.20 vs -DI 13.25",
+      "price_above_vwap20": "Close 62.58 vs 20d VWAP 59.02",
+      "price_above_bb_mid": "Close 62.58 vs BB mid 58.15"
     },
     "flags_on": [
       "price_above_ema20",
@@ -58,5 +58,5 @@
   },
   "fundamentals": null,
   "shareholding": null,
-  "updated_at": "2026-07-08T19:02:00.182655+00:00"
+  "updated_at": "2026-07-09T11:12:59.544726+00:00"
 }

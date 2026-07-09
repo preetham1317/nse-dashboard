@@ -4,23 +4,23 @@
   "sector": "Railways",
   "indicators": {
     "date": "2026-07-09",
-    "close": 252.95,
+    "close": 251.25,
     "prev_close": 248.9,
-    "change_pct": 1.6271595018079483,
-    "ema20": 265.8243901859425,
-    "ema50": 272.9407859177592,
-    "ema200": 295.799116108215,
-    "rsi14": 35.69129004696799,
-    "macd": -6.568254199487853,
-    "macd_signal": -4.63894543053728,
+    "change_pct": 0.9441542788268358,
+    "ema20": 265.66248542403775,
+    "ema50": 272.8741192510925,
+    "ema200": 295.7822006853294,
+    "rsi14": 33.746497421944625,
+    "macd": -6.703866735100405,
+    "macd_signal": -4.66606793765979,
     "atr14": 8.533372112201901,
     "adx14": 13.952391362535646,
     "adx_pos": 16.60480162048559,
     "adx_neg": 28.679222985785685,
-    "bb_high": 286.4006768582708,
-    "bb_low": 249.64932314172916,
-    "bb_mid": 268.025,
-    "vwap20": 270.5227254202967
+    "bb_high": 286.6072333247214,
+    "bb_low": 249.2727666752786,
+    "bb_mid": 267.94,
+    "vwap20": 270.2133734053125
   },
   "flags": {
     "flags": {
@@ -34,14 +34,14 @@
       "price_above_bb_mid": false
     },
     "flags_detail": {
-      "price_above_ema20": "Close 252.95 vs EMA20 265.82",
-      "ema20_above_ema50": "EMA20 265.82 vs EMA50 272.94",
-      "ema50_above_ema200": "EMA50 272.94 vs EMA200 295.80",
-      "rsi_above_50": "RSI(14) 35.69 vs 50",
-      "macd_bullish": "MACD -6.57 vs signal -4.64",
+      "price_above_ema20": "Close 251.25 vs EMA20 265.66",
+      "ema20_above_ema50": "EMA20 265.66 vs EMA50 272.87",
+      "ema50_above_ema200": "EMA50 272.87 vs EMA200 295.78",
+      "rsi_above_50": "RSI(14) 33.75 vs 50",
+      "macd_bullish": "MACD -6.70 vs signal -4.67",
       "adx_trending_up": "ADX(14) 13.95 vs 20, +DI 16.60 vs -DI 28.68",
-      "price_above_vwap20": "Close 252.95 vs 20d VWAP 270.52",
-      "price_above_bb_mid": "Close 252.95 vs BB mid 268.02"
+      "price_above_vwap20": "Close 251.25 vs 20d VWAP 270.21",
+      "price_above_bb_mid": "Close 251.25 vs BB mid 267.94"
     },
     "flags_on": [],
     "flag_count": 0,
@@ -49,5 +49,5 @@
   },
   "fundamentals": null,
   "shareholding": null,
-  "updated_at": "2026-07-09T04:48:00.153726+00:00"
+  "updated_at": "2026-07-09T11:10:54.433405+00:00"
 }

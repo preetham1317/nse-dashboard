@@ -3,53 +3,57 @@
   "name": "Colgate-Palmolive (India)",
   "sector": "FMCG",
   "indicators": {
-    "date": "2026-07-08",
-    "close": 2020.1,
-    "prev_close": 2077.2,
-    "change_pct": -2.7488927402272245,
-    "ema20": 2038.8053472539793,
-    "ema50": 2051.572455459655,
-    "ema200": 2134.674719091343,
-    "rsi14": 46.62057087116172,
-    "macd": -2.6619783858222945,
-    "macd_signal": -9.999455535873647,
-    "atr14": 47.5916820025727,
-    "adx14": 14.620360849421527,
-    "adx_pos": 21.906032834068316,
-    "adx_neg": 20.93137308015977,
-    "bb_high": 2109.2921946450815,
-    "bb_low": 1956.007805354919,
-    "bb_mid": 2032.65,
-    "vwap20": 2032.2294802043066
+    "date": "2026-07-09",
+    "close": 2063.0,
+    "prev_close": 2020.1,
+    "change_pct": 2.1236572446908615,
+    "ema20": 2041.1095998964595,
+    "ema50": 2052.02078480555,
+    "ema200": 2135.7563954207126,
+    "rsi14": 52.85742789143057,
+    "macd": -0.5393499576127851,
+    "macd_signal": -8.107434423300942,
+    "atr14": 48.02799043106235,
+    "adx14": 13.73856749439391,
+    "adx_pos": 20.156526299683712,
+    "adx_neg": 19.259706912102573,
+    "bb_high": 2110.094902736383,
+    "bb_low": 1955.8750972636167,
+    "bb_mid": 2032.985,
+    "vwap20": 2029.2940225401355
   },
   "flags": {
     "flags": {
-      "price_above_ema20": false,
+      "price_above_ema20": true,
       "ema20_above_ema50": false,
       "ema50_above_ema200": false,
-      "rsi_above_50": false,
+      "rsi_above_50": true,
       "macd_bullish": true,
       "adx_trending_up": false,
-      "price_above_vwap20": false,
-      "price_above_bb_mid": false
+      "price_above_vwap20": true,
+      "price_above_bb_mid": true
     },
     "flags_detail": {
-      "price_above_ema20": "Close 2,020.10 vs EMA20 2,038.81",
-      "ema20_above_ema50": "EMA20 2,038.81 vs EMA50 2,051.57",
-      "ema50_above_ema200": "EMA50 2,051.57 vs EMA200 2,134.67",
-      "rsi_above_50": "RSI(14) 46.62 vs 50",
-      "macd_bullish": "MACD -2.66 vs signal -10.00",
-      "adx_trending_up": "ADX(14) 14.62 vs 20, +DI 21.91 vs -DI 20.93",
-      "price_above_vwap20": "Close 2,020.10 vs 20d VWAP 2,032.23",
-      "price_above_bb_mid": "Close 2,020.10 vs BB mid 2,032.65"
+      "price_above_ema20": "Close 2,063.00 vs EMA20 2,041.11",
+      "ema20_above_ema50": "EMA20 2,041.11 vs EMA50 2,052.02",
+      "ema50_above_ema200": "EMA50 2,052.02 vs EMA200 2,135.76",
+      "rsi_above_50": "RSI(14) 52.86 vs 50",
+      "macd_bullish": "MACD -0.54 vs signal -8.11",
+      "adx_trending_up": "ADX(14) 13.74 vs 20, +DI 20.16 vs -DI 19.26",
+      "price_above_vwap20": "Close 2,063.00 vs 20d VWAP 2,029.29",
+      "price_above_bb_mid": "Close 2,063.00 vs BB mid 2,032.98"
     },
     "flags_on": [
-      "macd_bullish"
+      "price_above_ema20",
+      "rsi_above_50",
+      "macd_bullish",
+      "price_above_vwap20",
+      "price_above_bb_mid"
     ],
-    "flag_count": 1,
+    "flag_count": 5,
     "flag_total": 8
   },
   "fundamentals": null,
   "shareholding": null,
-  "updated_at": "2026-07-08T18:58:24.271662+00:00"
+  "updated_at": "2026-07-09T11:09:37.810717+00:00"
 }

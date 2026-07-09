@@ -3,53 +3,56 @@
   "name": "Balkrishna Industries",
   "sector": "Auto Ancillary",
   "indicators": {
-    "date": "2026-07-08",
-    "close": 2167.3,
-    "prev_close": 2255.0,
-    "change_pct": -3.8891352549889056,
-    "ema20": 2197.765671868429,
-    "ema50": 2199.878430725364,
-    "ema200": 2297.591833151307,
-    "rsi14": 47.088540741073324,
-    "macd": 9.05856956941534,
-    "macd_signal": 8.908668073774965,
-    "atr14": 69.17793699992842,
-    "adx14": 11.174941470603713,
-    "adx_pos": 24.791338829728527,
-    "adx_neg": 22.363538901866153,
-    "bb_high": 2340.6124913008234,
-    "bb_low": 2035.2675086991767,
-    "bb_mid": 2187.94,
-    "vwap20": 2169.3732088413813
+    "date": "2026-07-09",
+    "close": 2205.0,
+    "prev_close": 2167.3,
+    "change_pct": 1.73949153324412,
+    "ema20": 2198.454655500007,
+    "ema50": 2200.0792615124387,
+    "ema200": 2296.5284482166117,
+    "rsi14": 51.01351015854509,
+    "macd": 8.464961104623399,
+    "macd_signal": 8.819926680188257,
+    "atr14": 68.95094149772669,
+    "adx14": 10.660425771717362,
+    "adx_pos": 23.09631549956249,
+    "adx_neg": 21.331756070100884,
+    "bb_high": 2339.0288013743548,
+    "bb_low": 2049.0311986256447,
+    "bb_mid": 2194.0299999999997,
+    "vwap20": 2173.5105210626193
   },
   "flags": {
     "flags": {
-      "price_above_ema20": false,
+      "price_above_ema20": true,
       "ema20_above_ema50": false,
       "ema50_above_ema200": false,
-      "rsi_above_50": false,
-      "macd_bullish": true,
+      "rsi_above_50": true,
+      "macd_bullish": false,
       "adx_trending_up": false,
-      "price_above_vwap20": false,
-      "price_above_bb_mid": false
+      "price_above_vwap20": true,
+      "price_above_bb_mid": true
     },
     "flags_detail": {
-      "price_above_ema20": "Close 2,167.30 vs EMA20 2,197.77",
-      "ema20_above_ema50": "EMA20 2,197.77 vs EMA50 2,199.88",
-      "ema50_above_ema200": "EMA50 2,199.88 vs EMA200 2,297.59",
-      "rsi_above_50": "RSI(14) 47.09 vs 50",
-      "macd_bullish": "MACD 9.06 vs signal 8.91",
-      "adx_trending_up": "ADX(14) 11.17 vs 20, +DI 24.79 vs -DI 22.36",
-      "price_above_vwap20": "Close 2,167.30 vs 20d VWAP 2,169.37",
-      "price_above_bb_mid": "Close 2,167.30 vs BB mid 2,187.94"
+      "price_above_ema20": "Close 2,205.00 vs EMA20 2,198.45",
+      "ema20_above_ema50": "EMA20 2,198.45 vs EMA50 2,200.08",
+      "ema50_above_ema200": "EMA50 2,200.08 vs EMA200 2,296.53",
+      "rsi_above_50": "RSI(14) 51.01 vs 50",
+      "macd_bullish": "MACD 8.46 vs signal 8.82",
+      "adx_trending_up": "ADX(14) 10.66 vs 20, +DI 23.10 vs -DI 21.33",
+      "price_above_vwap20": "Close 2,205.00 vs 20d VWAP 2,173.51",
+      "price_above_bb_mid": "Close 2,205.00 vs BB mid 2,194.03"
     },
     "flags_on": [
-      "macd_bullish"
+      "price_above_ema20",
+      "rsi_above_50",
+      "price_above_vwap20",
+      "price_above_bb_mid"
     ],
-    "flag_count": 1,
+    "flag_count": 4,
     "flag_total": 8
   },
   "fundamentals": null,
   "shareholding": null,
-  "updated_at": "2026-07-08T18:57:57.601626+00:00"
+  "updated_at": "2026-07-09T11:09:08.271712+00:00"
 }

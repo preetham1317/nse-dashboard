@@ -4,23 +4,23 @@
   "sector": "Infrastructure",
   "indicators": {
     "date": "2026-07-09",
-    "close": 128.64,
+    "close": 127.33,
     "prev_close": 127.28,
-    "change_pct": 1.0685103708359405,
-    "ema20": 130.99942838784645,
-    "ema50": 130.2933950239127,
-    "ema200": 148.53053050278547,
-    "rsi14": 45.49737045366442,
-    "macd": -0.17327689375301247,
-    "macd_signal": 0.7540956306763292,
+    "change_pct": 0.039283469516025425,
+    "ema20": 130.87466648308452,
+    "ema50": 130.24202247489308,
+    "ema200": 148.51749567691482,
+    "rsi14": 42.634044147478804,
+    "macd": -0.277778318254434,
+    "macd_signal": 0.733195345776045,
     "atr14": 4.486135626455634,
     "adx14": 11.628345200459892,
     "adx_pos": 16.21067633213911,
     "adx_neg": 24.523413880326387,
-    "bb_high": 142.55946686630315,
-    "bb_low": 120.94253313369686,
-    "bb_mid": 131.751,
-    "vwap20": 133.27609379366487
+    "bb_high": 142.584086100957,
+    "bb_low": 120.786913899043,
+    "bb_mid": 131.6855,
+    "vwap20": 133.2258951167675
   },
   "flags": {
     "flags": {
@@ -34,14 +34,14 @@
       "price_above_bb_mid": false
     },
     "flags_detail": {
-      "price_above_ema20": "Close 128.64 vs EMA20 131.00",
-      "ema20_above_ema50": "EMA20 131.00 vs EMA50 130.29",
-      "ema50_above_ema200": "EMA50 130.29 vs EMA200 148.53",
-      "rsi_above_50": "RSI(14) 45.50 vs 50",
-      "macd_bullish": "MACD -0.17 vs signal 0.75",
+      "price_above_ema20": "Close 127.33 vs EMA20 130.87",
+      "ema20_above_ema50": "EMA20 130.87 vs EMA50 130.24",
+      "ema50_above_ema200": "EMA50 130.24 vs EMA200 148.52",
+      "rsi_above_50": "RSI(14) 42.63 vs 50",
+      "macd_bullish": "MACD -0.28 vs signal 0.73",
       "adx_trending_up": "ADX(14) 11.63 vs 20, +DI 16.21 vs -DI 24.52",
-      "price_above_vwap20": "Close 128.64 vs 20d VWAP 133.28",
-      "price_above_bb_mid": "Close 128.64 vs BB mid 131.75"
+      "price_above_vwap20": "Close 127.33 vs 20d VWAP 133.23",
+      "price_above_bb_mid": "Close 127.33 vs BB mid 131.69"
     },
     "flags_on": [
       "ema20_above_ema50"
@@ -51,5 +51,5 @@
   },
   "fundamentals": null,
   "shareholding": null,
-  "updated_at": "2026-07-09T04:48:06.755829+00:00"
+  "updated_at": "2026-07-09T11:11:02.002200+00:00"
 }

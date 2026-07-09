@@ -3,24 +3,24 @@
   "name": "Lupin Ltd",
   "sector": "Pharma",
   "indicators": {
-    "date": "2026-07-08",
-    "close": 2459.0,
-    "prev_close": 2490.2,
-    "change_pct": -1.2529114127379255,
-    "ema20": 2385.75892347049,
-    "ema50": 2335.9587435412486,
-    "ema200": 2213.669330486878,
-    "rsi14": 65.55683653585905,
-    "macd": 48.707611475520935,
-    "macd_signal": 35.195673436075204,
-    "atr14": 50.12736747190909,
-    "adx14": 27.123316370949677,
-    "adx_pos": 27.056467739363992,
-    "adx_neg": 13.080215278493798,
-    "bb_high": 2514.8652768243296,
-    "bb_low": 2211.78472317567,
-    "bb_mid": 2363.325,
-    "vwap20": 2368.7072026478354
+    "date": "2026-07-09",
+    "close": 2503.3,
+    "prev_close": 2459.0,
+    "change_pct": 1.8015453436356317,
+    "ema20": 2396.953311711391,
+    "ema50": 2342.520751004312,
+    "ema200": 2212.8289108503277,
+    "rsi14": 70.07217870861851,
+    "macd": 51.86316304994625,
+    "macd_signal": 38.5291713652341,
+    "atr14": 51.38255551032438,
+    "adx14": 27.673196901865413,
+    "adx_pos": 24.510129858834066,
+    "adx_neg": 11.849210253710673,
+    "bb_high": 2529.5255031935235,
+    "bb_low": 2222.7344968064767,
+    "bb_mid": 2376.13,
+    "vwap20": 2378.058170469753
   },
   "flags": {
     "flags": {
@@ -34,14 +34,14 @@
       "price_above_bb_mid": true
     },
     "flags_detail": {
-      "price_above_ema20": "Close 2,459.00 vs EMA20 2,385.76",
-      "ema20_above_ema50": "EMA20 2,385.76 vs EMA50 2,335.96",
-      "ema50_above_ema200": "EMA50 2,335.96 vs EMA200 2,213.67",
-      "rsi_above_50": "RSI(14) 65.56 vs 50",
-      "macd_bullish": "MACD 48.71 vs signal 35.20",
-      "adx_trending_up": "ADX(14) 27.12 vs 20, +DI 27.06 vs -DI 13.08",
-      "price_above_vwap20": "Close 2,459.00 vs 20d VWAP 2,368.71",
-      "price_above_bb_mid": "Close 2,459.00 vs BB mid 2,363.32"
+      "price_above_ema20": "Close 2,503.30 vs EMA20 2,396.95",
+      "ema20_above_ema50": "EMA20 2,396.95 vs EMA50 2,342.52",
+      "ema50_above_ema200": "EMA50 2,342.52 vs EMA200 2,212.83",
+      "rsi_above_50": "RSI(14) 70.07 vs 50",
+      "macd_bullish": "MACD 51.86 vs signal 38.53",
+      "adx_trending_up": "ADX(14) 27.67 vs 20, +DI 24.51 vs -DI 11.85",
+      "price_above_vwap20": "Close 2,503.30 vs 20d VWAP 2,378.06",
+      "price_above_bb_mid": "Close 2,503.30 vs BB mid 2,376.13"
     },
     "flags_on": [
       "price_above_ema20",
@@ -58,5 +58,5 @@
   },
   "fundamentals": null,
   "shareholding": null,
-  "updated_at": "2026-07-08T18:59:48.325244+00:00"
+  "updated_at": "2026-07-09T11:11:15.887554+00:00"
 }

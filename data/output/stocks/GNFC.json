@@ -3,24 +3,24 @@
   "name": "Gujarat Narmada Valley Fertilizers & Chemicals",
   "sector": "Agri & Fertilizers",
   "indicators": {
-    "date": "2026-07-08",
-    "close": 497.7,
-    "prev_close": 513.45,
-    "change_pct": -3.067484662576698,
-    "ema20": 527.8066470062341,
-    "ema50": 512.0029073477051,
-    "ema200": 490.7914954881605,
-    "rsi14": 38.45315645749616,
-    "macd": 1.9640204739724823,
-    "macd_signal": 8.912246676897688,
-    "atr14": 18.44312510309432,
-    "adx14": 25.809570335320082,
-    "adx_pos": 22.793570642207158,
-    "adx_neg": 27.113958611190803,
-    "bb_high": 586.0341315309466,
-    "bb_low": 482.6058684690533,
-    "bb_mid": 534.3199999999999,
-    "vwap20": 548.9676491743592
+    "date": "2026-07-09",
+    "close": 504.6,
+    "prev_close": 497.7,
+    "change_pct": 1.3863773357444313,
+    "ema20": 525.596490148498,
+    "ema50": 511.7126191025451,
+    "ema200": 491.134899627973,
+    "rsi14": 41.85723110564344,
+    "macd": 0.0012733349333302613,
+    "macd_signal": 7.1300520081516385,
+    "atr14": 17.993616167285502,
+    "adx14": 24.584371435707258,
+    "adx_pos": 21.69420501560585,
+    "adx_neg": 25.806214663269994,
+    "bb_high": 585.0514049225438,
+    "bb_low": 484.6885950774562,
+    "bb_mid": 534.87,
+    "vwap20": 549.9046895798276
   },
   "flags": {
     "flags": {
@@ -34,14 +34,14 @@
       "price_above_bb_mid": false
     },
     "flags_detail": {
-      "price_above_ema20": "Close 497.70 vs EMA20 527.81",
-      "ema20_above_ema50": "EMA20 527.81 vs EMA50 512.00",
-      "ema50_above_ema200": "EMA50 512.00 vs EMA200 490.79",
-      "rsi_above_50": "RSI(14) 38.45 vs 50",
-      "macd_bullish": "MACD 1.96 vs signal 8.91",
-      "adx_trending_up": "ADX(14) 25.81 vs 20, +DI 22.79 vs -DI 27.11",
-      "price_above_vwap20": "Close 497.70 vs 20d VWAP 548.97",
-      "price_above_bb_mid": "Close 497.70 vs BB mid 534.32"
+      "price_above_ema20": "Close 504.60 vs EMA20 525.60",
+      "ema20_above_ema50": "EMA20 525.60 vs EMA50 511.71",
+      "ema50_above_ema200": "EMA50 511.71 vs EMA200 491.13",
+      "rsi_above_50": "RSI(14) 41.86 vs 50",
+      "macd_bullish": "MACD 0.00 vs signal 7.13",
+      "adx_trending_up": "ADX(14) 24.58 vs 20, +DI 21.69 vs -DI 25.81",
+      "price_above_vwap20": "Close 504.60 vs 20d VWAP 549.90",
+      "price_above_bb_mid": "Close 504.60 vs BB mid 534.87"
     },
     "flags_on": [
       "ema20_above_ema50",
@@ -52,5 +52,5 @@
   },
   "fundamentals": null,
   "shareholding": null,
-  "updated_at": "2026-07-08T18:58:50.912450+00:00"
+  "updated_at": "2026-07-09T11:10:04.675996+00:00"
 }
