@@ -4,27 +4,27 @@
   "sector": "Auto",
   "indicators": {
     "date": "2026-07-10",
-    "close": 157.5,
+    "close": 157.49,
     "prev_close": 155.19,
-    "change_pct": 1.488497970230042,
-    "ema20": 158.08269358080102,
-    "ema50": 159.30550516559342,
-    "ema200": 159.7101427738386,
-    "rsi14": 49.662774102125944,
-    "macd": 1.1875661645215132,
-    "macd_signal": 1.2775598722240475,
+    "change_pct": 1.482054256073208,
+    "ema20": 158.08174119984864,
+    "ema50": 159.30511300873067,
+    "ema200": 159.71004327135105,
+    "rsi14": 49.650913146318686,
+    "macd": 1.1867684437237926,
+    "macd_signal": 1.2774003280645034,
     "atr14": 4.975898903234927,
     "adx14": 15.379936298096668,
     "adx_pos": 22.785008702386122,
     "adx_neg": 24.757718435953866,
-    "bb_high": 166.4967792209869,
-    "bb_low": 150.8252207790131,
-    "bb_mid": 158.661,
-    "vwap20": 158.0366993687911,
+    "bb_high": 166.49657676072982,
+    "bb_low": 150.8244232392702,
+    "bb_mid": 158.6605,
+    "vwap20": 158.03631954336663,
     "high_52w": 215.42,
     "low_52w": 114.96,
-    "volume": 17246728.0,
-    "avg_volume20": 29153768.55
+    "volume": 17409676.0,
+    "avg_volume20": 29161915.95
   },
   "price_history": [
     {
@@ -624,7 +624,7 @@
     },
     {
       "date": "2026-07-10",
-      "close": 157.5,
+      "close": 157.49,
       "ema50": 159.31
     }
   ],
@@ -640,14 +640,14 @@
       "price_above_bb_mid": false
     },
     "flags_detail": {
-      "price_above_ema20": "Close 157.50 vs EMA20 158.08",
+      "price_above_ema20": "Close 157.49 vs EMA20 158.08",
       "ema20_above_ema50": "EMA20 158.08 vs EMA50 159.31",
       "ema50_above_ema200": "EMA50 159.31 vs EMA200 159.71",
-      "rsi_above_50": "RSI(14) 49.66 vs 50",
+      "rsi_above_50": "RSI(14) 49.65 vs 50",
       "macd_bullish": "MACD 1.19 vs signal 1.28",
       "adx_trending_up": "ADX(14) 15.38 vs 20, +DI 22.79 vs -DI 24.76",
-      "price_above_vwap20": "Close 157.50 vs 20d VWAP 158.04",
-      "price_above_bb_mid": "Close 157.50 vs BB mid 158.66"
+      "price_above_vwap20": "Close 157.49 vs 20d VWAP 158.04",
+      "price_above_bb_mid": "Close 157.49 vs BB mid 158.66"
     },
     "flags_on": [],
     "flag_count": 0,
@@ -656,5 +656,5 @@
   "fundamentals": null,
   "analyst": null,
   "shareholding": null,
-  "updated_at": "2026-07-10T09:58:51.018108+00:00"
+  "updated_at": "2026-07-10T12:40:22.596471+00:00"
 }

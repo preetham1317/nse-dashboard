@@ -1,5 +1,5 @@
 {
-  "run_at": "2026-07-10T09:55:05.986483+00:00",
+  "run_at": "2026-07-10T12:36:26.634139+00:00",
   "symbols": {
     "AARTIIND": {
       "status": "ok",
@@ -78,8 +78,10 @@
       "shareholding_available": false
     },
     "AUBANK": {
-      "status": "skipped",
-      "reason": "ohlcv fetch failed"
+      "status": "ok",
+      "fundamentals_available": false,
+      "analyst_available": false,
+      "shareholding_available": false
     },
     "AUROPHARMA": {
       "status": "ok",
@@ -118,8 +120,10 @@
       "shareholding_available": false
     },
     "BANKBARODA": {
-      "status": "skipped",
-      "reason": "ohlcv fetch failed"
+      "status": "ok",
+      "fundamentals_available": false,
+      "analyst_available": false,
+      "shareholding_available": false
     },
     "BDL": {
       "status": "ok",
@@ -344,8 +348,10 @@
       "shareholding_available": false
     },
     "HAL": {
-      "status": "skipped",
-      "reason": "ohlcv fetch failed"
+      "status": "ok",
+      "fundamentals_available": false,
+      "analyst_available": false,
+      "shareholding_available": false
     },
     "HCLTECH": {
       "status": "ok",
@@ -366,8 +372,10 @@
       "shareholding_available": false
     },
     "HFCL": {
-      "status": "skipped",
-      "reason": "ohlcv fetch failed"
+      "status": "ok",
+      "fundamentals_available": false,
+      "analyst_available": false,
+      "shareholding_available": false
     },
     "HGINFRA": {
       "status": "ok",
@@ -1048,7 +1056,7 @@
   },
   "summary": {
     "total": 177,
-    "ok": 168,
-    "skipped": 9
+    "ok": 172,
+    "skipped": 5
   }
 }

@@ -3,35 +3,30 @@
   "name": "AU Small Finance Bank",
   "sector": "Banking",
   "indicators": {
-    "date": "2026-07-09",
-    "close": 1047.4,
-    "prev_close": 1038.8,
-    "change_pct": 0.8278783211397899,
-    "ema20": 1035.8427121494706,
-    "ema50": 1013.2043951703497,
-    "ema200": 935.8309144112952,
-    "rsi14": 55.447824110142804,
-    "macd": 15.260092071669987,
-    "macd_signal": 15.35875072916259,
-    "atr14": 27.23687576179438,
-    "adx14": 28.493236839486638,
-    "adx_pos": 26.282813230473668,
-    "adx_neg": 16.199018908843772,
-    "bb_high": 1082.2295938788802,
-    "bb_low": 991.3704061211196,
-    "bb_mid": 1036.8,
-    "vwap20": 1036.418926207046,
+    "date": "2026-07-10",
+    "close": 1072.1,
+    "prev_close": 1047.4,
+    "change_pct": 2.3582203551651535,
+    "ema20": 1039.2957871828546,
+    "ema50": 1015.5140478258619,
+    "ema200": 937.3857281375514,
+    "rsi14": 61.133540347098915,
+    "macd": 16.27879171653035,
+    "macd_signal": 15.542758926294868,
+    "atr14": 27.612813207688532,
+    "adx14": 29.036502644606625,
+    "adx_pos": 31.60075994550641,
+    "adx_neg": 14.837156028798171,
+    "bb_high": 1075.6202576383098,
+    "bb_low": 1008.8597423616901,
+    "bb_mid": 1042.24,
+    "vwap20": 1039.8286384295322,
     "high_52w": 1090.4,
     "low_52w": 682.15,
-    "volume": 1090588.0,
-    "avg_volume20": 2345855.4
+    "volume": 1470963.0,
+    "avg_volume20": 2343612.45
   },
   "price_history": [
-    {
-      "date": "2026-01-12",
-      "close": 1007.8,
-      "ema50": 947.51
-    },
     {
       "date": "2026-01-13",
       "close": 971.95,
@@ -40,7 +35,7 @@
     {
       "date": "2026-01-14",
       "close": 976.35,
-      "ema50": 949.56
+      "ema50": 949.57
     },
     {
       "date": "2026-01-16",
@@ -115,7 +110,7 @@
     {
       "date": "2026-02-05",
       "close": 986.0,
-      "ema50": 965.47
+      "ema50": 965.48
     },
     {
       "date": "2026-02-06",
@@ -165,7 +160,7 @@
     {
       "date": "2026-02-19",
       "close": 1017.05,
-      "ema50": 978.18
+      "ema50": 978.19
     },
     {
       "date": "2026-02-20",
@@ -626,6 +621,11 @@
       "date": "2026-07-09",
       "close": 1047.4,
       "ema50": 1013.2
+    },
+    {
+      "date": "2026-07-10",
+      "close": 1072.1,
+      "ema50": 1015.51
     }
   ],
   "flags": {
@@ -634,35 +634,36 @@
       "ema20_above_ema50": true,
       "ema50_above_ema200": true,
       "rsi_above_50": true,
-      "macd_bullish": false,
+      "macd_bullish": true,
       "adx_trending_up": true,
       "price_above_vwap20": true,
       "price_above_bb_mid": true
     },
     "flags_detail": {
-      "price_above_ema20": "Close 1,047.40 vs EMA20 1,035.84",
-      "ema20_above_ema50": "EMA20 1,035.84 vs EMA50 1,013.20",
-      "ema50_above_ema200": "EMA50 1,013.20 vs EMA200 935.83",
-      "rsi_above_50": "RSI(14) 55.45 vs 50",
-      "macd_bullish": "MACD 15.26 vs signal 15.36",
-      "adx_trending_up": "ADX(14) 28.49 vs 20, +DI 26.28 vs -DI 16.20",
-      "price_above_vwap20": "Close 1,047.40 vs 20d VWAP 1,036.42",
-      "price_above_bb_mid": "Close 1,047.40 vs BB mid 1,036.80"
+      "price_above_ema20": "Close 1,072.10 vs EMA20 1,039.30",
+      "ema20_above_ema50": "EMA20 1,039.30 vs EMA50 1,015.51",
+      "ema50_above_ema200": "EMA50 1,015.51 vs EMA200 937.39",
+      "rsi_above_50": "RSI(14) 61.13 vs 50",
+      "macd_bullish": "MACD 16.28 vs signal 15.54",
+      "adx_trending_up": "ADX(14) 29.04 vs 20, +DI 31.60 vs -DI 14.84",
+      "price_above_vwap20": "Close 1,072.10 vs 20d VWAP 1,039.83",
+      "price_above_bb_mid": "Close 1,072.10 vs BB mid 1,042.24"
     },
     "flags_on": [
       "price_above_ema20",
       "ema20_above_ema50",
       "ema50_above_ema200",
       "rsi_above_50",
+      "macd_bullish",
       "adx_trending_up",
       "price_above_vwap20",
       "price_above_bb_mid"
     ],
-    "flag_count": 7,
+    "flag_count": 8,
     "flag_total": 8
   },
   "fundamentals": null,
   "analyst": null,
   "shareholding": null,
-  "updated_at": "2026-07-09T17:13:10.447619+00:00"
+  "updated_at": "2026-07-10T12:41:32.680205+00:00"
 }

@@ -4,27 +4,27 @@
   "sector": "Metals",
   "indicators": {
     "date": "2026-07-10",
-    "close": 1052.1,
+    "close": 1051.3,
     "prev_close": 1029.8,
-    "change_pct": 2.1654690231112794,
-    "ema20": 1079.2187082626203,
-    "ema50": 1130.4089292286835,
-    "ema200": 1112.4751654068275,
-    "rsi14": 38.35896998412495,
-    "macd": -36.98045366082488,
-    "macd_signal": -37.0415525467181,
+    "change_pct": 2.087784035735094,
+    "ema20": 1079.1425177864298,
+    "ema50": 1130.377556679664,
+    "ema200": 1112.4672052078226,
+    "rsi14": 38.11633996399027,
+    "macd": -37.04427132464252,
+    "macd_signal": -37.05431607948163,
     "atr14": 28.69892161685195,
     "adx14": 39.37685434475078,
     "adx_pos": 16.19879933390484,
     "adx_neg": 28.896019651533383,
-    "bb_high": 1171.9490155378653,
-    "bb_low": 994.0609844621346,
-    "bb_mid": 1083.0049999999999,
-    "vwap20": 1087.6143465834941,
+    "bb_high": 1171.9652758422692,
+    "bb_low": 993.9647241577306,
+    "bb_mid": 1082.965,
+    "vwap20": 1087.6040059269455,
     "high_52w": 1306.2,
     "low_52w": 926.75,
-    "volume": 1175855.0,
-    "avg_volume20": 1518802.95
+    "volume": 1175870.0,
+    "avg_volume20": 1518803.7
   },
   "price_history": [
     {
@@ -624,8 +624,8 @@
     },
     {
       "date": "2026-07-10",
-      "close": 1052.1,
-      "ema50": 1130.41
+      "close": 1051.3,
+      "ema50": 1130.38
     }
   ],
   "flags": {
@@ -640,14 +640,14 @@
       "price_above_bb_mid": false
     },
     "flags_detail": {
-      "price_above_ema20": "Close 1,052.10 vs EMA20 1,079.22",
-      "ema20_above_ema50": "EMA20 1,079.22 vs EMA50 1,130.41",
-      "ema50_above_ema200": "EMA50 1,130.41 vs EMA200 1,112.48",
-      "rsi_above_50": "RSI(14) 38.36 vs 50",
-      "macd_bullish": "MACD -36.98 vs signal -37.04",
+      "price_above_ema20": "Close 1,051.30 vs EMA20 1,079.14",
+      "ema20_above_ema50": "EMA20 1,079.14 vs EMA50 1,130.38",
+      "ema50_above_ema200": "EMA50 1,130.38 vs EMA200 1,112.47",
+      "rsi_above_50": "RSI(14) 38.12 vs 50",
+      "macd_bullish": "MACD -37.04 vs signal -37.05",
       "adx_trending_up": "ADX(14) 39.38 vs 20, +DI 16.20 vs -DI 28.90",
-      "price_above_vwap20": "Close 1,052.10 vs 20d VWAP 1,087.61",
-      "price_above_bb_mid": "Close 1,052.10 vs BB mid 1,083.00"
+      "price_above_vwap20": "Close 1,051.30 vs 20d VWAP 1,087.60",
+      "price_above_bb_mid": "Close 1,051.30 vs BB mid 1,082.96"
     },
     "flags_on": [
       "ema50_above_ema200",
@@ -659,5 +659,5 @@
   "fundamentals": null,
   "analyst": null,
   "shareholding": null,
-  "updated_at": "2026-07-10T10:23:56.437378+00:00"
+  "updated_at": "2026-07-10T13:08:15.815224+00:00"
 }

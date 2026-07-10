@@ -20,11 +20,11 @@
     "bb_high": 13585.741764261673,
     "bb_low": 11315.158235738329,
     "bb_mid": 12450.45,
-    "vwap20": 12628.504036682576,
+    "vwap20": 12628.523473163921,
     "high_52w": 18471.0,
     "low_52w": 9600.0,
-    "volume": 1689181.0,
-    "avg_volume20": 705381.2
+    "volume": 1689462.0,
+    "avg_volume20": 705395.25
   },
   "price_history": [
     {
@@ -646,7 +646,7 @@
       "rsi_above_50": "RSI(14) 67.00 vs 50",
       "macd_bullish": "MACD 437.37 vs signal 329.59",
       "adx_trending_up": "ADX(14) 25.06 vs 20, +DI 39.42 vs -DI 14.64",
-      "price_above_vwap20": "Close 13,421.00 vs 20d VWAP 12,628.50",
+      "price_above_vwap20": "Close 13,421.00 vs 20d VWAP 12,628.52",
       "price_above_bb_mid": "Close 13,421.00 vs BB mid 12,450.45"
     },
     "flags_on": [
@@ -664,5 +664,5 @@
   "fundamentals": null,
   "analyst": null,
   "shareholding": null,
-  "updated_at": "2026-07-10T10:11:12.783400+00:00"
+  "updated_at": "2026-07-10T12:54:03.332034+00:00"
 }

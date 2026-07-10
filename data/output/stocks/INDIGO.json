@@ -20,11 +20,11 @@
     "bb_high": 5632.631081088551,
     "bb_low": 4707.72891891145,
     "bb_mid": 5170.18,
-    "vwap20": 5151.353974606628,
+    "vwap20": 5151.354065836823,
     "high_52w": 6232.5,
     "low_52w": 3895.2,
-    "volume": 458010.0,
-    "avg_volume20": 1405785.45
+    "volume": 458026.0,
+    "avg_volume20": 1405786.25
   },
   "price_history": [
     {
@@ -663,5 +663,5 @@
   "fundamentals": null,
   "analyst": null,
   "shareholding": null,
-  "updated_at": "2026-07-10T10:20:12.139373+00:00"
+  "updated_at": "2026-07-10T13:04:20.064053+00:00"
 }

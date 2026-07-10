@@ -4,27 +4,27 @@
   "sector": "Logistics",
   "indicators": {
     "date": "2026-07-10",
-    "close": 1828.2,
+    "close": 1828.1,
     "prev_close": 1800.1,
-    "change_pct": 1.5610243875340335,
-    "ema20": 1820.1673078193362,
-    "ema50": 1766.0012360659568,
-    "ema200": 1580.2578881809243,
-    "rsi14": 52.917989488256794,
-    "macd": 12.768557174807711,
-    "macd_signal": 18.392447577144956,
+    "change_pct": 1.5554691406032999,
+    "ema20": 1820.1577840098125,
+    "ema50": 1765.9973144973294,
+    "ema200": 1580.2568931560486,
+    "rsi14": 52.90313884282045,
+    "macd": 12.760579966830392,
+    "macd_signal": 18.390852135549494,
     "atr14": 42.677041924337686,
     "adx14": 14.999883685095599,
     "adx_pos": 21.758643260113487,
     "adx_neg": 21.314518131850846,
-    "bb_high": 1880.278607846857,
-    "bb_low": 1767.3613921531432,
-    "bb_mid": 1823.8200000000002,
-    "vwap20": 1826.8226747187368,
+    "bb_high": 1880.272073073311,
+    "bb_low": 1767.357926926689,
+    "bb_mid": 1823.815,
+    "vwap20": 1826.821668927278,
     "high_52w": 1891.1,
     "low_52w": 1290.5,
-    "volume": 1464201.0,
-    "avg_volume20": 2157060.2
+    "volume": 1489787.0,
+    "avg_volume20": 2158339.5
   },
   "price_history": [
     {
@@ -624,7 +624,7 @@
     },
     {
       "date": "2026-07-10",
-      "close": 1828.2,
+      "close": 1828.1,
       "ema50": 1766.0
     }
   ],
@@ -640,14 +640,14 @@
       "price_above_bb_mid": true
     },
     "flags_detail": {
-      "price_above_ema20": "Close 1,828.20 vs EMA20 1,820.17",
-      "ema20_above_ema50": "EMA20 1,820.17 vs EMA50 1,766.00",
+      "price_above_ema20": "Close 1,828.10 vs EMA20 1,820.16",
+      "ema20_above_ema50": "EMA20 1,820.16 vs EMA50 1,766.00",
       "ema50_above_ema200": "EMA50 1,766.00 vs EMA200 1,580.26",
-      "rsi_above_50": "RSI(14) 52.92 vs 50",
-      "macd_bullish": "MACD 12.77 vs signal 18.39",
+      "rsi_above_50": "RSI(14) 52.90 vs 50",
+      "macd_bullish": "MACD 12.76 vs signal 18.39",
       "adx_trending_up": "ADX(14) 15.00 vs 20, +DI 21.76 vs -DI 21.31",
-      "price_above_vwap20": "Close 1,828.20 vs 20d VWAP 1,826.82",
-      "price_above_bb_mid": "Close 1,828.20 vs BB mid 1,823.82"
+      "price_above_vwap20": "Close 1,828.10 vs 20d VWAP 1,826.82",
+      "price_above_bb_mid": "Close 1,828.10 vs BB mid 1,823.82"
     },
     "flags_on": [
       "price_above_ema20",
@@ -663,5 +663,5 @@
   "fundamentals": null,
   "analyst": null,
   "shareholding": null,
-  "updated_at": "2026-07-10T09:56:36.005749+00:00"
+  "updated_at": "2026-07-10T12:38:01.800617+00:00"
 }

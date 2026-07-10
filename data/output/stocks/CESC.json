@@ -4,27 +4,27 @@
   "sector": "Power",
   "indicators": {
     "date": "2026-07-10",
-    "close": 164.15,
+    "close": 163.93,
     "prev_close": 162.88,
-    "change_pct": 0.7797151277013815,
-    "ema20": 168.754224920653,
-    "ema50": 171.03371505349727,
-    "ema200": 167.5859449742784,
-    "rsi14": 39.26705608659411,
-    "macd": -2.672259868677628,
-    "macd_signal": -2.325975633335297,
+    "change_pct": 0.6446463654224038,
+    "ema20": 168.73327253970064,
+    "ema50": 171.0250876025169,
+    "ema200": 167.58375591955203,
+    "rsi14": 38.798131621765734,
+    "macd": -2.6898097262274803,
+    "macd_signal": -2.3294856048452677,
     "atr14": 4.124081716557524,
     "adx14": 16.429915778245213,
     "adx_pos": 18.51914524404909,
     "adx_neg": 27.31933636760036,
-    "bb_high": 174.2364077431208,
-    "bb_low": 162.8985922568792,
-    "bb_mid": 168.5675,
-    "vwap20": 169.02252389293295,
+    "bb_high": 174.26039787776875,
+    "bb_low": 162.85260212223125,
+    "bb_mid": 168.5565,
+    "vwap20": 169.01691511242035,
     "high_52w": 204.5,
     "low_52w": 138.12,
-    "volume": 1437840.0,
-    "avg_volume20": 1353996.95
+    "volume": 1448845.0,
+    "avg_volume20": 1354547.2
   },
   "price_history": [
     {
@@ -624,7 +624,7 @@
     },
     {
       "date": "2026-07-10",
-      "close": 164.15,
+      "close": 163.93,
       "ema50": 171.03
     }
   ],
@@ -640,14 +640,14 @@
       "price_above_bb_mid": false
     },
     "flags_detail": {
-      "price_above_ema20": "Close 164.15 vs EMA20 168.75",
-      "ema20_above_ema50": "EMA20 168.75 vs EMA50 171.03",
-      "ema50_above_ema200": "EMA50 171.03 vs EMA200 167.59",
-      "rsi_above_50": "RSI(14) 39.27 vs 50",
-      "macd_bullish": "MACD -2.67 vs signal -2.33",
+      "price_above_ema20": "Close 163.93 vs EMA20 168.73",
+      "ema20_above_ema50": "EMA20 168.73 vs EMA50 171.03",
+      "ema50_above_ema200": "EMA50 171.03 vs EMA200 167.58",
+      "rsi_above_50": "RSI(14) 38.80 vs 50",
+      "macd_bullish": "MACD -2.69 vs signal -2.33",
       "adx_trending_up": "ADX(14) 16.43 vs 20, +DI 18.52 vs -DI 27.32",
-      "price_above_vwap20": "Close 164.15 vs 20d VWAP 169.02",
-      "price_above_bb_mid": "Close 164.15 vs BB mid 168.57"
+      "price_above_vwap20": "Close 163.93 vs 20d VWAP 169.02",
+      "price_above_bb_mid": "Close 163.93 vs BB mid 168.56"
     },
     "flags_on": [
       "ema50_above_ema200"
@@ -658,5 +658,5 @@
   "fundamentals": null,
   "analyst": null,
   "shareholding": null,
-  "updated_at": "2026-07-10T10:05:58.623040+00:00"
+  "updated_at": "2026-07-10T12:48:35.874477+00:00"
 }
