@@ -3,35 +3,30 @@
   "name": "NLC India",
   "sector": "Power",
   "indicators": {
-    "date": "2026-07-09",
-    "close": 303.25,
-    "prev_close": 294.25,
-    "change_pct": 3.058623619371283,
-    "ema20": 315.6912337672145,
-    "ema50": 316.2128054889662,
-    "ema200": 284.75580256257246,
-    "rsi14": 40.167771296318385,
-    "macd": -6.318891784433504,
-    "macd_signal": -3.924844129891921,
-    "atr14": 10.778989473987144,
-    "adx14": 19.85789702928253,
-    "adx_pos": 10.755490587126053,
-    "adx_neg": 25.44209131044619,
-    "bb_high": 333.72744799683903,
-    "bb_low": 298.03255200316096,
-    "bb_mid": 315.88,
-    "vwap20": 316.9156203584573,
+    "date": "2026-07-10",
+    "close": 314.9,
+    "prev_close": 303.25,
+    "change_pct": 3.8417147568013115,
+    "ema20": 315.61587817033694,
+    "ema50": 316.1613193047317,
+    "ema200": 285.02164726673976,
+    "rsi14": 48.35750231452804,
+    "macd": -5.554832460449177,
+    "macd_signal": -4.250841795944865,
+    "atr14": 10.919775940074105,
+    "adx14": 19.608710070707524,
+    "adx_pos": 16.759456629150833,
+    "adx_neg": 23.32020931069269,
+    "bb_high": 333.7823486556426,
+    "bb_low": 298.43265134435734,
+    "bb_mid": 316.10749999999996,
+    "vwap20": 317.6348286902985,
     "high_52w": 387.8,
     "low_52w": 220.71,
-    "volume": 3630023.0,
-    "avg_volume20": 4843509.1
+    "volume": 3696198.0,
+    "avg_volume20": 4422942.25
   },
   "price_history": [
-    {
-      "date": "2026-01-12",
-      "close": 255.9,
-      "ema50": 252.87
-    },
     {
       "date": "2026-01-13",
       "close": 255.35,
@@ -626,6 +621,11 @@
       "date": "2026-07-09",
       "close": 303.25,
       "ema50": 316.21
+    },
+    {
+      "date": "2026-07-10",
+      "close": 314.9,
+      "ema50": 316.16
     }
   ],
   "flags": {
@@ -640,14 +640,14 @@
       "price_above_bb_mid": false
     },
     "flags_detail": {
-      "price_above_ema20": "Close 303.25 vs EMA20 315.69",
-      "ema20_above_ema50": "EMA20 315.69 vs EMA50 316.21",
-      "ema50_above_ema200": "EMA50 316.21 vs EMA200 284.76",
-      "rsi_above_50": "RSI(14) 40.17 vs 50",
-      "macd_bullish": "MACD -6.32 vs signal -3.92",
-      "adx_trending_up": "ADX(14) 19.86 vs 20, +DI 10.76 vs -DI 25.44",
-      "price_above_vwap20": "Close 303.25 vs 20d VWAP 316.92",
-      "price_above_bb_mid": "Close 303.25 vs BB mid 315.88"
+      "price_above_ema20": "Close 314.90 vs EMA20 315.62",
+      "ema20_above_ema50": "EMA20 315.62 vs EMA50 316.16",
+      "ema50_above_ema200": "EMA50 316.16 vs EMA200 285.02",
+      "rsi_above_50": "RSI(14) 48.36 vs 50",
+      "macd_bullish": "MACD -5.55 vs signal -4.25",
+      "adx_trending_up": "ADX(14) 19.61 vs 20, +DI 16.76 vs -DI 23.32",
+      "price_above_vwap20": "Close 314.90 vs 20d VWAP 317.63",
+      "price_above_bb_mid": "Close 314.90 vs BB mid 316.11"
     },
     "flags_on": [
       "ema50_above_ema200"
@@ -658,5 +658,5 @@
   "fundamentals": null,
   "analyst": null,
   "shareholding": null,
-  "updated_at": "2026-07-09T17:51:52.561078+00:00"
+  "updated_at": "2026-07-10T10:36:39.920347+00:00"
 }

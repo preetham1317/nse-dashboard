@@ -3,39 +3,34 @@
   "name": "Indian Railway Catering and Tourism Corporation",
   "sector": "Railways",
   "indicators": {
-    "date": "2026-07-09",
-    "close": 496.5,
-    "prev_close": 498.5,
-    "change_pct": -0.4012036108324975,
-    "ema20": 510.3267423663277,
-    "ema50": 523.7063966049219,
-    "ema200": 597.1741057060285,
-    "rsi14": 34.00509109636609,
-    "macd": -7.066520408194037,
-    "macd_signal": -6.184952370275561,
-    "atr14": 8.608702339586621,
-    "adx14": 15.904182261847392,
-    "adx_pos": 15.029545506461304,
-    "adx_neg": 26.816587282621462,
-    "bb_high": 530.0677409048241,
-    "bb_low": 494.602259095176,
-    "bb_mid": 512.335,
-    "vwap20": 513.8680177720448,
+    "date": "2026-07-10",
+    "close": 503.25,
+    "prev_close": 496.5,
+    "change_pct": 1.3595166163141994,
+    "ema20": 509.65276690286856,
+    "ema50": 522.9042291693977,
+    "ema200": 596.6562854320534,
+    "rsi14": 41.41531719618756,
+    "macd": -6.7670768558825785,
+    "macd_signal": -6.301377268111873,
+    "atr14": 8.72236645843,
+    "adx14": 15.77901818338154,
+    "adx_pos": 18.482889420117495,
+    "adx_neg": 24.576621857153324,
+    "bb_high": 529.1254666227338,
+    "bb_low": 493.76453337726616,
+    "bb_mid": 511.445,
+    "vwap20": 512.4797673331518,
     "high_52w": 798.6,
     "low_52w": 492.65,
-    "volume": 650534.0,
-    "avg_volume20": 866570.7
+    "volume": 1046152.0,
+    "avg_volume20": 826617.55
   },
   "price_history": [
     {
-      "date": "2026-01-12",
-      "close": 634.85,
-      "ema50": 683.97
-    },
-    {
       "date": "2026-01-13",
       "close": 630.2,
-      "ema50": 681.86
+      "ema50": 681.87
     },
     {
       "date": "2026-01-14",
@@ -70,7 +65,7 @@
     {
       "date": "2026-01-23",
       "close": 617.8,
-      "ema50": 667.41
+      "ema50": 667.42
     },
     {
       "date": "2026-01-27",
@@ -120,7 +115,7 @@
     {
       "date": "2026-02-06",
       "close": 620.0,
-      "ema50": 650.72
+      "ema50": 650.73
     },
     {
       "date": "2026-02-09",
@@ -225,17 +220,17 @@
     {
       "date": "2026-03-10",
       "close": 547.95,
-      "ema50": 618.03
+      "ema50": 618.04
     },
     {
       "date": "2026-03-11",
       "close": 534.15,
-      "ema50": 614.74
+      "ema50": 614.75
     },
     {
       "date": "2026-03-12",
       "close": 536.7,
-      "ema50": 611.68
+      "ema50": 611.69
     },
     {
       "date": "2026-03-13",
@@ -355,7 +350,7 @@
     {
       "date": "2026-04-21",
       "close": 561.2,
-      "ema50": 563.59
+      "ema50": 563.6
     },
     {
       "date": "2026-04-22",
@@ -365,7 +360,7 @@
     {
       "date": "2026-04-23",
       "close": 551.35,
-      "ema50": 562.92
+      "ema50": 562.93
     },
     {
       "date": "2026-04-24",
@@ -626,6 +621,11 @@
       "date": "2026-07-09",
       "close": 496.5,
       "ema50": 523.71
+    },
+    {
+      "date": "2026-07-10",
+      "close": 503.25,
+      "ema50": 522.9
     }
   ],
   "flags": {
@@ -640,14 +640,14 @@
       "price_above_bb_mid": false
     },
     "flags_detail": {
-      "price_above_ema20": "Close 496.50 vs EMA20 510.33",
-      "ema20_above_ema50": "EMA20 510.33 vs EMA50 523.71",
-      "ema50_above_ema200": "EMA50 523.71 vs EMA200 597.17",
-      "rsi_above_50": "RSI(14) 34.01 vs 50",
-      "macd_bullish": "MACD -7.07 vs signal -6.18",
-      "adx_trending_up": "ADX(14) 15.90 vs 20, +DI 15.03 vs -DI 26.82",
-      "price_above_vwap20": "Close 496.50 vs 20d VWAP 513.87",
-      "price_above_bb_mid": "Close 496.50 vs BB mid 512.34"
+      "price_above_ema20": "Close 503.25 vs EMA20 509.65",
+      "ema20_above_ema50": "EMA20 509.65 vs EMA50 522.90",
+      "ema50_above_ema200": "EMA50 522.90 vs EMA200 596.66",
+      "rsi_above_50": "RSI(14) 41.42 vs 50",
+      "macd_bullish": "MACD -6.77 vs signal -6.30",
+      "adx_trending_up": "ADX(14) 15.78 vs 20, +DI 18.48 vs -DI 24.58",
+      "price_above_vwap20": "Close 503.25 vs 20d VWAP 512.48",
+      "price_above_bb_mid": "Close 503.25 vs BB mid 511.44"
     },
     "flags_on": [],
     "flag_count": 0,
@@ -656,5 +656,5 @@
   "fundamentals": null,
   "analyst": null,
   "shareholding": null,
-  "updated_at": "2026-07-09T17:37:54.009204+00:00"
+  "updated_at": "2026-07-10T10:22:49.303112+00:00"
 }

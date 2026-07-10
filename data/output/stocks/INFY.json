@@ -3,35 +3,30 @@
   "name": "Infosys",
   "sector": "IT",
   "indicators": {
-    "date": "2026-07-09",
-    "close": 1050.8,
-    "prev_close": 1069.3,
-    "change_pct": -1.7301038062283738,
-    "ema20": 1073.2925359053206,
-    "ema50": 1134.2336783876585,
-    "ema200": 1319.8267017585156,
-    "rsi14": 43.162938291099984,
-    "macd": -29.67999391332046,
-    "macd_signal": -34.87636526593165,
-    "atr14": 33.77738220478809,
-    "adx14": 20.642526294413386,
-    "adx_pos": 25.22563325138537,
-    "adx_neg": 34.02677435425478,
-    "bb_high": 1162.354557780985,
-    "bb_low": 975.9654422190151,
-    "bb_mid": 1069.16,
-    "vwap20": 1060.471664483945,
+    "date": "2026-07-10",
+    "close": 1068.0,
+    "prev_close": 1050.8,
+    "change_pct": 1.6368481157213597,
+    "ema20": 1072.788484866719,
+    "ema50": 1131.6363113777777,
+    "ema200": 1317.6240528449284,
+    "rsi14": 46.51162739855621,
+    "macd": -26.570532033883865,
+    "macd_signal": -33.215198620042116,
+    "atr14": 34.257569190253996,
+    "adx14": 19.41655149343298,
+    "adx_pos": 29.05870034014763,
+    "adx_neg": 31.153406523367355,
+    "bb_high": 1157.6640266639836,
+    "bb_low": 975.9959733360163,
+    "bb_mid": 1066.83,
+    "vwap20": 1059.0607433939883,
     "high_52w": 1728.0,
     "low_52w": 982.4,
-    "volume": 9003333.0,
-    "avg_volume20": 14550489.6
+    "volume": 9746724.0,
+    "avg_volume20": 14569217.0
   },
   "price_history": [
-    {
-      "date": "2026-01-12",
-      "close": 1595.9,
-      "ema50": 1587.26
-    },
     {
       "date": "2026-01-13",
       "close": 1599.0,
@@ -60,7 +55,7 @@
     {
       "date": "2026-01-21",
       "close": 1654.4,
-      "ema50": 1600.35
+      "ema50": 1600.36
     },
     {
       "date": "2026-01-22",
@@ -70,7 +65,7 @@
     {
       "date": "2026-01-23",
       "close": 1670.8,
-      "ema50": 1605.49
+      "ema50": 1605.5
     },
     {
       "date": "2026-01-27",
@@ -110,22 +105,22 @@
     {
       "date": "2026-02-04",
       "close": 1535.8,
-      "ema50": 1614.32
+      "ema50": 1614.33
     },
     {
       "date": "2026-02-05",
       "close": 1520.2,
-      "ema50": 1610.63
+      "ema50": 1610.64
     },
     {
       "date": "2026-02-06",
       "close": 1507.1,
-      "ema50": 1606.57
+      "ema50": 1606.58
     },
     {
       "date": "2026-02-09",
       "close": 1497.2,
-      "ema50": 1602.28
+      "ema50": 1602.29
     },
     {
       "date": "2026-02-10",
@@ -135,7 +130,7 @@
     {
       "date": "2026-02-11",
       "close": 1471.9,
-      "ema50": 1593.23
+      "ema50": 1593.24
     },
     {
       "date": "2026-02-12",
@@ -165,7 +160,7 @@
     {
       "date": "2026-02-19",
       "close": 1370.5,
-      "ema50": 1546.85
+      "ema50": 1546.86
     },
     {
       "date": "2026-02-20",
@@ -185,7 +180,7 @@
     {
       "date": "2026-02-25",
       "close": 1290.1,
-      "ema50": 1511.88
+      "ema50": 1511.89
     },
     {
       "date": "2026-02-26",
@@ -310,7 +305,7 @@
     {
       "date": "2026-04-07",
       "close": 1339.4,
-      "ema50": 1364.69
+      "ema50": 1364.7
     },
     {
       "date": "2026-04-08",
@@ -435,7 +430,7 @@
     {
       "date": "2026-05-14",
       "close": 1095.0,
-      "ema50": 1262.13
+      "ema50": 1262.14
     },
     {
       "date": "2026-05-15",
@@ -626,6 +621,11 @@
       "date": "2026-07-09",
       "close": 1050.8,
       "ema50": 1134.23
+    },
+    {
+      "date": "2026-07-10",
+      "close": 1068.0,
+      "ema50": 1131.64
     }
   ],
   "flags": {
@@ -636,27 +636,29 @@
       "rsi_above_50": false,
       "macd_bullish": true,
       "adx_trending_up": false,
-      "price_above_vwap20": false,
-      "price_above_bb_mid": false
+      "price_above_vwap20": true,
+      "price_above_bb_mid": true
     },
     "flags_detail": {
-      "price_above_ema20": "Close 1,050.80 vs EMA20 1,073.29",
-      "ema20_above_ema50": "EMA20 1,073.29 vs EMA50 1,134.23",
-      "ema50_above_ema200": "EMA50 1,134.23 vs EMA200 1,319.83",
-      "rsi_above_50": "RSI(14) 43.16 vs 50",
-      "macd_bullish": "MACD -29.68 vs signal -34.88",
-      "adx_trending_up": "ADX(14) 20.64 vs 20, +DI 25.23 vs -DI 34.03",
-      "price_above_vwap20": "Close 1,050.80 vs 20d VWAP 1,060.47",
-      "price_above_bb_mid": "Close 1,050.80 vs BB mid 1,069.16"
+      "price_above_ema20": "Close 1,068.00 vs EMA20 1,072.79",
+      "ema20_above_ema50": "EMA20 1,072.79 vs EMA50 1,131.64",
+      "ema50_above_ema200": "EMA50 1,131.64 vs EMA200 1,317.62",
+      "rsi_above_50": "RSI(14) 46.51 vs 50",
+      "macd_bullish": "MACD -26.57 vs signal -33.22",
+      "adx_trending_up": "ADX(14) 19.42 vs 20, +DI 29.06 vs -DI 31.15",
+      "price_above_vwap20": "Close 1,068.00 vs 20d VWAP 1,059.06",
+      "price_above_bb_mid": "Close 1,068.00 vs BB mid 1,066.83"
     },
     "flags_on": [
-      "macd_bullish"
+      "macd_bullish",
+      "price_above_vwap20",
+      "price_above_bb_mid"
     ],
-    "flag_count": 1,
+    "flag_count": 3,
     "flag_total": 8
   },
   "fundamentals": null,
   "analyst": null,
   "shareholding": null,
-  "updated_at": "2026-07-09T17:36:24.088326+00:00"
+  "updated_at": "2026-07-10T10:21:19.082314+00:00"
 }

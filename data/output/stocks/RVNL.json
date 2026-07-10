@@ -3,35 +3,30 @@
   "name": "Rail Vikas Nigam",
   "sector": "Railways",
   "indicators": {
-    "date": "2026-07-09",
-    "close": 226.23,
-    "prev_close": 224.73,
-    "change_pct": 0.6674676278200508,
-    "ema20": 237.47166757604532,
-    "ema50": 251.94925488183588,
-    "ema200": 295.0259117501013,
-    "rsi14": 32.60019015433723,
-    "macd": -6.543384603311495,
-    "macd_signal": -6.499978593413001,
-    "atr14": 6.003990997346996,
-    "adx14": 27.08678319706945,
-    "adx_pos": 18.275473024423132,
-    "adx_neg": 38.08626691199059,
-    "bb_high": 250.48359316432382,
-    "bb_low": 223.6304068356762,
-    "bb_mid": 237.05700000000002,
-    "vwap20": 239.9023978113299,
+    "date": "2026-07-10",
+    "close": 232.67,
+    "prev_close": 226.23,
+    "change_pct": 2.846660478274322,
+    "ema20": 237.01436590213643,
+    "ema50": 251.1932247554378,
+    "ema200": 294.58541425536,
+    "rsi14": 41.51473180853116,
+    "macd": -6.1556998526294535,
+    "macd_signal": -6.431122845564977,
+    "atr14": 6.336563069022432,
+    "adx14": 26.093313656124003,
+    "adx_pos": 25.706083619021292,
+    "adx_neg": 33.5096578769456,
+    "bb_high": 249.36313546010516,
+    "bb_low": 225.79886453989482,
+    "bb_mid": 237.581,
+    "vwap20": 240.2273079604394,
     "high_52w": 400.7,
     "low_52w": 221.55,
-    "volume": 2296275.0,
-    "avg_volume20": 5925050.2
+    "volume": 6855244.0,
+    "avg_volume20": 5986605.25
   },
   "price_history": [
-    {
-      "date": "2026-01-12",
-      "close": 331.65,
-      "ema50": 335.95
-    },
     {
       "date": "2026-01-13",
       "close": 330.2,
@@ -105,7 +100,7 @@
     {
       "date": "2026-02-03",
       "close": 324.65,
-      "ema50": 333.29
+      "ema50": 333.3
     },
     {
       "date": "2026-02-04",
@@ -335,12 +330,12 @@
     {
       "date": "2026-04-15",
       "close": 287.06,
-      "ema50": 287.51
+      "ema50": 287.52
     },
     {
       "date": "2026-04-16",
       "close": 293.89,
-      "ema50": 287.76
+      "ema50": 287.77
     },
     {
       "date": "2026-04-17",
@@ -626,6 +621,11 @@
       "date": "2026-07-09",
       "close": 226.23,
       "ema50": 251.95
+    },
+    {
+      "date": "2026-07-10",
+      "close": 232.67,
+      "ema50": 251.19
     }
   ],
   "flags": {
@@ -634,27 +634,29 @@
       "ema20_above_ema50": false,
       "ema50_above_ema200": false,
       "rsi_above_50": false,
-      "macd_bullish": false,
+      "macd_bullish": true,
       "adx_trending_up": false,
       "price_above_vwap20": false,
       "price_above_bb_mid": false
     },
     "flags_detail": {
-      "price_above_ema20": "Close 226.23 vs EMA20 237.47",
-      "ema20_above_ema50": "EMA20 237.47 vs EMA50 251.95",
-      "ema50_above_ema200": "EMA50 251.95 vs EMA200 295.03",
-      "rsi_above_50": "RSI(14) 32.60 vs 50",
-      "macd_bullish": "MACD -6.54 vs signal -6.50",
-      "adx_trending_up": "ADX(14) 27.09 vs 20, +DI 18.28 vs -DI 38.09",
-      "price_above_vwap20": "Close 226.23 vs 20d VWAP 239.90",
-      "price_above_bb_mid": "Close 226.23 vs BB mid 237.06"
+      "price_above_ema20": "Close 232.67 vs EMA20 237.01",
+      "ema20_above_ema50": "EMA20 237.01 vs EMA50 251.19",
+      "ema50_above_ema200": "EMA50 251.19 vs EMA200 294.59",
+      "rsi_above_50": "RSI(14) 41.51 vs 50",
+      "macd_bullish": "MACD -6.16 vs signal -6.43",
+      "adx_trending_up": "ADX(14) 26.09 vs 20, +DI 25.71 vs -DI 33.51",
+      "price_above_vwap20": "Close 232.67 vs 20d VWAP 240.23",
+      "price_above_bb_mid": "Close 232.67 vs BB mid 237.58"
     },
-    "flags_on": [],
-    "flag_count": 0,
+    "flags_on": [
+      "macd_bullish"
+    ],
+    "flag_count": 1,
     "flag_total": 8
   },
   "fundamentals": null,
   "analyst": null,
   "shareholding": null,
-  "updated_at": "2026-07-09T18:00:58.169795+00:00"
+  "updated_at": "2026-07-10T10:45:40.174291+00:00"
 }

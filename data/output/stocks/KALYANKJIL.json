@@ -3,35 +3,30 @@
   "name": "Kalyan Jewellers India",
   "sector": "Jewellery",
   "indicators": {
-    "date": "2026-07-09",
-    "close": 443.0,
-    "prev_close": 374.15,
-    "change_pct": 18.40171054389951,
-    "ema20": 380.47503058968636,
-    "ema50": 379.885885375895,
-    "ema200": 425.5700643793132,
-    "rsi14": 69.36255457535182,
-    "macd": 6.929448690565096,
-    "macd_signal": 3.21043192105153,
-    "atr14": 19.69934964840949,
-    "adx14": 14.650256828463606,
-    "adx_pos": 39.92695149927298,
-    "adx_neg": 20.835770715846593,
-    "bb_high": 419.34213911340987,
-    "bb_low": 337.02786088659013,
-    "bb_mid": 378.185,
-    "vwap20": 390.54176487875753,
+    "date": "2026-07-10",
+    "close": 476.15,
+    "prev_close": 443.0,
+    "change_pct": 7.483069977426632,
+    "ema20": 389.58693243828765,
+    "ema50": 383.66094517889314,
+    "ema200": 426.04019691633505,
+    "rsi14": 74.44920963159721,
+    "macd": 13.638095600739689,
+    "macd_signal": 5.295964657046019,
+    "atr14": 21.17796753080278,
+    "adx14": 16.755914761048157,
+    "adx_pos": 46.42612892592542,
+    "adx_neg": 17.996684240129174,
+    "bb_high": 439.7940538515465,
+    "bb_low": 331.1109461484535,
+    "bb_mid": 385.4525,
+    "vwap20": 412.7909891653459,
     "high_52w": 617.7,
     "low_52w": 327.05,
-    "volume": 117145048.0,
-    "avg_volume20": 15646444.2
+    "volume": 115487371.0,
+    "avg_volume20": 21094912.75
   },
   "price_history": [
-    {
-      "date": "2026-01-12",
-      "close": 501.4,
-      "ema50": 494.31
-    },
     {
       "date": "2026-01-13",
       "close": 495.45,
@@ -70,7 +65,7 @@
     {
       "date": "2026-01-23",
       "close": 367.2,
-      "ema50": 477.31
+      "ema50": 477.3
     },
     {
       "date": "2026-01-27",
@@ -370,7 +365,7 @@
     {
       "date": "2026-04-24",
       "close": 405.3,
-      "ema50": 414.19
+      "ema50": 414.18
     },
     {
       "date": "2026-04-27",
@@ -626,6 +621,11 @@
       "date": "2026-07-09",
       "close": 443.0,
       "ema50": 379.89
+    },
+    {
+      "date": "2026-07-10",
+      "close": 476.15,
+      "ema50": 383.66
     }
   ],
   "flags": {
@@ -640,14 +640,14 @@
       "price_above_bb_mid": true
     },
     "flags_detail": {
-      "price_above_ema20": "Close 443.00 vs EMA20 380.48",
-      "ema20_above_ema50": "EMA20 380.48 vs EMA50 379.89",
-      "ema50_above_ema200": "EMA50 379.89 vs EMA200 425.57",
-      "rsi_above_50": "RSI(14) 69.36 vs 50",
-      "macd_bullish": "MACD 6.93 vs signal 3.21",
-      "adx_trending_up": "ADX(14) 14.65 vs 20, +DI 39.93 vs -DI 20.84",
-      "price_above_vwap20": "Close 443.00 vs 20d VWAP 390.54",
-      "price_above_bb_mid": "Close 443.00 vs BB mid 378.19"
+      "price_above_ema20": "Close 476.15 vs EMA20 389.59",
+      "ema20_above_ema50": "EMA20 389.59 vs EMA50 383.66",
+      "ema50_above_ema200": "EMA50 383.66 vs EMA200 426.04",
+      "rsi_above_50": "RSI(14) 74.45 vs 50",
+      "macd_bullish": "MACD 13.64 vs signal 5.30",
+      "adx_trending_up": "ADX(14) 16.76 vs 20, +DI 46.43 vs -DI 18.00",
+      "price_above_vwap20": "Close 476.15 vs 20d VWAP 412.79",
+      "price_above_bb_mid": "Close 476.15 vs BB mid 385.45"
     },
     "flags_on": [
       "price_above_ema20",
@@ -663,5 +663,5 @@
   "fundamentals": null,
   "analyst": null,
   "shareholding": null,
-  "updated_at": "2026-07-09T17:41:15.797691+00:00"
+  "updated_at": "2026-07-10T10:26:10.974592+00:00"
 }

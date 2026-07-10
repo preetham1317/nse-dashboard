@@ -3,39 +3,34 @@
   "name": "UPL Ltd",
   "sector": "Agri & Fertilizers",
   "indicators": {
-    "date": "2026-07-09",
-    "close": 584.1,
-    "prev_close": 581.7,
-    "change_pct": 0.4125838060856072,
-    "ema20": 598.9267200325111,
-    "ema50": 616.7849681520951,
-    "ema200": 660.4808588197842,
-    "rsi14": 41.46427201335059,
-    "macd": -10.19633074155638,
-    "macd_signal": -11.117631307959616,
-    "atr14": 16.530493226313194,
-    "adx14": 21.383462471426075,
-    "adx_pos": 19.170269077869246,
-    "adx_neg": 30.90383064444051,
-    "bb_high": 628.1406255937372,
-    "bb_low": 565.6393744062627,
-    "bb_mid": 596.89,
-    "vwap20": 590.5877761588464,
+    "date": "2026-07-10",
+    "close": 594.75,
+    "prev_close": 581.85,
+    "change_pct": 2.2170662541892203,
+    "ema20": 598.3350596212514,
+    "ema50": 615.8360593406113,
+    "ema200": 659.6412709942744,
+    "rsi14": 46.462642911011955,
+    "macd": -9.440409835005084,
+    "macd_signal": -10.810904961806365,
+    "atr14": 16.631886567486983,
+    "adx14": 20.658546950199725,
+    "adx_pos": 22.760161931092448,
+    "adx_neg": 28.521471580092634,
+    "bb_high": 628.2608179126852,
+    "bb_low": 565.394182087315,
+    "bb_mid": 596.8275000000001,
+    "vwap20": 590.3790222062714,
     "high_52w": 812.2,
     "low_52w": 563.15,
-    "volume": 4537195.0,
-    "avg_volume20": 2656450.45
+    "volume": 872284.0,
+    "avg_volume20": 2637412.6
   },
   "price_history": [
     {
-      "date": "2026-01-12",
-      "close": 773.85,
-      "ema50": 758.5
-    },
-    {
       "date": "2026-01-13",
       "close": 773.45,
-      "ema50": 759.09
+      "ema50": 759.08
     },
     {
       "date": "2026-01-14",
@@ -70,7 +65,7 @@
     {
       "date": "2026-01-23",
       "close": 702.55,
-      "ema50": 753.58
+      "ema50": 753.57
     },
     {
       "date": "2026-01-27",
@@ -130,7 +125,7 @@
     {
       "date": "2026-02-10",
       "close": 746.0,
-      "ema50": 743.29
+      "ema50": 743.28
     },
     {
       "date": "2026-02-11",
@@ -150,7 +145,7 @@
     {
       "date": "2026-02-16",
       "close": 733.8,
-      "ema50": 742.46
+      "ema50": 742.45
     },
     {
       "date": "2026-02-17",
@@ -624,8 +619,13 @@
     },
     {
       "date": "2026-07-09",
-      "close": 584.1,
-      "ema50": 616.78
+      "close": 581.85,
+      "ema50": 616.7
+    },
+    {
+      "date": "2026-07-10",
+      "close": 594.75,
+      "ema50": 615.84
     }
   ],
   "flags": {
@@ -636,27 +636,28 @@
       "rsi_above_50": false,
       "macd_bullish": true,
       "adx_trending_up": false,
-      "price_above_vwap20": false,
+      "price_above_vwap20": true,
       "price_above_bb_mid": false
     },
     "flags_detail": {
-      "price_above_ema20": "Close 584.10 vs EMA20 598.93",
-      "ema20_above_ema50": "EMA20 598.93 vs EMA50 616.78",
-      "ema50_above_ema200": "EMA50 616.78 vs EMA200 660.48",
-      "rsi_above_50": "RSI(14) 41.46 vs 50",
-      "macd_bullish": "MACD -10.20 vs signal -11.12",
-      "adx_trending_up": "ADX(14) 21.38 vs 20, +DI 19.17 vs -DI 30.90",
-      "price_above_vwap20": "Close 584.10 vs 20d VWAP 590.59",
-      "price_above_bb_mid": "Close 584.10 vs BB mid 596.89"
+      "price_above_ema20": "Close 594.75 vs EMA20 598.34",
+      "ema20_above_ema50": "EMA20 598.34 vs EMA50 615.84",
+      "ema50_above_ema200": "EMA50 615.84 vs EMA200 659.64",
+      "rsi_above_50": "RSI(14) 46.46 vs 50",
+      "macd_bullish": "MACD -9.44 vs signal -10.81",
+      "adx_trending_up": "ADX(14) 20.66 vs 20, +DI 22.76 vs -DI 28.52",
+      "price_above_vwap20": "Close 594.75 vs 20d VWAP 590.38",
+      "price_above_bb_mid": "Close 594.75 vs BB mid 596.83"
     },
     "flags_on": [
-      "macd_bullish"
+      "macd_bullish",
+      "price_above_vwap20"
     ],
-    "flag_count": 1,
+    "flag_count": 2,
     "flag_total": 8
   },
   "fundamentals": null,
   "analyst": null,
   "shareholding": null,
-  "updated_at": "2026-07-09T18:11:49.924634+00:00"
+  "updated_at": "2026-07-10T10:56:11.114913+00:00"
 }

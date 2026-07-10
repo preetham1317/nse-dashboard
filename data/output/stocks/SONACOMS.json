@@ -3,35 +3,30 @@
   "name": "Sona BLW Precision Forgings",
   "sector": "Auto",
   "indicators": {
-    "date": "2026-07-09",
-    "close": 670.75,
-    "prev_close": 662.05,
-    "change_pct": 1.3141001434937007,
-    "ema20": 634.5899107805222,
-    "ema50": 606.6576052727137,
-    "ema200": 540.0624472897656,
-    "rsi14": 72.08028772890776,
-    "macd": 19.356003726013455,
-    "macd_signal": 14.718549657747316,
-    "atr14": 17.353217566783155,
-    "adx14": 36.70597230747135,
-    "adx_pos": 30.032447896430885,
-    "adx_neg": 6.843843876968925,
-    "bb_high": 681.7890396299558,
-    "bb_low": 570.6609603700442,
-    "bb_mid": 626.225,
-    "vwap20": 631.4711201046002,
-    "high_52w": 680.8,
+    "date": "2026-07-10",
+    "close": 668.55,
+    "prev_close": 670.75,
+    "change_pct": -0.3279910547894216,
+    "ema20": 637.8242049919013,
+    "ema50": 609.0847826162765,
+    "ema200": 541.572983232654,
+    "rsi14": 70.52772564356121,
+    "macd": 19.640036601000702,
+    "macd_signal": 15.702847045999757,
+    "atr14": 17.595844883446997,
+    "adx14": 38.77604015878974,
+    "adx_pos": 30.26313022422652,
+    "adx_neg": 6.267369464586478,
+    "bb_high": 685.5133005929274,
+    "bb_low": 575.2816994070727,
+    "bb_mid": 630.3975,
+    "vwap20": 634.7504156571907,
+    "high_52w": 682.2,
     "low_52w": 402.3,
-    "volume": 1358978.0,
-    "avg_volume20": 2184648.35
+    "volume": 1238095.0,
+    "avg_volume20": 2141891.25
   },
   "price_history": [
-    {
-      "date": "2026-01-12",
-      "close": 456.85,
-      "ema50": 479.19
-    },
     {
       "date": "2026-01-13",
       "close": 456.95,
@@ -70,7 +65,7 @@
     {
       "date": "2026-01-23",
       "close": 456.1,
-      "ema50": 472.62
+      "ema50": 472.63
     },
     {
       "date": "2026-01-27",
@@ -85,12 +80,12 @@
     {
       "date": "2026-01-29",
       "close": 494.05,
-      "ema50": 474.82
+      "ema50": 474.83
     },
     {
       "date": "2026-01-30",
       "close": 495.75,
-      "ema50": 475.64
+      "ema50": 475.65
     },
     {
       "date": "2026-02-01",
@@ -270,7 +265,7 @@
     {
       "date": "2026-03-23",
       "close": 484.95,
-      "ema50": 504.98
+      "ema50": 504.99
     },
     {
       "date": "2026-03-24",
@@ -626,6 +621,11 @@
       "date": "2026-07-09",
       "close": 670.75,
       "ema50": 606.66
+    },
+    {
+      "date": "2026-07-10",
+      "close": 668.55,
+      "ema50": 609.08
     }
   ],
   "flags": {
@@ -640,14 +640,14 @@
       "price_above_bb_mid": true
     },
     "flags_detail": {
-      "price_above_ema20": "Close 670.75 vs EMA20 634.59",
-      "ema20_above_ema50": "EMA20 634.59 vs EMA50 606.66",
-      "ema50_above_ema200": "EMA50 606.66 vs EMA200 540.06",
-      "rsi_above_50": "RSI(14) 72.08 vs 50",
-      "macd_bullish": "MACD 19.36 vs signal 14.72",
-      "adx_trending_up": "ADX(14) 36.71 vs 20, +DI 30.03 vs -DI 6.84",
-      "price_above_vwap20": "Close 670.75 vs 20d VWAP 631.47",
-      "price_above_bb_mid": "Close 670.75 vs BB mid 626.23"
+      "price_above_ema20": "Close 668.55 vs EMA20 637.82",
+      "ema20_above_ema50": "EMA20 637.82 vs EMA50 609.08",
+      "ema50_above_ema200": "EMA50 609.08 vs EMA200 541.57",
+      "rsi_above_50": "RSI(14) 70.53 vs 50",
+      "macd_bullish": "MACD 19.64 vs signal 15.70",
+      "adx_trending_up": "ADX(14) 38.78 vs 20, +DI 30.26 vs -DI 6.27",
+      "price_above_vwap20": "Close 668.55 vs 20d VWAP 634.75",
+      "price_above_bb_mid": "Close 668.55 vs BB mid 630.40"
     },
     "flags_on": [
       "price_above_ema20",
@@ -665,5 +665,5 @@
   "fundamentals": null,
   "analyst": null,
   "shareholding": null,
-  "updated_at": "2026-07-09T18:03:42.911432+00:00"
+  "updated_at": "2026-07-10T10:48:18.439368+00:00"
 }

@@ -3,35 +3,30 @@
   "name": "Mahanagar Gas",
   "sector": "Energy",
   "indicators": {
-    "date": "2026-07-09",
-    "close": 1122.7,
-    "prev_close": 1093.9,
-    "change_pct": 2.6327817899259487,
-    "ema20": 1140.166291887047,
-    "ema50": 1123.3487933666356,
-    "ema200": 1148.0145909602818,
-    "rsi14": 47.44571917265311,
-    "macd": 2.0235782374738847,
-    "macd_signal": 12.481181744271483,
-    "atr14": 36.44986289094881,
-    "adx14": 17.520224171892327,
-    "adx_pos": 18.572724080313392,
-    "adx_neg": 25.225473024787647,
-    "bb_high": 1252.6830201428008,
-    "bb_low": 1064.476979857199,
-    "bb_mid": 1158.58,
-    "vwap20": 1170.5631186505984,
+    "date": "2026-07-10",
+    "close": 1121.0,
+    "prev_close": 1122.7,
+    "change_pct": -0.15142068228378422,
+    "ema20": 1138.3409307549473,
+    "ema50": 1123.256679805024,
+    "ema200": 1147.7079028836333,
+    "rsi14": 47.1493380636777,
+    "macd": 0.4261283863386325,
+    "macd_signal": 10.070171072749966,
+    "atr14": 34.5820155415375,
+    "adx14": 17.175334403652247,
+    "adx_pos": 19.12772135722659,
+    "adx_neg": 24.68881428536171,
+    "bb_high": 1246.417835898828,
+    "bb_low": 1076.742164101172,
+    "bb_mid": 1161.58,
+    "vwap20": 1171.394664756675,
     "high_52w": 1586.9,
     "low_52w": 900.0,
-    "volume": 131919.0,
-    "avg_volume20": 238598.6
+    "volume": 122252.0,
+    "avg_volume20": 240175.55
   },
   "price_history": [
-    {
-      "date": "2026-01-12",
-      "close": 1068.8,
-      "ema50": 1160.69
-    },
     {
       "date": "2026-01-13",
       "close": 1064.0,
@@ -626,6 +621,11 @@
       "date": "2026-07-09",
       "close": 1122.7,
       "ema50": 1123.35
+    },
+    {
+      "date": "2026-07-10",
+      "close": 1121.0,
+      "ema50": 1123.26
     }
   ],
   "flags": {
@@ -640,14 +640,14 @@
       "price_above_bb_mid": false
     },
     "flags_detail": {
-      "price_above_ema20": "Close 1,122.70 vs EMA20 1,140.17",
-      "ema20_above_ema50": "EMA20 1,140.17 vs EMA50 1,123.35",
-      "ema50_above_ema200": "EMA50 1,123.35 vs EMA200 1,148.01",
-      "rsi_above_50": "RSI(14) 47.45 vs 50",
-      "macd_bullish": "MACD 2.02 vs signal 12.48",
-      "adx_trending_up": "ADX(14) 17.52 vs 20, +DI 18.57 vs -DI 25.23",
-      "price_above_vwap20": "Close 1,122.70 vs 20d VWAP 1,170.56",
-      "price_above_bb_mid": "Close 1,122.70 vs BB mid 1,158.58"
+      "price_above_ema20": "Close 1,121.00 vs EMA20 1,138.34",
+      "ema20_above_ema50": "EMA20 1,138.34 vs EMA50 1,123.26",
+      "ema50_above_ema200": "EMA50 1,123.26 vs EMA200 1,147.71",
+      "rsi_above_50": "RSI(14) 47.15 vs 50",
+      "macd_bullish": "MACD 0.43 vs signal 10.07",
+      "adx_trending_up": "ADX(14) 17.18 vs 20, +DI 19.13 vs -DI 24.69",
+      "price_above_vwap20": "Close 1,121.00 vs 20d VWAP 1,171.39",
+      "price_above_bb_mid": "Close 1,121.00 vs BB mid 1,161.58"
     },
     "flags_on": [
       "ema20_above_ema50"
@@ -658,5 +658,5 @@
   "fundamentals": null,
   "analyst": null,
   "shareholding": null,
-  "updated_at": "2026-07-09T17:48:30.879615+00:00"
+  "updated_at": "2026-07-10T10:33:17.026606+00:00"
 }
