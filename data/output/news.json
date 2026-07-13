@@ -1,17 +1,26 @@
 {
-  "updated_at": "2026-07-13T15:18:45.407207+00:00",
+  "updated_at": "2026-07-13T18:02:28.769025+00:00",
   "symbols_covered": [
     "AUBANK",
+    "BAJAJHFL",
     "BAJFINANCE",
+    "BEL",
     "BOSCHLTD",
     "DELHIVERY",
     "DIVISLAB",
     "EXIDEIND",
     "INDUSINDBK",
+    "JIOFIN",
+    "JSWINFRA",
     "LUPIN",
     "MARICO",
-    "OBEROIRLTY",
-    "RELIANCE"
+    "RCOM",
+    "RTNPOWER",
+    "SCTL",
+    "SUZLON",
+    "SYMBIOX",
+    "UJJIVANSFB",
+    "YESBANK"
   ],
   "items": []
 }
