@@ -3,35 +3,30 @@
   "name": "Bank of Baroda",
   "sector": "Banking",
   "indicators": {
-    "date": "2026-07-10",
-    "close": 250.95,
-    "prev_close": 244.6,
-    "change_pct": 2.596075224856907,
-    "ema20": 261.53845750413853,
-    "ema50": 267.5495840134165,
-    "ema200": 271.867704972465,
-    "rsi14": 38.86034168802374,
-    "macd": -6.6033359014927555,
-    "macd_signal": -3.3100646386074652,
-    "atr14": 7.426748663506703,
-    "adx14": 23.443991638598987,
-    "adx_pos": 20.40353780122025,
-    "adx_neg": 36.70596127916054,
-    "bb_high": 296.65528203930876,
-    "bb_low": 239.14971796069133,
-    "bb_mid": 267.90250000000003,
-    "vwap20": 265.387017571924,
+    "date": "2026-07-13",
+    "close": 250.65,
+    "prev_close": 250.95,
+    "change_pct": -0.1195457262402801,
+    "ema20": 260.50146155136383,
+    "ema50": 266.8868884258305,
+    "ema200": 271.9696180636634,
+    "rsi14": 38.65742277886949,
+    "macd": -6.607378450884312,
+    "macd_signal": -3.9695274015997972,
+    "atr14": 7.303409473389985,
+    "adx14": 23.80841403719985,
+    "adx_pos": 19.266102645514692,
+    "adx_neg": 34.659715619082455,
+    "bb_high": 296.21133531498384,
+    "bb_low": 237.18366468501614,
+    "bb_mid": 266.6975,
+    "vwap20": 263.58785095228984,
     "high_52w": 325.5,
     "low_52w": 230.81,
-    "volume": 18239487.0,
-    "avg_volume20": 14276719.7
+    "volume": 18662940.0,
+    "avg_volume20": 13840636.65
   },
   "price_history": [
-    {
-      "date": "2026-01-13",
-      "close": 301.85,
-      "ema50": 289.13
-    },
     {
       "date": "2026-01-14",
       "close": 307.7,
@@ -40,7 +35,7 @@
     {
       "date": "2026-01-16",
       "close": 308.25,
-      "ema50": 290.58
+      "ema50": 290.59
     },
     {
       "date": "2026-01-19",
@@ -65,7 +60,7 @@
     {
       "date": "2026-01-23",
       "close": 296.15,
-      "ema50": 292.61
+      "ema50": 292.62
     },
     {
       "date": "2026-01-27",
@@ -120,7 +115,7 @@
     {
       "date": "2026-02-09",
       "close": 290.6,
-      "ema50": 292.24
+      "ema50": 292.25
     },
     {
       "date": "2026-02-10",
@@ -205,7 +200,7 @@
     {
       "date": "2026-03-05",
       "close": 301.85,
-      "ema50": 299.06
+      "ema50": 299.07
     },
     {
       "date": "2026-03-06",
@@ -626,6 +621,11 @@
       "date": "2026-07-10",
       "close": 250.95,
       "ema50": 267.55
+    },
+    {
+      "date": "2026-07-13",
+      "close": 250.65,
+      "ema50": 266.89
     }
   ],
   "flags": {
@@ -640,14 +640,14 @@
       "price_above_bb_mid": false
     },
     "flags_detail": {
-      "price_above_ema20": "Close 250.95 vs EMA20 261.54",
-      "ema20_above_ema50": "EMA20 261.54 vs EMA50 267.55",
-      "ema50_above_ema200": "EMA50 267.55 vs EMA200 271.87",
-      "rsi_above_50": "RSI(14) 38.86 vs 50",
-      "macd_bullish": "MACD -6.60 vs signal -3.31",
-      "adx_trending_up": "ADX(14) 23.44 vs 20, +DI 20.40 vs -DI 36.71",
-      "price_above_vwap20": "Close 250.95 vs 20d VWAP 265.39",
-      "price_above_bb_mid": "Close 250.95 vs BB mid 267.90"
+      "price_above_ema20": "Close 250.65 vs EMA20 260.50",
+      "ema20_above_ema50": "EMA20 260.50 vs EMA50 266.89",
+      "ema50_above_ema200": "EMA50 266.89 vs EMA200 271.97",
+      "rsi_above_50": "RSI(14) 38.66 vs 50",
+      "macd_bullish": "MACD -6.61 vs signal -3.97",
+      "adx_trending_up": "ADX(14) 23.81 vs 20, +DI 19.27 vs -DI 34.66",
+      "price_above_vwap20": "Close 250.65 vs 20d VWAP 263.59",
+      "price_above_bb_mid": "Close 250.65 vs BB mid 266.70"
     },
     "flags_on": [],
     "flag_count": 0,
@@ -656,5 +656,5 @@
   "fundamentals": null,
   "analyst": null,
   "shareholding": null,
-  "updated_at": "2026-07-10T12:44:17.206348+00:00"
+  "updated_at": "2026-07-13T12:49:05.273796+00:00"
 }

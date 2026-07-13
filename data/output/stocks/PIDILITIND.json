@@ -3,35 +3,30 @@
   "name": "Pidilite Industries",
   "sector": "Chemicals",
   "indicators": {
-    "date": "2026-07-10",
-    "close": 1598.5,
-    "prev_close": 1590.4,
-    "change_pct": 0.5093058350100546,
-    "ema20": 1574.859042094139,
-    "ema50": 1522.0239599182496,
-    "ema200": 1476.5804803884541,
-    "rsi14": 59.98450997227882,
-    "macd": 27.45788173909841,
-    "macd_signal": 31.884738181199012,
-    "atr14": 31.344880222132293,
-    "adx14": 36.7175211743903,
-    "adx_pos": 26.093249009839397,
-    "adx_neg": 15.784564537943336,
-    "bb_high": 1623.6061227262346,
-    "bb_low": 1547.1838772737653,
-    "bb_mid": 1585.395,
-    "vwap20": 1584.706971038994,
+    "date": "2026-07-13",
+    "close": 1580.7,
+    "prev_close": 1598.5,
+    "change_pct": -1.1135439474507323,
+    "ema20": 1575.4153237994587,
+    "ema50": 1524.324943430846,
+    "ema200": 1477.2613126038486,
+    "rsi14": 54.86393230542548,
+    "macd": 24.68939454269139,
+    "macd_signal": 30.445669454107158,
+    "atr14": 31.884531635061425,
+    "adx14": 34.6683949659459,
+    "adx_pos": 23.819357801574796,
+    "adx_neg": 20.278414996176767,
+    "bb_high": 1618.414809817347,
+    "bb_low": 1556.8951901826533,
+    "bb_mid": 1587.6550000000002,
+    "vwap20": 1588.2500016207605,
     "high_52w": 1626.7,
     "low_52w": 1259.0,
-    "volume": 738374.0,
-    "avg_volume20": 825720.05
+    "volume": 617150.0,
+    "avg_volume20": 793866.0
   },
   "price_history": [
-    {
-      "date": "2026-01-13",
-      "close": 1498.9,
-      "ema50": 1480.42
-    },
     {
       "date": "2026-01-14",
       "close": 1495.3,
@@ -55,17 +50,17 @@
     {
       "date": "2026-01-21",
       "close": 1421.8,
-      "ema50": 1476.58
+      "ema50": 1476.57
     },
     {
       "date": "2026-01-22",
       "close": 1452.8,
-      "ema50": 1475.65
+      "ema50": 1475.64
     },
     {
       "date": "2026-01-23",
       "close": 1447.9,
-      "ema50": 1474.56
+      "ema50": 1474.55
     },
     {
       "date": "2026-01-27",
@@ -85,12 +80,12 @@
     {
       "date": "2026-01-30",
       "close": 1431.1,
-      "ema50": 1469.71
+      "ema50": 1469.7
     },
     {
       "date": "2026-02-01",
       "close": 1423.8,
-      "ema50": 1467.91
+      "ema50": 1467.9
     },
     {
       "date": "2026-02-02",
@@ -100,7 +95,7 @@
     {
       "date": "2026-02-03",
       "close": 1427.8,
-      "ema50": 1464.23
+      "ema50": 1464.22
     },
     {
       "date": "2026-02-04",
@@ -150,7 +145,7 @@
     {
       "date": "2026-02-17",
       "close": 1495.5,
-      "ema50": 1470.55
+      "ema50": 1470.54
     },
     {
       "date": "2026-02-18",
@@ -205,7 +200,7 @@
     {
       "date": "2026-03-05",
       "close": 1445.9,
-      "ema50": 1472.18
+      "ema50": 1472.17
     },
     {
       "date": "2026-03-06",
@@ -215,7 +210,7 @@
     {
       "date": "2026-03-09",
       "close": 1386.4,
-      "ema50": 1467.37
+      "ema50": 1467.36
     },
     {
       "date": "2026-03-10",
@@ -275,7 +270,7 @@
     {
       "date": "2026-03-25",
       "close": 1362.8,
-      "ema50": 1425.04
+      "ema50": 1425.03
     },
     {
       "date": "2026-03-27",
@@ -626,6 +621,11 @@
       "date": "2026-07-10",
       "close": 1598.5,
       "ema50": 1522.02
+    },
+    {
+      "date": "2026-07-13",
+      "close": 1580.7,
+      "ema50": 1524.32
     }
   ],
   "flags": {
@@ -636,33 +636,31 @@
       "rsi_above_50": true,
       "macd_bullish": false,
       "adx_trending_up": true,
-      "price_above_vwap20": true,
-      "price_above_bb_mid": true
+      "price_above_vwap20": false,
+      "price_above_bb_mid": false
     },
     "flags_detail": {
-      "price_above_ema20": "Close 1,598.50 vs EMA20 1,574.86",
-      "ema20_above_ema50": "EMA20 1,574.86 vs EMA50 1,522.02",
-      "ema50_above_ema200": "EMA50 1,522.02 vs EMA200 1,476.58",
-      "rsi_above_50": "RSI(14) 59.98 vs 50",
-      "macd_bullish": "MACD 27.46 vs signal 31.88",
-      "adx_trending_up": "ADX(14) 36.72 vs 20, +DI 26.09 vs -DI 15.78",
-      "price_above_vwap20": "Close 1,598.50 vs 20d VWAP 1,584.71",
-      "price_above_bb_mid": "Close 1,598.50 vs BB mid 1,585.39"
+      "price_above_ema20": "Close 1,580.70 vs EMA20 1,575.42",
+      "ema20_above_ema50": "EMA20 1,575.42 vs EMA50 1,524.32",
+      "ema50_above_ema200": "EMA50 1,524.32 vs EMA200 1,477.26",
+      "rsi_above_50": "RSI(14) 54.86 vs 50",
+      "macd_bullish": "MACD 24.69 vs signal 30.45",
+      "adx_trending_up": "ADX(14) 34.67 vs 20, +DI 23.82 vs -DI 20.28",
+      "price_above_vwap20": "Close 1,580.70 vs 20d VWAP 1,588.25",
+      "price_above_bb_mid": "Close 1,580.70 vs BB mid 1,587.66"
     },
     "flags_on": [
       "price_above_ema20",
       "ema20_above_ema50",
       "ema50_above_ema200",
       "rsi_above_50",
-      "adx_trending_up",
-      "price_above_vwap20",
-      "price_above_bb_mid"
+      "adx_trending_up"
     ],
-    "flag_count": 7,
+    "flag_count": 5,
     "flag_total": 8
   },
   "fundamentals": null,
   "analyst": null,
   "shareholding": null,
-  "updated_at": "2026-07-10T13:26:41.400471+00:00"
+  "updated_at": "2026-07-13T13:29:42.354343+00:00"
 }

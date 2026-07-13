@@ -3,35 +3,30 @@
   "name": "Yes Bank",
   "sector": "Banking",
   "indicators": {
-    "date": "2026-07-10",
-    "close": 23.94,
-    "prev_close": 23.64,
-    "change_pct": 1.2690355329949268,
-    "ema20": 24.00678361138045,
-    "ema50": 23.106258975768007,
-    "ema200": 21.544644618608412,
-    "rsi14": 51.32348935407281,
-    "macd": 0.23969295524552336,
-    "macd_signal": 0.4545457331435474,
-    "atr14": 0.6201903940390171,
-    "adx14": 19.09754788118955,
-    "adx_pos": 21.40309973250435,
-    "adx_neg": 21.973423328433782,
-    "bb_high": 25.69893923933878,
-    "bb_low": 23.07806076066122,
-    "bb_mid": 24.3885,
-    "vwap20": 24.566349061382876,
+    "date": "2026-07-13",
+    "close": 23.78,
+    "prev_close": 23.94,
+    "change_pct": -0.6683375104427741,
+    "ema20": 23.985185172201398,
+    "ema50": 23.13268385866708,
+    "ema200": 21.601458096809935,
+    "rsi14": 49.620891351787954,
+    "macd": 0.19746962295080195,
+    "macd_signal": 0.4031305110456888,
+    "atr14": 0.600176794450032,
+    "adx14": 18.208663338215274,
+    "adx_pos": 20.537038978086215,
+    "adx_neg": 23.464535875258775,
+    "bb_high": 25.614343003093754,
+    "bb_low": 23.238656996906247,
+    "bb_mid": 24.4265,
+    "vwap20": 24.609882159156573,
     "high_52w": 25.78,
     "low_52w": 17.2,
-    "volume": 44492915.0,
-    "avg_volume20": 127977333.0
+    "volume": 51935772.0,
+    "avg_volume20": 126210466.6
   },
   "price_history": [
-    {
-      "date": "2026-01-13",
-      "close": 22.79,
-      "ema50": 22.2
-    },
     {
       "date": "2026-01-14",
       "close": 22.95,
@@ -80,7 +75,7 @@
     {
       "date": "2026-01-29",
       "close": 21.31,
-      "ema50": 22.07
+      "ema50": 22.08
     },
     {
       "date": "2026-01-30",
@@ -626,6 +621,11 @@
       "date": "2026-07-10",
       "close": 23.94,
       "ema50": 23.11
+    },
+    {
+      "date": "2026-07-13",
+      "close": 23.78,
+      "ema50": 23.13
     }
   ],
   "flags": {
@@ -633,32 +633,31 @@
       "price_above_ema20": false,
       "ema20_above_ema50": true,
       "ema50_above_ema200": true,
-      "rsi_above_50": true,
+      "rsi_above_50": false,
       "macd_bullish": false,
       "adx_trending_up": false,
       "price_above_vwap20": false,
       "price_above_bb_mid": false
     },
     "flags_detail": {
-      "price_above_ema20": "Close 23.94 vs EMA20 24.01",
-      "ema20_above_ema50": "EMA20 24.01 vs EMA50 23.11",
-      "ema50_above_ema200": "EMA50 23.11 vs EMA200 21.54",
-      "rsi_above_50": "RSI(14) 51.32 vs 50",
-      "macd_bullish": "MACD 0.24 vs signal 0.45",
-      "adx_trending_up": "ADX(14) 19.10 vs 20, +DI 21.40 vs -DI 21.97",
-      "price_above_vwap20": "Close 23.94 vs 20d VWAP 24.57",
-      "price_above_bb_mid": "Close 23.94 vs BB mid 24.39"
+      "price_above_ema20": "Close 23.78 vs EMA20 23.99",
+      "ema20_above_ema50": "EMA20 23.99 vs EMA50 23.13",
+      "ema50_above_ema200": "EMA50 23.13 vs EMA200 21.60",
+      "rsi_above_50": "RSI(14) 49.62 vs 50",
+      "macd_bullish": "MACD 0.20 vs signal 0.40",
+      "adx_trending_up": "ADX(14) 18.21 vs 20, +DI 20.54 vs -DI 23.46",
+      "price_above_vwap20": "Close 23.78 vs 20d VWAP 24.61",
+      "price_above_bb_mid": "Close 23.78 vs BB mid 24.43"
     },
     "flags_on": [
       "ema20_above_ema50",
-      "ema50_above_ema200",
-      "rsi_above_50"
+      "ema50_above_ema200"
     ],
-    "flag_count": 3,
+    "flag_count": 2,
     "flag_total": 8
   },
   "fundamentals": null,
   "analyst": null,
   "shareholding": null,
-  "updated_at": "2026-07-10T13:43:54.864027+00:00"
+  "updated_at": "2026-07-13T13:45:53.495669+00:00"
 }

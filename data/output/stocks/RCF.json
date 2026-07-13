@@ -3,35 +3,30 @@
   "name": "Rashtriya Chemicals & Fertilizers",
   "sector": "Agri & Fertilizers",
   "indicators": {
-    "date": "2026-07-10",
-    "close": 131.4,
-    "prev_close": 131.59,
-    "change_pct": -0.14438787141879908,
-    "ema20": 131.20890944779848,
-    "ema50": 129.73493023494441,
-    "ema200": 133.51073411567617,
-    "rsi14": 51.66047835375241,
-    "macd": 0.629494208239862,
-    "macd_signal": 0.9863954341438016,
-    "atr14": 4.0553601955781335,
-    "adx14": 15.243512022611318,
-    "adx_pos": 25.729281898173266,
-    "adx_neg": 18.697622802821513,
-    "bb_high": 137.09970693138158,
-    "bb_low": 127.43929306861845,
-    "bb_mid": 132.26950000000002,
-    "vwap20": 133.2403501407327,
+    "date": "2026-07-13",
+    "close": 130.82,
+    "prev_close": 131.4,
+    "change_pct": -0.4414003044140125,
+    "ema20": 131.17187045277024,
+    "ema50": 129.7775001710811,
+    "ema200": 133.65539559075862,
+    "rsi14": 50.03096827985875,
+    "macd": 0.5288567602823093,
+    "macd_signal": 0.8948876990773991,
+    "atr14": 3.9299773243088096,
+    "adx14": 14.694776400503299,
+    "adx_pos": 24.65371501741309,
+    "adx_neg": 21.187558427784246,
+    "bb_high": 136.77778996030574,
+    "bb_low": 128.10821003969428,
+    "bb_mid": 132.443,
+    "vwap20": 133.35964831625478,
     "high_52w": 164.49,
     "low_52w": 106.0,
-    "volume": 1279655.0,
-    "avg_volume20": 2530239.75
+    "volume": 814200.0,
+    "avg_volume20": 2507750.25
   },
   "price_history": [
-    {
-      "date": "2026-01-13",
-      "close": 137.49,
-      "ema50": 143.38
-    },
     {
       "date": "2026-01-14",
       "close": 137.96,
@@ -80,7 +75,7 @@
     {
       "date": "2026-01-29",
       "close": 135.26,
-      "ema50": 139.87
+      "ema50": 139.88
     },
     {
       "date": "2026-01-30",
@@ -95,12 +90,12 @@
     {
       "date": "2026-02-02",
       "close": 135.05,
-      "ema50": 139.43
+      "ema50": 139.44
     },
     {
       "date": "2026-02-03",
       "close": 135.36,
-      "ema50": 139.27
+      "ema50": 139.28
     },
     {
       "date": "2026-02-04",
@@ -135,7 +130,7 @@
     {
       "date": "2026-02-12",
       "close": 134.42,
-      "ema50": 138.34
+      "ema50": 138.35
     },
     {
       "date": "2026-02-13",
@@ -626,11 +621,16 @@
       "date": "2026-07-10",
       "close": 131.4,
       "ema50": 129.73
+    },
+    {
+      "date": "2026-07-13",
+      "close": 130.82,
+      "ema50": 129.78
     }
   ],
   "flags": {
     "flags": {
-      "price_above_ema20": true,
+      "price_above_ema20": false,
       "ema20_above_ema50": true,
       "ema50_above_ema200": false,
       "rsi_above_50": true,
@@ -640,25 +640,24 @@
       "price_above_bb_mid": false
     },
     "flags_detail": {
-      "price_above_ema20": "Close 131.40 vs EMA20 131.21",
-      "ema20_above_ema50": "EMA20 131.21 vs EMA50 129.73",
-      "ema50_above_ema200": "EMA50 129.73 vs EMA200 133.51",
-      "rsi_above_50": "RSI(14) 51.66 vs 50",
-      "macd_bullish": "MACD 0.63 vs signal 0.99",
-      "adx_trending_up": "ADX(14) 15.24 vs 20, +DI 25.73 vs -DI 18.70",
-      "price_above_vwap20": "Close 131.40 vs 20d VWAP 133.24",
-      "price_above_bb_mid": "Close 131.40 vs BB mid 132.27"
+      "price_above_ema20": "Close 130.82 vs EMA20 131.17",
+      "ema20_above_ema50": "EMA20 131.17 vs EMA50 129.78",
+      "ema50_above_ema200": "EMA50 129.78 vs EMA200 133.66",
+      "rsi_above_50": "RSI(14) 50.03 vs 50",
+      "macd_bullish": "MACD 0.53 vs signal 0.89",
+      "adx_trending_up": "ADX(14) 14.69 vs 20, +DI 24.65 vs -DI 21.19",
+      "price_above_vwap20": "Close 130.82 vs 20d VWAP 133.36",
+      "price_above_bb_mid": "Close 130.82 vs BB mid 132.44"
     },
     "flags_on": [
-      "price_above_ema20",
       "ema20_above_ema50",
       "rsi_above_50"
     ],
-    "flag_count": 3,
+    "flag_count": 2,
     "flag_total": 8
   },
   "fundamentals": null,
   "analyst": null,
   "shareholding": null,
-  "updated_at": "2026-07-10T13:29:50.278873+00:00"
+  "updated_at": "2026-07-13T13:32:42.621765+00:00"
 }

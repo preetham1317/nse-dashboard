@@ -3,35 +3,30 @@
   "name": "Tata Chemicals",
   "sector": "Chemicals",
   "indicators": {
-    "date": "2026-07-10",
-    "close": 721.05,
-    "prev_close": 713.7,
-    "change_pct": 1.0298444724674105,
-    "ema20": 718.385715885117,
-    "ema50": 724.9428847204427,
-    "ema200": 760.990877930522,
-    "rsi14": 49.83904711807676,
-    "macd": -7.12013850355072,
-    "macd_signal": -7.7419962082000024,
-    "atr14": 21.723343233468484,
-    "adx14": 20.093076588209794,
-    "adx_pos": 29.887650044510707,
-    "adx_neg": 15.843200999735362,
-    "bb_high": 755.3008555662444,
-    "bb_low": 686.0841444337556,
-    "bb_mid": 720.6925,
-    "vwap20": 730.9711160398705,
+    "date": "2026-07-13",
+    "close": 714.4,
+    "prev_close": 721.05,
+    "change_pct": -0.9222661396574409,
+    "ema20": 718.0061238960585,
+    "ema50": 724.5294628699769,
+    "ema200": 760.7593399366855,
+    "rsi14": 47.283155494603676,
+    "macd": -6.558026237182958,
+    "macd_signal": -7.505202214394584,
+    "atr14": 20.90024728843668,
+    "adx14": 20.493468188879596,
+    "adx_pos": 28.84578256851303,
+    "adx_neg": 17.05097669558472,
+    "bb_high": 751.7970302306863,
+    "bb_low": 686.4329697693137,
+    "bb_mid": 719.115,
+    "vwap20": 729.7821674121035,
     "high_52w": 1026.65,
     "low_52w": 580.3,
-    "volume": 478321.0,
-    "avg_volume20": 979816.1
+    "volume": 259096.0,
+    "avg_volume20": 945284.7
   },
   "price_history": [
-    {
-      "date": "2026-01-13",
-      "close": 762.8,
-      "ema50": 793.65
-    },
     {
       "date": "2026-01-14",
       "close": 770.35,
@@ -45,7 +40,7 @@
     {
       "date": "2026-01-19",
       "close": 746.2,
-      "ema50": 789.49
+      "ema50": 789.5
     },
     {
       "date": "2026-01-20",
@@ -75,7 +70,7 @@
     {
       "date": "2026-01-28",
       "close": 727.3,
-      "ema50": 774.17
+      "ema50": 774.18
     },
     {
       "date": "2026-01-29",
@@ -90,7 +85,7 @@
     {
       "date": "2026-02-01",
       "close": 742.9,
-      "ema50": 770.01
+      "ema50": 770.02
     },
     {
       "date": "2026-02-02",
@@ -110,7 +105,7 @@
     {
       "date": "2026-02-05",
       "close": 709.75,
-      "ema50": 762.54
+      "ema50": 762.55
     },
     {
       "date": "2026-02-06",
@@ -165,7 +160,7 @@
     {
       "date": "2026-02-20",
       "close": 716.1,
-      "ema50": 741.18
+      "ema50": 741.19
     },
     {
       "date": "2026-02-23",
@@ -175,7 +170,7 @@
     {
       "date": "2026-02-24",
       "close": 710.0,
-      "ema50": 738.95
+      "ema50": 738.96
     },
     {
       "date": "2026-02-25",
@@ -255,7 +250,7 @@
     {
       "date": "2026-03-19",
       "close": 636.85,
-      "ema50": 713.09
+      "ema50": 713.1
     },
     {
       "date": "2026-03-20",
@@ -280,7 +275,7 @@
     {
       "date": "2026-03-27",
       "close": 605.35,
-      "ema50": 695.46
+      "ema50": 695.47
     },
     {
       "date": "2026-03-30",
@@ -626,40 +621,43 @@
       "date": "2026-07-10",
       "close": 721.05,
       "ema50": 724.94
+    },
+    {
+      "date": "2026-07-13",
+      "close": 714.4,
+      "ema50": 724.53
     }
   ],
   "flags": {
     "flags": {
-      "price_above_ema20": true,
+      "price_above_ema20": false,
       "ema20_above_ema50": false,
       "ema50_above_ema200": false,
       "rsi_above_50": false,
       "macd_bullish": true,
       "adx_trending_up": true,
       "price_above_vwap20": false,
-      "price_above_bb_mid": true
+      "price_above_bb_mid": false
     },
     "flags_detail": {
-      "price_above_ema20": "Close 721.05 vs EMA20 718.39",
-      "ema20_above_ema50": "EMA20 718.39 vs EMA50 724.94",
-      "ema50_above_ema200": "EMA50 724.94 vs EMA200 760.99",
-      "rsi_above_50": "RSI(14) 49.84 vs 50",
-      "macd_bullish": "MACD -7.12 vs signal -7.74",
-      "adx_trending_up": "ADX(14) 20.09 vs 20, +DI 29.89 vs -DI 15.84",
-      "price_above_vwap20": "Close 721.05 vs 20d VWAP 730.97",
-      "price_above_bb_mid": "Close 721.05 vs BB mid 720.69"
+      "price_above_ema20": "Close 714.40 vs EMA20 718.01",
+      "ema20_above_ema50": "EMA20 718.01 vs EMA50 724.53",
+      "ema50_above_ema200": "EMA50 724.53 vs EMA200 760.76",
+      "rsi_above_50": "RSI(14) 47.28 vs 50",
+      "macd_bullish": "MACD -6.56 vs signal -7.51",
+      "adx_trending_up": "ADX(14) 20.49 vs 20, +DI 28.85 vs -DI 17.05",
+      "price_above_vwap20": "Close 714.40 vs 20d VWAP 729.78",
+      "price_above_bb_mid": "Close 714.40 vs BB mid 719.12"
     },
     "flags_on": [
-      "price_above_ema20",
       "macd_bullish",
-      "adx_trending_up",
-      "price_above_bb_mid"
+      "adx_trending_up"
     ],
-    "flag_count": 4,
+    "flag_count": 2,
     "flag_total": 8
   },
   "fundamentals": null,
   "analyst": null,
   "shareholding": null,
-  "updated_at": "2026-07-10T13:35:34.890235+00:00"
+  "updated_at": "2026-07-13T13:37:58.703211+00:00"
 }

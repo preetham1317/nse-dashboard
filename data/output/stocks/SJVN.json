@@ -3,35 +3,30 @@
   "name": "SJVN Ltd",
   "sector": "Power",
   "indicators": {
-    "date": "2026-07-10",
-    "close": 70.88,
-    "prev_close": 70.07,
-    "change_pct": 1.1559868702725877,
-    "ema20": 72.17247897492211,
-    "ema50": 73.15861749719745,
-    "ema200": 77.82906772733227,
-    "rsi14": 41.772082041855576,
-    "macd": -0.7932693227735399,
-    "macd_signal": -0.613505967349799,
-    "atr14": 1.6039906248295244,
-    "adx14": 8.768287408400198,
-    "adx_pos": 18.506632341954095,
-    "adx_neg": 23.35732807146495,
-    "bb_high": 74.77352359304757,
-    "bb_low": 70.20647640695242,
-    "bb_mid": 72.49,
-    "vwap20": 72.92305055600148,
+    "date": "2026-07-13",
+    "close": 70.57,
+    "prev_close": 70.88,
+    "change_pct": -0.4373589164785585,
+    "ema20": 72.01986192969152,
+    "ema50": 73.05711157319152,
+    "ema200": 77.83687274566034,
+    "rsi14": 40.50301885769382,
+    "macd": -0.8224092006126824,
+    "macd_signal": -0.6552866141396604,
+    "atr14": 1.5715627230999445,
+    "adx14": 9.24630799054067,
+    "adx_pos": 17.539322774606873,
+    "adx_neg": 23.954507670533754,
+    "bb_high": 74.81848637108006,
+    "bb_low": 69.95751362891995,
+    "bb_mid": 72.388,
+    "vwap20": 72.88662630166958,
     "high_52w": 101.45,
     "low_52w": 63.02,
-    "volume": 1244716.0,
-    "avg_volume20": 2584024.9
+    "volume": 1368755.0,
+    "avg_volume20": 2539655.0
   },
   "price_history": [
-    {
-      "date": "2026-01-13",
-      "close": 79.42,
-      "ema50": 79.56
-    },
     {
       "date": "2026-01-14",
       "close": 78.71,
@@ -50,7 +45,7 @@
     {
       "date": "2026-01-20",
       "close": 71.81,
-      "ema50": 78.92
+      "ema50": 78.93
     },
     {
       "date": "2026-01-21",
@@ -90,7 +85,7 @@
     {
       "date": "2026-02-01",
       "close": 71.22,
-      "ema50": 77.05
+      "ema50": 77.06
     },
     {
       "date": "2026-02-02",
@@ -125,7 +120,7 @@
     {
       "date": "2026-02-10",
       "close": 72.8,
-      "ema50": 75.94
+      "ema50": 75.95
     },
     {
       "date": "2026-02-11",
@@ -626,6 +621,11 @@
       "date": "2026-07-10",
       "close": 70.88,
       "ema50": 73.16
+    },
+    {
+      "date": "2026-07-13",
+      "close": 70.57,
+      "ema50": 73.06
     }
   ],
   "flags": {
@@ -640,14 +640,14 @@
       "price_above_bb_mid": false
     },
     "flags_detail": {
-      "price_above_ema20": "Close 70.88 vs EMA20 72.17",
-      "ema20_above_ema50": "EMA20 72.17 vs EMA50 73.16",
-      "ema50_above_ema200": "EMA50 73.16 vs EMA200 77.83",
-      "rsi_above_50": "RSI(14) 41.77 vs 50",
-      "macd_bullish": "MACD -0.79 vs signal -0.61",
-      "adx_trending_up": "ADX(14) 8.77 vs 20, +DI 18.51 vs -DI 23.36",
-      "price_above_vwap20": "Close 70.88 vs 20d VWAP 72.92",
-      "price_above_bb_mid": "Close 70.88 vs BB mid 72.49"
+      "price_above_ema20": "Close 70.57 vs EMA20 72.02",
+      "ema20_above_ema50": "EMA20 72.02 vs EMA50 73.06",
+      "ema50_above_ema200": "EMA50 73.06 vs EMA200 77.84",
+      "rsi_above_50": "RSI(14) 40.50 vs 50",
+      "macd_bullish": "MACD -0.82 vs signal -0.66",
+      "adx_trending_up": "ADX(14) 9.25 vs 20, +DI 17.54 vs -DI 23.95",
+      "price_above_vwap20": "Close 70.57 vs 20d VWAP 72.89",
+      "price_above_bb_mid": "Close 70.57 vs BB mid 72.39"
     },
     "flags_on": [],
     "flag_count": 0,
@@ -656,5 +656,5 @@
   "fundamentals": null,
   "analyst": null,
   "shareholding": null,
-  "updated_at": "2026-07-10T13:33:37.079757+00:00"
+  "updated_at": "2026-07-13T13:36:05.836106+00:00"
 }
