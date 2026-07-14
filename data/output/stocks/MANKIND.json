@@ -3,35 +3,30 @@
   "name": "Mankind Pharma",
   "sector": "Pharma",
   "indicators": {
-    "date": "2026-07-13",
-    "close": 2507.5,
-    "prev_close": 2525.1,
-    "change_pct": -0.6970020989267716,
-    "ema20": 2484.0927837324784,
-    "ema50": 2413.0804113315476,
-    "ema200": 2328.4686755037537,
-    "rsi14": 55.4660711398705,
-    "macd": 34.79204968957856,
-    "macd_signal": 36.19821973667609,
-    "atr14": 65.60964873366426,
-    "adx14": 30.498480626982843,
-    "adx_pos": 22.087291796518883,
-    "adx_neg": 13.450237835700616,
-    "bb_high": 2600.66045852025,
-    "bb_low": 2358.8495414797503,
-    "bb_mid": 2479.755,
-    "vwap20": 2490.740388898928,
+    "date": "2026-07-14",
+    "close": 2531.1,
+    "prev_close": 2507.5,
+    "change_pct": 0.9411764705882317,
+    "ema20": 2488.5696614722424,
+    "ema50": 2417.708630495016,
+    "ema200": 2330.4849075882935,
+    "rsi14": 58.12633485289405,
+    "macd": 34.366271158646214,
+    "macd_signal": 35.83183002107011,
+    "atr14": 64.79467382411683,
+    "adx14": 30.22535782137035,
+    "adx_pos": 21.847929953778543,
+    "adx_neg": 12.646597166249277,
+    "bb_high": 2601.0479160065415,
+    "bb_low": 2373.5420839934577,
+    "bb_mid": 2487.2949999999996,
+    "vwap20": 2496.5709483590545,
     "high_52w": 2716.5,
     "low_52w": 1909.7,
-    "volume": 289767.0,
-    "avg_volume20": 443273.7
+    "volume": 247728.0,
+    "avg_volume20": 435893.45
   },
   "price_history": [
-    {
-      "date": "2026-01-14",
-      "close": 2244.4,
-      "ema50": 2245.28
-    },
     {
       "date": "2026-01-16",
       "close": 2175.4,
@@ -626,6 +621,11 @@
       "date": "2026-07-13",
       "close": 2507.5,
       "ema50": 2413.08
+    },
+    {
+      "date": "2026-07-14",
+      "close": 2531.1,
+      "ema50": 2417.71
     }
   ],
   "flags": {
@@ -640,14 +640,14 @@
       "price_above_bb_mid": true
     },
     "flags_detail": {
-      "price_above_ema20": "Close 2,507.50 vs EMA20 2,484.09",
-      "ema20_above_ema50": "EMA20 2,484.09 vs EMA50 2,413.08",
-      "ema50_above_ema200": "EMA50 2,413.08 vs EMA200 2,328.47",
-      "rsi_above_50": "RSI(14) 55.47 vs 50",
-      "macd_bullish": "MACD 34.79 vs signal 36.20",
-      "adx_trending_up": "ADX(14) 30.50 vs 20, +DI 22.09 vs -DI 13.45",
-      "price_above_vwap20": "Close 2,507.50 vs 20d VWAP 2,490.74",
-      "price_above_bb_mid": "Close 2,507.50 vs BB mid 2,479.76"
+      "price_above_ema20": "Close 2,531.10 vs EMA20 2,488.57",
+      "ema20_above_ema50": "EMA20 2,488.57 vs EMA50 2,417.71",
+      "ema50_above_ema200": "EMA50 2,417.71 vs EMA200 2,330.48",
+      "rsi_above_50": "RSI(14) 58.13 vs 50",
+      "macd_bullish": "MACD 34.37 vs signal 35.83",
+      "adx_trending_up": "ADX(14) 30.23 vs 20, +DI 21.85 vs -DI 12.65",
+      "price_above_vwap20": "Close 2,531.10 vs 20d VWAP 2,496.57",
+      "price_above_bb_mid": "Close 2,531.10 vs BB mid 2,487.29"
     },
     "flags_on": [
       "price_above_ema20",
@@ -665,5 +665,5 @@
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-07-13T17:29:32.235715+00:00"
+  "updated_at": "2026-07-14T17:53:16.531731+00:00"
 }

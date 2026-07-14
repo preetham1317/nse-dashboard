@@ -3,35 +3,30 @@
   "name": "Shree Cement",
   "sector": "Cement",
   "indicators": {
-    "date": "2026-07-13",
-    "close": 26390.0,
-    "prev_close": 26615.0,
-    "change_pct": -0.8453879391320683,
-    "ema20": 25823.290373206877,
-    "ema50": 25341.617083015255,
-    "ema200": 26302.292617468425,
-    "rsi14": 58.383853841253064,
-    "macd": 457.587729036768,
-    "macd_signal": 394.63262761783216,
-    "atr14": 578.5057697623548,
-    "adx14": 25.842594229377177,
-    "adx_pos": 29.32856437983378,
-    "adx_neg": 18.09868446915844,
-    "bb_high": 27088.201911506683,
-    "bb_low": 24395.298088493317,
-    "bb_mid": 25741.75,
-    "vwap20": 25520.285304404417,
+    "date": "2026-07-14",
+    "close": 26285.0,
+    "prev_close": 26420.0,
+    "change_pct": -0.5109765329295988,
+    "ema20": 25869.847752629354,
+    "ema50": 25379.742826011196,
+    "ema200": 26302.41608886215,
+    "rsi14": 57.02022945695196,
+    "macd": 438.7767810675796,
+    "macd_signal": 403.8443642906879,
+    "atr14": 566.1125004936151,
+    "adx14": 24.971116104954092,
+    "adx_pos": 27.829863205034204,
+    "adx_neg": 21.148309609149965,
+    "bb_high": 27116.107203695854,
+    "bb_low": 24516.392796304146,
+    "bb_mid": 25816.25,
+    "vwap20": 25563.59837648722,
     "high_52w": 32490.0,
     "low_52w": 22550.0,
-    "volume": 6450.0,
-    "avg_volume20": 25994.75
+    "volume": 10021.0,
+    "avg_volume20": 25395.55
   },
   "price_history": [
-    {
-      "date": "2026-01-14",
-      "close": 27550.0,
-      "ema50": 27040.18
-    },
     {
       "date": "2026-01-16",
       "close": 27800.0,
@@ -624,8 +619,13 @@
     },
     {
       "date": "2026-07-13",
-      "close": 26390.0,
-      "ema50": 25341.62
+      "close": 26420.0,
+      "ema50": 25342.79
+    },
+    {
+      "date": "2026-07-14",
+      "close": 26285.0,
+      "ema50": 25379.74
     }
   ],
   "flags": {
@@ -640,14 +640,14 @@
       "price_above_bb_mid": true
     },
     "flags_detail": {
-      "price_above_ema20": "Close 26,390.00 vs EMA20 25,823.29",
-      "ema20_above_ema50": "EMA20 25,823.29 vs EMA50 25,341.62",
-      "ema50_above_ema200": "EMA50 25,341.62 vs EMA200 26,302.29",
-      "rsi_above_50": "RSI(14) 58.38 vs 50",
-      "macd_bullish": "MACD 457.59 vs signal 394.63",
-      "adx_trending_up": "ADX(14) 25.84 vs 20, +DI 29.33 vs -DI 18.10",
-      "price_above_vwap20": "Close 26,390.00 vs 20d VWAP 25,520.29",
-      "price_above_bb_mid": "Close 26,390.00 vs BB mid 25,741.75"
+      "price_above_ema20": "Close 26,285.00 vs EMA20 25,869.85",
+      "ema20_above_ema50": "EMA20 25,869.85 vs EMA50 25,379.74",
+      "ema50_above_ema200": "EMA50 25,379.74 vs EMA200 26,302.42",
+      "rsi_above_50": "RSI(14) 57.02 vs 50",
+      "macd_bullish": "MACD 438.78 vs signal 403.84",
+      "adx_trending_up": "ADX(14) 24.97 vs 20, +DI 27.83 vs -DI 21.15",
+      "price_above_vwap20": "Close 26,285.00 vs 20d VWAP 25,563.60",
+      "price_above_bb_mid": "Close 26,285.00 vs BB mid 25,816.25"
     },
     "flags_on": [
       "price_above_ema20",
@@ -665,5 +665,5 @@
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-07-13T17:46:03.436528+00:00"
+  "updated_at": "2026-07-14T18:09:35.859101+00:00"
 }

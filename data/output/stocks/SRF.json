@@ -3,35 +3,30 @@
   "name": "SRF Ltd",
   "sector": "Chemicals",
   "indicators": {
-    "date": "2026-07-13",
-    "close": 2741.6,
-    "prev_close": 2774.6,
-    "change_pct": -1.1893606285590717,
-    "ema20": 2746.2961403454747,
-    "ema50": 2707.772057183399,
-    "ema200": 2766.256522784121,
-    "rsi14": 50.60565466087108,
-    "macd": 19.236970928739993,
-    "macd_signal": 22.365568618465986,
-    "atr14": 67.40538936540536,
-    "adx14": 9.938250041478723,
-    "adx_pos": 18.642945617991618,
-    "adx_neg": 24.24838352732104,
-    "bb_high": 2825.3394738544853,
-    "bb_low": 2664.6905261455145,
-    "bb_mid": 2745.015,
-    "vwap20": 2741.918104560665,
+    "date": "2026-07-14",
+    "close": 2744.9,
+    "prev_close": 2741.6,
+    "change_pct": 0.12036766851474257,
+    "ema20": 2746.1631745982863,
+    "ema50": 2709.2280549409124,
+    "ema200": 2766.0440200698513,
+    "rsi14": 50.94999952016798,
+    "macd": 16.874569114264887,
+    "macd_signal": 21.267368717625768,
+    "atr14": 65.72643298216212,
+    "adx14": 10.519943324089938,
+    "adx_pos": 17.753517297468022,
+    "adx_neg": 25.591065727591328,
+    "bb_high": 2825.770357546188,
+    "bb_low": 2666.6996424538124,
+    "bb_mid": 2746.235,
+    "vwap20": 2742.2874086173415,
     "high_52w": 3325.0,
     "low_52w": 2355.0,
-    "volume": 122987.0,
-    "avg_volume20": 459376.7
+    "volume": 397057.0,
+    "avg_volume20": 454417.0
   },
   "price_history": [
-    {
-      "date": "2026-01-14",
-      "close": 3032.0,
-      "ema50": 2998.88
-    },
     {
       "date": "2026-01-16",
       "close": 3027.4,
@@ -626,6 +621,11 @@
       "date": "2026-07-13",
       "close": 2741.6,
       "ema50": 2707.77
+    },
+    {
+      "date": "2026-07-14",
+      "close": 2744.9,
+      "ema50": 2709.23
     }
   ],
   "flags": {
@@ -636,29 +636,30 @@
       "rsi_above_50": true,
       "macd_bullish": false,
       "adx_trending_up": false,
-      "price_above_vwap20": false,
+      "price_above_vwap20": true,
       "price_above_bb_mid": false
     },
     "flags_detail": {
-      "price_above_ema20": "Close 2,741.60 vs EMA20 2,746.30",
-      "ema20_above_ema50": "EMA20 2,746.30 vs EMA50 2,707.77",
-      "ema50_above_ema200": "EMA50 2,707.77 vs EMA200 2,766.26",
-      "rsi_above_50": "RSI(14) 50.61 vs 50",
-      "macd_bullish": "MACD 19.24 vs signal 22.37",
-      "adx_trending_up": "ADX(14) 9.94 vs 20, +DI 18.64 vs -DI 24.25",
-      "price_above_vwap20": "Close 2,741.60 vs 20d VWAP 2,741.92",
-      "price_above_bb_mid": "Close 2,741.60 vs BB mid 2,745.01"
+      "price_above_ema20": "Close 2,744.90 vs EMA20 2,746.16",
+      "ema20_above_ema50": "EMA20 2,746.16 vs EMA50 2,709.23",
+      "ema50_above_ema200": "EMA50 2,709.23 vs EMA200 2,766.04",
+      "rsi_above_50": "RSI(14) 50.95 vs 50",
+      "macd_bullish": "MACD 16.87 vs signal 21.27",
+      "adx_trending_up": "ADX(14) 10.52 vs 20, +DI 17.75 vs -DI 25.59",
+      "price_above_vwap20": "Close 2,744.90 vs 20d VWAP 2,742.29",
+      "price_above_bb_mid": "Close 2,744.90 vs BB mid 2,746.24"
     },
     "flags_on": [
       "ema20_above_ema50",
-      "rsi_above_50"
+      "rsi_above_50",
+      "price_above_vwap20"
     ],
-    "flag_count": 2,
+    "flag_count": 3,
     "flag_total": 8
   },
   "fundamentals": null,
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-07-13T17:47:32.708002+00:00"
+  "updated_at": "2026-07-14T18:11:04.989903+00:00"
 }

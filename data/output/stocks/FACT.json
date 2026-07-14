@@ -4,27 +4,27 @@
   "sector": "Agri & Fertilizers",
   "indicators": {
     "date": "2026-07-14",
-    "close": 845.6,
+    "close": 844.35,
     "prev_close": 855.85,
-    "change_pct": -1.1976397733247648,
-    "ema20": 873.5317036813057,
-    "ema50": 876.4726010769764,
-    "ema200": 863.9235437102963,
-    "rsi14": 40.184085353365,
-    "macd": -11.413981238445217,
-    "macd_signal": -6.560747469069533,
-    "atr14": 28.373275561048754,
-    "adx14": 12.511980730242522,
-    "adx_pos": 20.380790515559717,
-    "adx_neg": 24.255629837532386,
-    "bb_high": 968.183656045567,
-    "bb_low": 808.7813439544332,
-    "bb_mid": 888.4825000000001,
-    "vwap20": 960.5784769548227,
+    "change_pct": -1.3436934042180289,
+    "ema20": 873.4126560622581,
+    "ema50": 876.4235814691333,
+    "ema200": 863.9111058993509,
+    "rsi14": 39.89433745095989,
+    "macd": -11.513696338160344,
+    "macd_signal": -6.580690489012557,
+    "atr14": 28.58756127533447,
+    "adx14": 12.575730613243717,
+    "adx_pos": 20.22802084726702,
+    "adx_neg": 24.511068381746643,
+    "bb_high": 968.2574122827125,
+    "bb_low": 808.5825877172877,
+    "bb_mid": 888.4200000000001,
+    "vwap20": 960.3600700888226,
     "high_52w": 1058.6,
     "low_52w": 652.1,
-    "volume": 17161.0,
-    "avg_volume20": 999964.1
+    "volume": 55501.0,
+    "avg_volume20": 1001881.1
   },
   "price_history": [
     {
@@ -624,8 +624,8 @@
     },
     {
       "date": "2026-07-14",
-      "close": 845.6,
-      "ema50": 876.47
+      "close": 844.35,
+      "ema50": 876.42
     }
   ],
   "flags": {
@@ -640,14 +640,14 @@
       "price_above_bb_mid": false
     },
     "flags_detail": {
-      "price_above_ema20": "Close 845.60 vs EMA20 873.53",
-      "ema20_above_ema50": "EMA20 873.53 vs EMA50 876.47",
-      "ema50_above_ema200": "EMA50 876.47 vs EMA200 863.92",
-      "rsi_above_50": "RSI(14) 40.18 vs 50",
-      "macd_bullish": "MACD -11.41 vs signal -6.56",
-      "adx_trending_up": "ADX(14) 12.51 vs 20, +DI 20.38 vs -DI 24.26",
-      "price_above_vwap20": "Close 845.60 vs 20d VWAP 960.58",
-      "price_above_bb_mid": "Close 845.60 vs BB mid 888.48"
+      "price_above_ema20": "Close 844.35 vs EMA20 873.41",
+      "ema20_above_ema50": "EMA20 873.41 vs EMA50 876.42",
+      "ema50_above_ema200": "EMA50 876.42 vs EMA200 863.91",
+      "rsi_above_50": "RSI(14) 39.89 vs 50",
+      "macd_bullish": "MACD -11.51 vs signal -6.58",
+      "adx_trending_up": "ADX(14) 12.58 vs 20, +DI 20.23 vs -DI 24.51",
+      "price_above_vwap20": "Close 844.35 vs 20d VWAP 960.36",
+      "price_above_bb_mid": "Close 844.35 vs BB mid 888.42"
     },
     "flags_on": [
       "ema50_above_ema200"
@@ -659,5 +659,5 @@
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-07-14T04:54:29.952234+00:00"
+  "updated_at": "2026-07-14T17:34:20.605186+00:00"
 }

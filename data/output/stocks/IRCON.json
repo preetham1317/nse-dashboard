@@ -4,27 +4,27 @@
   "sector": "Railways",
   "indicators": {
     "date": "2026-07-14",
-    "close": 129.54,
+    "close": 129.52,
     "prev_close": 131.81,
-    "change_pct": -1.722175859191268,
-    "ema20": 133.45756062299247,
-    "ema50": 136.96332634237174,
-    "ema200": 149.37887304015064,
-    "rsi14": 39.47009850328675,
-    "macd": -2.1521820710012776,
-    "macd_signal": -1.9666428191790153,
-    "atr14": 3.608364582028428,
+    "change_pct": -1.737349214778842,
+    "ema20": 133.4556558610877,
+    "ema50": 136.96254202864625,
+    "ema200": 149.3786740351755,
+    "rsi14": 39.43870929535636,
+    "macd": -2.1537775125967187,
+    "macd_signal": -1.9669619074981035,
+    "atr14": 3.6305074391712853,
     "adx14": 11.928122154962528,
-    "adx_pos": 19.055208022022015,
-    "adx_neg": 24.920266204262607,
-    "bb_high": 141.2213729330107,
-    "bb_low": 127.42562706698926,
-    "bb_mid": 134.3235,
-    "vwap20": 135.5049640276654,
+    "adx_pos": 18.93898824940898,
+    "adx_neg": 24.768274808085327,
+    "bb_high": 141.2231517808075,
+    "bb_low": 127.42184821919247,
+    "bb_mid": 134.3225,
+    "vwap20": 135.37876311919464,
     "high_52w": 200.15,
     "low_52w": 114.5,
-    "volume": 416924.0,
-    "avg_volume20": 1802503.25
+    "volume": 1237453.0,
+    "avg_volume20": 1843529.7
   },
   "price_history": [
     {
@@ -624,7 +624,7 @@
     },
     {
       "date": "2026-07-14",
-      "close": 129.54,
+      "close": 129.52,
       "ema50": 136.96
     }
   ],
@@ -640,14 +640,14 @@
       "price_above_bb_mid": false
     },
     "flags_detail": {
-      "price_above_ema20": "Close 129.54 vs EMA20 133.46",
+      "price_above_ema20": "Close 129.52 vs EMA20 133.46",
       "ema20_above_ema50": "EMA20 133.46 vs EMA50 136.96",
       "ema50_above_ema200": "EMA50 136.96 vs EMA200 149.38",
-      "rsi_above_50": "RSI(14) 39.47 vs 50",
+      "rsi_above_50": "RSI(14) 39.44 vs 50",
       "macd_bullish": "MACD -2.15 vs signal -1.97",
-      "adx_trending_up": "ADX(14) 11.93 vs 20, +DI 19.06 vs -DI 24.92",
-      "price_above_vwap20": "Close 129.54 vs 20d VWAP 135.50",
-      "price_above_bb_mid": "Close 129.54 vs BB mid 134.32"
+      "adx_trending_up": "ADX(14) 11.93 vs 20, +DI 18.94 vs -DI 24.77",
+      "price_above_vwap20": "Close 129.52 vs 20d VWAP 135.38",
+      "price_above_bb_mid": "Close 129.52 vs BB mid 134.32"
     },
     "flags_on": [],
     "flag_count": 0,
@@ -657,5 +657,5 @@
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-07-14T05:00:14.835022+00:00"
+  "updated_at": "2026-07-14T17:44:21.891994+00:00"
 }

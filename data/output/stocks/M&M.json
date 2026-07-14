@@ -3,35 +3,30 @@
   "name": "Mahindra & Mahindra",
   "sector": "Auto",
   "indicators": {
-    "date": "2026-07-13",
-    "close": 3160.4,
-    "prev_close": 3129.4,
-    "change_pct": 0.9906052278392024,
-    "ema20": 3118.576872091949,
-    "ema50": 3123.1500555059138,
-    "ema200": 3241.775216010794,
-    "rsi14": 54.10723213035327,
-    "macd": 15.218741695007793,
-    "macd_signal": 12.197183235729769,
-    "atr14": 77.34187775028578,
-    "adx14": 11.30100050825528,
-    "adx_pos": 19.64711432875591,
-    "adx_neg": 18.940719638078516,
-    "bb_high": 3214.2086480075145,
-    "bb_low": 3030.111351992485,
-    "bb_mid": 3122.16,
-    "vwap20": 3124.3026722820173,
+    "date": "2026-07-14",
+    "close": 3093.3,
+    "prev_close": 3160.4,
+    "change_pct": -2.123148968484999,
+    "ema20": 3116.169550940335,
+    "ema50": 3121.9794650939175,
+    "ema200": 3240.297850677353,
+    "rsi14": 48.37430886969034,
+    "macd": 11.203174534669415,
+    "macd_signal": 11.998381495517698,
+    "atr14": 77.40317219669396,
+    "adx14": 10.624544403096746,
+    "adx_pos": 18.229302060017687,
+    "adx_neg": 17.573883560665656,
+    "bb_high": 3212.8097713050647,
+    "bb_low": 3027.4102286949346,
+    "bb_mid": 3120.1099999999997,
+    "vwap20": 3123.175779220439,
     "high_52w": 3839.9,
     "low_52w": 2896.0,
-    "volume": 1770170.0,
-    "avg_volume20": 3014510.3
+    "volume": 2376410.0,
+    "avg_volume20": 2868988.1
   },
   "price_history": [
-    {
-      "date": "2026-01-14",
-      "close": 3649.5,
-      "ema50": 3655.94
-    },
     {
       "date": "2026-01-16",
       "close": 3658.2,
@@ -626,42 +621,41 @@
       "date": "2026-07-13",
       "close": 3160.4,
       "ema50": 3123.15
+    },
+    {
+      "date": "2026-07-14",
+      "close": 3093.3,
+      "ema50": 3121.98
     }
   ],
   "flags": {
     "flags": {
-      "price_above_ema20": true,
+      "price_above_ema20": false,
       "ema20_above_ema50": false,
       "ema50_above_ema200": false,
-      "rsi_above_50": true,
-      "macd_bullish": true,
+      "rsi_above_50": false,
+      "macd_bullish": false,
       "adx_trending_up": false,
-      "price_above_vwap20": true,
-      "price_above_bb_mid": true
+      "price_above_vwap20": false,
+      "price_above_bb_mid": false
     },
     "flags_detail": {
-      "price_above_ema20": "Close 3,160.40 vs EMA20 3,118.58",
-      "ema20_above_ema50": "EMA20 3,118.58 vs EMA50 3,123.15",
-      "ema50_above_ema200": "EMA50 3,123.15 vs EMA200 3,241.78",
-      "rsi_above_50": "RSI(14) 54.11 vs 50",
-      "macd_bullish": "MACD 15.22 vs signal 12.20",
-      "adx_trending_up": "ADX(14) 11.30 vs 20, +DI 19.65 vs -DI 18.94",
-      "price_above_vwap20": "Close 3,160.40 vs 20d VWAP 3,124.30",
-      "price_above_bb_mid": "Close 3,160.40 vs BB mid 3,122.16"
+      "price_above_ema20": "Close 3,093.30 vs EMA20 3,116.17",
+      "ema20_above_ema50": "EMA20 3,116.17 vs EMA50 3,121.98",
+      "ema50_above_ema200": "EMA50 3,121.98 vs EMA200 3,240.30",
+      "rsi_above_50": "RSI(14) 48.37 vs 50",
+      "macd_bullish": "MACD 11.20 vs signal 12.00",
+      "adx_trending_up": "ADX(14) 10.62 vs 20, +DI 18.23 vs -DI 17.57",
+      "price_above_vwap20": "Close 3,093.30 vs 20d VWAP 3,123.18",
+      "price_above_bb_mid": "Close 3,093.30 vs BB mid 3,120.11"
     },
-    "flags_on": [
-      "price_above_ema20",
-      "rsi_above_50",
-      "macd_bullish",
-      "price_above_vwap20",
-      "price_above_bb_mid"
-    ],
-    "flag_count": 5,
+    "flags_on": [],
+    "flag_count": 0,
     "flag_total": 8
   },
   "fundamentals": null,
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-07-13T17:29:09.827356+00:00"
+  "updated_at": "2026-07-14T17:52:54.221759+00:00"
 }

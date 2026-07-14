@@ -3,35 +3,30 @@
   "name": "NMDC Ltd",
   "sector": "Metals",
   "indicators": {
-    "date": "2026-07-13",
-    "close": 84.13,
-    "prev_close": 84.92,
-    "change_pct": -0.9302873292510672,
-    "ema20": 85.91654308787496,
-    "ema50": 86.85681323637412,
-    "ema200": 82.17233506461675,
-    "rsi14": 40.16958512390002,
-    "macd": -1.2874863310133975,
-    "macd_signal": -1.2150207086304534,
-    "atr14": 2.049860287537353,
-    "adx14": 24.450072521143827,
-    "adx_pos": 15.280955884621388,
-    "adx_neg": 27.64880102697445,
-    "bb_high": 89.17360939229211,
-    "bb_low": 82.6373906077079,
-    "bb_mid": 85.9055,
-    "vwap20": 85.99593584578449,
+    "date": "2026-07-14",
+    "close": 84.99,
+    "prev_close": 84.13,
+    "change_pct": 1.022227505051705,
+    "ema20": 85.82830088902972,
+    "ema50": 86.78360487416337,
+    "ema200": 82.20037153163548,
+    "rsi14": 44.257270641506295,
+    "macd": -1.1999566531878685,
+    "macd_signal": -1.2120078975419366,
+    "atr14": 2.055584552713257,
+    "adx14": 23.60171038105409,
+    "adx_pos": 19.883454957241835,
+    "adx_neg": 25.602391610603537,
+    "bb_high": 88.79935446199586,
+    "bb_low": 82.66364553800416,
+    "bb_mid": 85.73150000000001,
+    "vwap20": 85.71278607177791,
     "high_52w": 97.49,
     "low_52w": 67.15,
-    "volume": 23088111.0,
-    "avg_volume20": 23044451.9
+    "volume": 24646208.0,
+    "avg_volume20": 22829645.55
   },
   "price_history": [
-    {
-      "date": "2026-01-14",
-      "close": 83.85,
-      "ema50": 79.01
-    },
     {
       "date": "2026-01-16",
       "close": 82.74,
@@ -626,6 +621,11 @@
       "date": "2026-07-13",
       "close": 84.13,
       "ema50": 86.86
+    },
+    {
+      "date": "2026-07-14",
+      "close": 84.99,
+      "ema50": 86.78
     }
   ],
   "flags": {
@@ -634,30 +634,31 @@
       "ema20_above_ema50": false,
       "ema50_above_ema200": true,
       "rsi_above_50": false,
-      "macd_bullish": false,
+      "macd_bullish": true,
       "adx_trending_up": false,
       "price_above_vwap20": false,
       "price_above_bb_mid": false
     },
     "flags_detail": {
-      "price_above_ema20": "Close 84.13 vs EMA20 85.92",
-      "ema20_above_ema50": "EMA20 85.92 vs EMA50 86.86",
-      "ema50_above_ema200": "EMA50 86.86 vs EMA200 82.17",
-      "rsi_above_50": "RSI(14) 40.17 vs 50",
-      "macd_bullish": "MACD -1.29 vs signal -1.22",
-      "adx_trending_up": "ADX(14) 24.45 vs 20, +DI 15.28 vs -DI 27.65",
-      "price_above_vwap20": "Close 84.13 vs 20d VWAP 86.00",
-      "price_above_bb_mid": "Close 84.13 vs BB mid 85.91"
+      "price_above_ema20": "Close 84.99 vs EMA20 85.83",
+      "ema20_above_ema50": "EMA20 85.83 vs EMA50 86.78",
+      "ema50_above_ema200": "EMA50 86.78 vs EMA200 82.20",
+      "rsi_above_50": "RSI(14) 44.26 vs 50",
+      "macd_bullish": "MACD -1.20 vs signal -1.21",
+      "adx_trending_up": "ADX(14) 23.60 vs 20, +DI 19.88 vs -DI 25.60",
+      "price_above_vwap20": "Close 84.99 vs 20d VWAP 85.71",
+      "price_above_bb_mid": "Close 84.99 vs BB mid 85.73"
     },
     "flags_on": [
-      "ema50_above_ema200"
+      "ema50_above_ema200",
+      "macd_bullish"
     ],
-    "flag_count": 1,
+    "flag_count": 2,
     "flag_total": 8
   },
   "fundamentals": null,
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-07-13T17:35:33.390327+00:00"
+  "updated_at": "2026-07-14T17:59:12.455243+00:00"
 }

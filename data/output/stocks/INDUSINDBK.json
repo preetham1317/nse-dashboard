@@ -3,35 +3,30 @@
   "name": "IndusInd Bank",
   "sector": "Banking",
   "indicators": {
-    "date": "2026-07-13",
-    "close": 1012.9,
-    "prev_close": 1015.8,
-    "change_pct": -0.28548926954124604,
-    "ema20": 965.5450060921435,
-    "ema50": 932.0506862758145,
-    "ema200": 880.1598814021946,
-    "rsi14": 65.7297465954621,
-    "macd": 27.467770579806597,
-    "macd_signal": 20.089032458827365,
-    "atr14": 26.01654823324996,
-    "adx14": 31.568324234466047,
-    "adx_pos": 35.02540534280802,
-    "adx_neg": 15.074448977126636,
-    "bb_high": 1034.4267434279016,
-    "bb_low": 877.9982565720984,
-    "bb_mid": 956.2125,
-    "vwap20": 960.9704619232801,
+    "date": "2026-07-14",
+    "close": 997.35,
+    "prev_close": 1012.9,
+    "change_pct": -1.5351959719616897,
+    "ema20": 968.574053130987,
+    "ema50": 934.611443676763,
+    "ema200": 881.3259522340136,
+    "rsi14": 60.63661890819517,
+    "macd": 26.53751338754546,
+    "macd_signal": 21.378728644570984,
+    "atr14": 25.50108050230353,
+    "adx14": 31.791669708417825,
+    "adx_pos": 33.18100836744925,
+    "adx_neg": 16.087292220609957,
+    "bb_high": 1038.8483286995202,
+    "bb_low": 879.9916713004797,
+    "bb_mid": 959.4199999999998,
+    "vwap20": 963.0403783865916,
     "high_52w": 1038.0,
     "low_52w": 710.6,
-    "volume": 862018.0,
-    "avg_volume20": 2627657.85
+    "volume": 767488.0,
+    "avg_volume20": 2514182.2
   },
   "price_history": [
-    {
-      "date": "2026-01-14",
-      "close": 944.5,
-      "ema50": 853.87
-    },
     {
       "date": "2026-01-16",
       "close": 953.85,
@@ -626,6 +621,11 @@
       "date": "2026-07-13",
       "close": 1012.9,
       "ema50": 932.05
+    },
+    {
+      "date": "2026-07-14",
+      "close": 997.35,
+      "ema50": 934.61
     }
   ],
   "flags": {
@@ -640,14 +640,14 @@
       "price_above_bb_mid": true
     },
     "flags_detail": {
-      "price_above_ema20": "Close 1,012.90 vs EMA20 965.55",
-      "ema20_above_ema50": "EMA20 965.55 vs EMA50 932.05",
-      "ema50_above_ema200": "EMA50 932.05 vs EMA200 880.16",
-      "rsi_above_50": "RSI(14) 65.73 vs 50",
-      "macd_bullish": "MACD 27.47 vs signal 20.09",
-      "adx_trending_up": "ADX(14) 31.57 vs 20, +DI 35.03 vs -DI 15.07",
-      "price_above_vwap20": "Close 1,012.90 vs 20d VWAP 960.97",
-      "price_above_bb_mid": "Close 1,012.90 vs BB mid 956.21"
+      "price_above_ema20": "Close 997.35 vs EMA20 968.57",
+      "ema20_above_ema50": "EMA20 968.57 vs EMA50 934.61",
+      "ema50_above_ema200": "EMA50 934.61 vs EMA200 881.33",
+      "rsi_above_50": "RSI(14) 60.64 vs 50",
+      "macd_bullish": "MACD 26.54 vs signal 21.38",
+      "adx_trending_up": "ADX(14) 31.79 vs 20, +DI 33.18 vs -DI 16.09",
+      "price_above_vwap20": "Close 997.35 vs 20d VWAP 963.04",
+      "price_above_bb_mid": "Close 997.35 vs BB mid 959.42"
     },
     "flags_on": [
       "price_above_ema20",
@@ -666,5 +666,5 @@
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-07-13T17:18:38.820896+00:00"
+  "updated_at": "2026-07-14T17:42:30.579458+00:00"
 }

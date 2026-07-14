@@ -3,35 +3,30 @@
   "name": "The Ramco Cements",
   "sector": "Cement",
   "indicators": {
-    "date": "2026-07-13",
-    "close": 936.0,
-    "prev_close": 942.1,
-    "change_pct": -0.6474896507801743,
-    "ema20": 919.0875161741102,
-    "ema50": 921.8931640570404,
-    "ema200": 983.8011063064382,
-    "rsi14": 56.50232728365326,
-    "macd": 9.951511373055837,
-    "macd_signal": 7.623906722189191,
-    "atr14": 24.612837381945948,
-    "adx14": 22.186777469943873,
-    "adx_pos": 23.58509022548598,
-    "adx_neg": 15.753460789757396,
-    "bb_high": 961.4362765262225,
-    "bb_low": 871.0187234737779,
-    "bb_mid": 916.2275000000002,
-    "vwap20": 920.3833908064254,
+    "date": "2026-07-14",
+    "close": 923.0,
+    "prev_close": 938.2,
+    "change_pct": -1.620123641014714,
+    "ema20": 919.6497028423356,
+    "ema50": 922.0194605838308,
+    "ema200": 983.217792904909,
+    "rsi14": 52.01427035634192,
+    "macd": 9.082778622494743,
+    "macd_signal": 7.943760874330065,
+    "atr14": 24.054777568949806,
+    "adx14": 21.51219652929263,
+    "adx_pos": 22.408521114029007,
+    "adx_neg": 17.34311191355422,
+    "bb_high": 962.3614776363432,
+    "bb_low": 871.4885223636567,
+    "bb_mid": 916.925,
+    "vwap20": 921.3529144652608,
     "high_52w": 1214.5,
     "low_52w": 838.3,
-    "volume": 73808.0,
-    "avg_volume20": 254727.9
+    "volume": 36574.0,
+    "avg_volume20": 243433.45
   },
   "price_history": [
-    {
-      "date": "2026-01-14",
-      "close": 1064.4,
-      "ema50": 1048.96
-    },
     {
       "date": "2026-01-16",
       "close": 1075.0,
@@ -624,8 +619,13 @@
     },
     {
       "date": "2026-07-13",
-      "close": 936.0,
-      "ema50": 921.89
+      "close": 938.2,
+      "ema50": 921.98
+    },
+    {
+      "date": "2026-07-14",
+      "close": 923.0,
+      "ema50": 922.02
     }
   ],
   "flags": {
@@ -640,14 +640,14 @@
       "price_above_bb_mid": true
     },
     "flags_detail": {
-      "price_above_ema20": "Close 936.00 vs EMA20 919.09",
-      "ema20_above_ema50": "EMA20 919.09 vs EMA50 921.89",
-      "ema50_above_ema200": "EMA50 921.89 vs EMA200 983.80",
-      "rsi_above_50": "RSI(14) 56.50 vs 50",
-      "macd_bullish": "MACD 9.95 vs signal 7.62",
-      "adx_trending_up": "ADX(14) 22.19 vs 20, +DI 23.59 vs -DI 15.75",
-      "price_above_vwap20": "Close 936.00 vs 20d VWAP 920.38",
-      "price_above_bb_mid": "Close 936.00 vs BB mid 916.23"
+      "price_above_ema20": "Close 923.00 vs EMA20 919.65",
+      "ema20_above_ema50": "EMA20 919.65 vs EMA50 922.02",
+      "ema50_above_ema200": "EMA50 922.02 vs EMA200 983.22",
+      "rsi_above_50": "RSI(14) 52.01 vs 50",
+      "macd_bullish": "MACD 9.08 vs signal 7.94",
+      "adx_trending_up": "ADX(14) 21.51 vs 20, +DI 22.41 vs -DI 17.34",
+      "price_above_vwap20": "Close 923.00 vs 20d VWAP 921.35",
+      "price_above_bb_mid": "Close 923.00 vs BB mid 916.92"
     },
     "flags_on": [
       "price_above_ema20",
@@ -664,5 +664,5 @@
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-07-13T17:42:40.826605+00:00"
+  "updated_at": "2026-07-14T18:06:15.508115+00:00"
 }

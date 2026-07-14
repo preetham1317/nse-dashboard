@@ -3,35 +3,30 @@
   "name": "UltraTech Cement",
   "sector": "Cement",
   "indicators": {
-    "date": "2026-07-13",
-    "close": 11571.0,
-    "prev_close": 11711.0,
-    "change_pct": -1.1954572624028692,
-    "ema20": 11474.701112097266,
-    "ema50": 11476.961664744502,
-    "ema200": 11754.77700880998,
-    "rsi14": 53.36205989228507,
-    "macd": 64.82658676399296,
-    "macd_signal": 40.3110961637783,
-    "atr14": 210.95181420362525,
-    "adx14": 11.200089235738735,
-    "adx_pos": 23.726182087780348,
-    "adx_neg": 24.193355619246113,
-    "bb_high": 11735.219938594524,
-    "bb_low": 11207.580061405475,
-    "bb_mid": 11471.4,
-    "vwap20": 11444.405115573863,
+    "date": "2026-07-14",
+    "close": 11496.0,
+    "prev_close": 11571.0,
+    "change_pct": -0.6481721545242416,
+    "ema20": 11476.729577611812,
+    "ema50": 11477.70826612707,
+    "ema200": 11752.202113199932,
+    "rsi14": 51.101173468273586,
+    "macd": 57.849327603526035,
+    "macd_signal": 43.81874245172785,
+    "atr14": 211.3123989033663,
+    "adx14": 11.321838998035895,
+    "adx_pos": 21.993860193886896,
+    "adx_neg": 28.511348198897107,
+    "bb_high": 11736.921135517628,
+    "bb_low": 11208.87886448237,
+    "bb_mid": 11472.9,
+    "vwap20": 11447.915474052355,
     "high_52w": 13110.0,
     "low_52w": 10325.0,
-    "volume": 121301.0,
-    "avg_volume20": 232390.35
+    "volume": 404659.0,
+    "avg_volume20": 232402.6
   },
   "price_history": [
-    {
-      "date": "2026-01-14",
-      "close": 12255.0,
-      "ema50": 11870.06
-    },
     {
       "date": "2026-01-16",
       "close": 12378.0,
@@ -626,6 +621,11 @@
       "date": "2026-07-13",
       "close": 11571.0,
       "ema50": 11476.96
+    },
+    {
+      "date": "2026-07-14",
+      "close": 11496.0,
+      "ema50": 11477.71
     }
   ],
   "flags": {
@@ -640,14 +640,14 @@
       "price_above_bb_mid": true
     },
     "flags_detail": {
-      "price_above_ema20": "Close 11,571.00 vs EMA20 11,474.70",
-      "ema20_above_ema50": "EMA20 11,474.70 vs EMA50 11,476.96",
-      "ema50_above_ema200": "EMA50 11,476.96 vs EMA200 11,754.78",
-      "rsi_above_50": "RSI(14) 53.36 vs 50",
-      "macd_bullish": "MACD 64.83 vs signal 40.31",
-      "adx_trending_up": "ADX(14) 11.20 vs 20, +DI 23.73 vs -DI 24.19",
-      "price_above_vwap20": "Close 11,571.00 vs 20d VWAP 11,444.41",
-      "price_above_bb_mid": "Close 11,571.00 vs BB mid 11,471.40"
+      "price_above_ema20": "Close 11,496.00 vs EMA20 11,476.73",
+      "ema20_above_ema50": "EMA20 11,476.73 vs EMA50 11,477.71",
+      "ema50_above_ema200": "EMA50 11,477.71 vs EMA200 11,752.20",
+      "rsi_above_50": "RSI(14) 51.10 vs 50",
+      "macd_bullish": "MACD 57.85 vs signal 43.82",
+      "adx_trending_up": "ADX(14) 11.32 vs 20, +DI 21.99 vs -DI 28.51",
+      "price_above_vwap20": "Close 11,496.00 vs 20d VWAP 11,447.92",
+      "price_above_bb_mid": "Close 11,496.00 vs BB mid 11,472.90"
     },
     "flags_on": [
       "price_above_ema20",
@@ -663,5 +663,5 @@
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-07-13T17:54:42.716799+00:00"
+  "updated_at": "2026-07-14T18:18:08.485954+00:00"
 }

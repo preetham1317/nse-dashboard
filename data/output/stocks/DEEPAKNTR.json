@@ -3,35 +3,30 @@
   "name": "Deepak Nitrite",
   "sector": "Chemicals",
   "indicators": {
-    "date": "2026-07-13",
-    "close": 1667.2,
-    "prev_close": 1644.0,
-    "change_pct": 1.4111922141119249,
-    "ema20": 1623.256656028324,
-    "ema50": 1640.2222308087398,
-    "ema200": 1674.0314296360245,
-    "rsi14": 55.23148536523886,
-    "macd": -13.726341235010295,
-    "macd_signal": -23.939575310542352,
-    "atr14": 53.234049952949206,
-    "adx14": 20.393912906976773,
-    "adx_pos": 17.341637721812912,
-    "adx_neg": 20.894936669560117,
-    "bb_high": 1697.0833727756965,
-    "bb_low": 1534.0466272243036,
-    "bb_mid": 1615.565,
-    "vwap20": 1613.9509929176331,
+    "date": "2026-07-14",
+    "close": 1670.0,
+    "prev_close": 1667.2,
+    "change_pct": 0.16794625719769402,
+    "ema20": 1627.7084030732456,
+    "ema50": 1641.389986463299,
+    "ema200": 1673.991315908303,
+    "rsi14": 55.59205729265166,
+    "macd": -8.433466422049605,
+    "macd_signal": -20.8383535328438,
+    "atr14": 53.803046384881405,
+    "adx14": 19.018023015060805,
+    "adx_pos": 19.63663757723106,
+    "adx_neg": 19.197249841514335,
+    "bb_high": 1697.673958898734,
+    "bb_low": 1533.786041101266,
+    "bb_mid": 1615.73,
+    "vwap20": 1617.5336391710423,
     "high_52w": 1999.5,
     "low_52w": 1280.0,
-    "volume": 151399.0,
-    "avg_volume20": 174929.75
+    "volume": 314981.0,
+    "avg_volume20": 185872.0
   },
   "price_history": [
-    {
-      "date": "2026-01-14",
-      "close": 1564.0,
-      "ema50": 1656.56
-    },
     {
       "date": "2026-01-16",
       "close": 1545.0,
@@ -626,6 +621,11 @@
       "date": "2026-07-13",
       "close": 1667.2,
       "ema50": 1640.22
+    },
+    {
+      "date": "2026-07-14",
+      "close": 1670.0,
+      "ema50": 1641.39
     }
   ],
   "flags": {
@@ -640,14 +640,14 @@
       "price_above_bb_mid": true
     },
     "flags_detail": {
-      "price_above_ema20": "Close 1,667.20 vs EMA20 1,623.26",
-      "ema20_above_ema50": "EMA20 1,623.26 vs EMA50 1,640.22",
-      "ema50_above_ema200": "EMA50 1,640.22 vs EMA200 1,674.03",
-      "rsi_above_50": "RSI(14) 55.23 vs 50",
-      "macd_bullish": "MACD -13.73 vs signal -23.94",
-      "adx_trending_up": "ADX(14) 20.39 vs 20, +DI 17.34 vs -DI 20.89",
-      "price_above_vwap20": "Close 1,667.20 vs 20d VWAP 1,613.95",
-      "price_above_bb_mid": "Close 1,667.20 vs BB mid 1,615.57"
+      "price_above_ema20": "Close 1,670.00 vs EMA20 1,627.71",
+      "ema20_above_ema50": "EMA20 1,627.71 vs EMA50 1,641.39",
+      "ema50_above_ema200": "EMA50 1,641.39 vs EMA200 1,673.99",
+      "rsi_above_50": "RSI(14) 55.59 vs 50",
+      "macd_bullish": "MACD -8.43 vs signal -20.84",
+      "adx_trending_up": "ADX(14) 19.02 vs 20, +DI 19.64 vs -DI 19.20",
+      "price_above_vwap20": "Close 1,670.00 vs 20d VWAP 1,617.53",
+      "price_above_bb_mid": "Close 1,670.00 vs BB mid 1,615.73"
     },
     "flags_on": [
       "price_above_ema20",
@@ -663,5 +663,5 @@
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-07-13T17:07:22.457615+00:00"
+  "updated_at": "2026-07-14T17:31:22.201336+00:00"
 }

@@ -3,35 +3,30 @@
   "name": "ICICI Bank",
   "sector": "Banking",
   "indicators": {
-    "date": "2026-07-13",
-    "close": 1409.5,
-    "prev_close": 1401.2,
-    "change_pct": 0.5923494147873218,
-    "ema20": 1372.7940873546252,
-    "ema50": 1336.6634561500905,
-    "ema200": 1344.8102768281196,
-    "rsi14": 64.04646021591644,
-    "macd": 27.89484731650282,
-    "macd_signal": 28.754084602581624,
-    "atr14": 26.523297671545286,
-    "adx14": 30.956437169817008,
-    "adx_pos": 26.36160988317262,
-    "adx_neg": 15.927764257125284,
-    "bb_high": 1434.6738285743102,
-    "bb_low": 1316.01617142569,
-    "bb_mid": 1375.345,
-    "vwap20": 1377.6513459482437,
+    "date": "2026-07-14",
+    "close": 1407.7,
+    "prev_close": 1409.5,
+    "change_pct": -0.12770485987938662,
+    "ema20": 1376.118459987518,
+    "ema50": 1339.449202967734,
+    "ema200": 1345.4360452178896,
+    "rsi14": 63.397858634538935,
+    "macd": 27.271965982216443,
+    "macd_signal": 28.457660878508587,
+    "atr14": 26.043062123577762,
+    "adx14": 30.507584479576767,
+    "adx_pos": 24.930025222094482,
+    "adx_neg": 15.062796484033234,
+    "bb_high": 1435.9998190641402,
+    "bb_low": 1322.7001809358596,
+    "bb_mid": 1379.35,
+    "vwap20": 1381.6727193568345,
     "high_52w": 1500.0,
     "low_52w": 1187.6,
-    "volume": 10091437.0,
-    "avg_volume20": 12568917.55
+    "volume": 14133017.0,
+    "avg_volume20": 12466922.35
   },
   "price_history": [
-    {
-      "date": "2026-01-14",
-      "close": 1418.4,
-      "ema50": 1381.0
-    },
     {
       "date": "2026-01-16",
       "close": 1410.8,
@@ -626,6 +621,11 @@
       "date": "2026-07-13",
       "close": 1409.5,
       "ema50": 1336.66
+    },
+    {
+      "date": "2026-07-14",
+      "close": 1407.7,
+      "ema50": 1339.45
     }
   ],
   "flags": {
@@ -640,14 +640,14 @@
       "price_above_bb_mid": true
     },
     "flags_detail": {
-      "price_above_ema20": "Close 1,409.50 vs EMA20 1,372.79",
-      "ema20_above_ema50": "EMA20 1,372.79 vs EMA50 1,336.66",
-      "ema50_above_ema200": "EMA50 1,336.66 vs EMA200 1,344.81",
-      "rsi_above_50": "RSI(14) 64.05 vs 50",
-      "macd_bullish": "MACD 27.89 vs signal 28.75",
-      "adx_trending_up": "ADX(14) 30.96 vs 20, +DI 26.36 vs -DI 15.93",
-      "price_above_vwap20": "Close 1,409.50 vs 20d VWAP 1,377.65",
-      "price_above_bb_mid": "Close 1,409.50 vs BB mid 1,375.35"
+      "price_above_ema20": "Close 1,407.70 vs EMA20 1,376.12",
+      "ema20_above_ema50": "EMA20 1,376.12 vs EMA50 1,339.45",
+      "ema50_above_ema200": "EMA50 1,339.45 vs EMA200 1,345.44",
+      "rsi_above_50": "RSI(14) 63.40 vs 50",
+      "macd_bullish": "MACD 27.27 vs signal 28.46",
+      "adx_trending_up": "ADX(14) 30.51 vs 20, +DI 24.93 vs -DI 15.06",
+      "price_above_vwap20": "Close 1,407.70 vs 20d VWAP 1,381.67",
+      "price_above_bb_mid": "Close 1,407.70 vs BB mid 1,379.35"
     },
     "flags_on": [
       "price_above_ema20",
@@ -664,5 +664,5 @@
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-07-13T17:16:45.055836+00:00"
+  "updated_at": "2026-07-14T17:40:39.161339+00:00"
 }

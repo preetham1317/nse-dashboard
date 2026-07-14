@@ -4,27 +4,27 @@
   "sector": "Pharma",
   "indicators": {
     "date": "2026-07-14",
-    "close": 2496.6,
+    "close": 2469.2,
     "prev_close": 2492.6,
-    "change_pct": 0.16047500601781273,
-    "ema20": 2422.430338519433,
-    "ema50": 2359.784942186036,
-    "ema200": 2224.6884397722793,
-    "rsi14": 68.15698854736237,
-    "macd": 53.13852457813255,
-    "macd_signal": 45.69384165465143,
-    "atr14": 47.13639739651196,
-    "adx14": 29.01620789869458,
-    "adx_pos": 21.39197466378003,
-    "adx_neg": 10.48247702227908,
-    "bb_high": 2557.5958237784985,
-    "bb_low": 2259.2441762215017,
-    "bb_mid": 2408.42,
-    "vwap20": 2403.8367585835695,
+    "change_pct": -0.9387787852042081,
+    "ema20": 2419.820814709909,
+    "ema50": 2358.7104323821145,
+    "ema200": 2224.4158029563587,
+    "rsi14": 62.48107336862396,
+    "macd": 50.952769592377535,
+    "macd_signal": 45.25669065750043,
+    "atr14": 48.60782596794053,
+    "adx14": 28.354240386656475,
+    "adx_pos": 20.744408925279906,
+    "adx_neg": 12.457557234727538,
+    "bb_high": 2553.4385856205795,
+    "bb_low": 2260.661414379421,
+    "bb_mid": 2407.05,
+    "vwap20": 2407.180220787083,
     "high_52w": 2526.9,
     "low_52w": 1836.8,
-    "volume": 94030.0,
-    "avg_volume20": 771022.5
+    "volume": 811541.0,
+    "avg_volume20": 806898.05
   },
   "price_history": [
     {
@@ -624,8 +624,8 @@
     },
     {
       "date": "2026-07-14",
-      "close": 2496.6,
-      "ema50": 2359.78
+      "close": 2469.2,
+      "ema50": 2358.71
     }
   ],
   "flags": {
@@ -640,14 +640,14 @@
       "price_above_bb_mid": true
     },
     "flags_detail": {
-      "price_above_ema20": "Close 2,496.60 vs EMA20 2,422.43",
-      "ema20_above_ema50": "EMA20 2,422.43 vs EMA50 2,359.78",
-      "ema50_above_ema200": "EMA50 2,359.78 vs EMA200 2,224.69",
-      "rsi_above_50": "RSI(14) 68.16 vs 50",
-      "macd_bullish": "MACD 53.14 vs signal 45.69",
-      "adx_trending_up": "ADX(14) 29.02 vs 20, +DI 21.39 vs -DI 10.48",
-      "price_above_vwap20": "Close 2,496.60 vs 20d VWAP 2,403.84",
-      "price_above_bb_mid": "Close 2,496.60 vs BB mid 2,408.42"
+      "price_above_ema20": "Close 2,469.20 vs EMA20 2,419.82",
+      "ema20_above_ema50": "EMA20 2,419.82 vs EMA50 2,358.71",
+      "ema50_above_ema200": "EMA50 2,358.71 vs EMA200 2,224.42",
+      "rsi_above_50": "RSI(14) 62.48 vs 50",
+      "macd_bullish": "MACD 50.95 vs signal 45.26",
+      "adx_trending_up": "ADX(14) 28.35 vs 20, +DI 20.74 vs -DI 12.46",
+      "price_above_vwap20": "Close 2,469.20 vs 20d VWAP 2,407.18",
+      "price_above_bb_mid": "Close 2,469.20 vs BB mid 2,407.05"
     },
     "flags_on": [
       "price_above_ema20",
@@ -666,5 +666,5 @@
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-07-14T05:06:45.275934+00:00"
+  "updated_at": "2026-07-14T17:52:31.915739+00:00"
 }

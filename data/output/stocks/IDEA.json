@@ -4,27 +4,27 @@
   "sector": "Telecom",
   "indicators": {
     "date": "2026-07-14",
-    "close": 13.95,
+    "close": 13.83,
     "prev_close": 13.96,
-    "change_pct": -0.07163323782236077,
-    "ema20": 14.172933077018039,
-    "ema50": 13.51046983193857,
-    "ema200": 11.219542630290755,
-    "rsi14": 47.27157705246918,
-    "macd": 0.04317487171401524,
-    "macd_signal": 0.1684353734192417,
-    "atr14": 0.42346471595637825,
-    "adx14": 19.34229798821218,
-    "adx_pos": 17.984718342809742,
-    "adx_neg": 22.3068349981201,
-    "bb_high": 15.079630705781597,
-    "bb_low": 13.658369294218403,
-    "bb_mid": 14.369,
-    "vwap20": 14.430393804183927,
+    "change_pct": -0.93123209169055,
+    "ema20": 14.161504505589466,
+    "ema50": 13.50576394958563,
+    "ema200": 11.21834860044001,
+    "rsi14": 45.20924807624839,
+    "macd": 0.03360222214136677,
+    "macd_signal": 0.166520843504712,
+    "atr14": 0.43203614452780675,
+    "adx14": 19.647316591297912,
+    "adx_pos": 17.6279085466589,
+    "adx_neg": 23.848237083948018,
+    "bb_high": 15.08952873308607,
+    "bb_low": 13.63647126691393,
+    "bb_mid": 14.363,
+    "vwap20": 14.418300182511489,
     "high_52w": 15.34,
     "low_52w": 6.12,
-    "volume": 127079135.0,
-    "avg_volume20": 384709839.35
+    "volume": 290140997.0,
+    "avg_volume20": 392862932.45
   },
   "price_history": [
     {
@@ -624,7 +624,7 @@
     },
     {
       "date": "2026-07-14",
-      "close": 13.95,
+      "close": 13.83,
       "ema50": 13.51
     }
   ],
@@ -640,14 +640,14 @@
       "price_above_bb_mid": false
     },
     "flags_detail": {
-      "price_above_ema20": "Close 13.95 vs EMA20 14.17",
-      "ema20_above_ema50": "EMA20 14.17 vs EMA50 13.51",
+      "price_above_ema20": "Close 13.83 vs EMA20 14.16",
+      "ema20_above_ema50": "EMA20 14.16 vs EMA50 13.51",
       "ema50_above_ema200": "EMA50 13.51 vs EMA200 11.22",
-      "rsi_above_50": "RSI(14) 47.27 vs 50",
-      "macd_bullish": "MACD 0.04 vs signal 0.17",
-      "adx_trending_up": "ADX(14) 19.34 vs 20, +DI 17.98 vs -DI 22.31",
-      "price_above_vwap20": "Close 13.95 vs 20d VWAP 14.43",
-      "price_above_bb_mid": "Close 13.95 vs BB mid 14.37"
+      "rsi_above_50": "RSI(14) 45.21 vs 50",
+      "macd_bullish": "MACD 0.03 vs signal 0.17",
+      "adx_trending_up": "ADX(14) 19.65 vs 20, +DI 17.63 vs -DI 23.85",
+      "price_above_vwap20": "Close 13.83 vs 20d VWAP 14.42",
+      "price_above_bb_mid": "Close 13.83 vs BB mid 14.36"
     },
     "flags_on": [
       "ema20_above_ema50",
@@ -660,5 +660,5 @@
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-07-14T04:58:20.089984+00:00"
+  "updated_at": "2026-07-14T17:41:01.386170+00:00"
 }

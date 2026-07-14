@@ -3,35 +3,30 @@
   "name": "Dixon Technologies (India)",
   "sector": "Electronics",
   "indicators": {
-    "date": "2026-07-13",
-    "close": 13490.0,
-    "prev_close": 13421.0,
-    "change_pct": 0.5141196632143655,
-    "ema20": 12597.528659268746,
-    "ema50": 11997.018992701713,
-    "ema200": 12514.29190279905,
-    "rsi14": 67.68616922668048,
-    "macd": 461.39896014223996,
-    "macd_signal": 355.9536248006348,
-    "atr14": 443.5168908326662,
-    "adx14": 26.039705061932796,
-    "adx_pos": 37.20081986575157,
-    "adx_neg": 16.427490266797005,
-    "bb_high": 13689.413070869068,
-    "bb_low": 11405.886929130931,
-    "bb_mid": 12547.65,
-    "vwap20": 12685.485481438905,
+    "date": "2026-07-14",
+    "close": 13365.0,
+    "prev_close": 13490.0,
+    "change_pct": -0.9266123054114159,
+    "ema20": 12670.621167909818,
+    "ema50": 12050.66530671341,
+    "ema200": 12522.75665998513,
+    "rsi14": 65.03551123175478,
+    "macd": 464.9938477543237,
+    "macd_signal": 377.7616693913726,
+    "atr14": 433.9799700589043,
+    "adx14": 26.88287979889443,
+    "adx_pos": 35.30273125172283,
+    "adx_neg": 15.91849344073044,
+    "bb_high": 13778.927680895085,
+    "bb_low": 11457.172319104913,
+    "bb_mid": 12618.05,
+    "vwap20": 12743.833915368274,
     "high_52w": 18471.0,
     "low_52w": 9600.0,
-    "volume": 609309.0,
-    "avg_volume20": 720637.3
+    "volume": 396507.0,
+    "avg_volume20": 704496.65
   },
   "price_history": [
-    {
-      "date": "2026-01-14",
-      "close": 11103.0,
-      "ema50": 13369.8
-    },
     {
       "date": "2026-01-16",
       "close": 10732.0,
@@ -626,6 +621,11 @@
       "date": "2026-07-13",
       "close": 13490.0,
       "ema50": 11997.02
+    },
+    {
+      "date": "2026-07-14",
+      "close": 13365.0,
+      "ema50": 12050.67
     }
   ],
   "flags": {
@@ -640,14 +640,14 @@
       "price_above_bb_mid": true
     },
     "flags_detail": {
-      "price_above_ema20": "Close 13,490.00 vs EMA20 12,597.53",
-      "ema20_above_ema50": "EMA20 12,597.53 vs EMA50 11,997.02",
-      "ema50_above_ema200": "EMA50 11,997.02 vs EMA200 12,514.29",
-      "rsi_above_50": "RSI(14) 67.69 vs 50",
-      "macd_bullish": "MACD 461.40 vs signal 355.95",
-      "adx_trending_up": "ADX(14) 26.04 vs 20, +DI 37.20 vs -DI 16.43",
-      "price_above_vwap20": "Close 13,490.00 vs 20d VWAP 12,685.49",
-      "price_above_bb_mid": "Close 13,490.00 vs BB mid 12,547.65"
+      "price_above_ema20": "Close 13,365.00 vs EMA20 12,670.62",
+      "ema20_above_ema50": "EMA20 12,670.62 vs EMA50 12,050.67",
+      "ema50_above_ema200": "EMA50 12,050.67 vs EMA200 12,522.76",
+      "rsi_above_50": "RSI(14) 65.04 vs 50",
+      "macd_bullish": "MACD 464.99 vs signal 377.76",
+      "adx_trending_up": "ADX(14) 26.88 vs 20, +DI 35.30 vs -DI 15.92",
+      "price_above_vwap20": "Close 13,365.00 vs 20d VWAP 12,743.83",
+      "price_above_bb_mid": "Close 13,365.00 vs BB mid 12,618.05"
     },
     "flags_on": [
       "price_above_ema20",
@@ -665,5 +665,5 @@
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-07-13T17:08:29.855292+00:00"
+  "updated_at": "2026-07-14T17:32:29.057466+00:00"
 }

@@ -3,35 +3,30 @@
   "name": "Power Finance Corporation",
   "sector": "NBFC",
   "indicators": {
-    "date": "2026-07-13",
-    "close": 405.1,
-    "prev_close": 406.5,
-    "change_pct": -0.3444034440344348,
-    "ema20": 419.9892015628942,
-    "ema50": 425.89707567469605,
-    "ema200": 415.08427964200007,
-    "rsi14": 36.407693985237124,
-    "macd": -6.66978393677681,
-    "macd_signal": -4.205083033211888,
-    "atr14": 9.768335251623748,
-    "adx14": 15.127586024960749,
-    "adx_pos": 17.40655585473048,
-    "adx_neg": 29.943122282817196,
-    "bb_high": 445.7137337611469,
-    "bb_low": 401.74126623885303,
-    "bb_mid": 423.72749999999996,
-    "vwap20": 425.16274788508645,
+    "date": "2026-07-14",
+    "close": 409.15,
+    "prev_close": 405.1,
+    "change_pct": 0.9997531473710082,
+    "ema20": 418.95689665214235,
+    "ema50": 425.24032760902173,
+    "ema200": 415.02523208337317,
+    "rsi14": 40.18741500229764,
+    "macd": -6.685758555220673,
+    "macd_signal": -4.701218137613645,
+    "atr14": 9.77059701936491,
+    "adx14": 15.381341177782717,
+    "adx_pos": 19.04716149880903,
+    "adx_neg": 27.797891489197664,
+    "bb_high": 445.83836532621604,
+    "bb_low": 400.08163467378404,
+    "bb_mid": 422.96000000000004,
+    "vwap20": 424.36046615466137,
     "high_52w": 486.5,
     "low_52w": 329.9,
-    "volume": 4979432.0,
-    "avg_volume20": 5838247.05
+    "volume": 4321273.0,
+    "avg_volume20": 5763306.45
   },
   "price_history": [
-    {
-      "date": "2026-01-14",
-      "close": 371.85,
-      "ema50": 365.96
-    },
     {
       "date": "2026-01-16",
       "close": 375.35,
@@ -626,6 +621,11 @@
       "date": "2026-07-13",
       "close": 405.1,
       "ema50": 425.9
+    },
+    {
+      "date": "2026-07-14",
+      "close": 409.15,
+      "ema50": 425.24
     }
   ],
   "flags": {
@@ -640,14 +640,14 @@
       "price_above_bb_mid": false
     },
     "flags_detail": {
-      "price_above_ema20": "Close 405.10 vs EMA20 419.99",
-      "ema20_above_ema50": "EMA20 419.99 vs EMA50 425.90",
-      "ema50_above_ema200": "EMA50 425.90 vs EMA200 415.08",
-      "rsi_above_50": "RSI(14) 36.41 vs 50",
-      "macd_bullish": "MACD -6.67 vs signal -4.21",
-      "adx_trending_up": "ADX(14) 15.13 vs 20, +DI 17.41 vs -DI 29.94",
-      "price_above_vwap20": "Close 405.10 vs 20d VWAP 425.16",
-      "price_above_bb_mid": "Close 405.10 vs BB mid 423.73"
+      "price_above_ema20": "Close 409.15 vs EMA20 418.96",
+      "ema20_above_ema50": "EMA20 418.96 vs EMA50 425.24",
+      "ema50_above_ema200": "EMA50 425.24 vs EMA200 415.03",
+      "rsi_above_50": "RSI(14) 40.19 vs 50",
+      "macd_bullish": "MACD -6.69 vs signal -4.70",
+      "adx_trending_up": "ADX(14) 15.38 vs 20, +DI 19.05 vs -DI 27.80",
+      "price_above_vwap20": "Close 409.15 vs 20d VWAP 424.36",
+      "price_above_bb_mid": "Close 409.15 vs BB mid 422.96"
     },
     "flags_on": [
       "ema50_above_ema200"
@@ -659,5 +659,5 @@
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-07-13T17:38:56.604080+00:00"
+  "updated_at": "2026-07-14T18:02:32.726969+00:00"
 }
