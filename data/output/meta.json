@@ -1,5 +1,5 @@
 {
-  "run_at": "2026-07-14T04:43:30.514103+00:00",
+  "run_at": "2026-07-14T11:42:52.056929+00:00",
   "symbols": {
     "AARTIIND": {
       "status": "ok",
@@ -41,8 +41,11 @@
       "reason": "no symboltoken found"
     },
     "AMBER": {
-      "status": "skipped",
-      "reason": "ohlcv fetch failed"
+      "status": "ok",
+      "fundamentals_available": false,
+      "analyst_available": false,
+      "events_available": false,
+      "shareholding_available": false
     },
     "AMBUJACEM": {
       "status": "ok",
@@ -52,8 +55,11 @@
       "shareholding_available": false
     },
     "APOLLOHOSP": {
-      "status": "skipped",
-      "reason": "ohlcv fetch failed"
+      "status": "ok",
+      "fundamentals_available": false,
+      "analyst_available": false,
+      "events_available": false,
+      "shareholding_available": false
     },
     "ASHOKA": {
       "status": "ok",
@@ -91,8 +97,11 @@
       "shareholding_available": false
     },
     "AUROPHARMA": {
-      "status": "skipped",
-      "reason": "ohlcv fetch failed"
+      "status": "ok",
+      "fundamentals_available": false,
+      "analyst_available": false,
+      "events_available": false,
+      "shareholding_available": false
     },
     "AXISBANK": {
       "status": "ok",
@@ -130,20 +139,32 @@
       "shareholding_available": false
     },
     "BALKRISIND": {
-      "status": "skipped",
-      "reason": "ohlcv fetch failed"
+      "status": "ok",
+      "fundamentals_available": false,
+      "analyst_available": false,
+      "events_available": false,
+      "shareholding_available": false
     },
     "BANKBARODA": {
-      "status": "skipped",
-      "reason": "ohlcv fetch failed"
+      "status": "ok",
+      "fundamentals_available": false,
+      "analyst_available": false,
+      "events_available": false,
+      "shareholding_available": false
     },
     "BDL": {
-      "status": "skipped",
-      "reason": "ohlcv fetch failed"
+      "status": "ok",
+      "fundamentals_available": false,
+      "analyst_available": false,
+      "events_available": false,
+      "shareholding_available": false
     },
     "BEL": {
-      "status": "skipped",
-      "reason": "ohlcv fetch failed"
+      "status": "ok",
+      "fundamentals_available": false,
+      "analyst_available": false,
+      "events_available": false,
+      "shareholding_available": false
     },
     "BEML": {
       "status": "ok",
@@ -160,32 +181,53 @@
       "shareholding_available": false
     },
     "BLUEDART": {
-      "status": "skipped",
-      "reason": "ohlcv fetch failed"
+      "status": "ok",
+      "fundamentals_available": false,
+      "analyst_available": false,
+      "events_available": false,
+      "shareholding_available": false
     },
     "BOSCHLTD": {
-      "status": "skipped",
-      "reason": "ohlcv fetch failed"
+      "status": "ok",
+      "fundamentals_available": false,
+      "analyst_available": false,
+      "events_available": false,
+      "shareholding_available": false
     },
     "BPCL": {
-      "status": "skipped",
-      "reason": "ohlcv fetch failed"
+      "status": "ok",
+      "fundamentals_available": false,
+      "analyst_available": false,
+      "events_available": false,
+      "shareholding_available": false
     },
     "BRIGADE": {
-      "status": "skipped",
-      "reason": "ohlcv fetch failed"
+      "status": "ok",
+      "fundamentals_available": false,
+      "analyst_available": false,
+      "events_available": false,
+      "shareholding_available": false
     },
     "BRITANNIA": {
-      "status": "skipped",
-      "reason": "ohlcv fetch failed"
+      "status": "ok",
+      "fundamentals_available": false,
+      "analyst_available": false,
+      "events_available": false,
+      "shareholding_available": false
     },
     "CANBK": {
-      "status": "skipped",
-      "reason": "ohlcv fetch failed"
+      "status": "ok",
+      "fundamentals_available": false,
+      "analyst_available": false,
+      "events_available": false,
+      "shareholding_available": false
     },
     "CESC": {
-      "status": "skipped",
-      "reason": "ohlcv fetch failed"
+      "status": "ok",
+      "fundamentals_available": false,
+      "analyst_available": false,
+      "events_available": false,
+      "shareholding_available": false
     },
     "CHAMBLFERT": {
       "status": "ok",
@@ -209,41 +251,44 @@
       "shareholding_available": false
     },
     "COCHINSHIP": {
-      "status": "skipped",
-      "reason": "ohlcv fetch failed"
+      "status": "ok",
+      "fundamentals_available": false,
+      "analyst_available": false,
+      "events_available": false,
+      "shareholding_available": false
     },
     "COFORGE": {
-      "status": "skipped",
-      "reason": "ohlcv fetch failed"
+      "status": "ok",
+      "fundamentals_available": false,
+      "analyst_available": false,
+      "events_available": false,
+      "shareholding_available": false
     },
     "COLPAL": {
-      "status": "skipped",
-      "reason": "ohlcv fetch failed"
+      "status": "ok",
+      "fundamentals_available": false,
+      "analyst_available": false,
+      "events_available": false,
+      "shareholding_available": false
     },
     "CONCOR": {
+      "status": "ok",
+      "fundamentals_available": false,
+      "analyst_available": false,
+      "events_available": false,
+      "shareholding_available": false
+    },
+    "COROMANDEL": {
       "status": "skipped",
       "reason": "ohlcv fetch failed"
     },
-    "COROMANDEL": {
-      "status": "ok",
-      "fundamentals_available": false,
-      "analyst_available": false,
-      "events_available": false,
-      "shareholding_available": false
-    },
     "DABUR": {
-      "status": "ok",
-      "fundamentals_available": false,
-      "analyst_available": false,
-      "events_available": false,
-      "shareholding_available": false
+      "status": "skipped",
+      "reason": "ohlcv fetch failed"
     },
     "DALBHARAT": {
-      "status": "ok",
-      "fundamentals_available": false,
-      "analyst_available": false,
-      "events_available": false,
-      "shareholding_available": false
+      "status": "skipped",
+      "reason": "ohlcv fetch failed"
     },
     "DEEPAKNTR": {
       "status": "skipped",
@@ -254,11 +299,8 @@
       "reason": "ohlcv fetch failed"
     },
     "DIVISLAB": {
-      "status": "ok",
-      "fundamentals_available": false,
-      "analyst_available": false,
-      "events_available": false,
-      "shareholding_available": false
+      "status": "skipped",
+      "reason": "ohlcv fetch failed"
     },
     "DIXON": {
       "status": "skipped",
@@ -269,50 +311,32 @@
       "reason": "ohlcv fetch failed"
     },
     "DRREDDY": {
-      "status": "ok",
-      "fundamentals_available": false,
-      "analyst_available": false,
-      "events_available": false,
-      "shareholding_available": false
+      "status": "skipped",
+      "reason": "ohlcv fetch failed"
     },
     "EICHERMOT": {
-      "status": "ok",
-      "fundamentals_available": false,
-      "analyst_available": false,
-      "events_available": false,
-      "shareholding_available": false
+      "status": "skipped",
+      "reason": "ohlcv fetch failed"
     },
     "EXIDEIND": {
       "status": "skipped",
       "reason": "ohlcv fetch failed"
     },
     "FACT": {
-      "status": "ok",
-      "fundamentals_available": false,
-      "analyst_available": false,
-      "events_available": false,
-      "shareholding_available": false
+      "status": "skipped",
+      "reason": "ohlcv fetch failed"
     },
     "FEDERALBNK": {
-      "status": "ok",
-      "fundamentals_available": false,
-      "analyst_available": false,
-      "events_available": false,
-      "shareholding_available": false
+      "status": "skipped",
+      "reason": "ohlcv fetch failed"
     },
     "FORTIS": {
-      "status": "ok",
-      "fundamentals_available": false,
-      "analyst_available": false,
-      "events_available": false,
-      "shareholding_available": false
+      "status": "skipped",
+      "reason": "ohlcv fetch failed"
     },
     "GAIL": {
-      "status": "ok",
-      "fundamentals_available": false,
-      "analyst_available": false,
-      "events_available": false,
-      "shareholding_available": false
+      "status": "skipped",
+      "reason": "ohlcv fetch failed"
     },
     "GNFC": {
       "status": "skipped",
@@ -327,58 +351,40 @@
       "reason": "ohlcv fetch failed"
     },
     "GRSE": {
-      "status": "ok",
-      "fundamentals_available": false,
-      "analyst_available": false,
-      "events_available": false,
-      "shareholding_available": false
+      "status": "skipped",
+      "reason": "ohlcv fetch failed"
     },
     "HAL": {
-      "status": "ok",
-      "fundamentals_available": false,
-      "analyst_available": false,
-      "events_available": false,
-      "shareholding_available": false
+      "status": "skipped",
+      "reason": "ohlcv fetch failed"
     },
     "HCLTECH": {
       "status": "skipped",
       "reason": "ohlcv fetch failed"
     },
     "HDFCBANK": {
-      "status": "ok",
-      "fundamentals_available": false,
-      "analyst_available": false,
-      "events_available": false,
-      "shareholding_available": false
+      "status": "skipped",
+      "reason": "ohlcv fetch failed"
     },
     "HEROMOTOCO": {
-      "status": "ok",
-      "fundamentals_available": false,
-      "analyst_available": false,
-      "events_available": false,
-      "shareholding_available": false
+      "status": "skipped",
+      "reason": "ohlcv fetch failed"
     },
     "HFCL": {
       "status": "skipped",
       "reason": "ohlcv fetch failed"
     },
     "HGINFRA": {
-      "status": "ok",
-      "fundamentals_available": false,
-      "analyst_available": false,
-      "events_available": false,
-      "shareholding_available": false
+      "status": "skipped",
+      "reason": "ohlcv fetch failed"
     },
     "HINDALCO": {
       "status": "skipped",
       "reason": "ohlcv fetch failed"
     },
     "HINDPETRO": {
-      "status": "ok",
-      "fundamentals_available": false,
-      "analyst_available": false,
-      "events_available": false,
-      "shareholding_available": false
+      "status": "skipped",
+      "reason": "ohlcv fetch failed"
     },
     "HINDUNILVR": {
       "status": "skipped",
@@ -389,40 +395,28 @@
       "reason": "ohlcv fetch failed"
     },
     "IDEA": {
-      "status": "ok",
-      "fundamentals_available": false,
-      "analyst_available": false,
-      "events_available": false,
-      "shareholding_available": false
+      "status": "skipped",
+      "reason": "ohlcv fetch failed"
     },
     "IDFCFIRSTB": {
-      "status": "ok",
-      "fundamentals_available": false,
-      "analyst_available": false,
-      "events_available": false,
-      "shareholding_available": false
+      "status": "skipped",
+      "reason": "ohlcv fetch failed"
     },
     "IGL": {
       "status": "skipped",
       "reason": "ohlcv fetch failed"
     },
     "INDIGO": {
-      "status": "ok",
-      "fundamentals_available": false,
-      "analyst_available": false,
-      "events_available": false,
-      "shareholding_available": false
+      "status": "skipped",
+      "reason": "ohlcv fetch failed"
     },
     "INDUSINDBK": {
       "status": "skipped",
       "reason": "ohlcv fetch failed"
     },
     "INDUSTOWER": {
-      "status": "ok",
-      "fundamentals_available": false,
-      "analyst_available": false,
-      "events_available": false,
-      "shareholding_available": false
+      "status": "skipped",
+      "reason": "ohlcv fetch failed"
     },
     "INFY": {
       "status": "skipped",
@@ -433,121 +427,76 @@
       "reason": "ohlcv fetch failed"
     },
     "IRB": {
-      "status": "ok",
-      "fundamentals_available": false,
-      "analyst_available": false,
-      "events_available": false,
-      "shareholding_available": false
+      "status": "skipped",
+      "reason": "ohlcv fetch failed"
     },
     "IRCON": {
-      "status": "ok",
-      "fundamentals_available": false,
-      "analyst_available": false,
-      "events_available": false,
-      "shareholding_available": false
+      "status": "skipped",
+      "reason": "ohlcv fetch failed"
     },
     "IRCTC": {
       "status": "skipped",
       "reason": "ohlcv fetch failed"
     },
     "IRFC": {
-      "status": "ok",
-      "fundamentals_available": false,
-      "analyst_available": false,
-      "events_available": false,
-      "shareholding_available": false
+      "status": "skipped",
+      "reason": "ohlcv fetch failed"
     },
     "ITC": {
       "status": "skipped",
       "reason": "ohlcv fetch failed"
     },
     "JINDALSTEL": {
-      "status": "ok",
-      "fundamentals_available": false,
-      "analyst_available": false,
-      "events_available": false,
-      "shareholding_available": false
+      "status": "skipped",
+      "reason": "ohlcv fetch failed"
     },
     "JIOFIN": {
-      "status": "ok",
-      "fundamentals_available": false,
-      "analyst_available": false,
-      "events_available": false,
-      "shareholding_available": false
+      "status": "skipped",
+      "reason": "ohlcv fetch failed"
     },
     "JKCEMENT": {
-      "status": "ok",
-      "fundamentals_available": false,
-      "analyst_available": false,
-      "events_available": false,
-      "shareholding_available": false
+      "status": "skipped",
+      "reason": "ohlcv fetch failed"
     },
     "JSWENERGY": {
-      "status": "ok",
-      "fundamentals_available": false,
-      "analyst_available": false,
-      "events_available": false,
-      "shareholding_available": false
+      "status": "skipped",
+      "reason": "ohlcv fetch failed"
     },
     "JSWINFRA": {
-      "status": "ok",
-      "fundamentals_available": false,
-      "analyst_available": false,
-      "events_available": false,
-      "shareholding_available": false
+      "status": "skipped",
+      "reason": "ohlcv fetch failed"
     },
     "JSWSTEEL": {
-      "status": "ok",
-      "fundamentals_available": false,
-      "analyst_available": false,
-      "events_available": false,
-      "shareholding_available": false
+      "status": "skipped",
+      "reason": "ohlcv fetch failed"
     },
     "JWL": {
-      "status": "ok",
-      "fundamentals_available": false,
-      "analyst_available": false,
-      "events_available": false,
-      "shareholding_available": false
+      "status": "skipped",
+      "reason": "ohlcv fetch failed"
     },
     "KALYANKJIL": {
-      "status": "ok",
-      "fundamentals_available": false,
-      "analyst_available": false,
-      "events_available": false,
-      "shareholding_available": false
+      "status": "skipped",
+      "reason": "ohlcv fetch failed"
     },
     "KAYNES": {
-      "status": "ok",
-      "fundamentals_available": false,
-      "analyst_available": false,
-      "events_available": false,
-      "shareholding_available": false
+      "status": "skipped",
+      "reason": "ohlcv fetch failed"
     },
     "KEC": {
-      "status": "ok",
-      "fundamentals_available": false,
-      "analyst_available": false,
-      "events_available": false,
-      "shareholding_available": false
+      "status": "skipped",
+      "reason": "ohlcv fetch failed"
     },
     "KIMS": {
-      "status": "ok",
-      "fundamentals_available": false,
-      "analyst_available": false,
-      "events_available": false,
-      "shareholding_available": false
+      "status": "skipped",
+      "reason": "ohlcv fetch failed"
     },
     "KNRCON": {
       "status": "skipped",
       "reason": "ohlcv fetch failed"
     },
     "KOTAKBANK": {
-      "status": "ok",
-      "fundamentals_available": false,
-      "analyst_available": false,
-      "events_available": false,
-      "shareholding_available": false
+      "status": "skipped",
+      "reason": "ohlcv fetch failed"
     },
     "KPITTECH": {
       "status": "skipped",
@@ -558,36 +507,24 @@
       "reason": "ohlcv fetch failed"
     },
     "LODHA": {
-      "status": "ok",
-      "fundamentals_available": false,
-      "analyst_available": false,
-      "events_available": false,
-      "shareholding_available": false
+      "status": "skipped",
+      "reason": "ohlcv fetch failed"
     },
     "LT": {
-      "status": "ok",
-      "fundamentals_available": false,
-      "analyst_available": false,
-      "events_available": false,
-      "shareholding_available": false
+      "status": "skipped",
+      "reason": "ohlcv fetch failed"
     },
     "LTIM": {
       "status": "skipped",
       "reason": "no symboltoken found"
     },
     "LTTS": {
-      "status": "ok",
-      "fundamentals_available": false,
-      "analyst_available": false,
-      "events_available": false,
-      "shareholding_available": false
+      "status": "skipped",
+      "reason": "ohlcv fetch failed"
     },
     "LUPIN": {
-      "status": "ok",
-      "fundamentals_available": false,
-      "analyst_available": false,
-      "events_available": false,
-      "shareholding_available": false
+      "status": "skipped",
+      "reason": "ohlcv fetch failed"
     },
     "M&M": {
       "status": "skipped",
@@ -606,50 +543,32 @@
       "reason": "ohlcv fetch failed"
     },
     "MAXHEALTH": {
-      "status": "ok",
-      "fundamentals_available": false,
-      "analyst_available": false,
-      "events_available": false,
-      "shareholding_available": false
+      "status": "skipped",
+      "reason": "ohlcv fetch failed"
     },
     "MAZDOCK": {
-      "status": "ok",
-      "fundamentals_available": false,
-      "analyst_available": false,
-      "events_available": false,
-      "shareholding_available": false
+      "status": "skipped",
+      "reason": "ohlcv fetch failed"
     },
     "MEDANTA": {
       "status": "skipped",
       "reason": "ohlcv fetch failed"
     },
     "MGL": {
-      "status": "ok",
-      "fundamentals_available": false,
-      "analyst_available": false,
-      "events_available": false,
-      "shareholding_available": false
+      "status": "skipped",
+      "reason": "ohlcv fetch failed"
     },
     "MOTHERSON": {
-      "status": "ok",
-      "fundamentals_available": false,
-      "analyst_available": false,
-      "events_available": false,
-      "shareholding_available": false
+      "status": "skipped",
+      "reason": "ohlcv fetch failed"
     },
     "MPHASIS": {
-      "status": "ok",
-      "fundamentals_available": false,
-      "analyst_available": false,
-      "events_available": false,
-      "shareholding_available": false
+      "status": "skipped",
+      "reason": "ohlcv fetch failed"
     },
     "MUTHOOTFIN": {
-      "status": "ok",
-      "fundamentals_available": false,
-      "analyst_available": false,
-      "events_available": false,
-      "shareholding_available": false
+      "status": "skipped",
+      "reason": "ohlcv fetch failed"
     },
     "NALCO": {
       "status": "skipped",
@@ -660,36 +579,24 @@
       "reason": "no symboltoken found"
     },
     "NAVINFLUOR": {
-      "status": "ok",
-      "fundamentals_available": false,
-      "analyst_available": false,
-      "events_available": false,
-      "shareholding_available": false
+      "status": "skipped",
+      "reason": "ohlcv fetch failed"
     },
     "NBCC": {
-      "status": "ok",
-      "fundamentals_available": false,
-      "analyst_available": false,
-      "events_available": false,
-      "shareholding_available": false
+      "status": "skipped",
+      "reason": "ohlcv fetch failed"
     },
     "NCC": {
       "status": "skipped",
       "reason": "ohlcv fetch failed"
     },
     "NESTLEIND": {
-      "status": "ok",
-      "fundamentals_available": false,
-      "analyst_available": false,
-      "events_available": false,
-      "shareholding_available": false
+      "status": "skipped",
+      "reason": "ohlcv fetch failed"
     },
     "NHPC": {
-      "status": "ok",
-      "fundamentals_available": false,
-      "analyst_available": false,
-      "events_available": false,
-      "shareholding_available": false
+      "status": "skipped",
+      "reason": "ohlcv fetch failed"
     },
     "NLCINDIA": {
       "status": "skipped",
@@ -704,29 +611,20 @@
       "reason": "ohlcv fetch failed"
     },
     "OBEROIRLTY": {
-      "status": "ok",
-      "fundamentals_available": false,
-      "analyst_available": false,
-      "events_available": false,
-      "shareholding_available": false
+      "status": "skipped",
+      "reason": "ohlcv fetch failed"
     },
     "OFSS": {
       "status": "skipped",
       "reason": "ohlcv fetch failed"
     },
     "OIL": {
-      "status": "ok",
-      "fundamentals_available": false,
-      "analyst_available": false,
-      "events_available": false,
-      "shareholding_available": false
+      "status": "skipped",
+      "reason": "ohlcv fetch failed"
     },
     "ONGC": {
-      "status": "ok",
-      "fundamentals_available": false,
-      "analyst_available": false,
-      "events_available": false,
-      "shareholding_available": false
+      "status": "skipped",
+      "reason": "ohlcv fetch failed"
     },
     "PARAS": {
       "status": "skipped",
@@ -745,18 +643,12 @@
       "reason": "ohlcv fetch failed"
     },
     "PGEL": {
-      "status": "ok",
-      "fundamentals_available": false,
-      "analyst_available": false,
-      "events_available": false,
-      "shareholding_available": false
+      "status": "skipped",
+      "reason": "ohlcv fetch failed"
     },
     "PHOENIXLTD": {
-      "status": "ok",
-      "fundamentals_available": false,
-      "analyst_available": false,
-      "events_available": false,
-      "shareholding_available": false
+      "status": "skipped",
+      "reason": "ohlcv fetch failed"
     },
     "PIDILITIND": {
       "status": "skipped",
@@ -767,123 +659,84 @@
       "reason": "ohlcv fetch failed"
     },
     "PNB": {
-      "status": "ok",
-      "fundamentals_available": false,
-      "analyst_available": false,
-      "events_available": false,
-      "shareholding_available": false
+      "status": "skipped",
+      "reason": "ohlcv fetch failed"
     },
     "PNCINFRA": {
-      "status": "ok",
-      "fundamentals_available": false,
-      "analyst_available": false,
-      "events_available": false,
-      "shareholding_available": false
+      "status": "skipped",
+      "reason": "ohlcv fetch failed"
     },
     "POWERGRID": {
-      "status": "ok",
-      "fundamentals_available": false,
-      "analyst_available": false,
-      "events_available": false,
-      "shareholding_available": false
+      "status": "skipped",
+      "reason": "ohlcv fetch failed"
     },
     "PRESTIGE": {
-      "status": "ok",
-      "fundamentals_available": false,
-      "analyst_available": false,
-      "events_available": false,
-      "shareholding_available": false
+      "status": "skipped",
+      "reason": "ohlcv fetch failed"
     },
     "RAILTEL": {
-      "status": "ok",
-      "fundamentals_available": false,
-      "analyst_available": false,
-      "events_available": false,
-      "shareholding_available": false
+      "status": "skipped",
+      "reason": "ohlcv fetch failed"
     },
     "RAMCOCEM": {
       "status": "skipped",
       "reason": "ohlcv fetch failed"
     },
     "RCF": {
-      "status": "ok",
-      "fundamentals_available": false,
-      "analyst_available": false,
-      "events_available": false,
-      "shareholding_available": false
+      "status": "skipped",
+      "reason": "ohlcv fetch failed"
     },
     "RCOM": {
       "status": "skipped",
       "reason": "no symboltoken found"
     },
     "RECLTD": {
-      "status": "ok",
-      "fundamentals_available": false,
-      "analyst_available": false,
-      "events_available": false,
-      "shareholding_available": false
+      "status": "skipped",
+      "reason": "ohlcv fetch failed"
     },
     "RELIANCE": {
-      "status": "ok",
-      "fundamentals_available": false,
-      "analyst_available": false,
-      "events_available": false,
-      "shareholding_available": false
+      "status": "skipped",
+      "reason": "ohlcv fetch failed"
     },
     "RTNPOWER": {
       "status": "skipped",
       "reason": "ohlcv fetch failed"
     },
     "RVNL": {
-      "status": "ok",
-      "fundamentals_available": false,
-      "analyst_available": false,
-      "events_available": false,
-      "shareholding_available": false
+      "status": "skipped",
+      "reason": "ohlcv fetch failed"
     },
     "SAIL": {
       "status": "skipped",
       "reason": "ohlcv fetch failed"
     },
     "SBIN": {
-      "status": "ok",
-      "fundamentals_available": false,
-      "analyst_available": false,
-      "events_available": false,
-      "shareholding_available": false
+      "status": "skipped",
+      "reason": "ohlcv fetch failed"
     },
     "SCTL": {
       "status": "skipped",
       "reason": "no symboltoken found"
     },
     "SENCO": {
-      "status": "ok",
-      "fundamentals_available": false,
-      "analyst_available": false,
-      "events_available": false,
-      "shareholding_available": false
+      "status": "skipped",
+      "reason": "ohlcv fetch failed"
     },
     "SHREECEM": {
       "status": "skipped",
       "reason": "ohlcv fetch failed"
     },
     "SHRIRAMFIN": {
-      "status": "ok",
-      "fundamentals_available": false,
-      "analyst_available": false,
-      "events_available": false,
-      "shareholding_available": false
+      "status": "skipped",
+      "reason": "ohlcv fetch failed"
     },
     "SJVN": {
       "status": "skipped",
       "reason": "ohlcv fetch failed"
     },
     "SONACOMS": {
-      "status": "ok",
-      "fundamentals_available": false,
-      "analyst_available": false,
-      "events_available": false,
-      "shareholding_available": false
+      "status": "skipped",
+      "reason": "ohlcv fetch failed"
     },
     "SPICEJET": {
       "status": "skipped",
@@ -898,29 +751,20 @@
       "reason": "ohlcv fetch failed"
     },
     "SUZLON": {
-      "status": "ok",
-      "fundamentals_available": false,
-      "analyst_available": false,
-      "events_available": false,
-      "shareholding_available": false
+      "status": "skipped",
+      "reason": "ohlcv fetch failed"
     },
     "SYMBIOX": {
       "status": "skipped",
       "reason": "no symboltoken found"
     },
     "SYRMA": {
-      "status": "ok",
-      "fundamentals_available": false,
-      "analyst_available": false,
-      "events_available": false,
-      "shareholding_available": false
+      "status": "skipped",
+      "reason": "ohlcv fetch failed"
     },
     "TATACHEM": {
-      "status": "ok",
-      "fundamentals_available": false,
-      "analyst_available": false,
-      "events_available": false,
-      "shareholding_available": false
+      "status": "skipped",
+      "reason": "ohlcv fetch failed"
     },
     "TATACONSUM": {
       "status": "skipped",
@@ -939,47 +783,32 @@
       "reason": "ohlcv fetch failed"
     },
     "TCS": {
-      "status": "ok",
-      "fundamentals_available": false,
-      "analyst_available": false,
-      "events_available": false,
-      "shareholding_available": false
+      "status": "skipped",
+      "reason": "ohlcv fetch failed"
     },
     "TECHM": {
-      "status": "ok",
-      "fundamentals_available": false,
-      "analyst_available": false,
-      "events_available": false,
-      "shareholding_available": false
+      "status": "skipped",
+      "reason": "ohlcv fetch failed"
     },
     "TEXRAIL": {
       "status": "skipped",
       "reason": "ohlcv fetch failed"
     },
     "TITAGARH": {
-      "status": "ok",
-      "fundamentals_available": false,
-      "analyst_available": false,
-      "events_available": false,
-      "shareholding_available": false
+      "status": "skipped",
+      "reason": "ohlcv fetch failed"
     },
     "TITAN": {
       "status": "skipped",
       "reason": "ohlcv fetch failed"
     },
     "TMPV": {
-      "status": "ok",
-      "fundamentals_available": false,
-      "analyst_available": false,
-      "events_available": false,
-      "shareholding_available": false
+      "status": "skipped",
+      "reason": "ohlcv fetch failed"
     },
     "TORNTPHARM": {
-      "status": "ok",
-      "fundamentals_available": false,
-      "analyst_available": false,
-      "events_available": false,
-      "shareholding_available": false
+      "status": "skipped",
+      "reason": "ohlcv fetch failed"
     },
     "TORNTPOWER": {
       "status": "skipped",
@@ -990,11 +819,8 @@
       "reason": "ohlcv fetch failed"
     },
     "UJJIVANSFB": {
-      "status": "ok",
-      "fundamentals_available": false,
-      "analyst_available": false,
-      "events_available": false,
-      "shareholding_available": false
+      "status": "skipped",
+      "reason": "ohlcv fetch failed"
     },
     "ULTRACEMCO": {
       "status": "skipped",
@@ -1005,36 +831,24 @@
       "reason": "ohlcv fetch failed"
     },
     "UPL": {
-      "status": "ok",
-      "fundamentals_available": false,
-      "analyst_available": false,
-      "events_available": false,
-      "shareholding_available": false
+      "status": "skipped",
+      "reason": "ohlcv fetch failed"
     },
     "VBL": {
-      "status": "ok",
-      "fundamentals_available": false,
-      "analyst_available": false,
-      "events_available": false,
-      "shareholding_available": false
+      "status": "skipped",
+      "reason": "ohlcv fetch failed"
     },
     "VEDL": {
-      "status": "ok",
-      "fundamentals_available": false,
-      "analyst_available": false,
-      "events_available": false,
-      "shareholding_available": false
+      "status": "skipped",
+      "reason": "ohlcv fetch failed"
     },
     "WIPRO": {
       "status": "skipped",
       "reason": "ohlcv fetch failed"
     },
     "YESBANK": {
-      "status": "ok",
-      "fundamentals_available": false,
-      "analyst_available": false,
-      "events_available": false,
-      "shareholding_available": false
+      "status": "skipped",
+      "reason": "ohlcv fetch failed"
     },
     "ZYDUSLIFE": {
       "status": "skipped",
@@ -1043,7 +857,7 @@
   },
   "summary": {
     "total": 184,
-    "ok": 101,
-    "skipped": 83
+    "ok": 39,
+    "skipped": 145
   }
 }

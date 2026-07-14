@@ -4,27 +4,27 @@
   "sector": "Logistics",
   "indicators": {
     "date": "2026-07-14",
-    "close": 1818.9,
+    "close": 1821.9,
     "prev_close": 1810.3,
-    "change_pct": 0.47505938242281043,
-    "ema20": 1819.188571491025,
-    "ema50": 1769.7410794049001,
-    "ema200": 1584.1334116462117,
-    "rsi14": 51.33063301057859,
-    "macd": 9.505251536413425,
-    "macd_signal": 15.370154589683818,
-    "atr14": 39.45520451588401,
-    "adx14": 13.088331802805731,
-    "adx_pos": 20.365704577102957,
-    "adx_neg": 19.879074562294516,
-    "bb_high": 1880.3480164052048,
-    "bb_low": 1768.431983594795,
-    "bb_mid": 1824.3899999999999,
-    "vwap20": 1828.1551636152735,
+    "change_pct": 0.6407777716400672,
+    "ema20": 1819.4742857767392,
+    "ema50": 1769.8587264637238,
+    "ema200": 1584.1632623924804,
+    "rsi14": 51.81491827906997,
+    "macd": 9.74456777572982,
+    "macd_signal": 15.418017837547096,
+    "atr14": 40.498061658741165,
+    "adx14": 13.523216472357808,
+    "adx_pos": 22.416350716623327,
+    "adx_neg": 19.367172657569608,
+    "bb_high": 1880.4544131687453,
+    "bb_low": 1768.6255868312542,
+    "bb_mid": 1824.5399999999997,
+    "vwap20": 1828.0906920623063,
     "high_52w": 1891.1,
     "low_52w": 1290.5,
-    "volume": 431129.0,
-    "avg_volume20": 2050344.95
+    "volume": 1636778.0,
+    "avg_volume20": 2110627.4
   },
   "price_history": [
     {
@@ -624,13 +624,13 @@
     },
     {
       "date": "2026-07-14",
-      "close": 1818.9,
-      "ema50": 1769.74
+      "close": 1821.9,
+      "ema50": 1769.86
     }
   ],
   "flags": {
     "flags": {
-      "price_above_ema20": false,
+      "price_above_ema20": true,
       "ema20_above_ema50": true,
       "ema50_above_ema200": true,
       "rsi_above_50": true,
@@ -640,26 +640,27 @@
       "price_above_bb_mid": false
     },
     "flags_detail": {
-      "price_above_ema20": "Close 1,818.90 vs EMA20 1,819.19",
-      "ema20_above_ema50": "EMA20 1,819.19 vs EMA50 1,769.74",
-      "ema50_above_ema200": "EMA50 1,769.74 vs EMA200 1,584.13",
-      "rsi_above_50": "RSI(14) 51.33 vs 50",
-      "macd_bullish": "MACD 9.51 vs signal 15.37",
-      "adx_trending_up": "ADX(14) 13.09 vs 20, +DI 20.37 vs -DI 19.88",
-      "price_above_vwap20": "Close 1,818.90 vs 20d VWAP 1,828.16",
-      "price_above_bb_mid": "Close 1,818.90 vs BB mid 1,824.39"
+      "price_above_ema20": "Close 1,821.90 vs EMA20 1,819.47",
+      "ema20_above_ema50": "EMA20 1,819.47 vs EMA50 1,769.86",
+      "ema50_above_ema200": "EMA50 1,769.86 vs EMA200 1,584.16",
+      "rsi_above_50": "RSI(14) 51.81 vs 50",
+      "macd_bullish": "MACD 9.74 vs signal 15.42",
+      "adx_trending_up": "ADX(14) 13.52 vs 20, +DI 22.42 vs -DI 19.37",
+      "price_above_vwap20": "Close 1,821.90 vs 20d VWAP 1,828.09",
+      "price_above_bb_mid": "Close 1,821.90 vs BB mid 1,824.54"
     },
     "flags_on": [
+      "price_above_ema20",
       "ema20_above_ema50",
       "ema50_above_ema200",
       "rsi_above_50"
     ],
-    "flag_count": 3,
+    "flag_count": 4,
     "flag_total": 8
   },
   "fundamentals": null,
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-07-14T04:45:02.034263+00:00"
+  "updated_at": "2026-07-14T11:44:22.061246+00:00"
 }
