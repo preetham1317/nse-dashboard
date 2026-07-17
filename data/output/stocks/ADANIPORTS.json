@@ -3,35 +3,30 @@
   "name": "Adani Ports and Special Economic Zone",
   "sector": "Logistics",
   "indicators": {
-    "date": "2026-07-16",
-    "close": 1826.4,
-    "prev_close": 1829.1,
-    "change_pct": -0.1476135804493914,
-    "ema20": 1820.963304229938,
-    "ema50": 1774.3080956975505,
-    "ema200": 1588.8035817682076,
-    "rsi14": 52.491563503608546,
-    "macd": 9.025813834206247,
-    "macd_signal": 13.196402683198006,
-    "atr14": 39.31312459383069,
-    "adx14": 13.301484886956562,
-    "adx_pos": 23.853664602882972,
-    "adx_neg": 17.202577854810283,
-    "bb_high": 1880.6996233109444,
-    "bb_low": 1768.8703766890553,
-    "bb_mid": 1824.7849999999999,
-    "vwap20": 1829.4541242156884,
+    "date": "2026-07-17",
+    "close": 1837.4,
+    "prev_close": 1826.4,
+    "change_pct": 0.6022777047744196,
+    "ema20": 1822.5287038270865,
+    "ema50": 1776.7822749947586,
+    "ema200": 1591.1505844206495,
+    "rsi14": 54.49301714570358,
+    "macd": 9.410775556583985,
+    "macd_signal": 12.439277258078532,
+    "atr14": 38.24790140915301,
+    "adx14": 13.492724909828706,
+    "adx_pos": 22.76671530149281,
+    "adx_neg": 16.493401878386045,
+    "bb_high": 1880.2104886791763,
+    "bb_low": 1768.8895113208237,
+    "bb_mid": 1824.55,
+    "vwap20": 1829.193762260735,
     "high_52w": 1891.1,
     "low_52w": 1290.5,
-    "volume": 1952268.0,
-    "avg_volume20": 2008444.1
+    "volume": 962152.0,
+    "avg_volume20": 1974375.3
   },
   "price_history": [
-    {
-      "date": "2026-01-20",
-      "close": 1367.6,
-      "ema50": 1462.13
-    },
     {
       "date": "2026-01-21",
       "close": 1378.6,
@@ -45,7 +40,7 @@
     {
       "date": "2026-01-23",
       "close": 1308.4,
-      "ema50": 1451.28
+      "ema50": 1451.27
     },
     {
       "date": "2026-01-27",
@@ -60,7 +55,7 @@
     {
       "date": "2026-01-29",
       "close": 1417.8,
-      "ema50": 1444.19
+      "ema50": 1444.18
     },
     {
       "date": "2026-01-30",
@@ -85,7 +80,7 @@
     {
       "date": "2026-02-04",
       "close": 1567.9,
-      "ema50": 1446.55
+      "ema50": 1446.54
     },
     {
       "date": "2026-02-05",
@@ -400,7 +395,7 @@
     {
       "date": "2026-05-12",
       "close": 1688.2,
-      "ema50": 1555.52
+      "ema50": 1555.51
     },
     {
       "date": "2026-05-13",
@@ -626,6 +621,11 @@
       "date": "2026-07-16",
       "close": 1826.4,
       "ema50": 1774.31
+    },
+    {
+      "date": "2026-07-17",
+      "close": 1837.4,
+      "ema50": 1776.78
     }
   ],
   "flags": {
@@ -636,32 +636,33 @@
       "rsi_above_50": true,
       "macd_bullish": false,
       "adx_trending_up": false,
-      "price_above_vwap20": false,
+      "price_above_vwap20": true,
       "price_above_bb_mid": true
     },
     "flags_detail": {
-      "price_above_ema20": "Close 1,826.40 vs EMA20 1,820.96",
-      "ema20_above_ema50": "EMA20 1,820.96 vs EMA50 1,774.31",
-      "ema50_above_ema200": "EMA50 1,774.31 vs EMA200 1,588.80",
-      "rsi_above_50": "RSI(14) 52.49 vs 50",
-      "macd_bullish": "MACD 9.03 vs signal 13.20",
-      "adx_trending_up": "ADX(14) 13.30 vs 20, +DI 23.85 vs -DI 17.20",
-      "price_above_vwap20": "Close 1,826.40 vs 20d VWAP 1,829.45",
-      "price_above_bb_mid": "Close 1,826.40 vs BB mid 1,824.78"
+      "price_above_ema20": "Close 1,837.40 vs EMA20 1,822.53",
+      "ema20_above_ema50": "EMA20 1,822.53 vs EMA50 1,776.78",
+      "ema50_above_ema200": "EMA50 1,776.78 vs EMA200 1,591.15",
+      "rsi_above_50": "RSI(14) 54.49 vs 50",
+      "macd_bullish": "MACD 9.41 vs signal 12.44",
+      "adx_trending_up": "ADX(14) 13.49 vs 20, +DI 22.77 vs -DI 16.49",
+      "price_above_vwap20": "Close 1,837.40 vs 20d VWAP 1,829.19",
+      "price_above_bb_mid": "Close 1,837.40 vs BB mid 1,824.55"
     },
     "flags_on": [
       "price_above_ema20",
       "ema20_above_ema50",
       "ema50_above_ema200",
       "rsi_above_50",
+      "price_above_vwap20",
       "price_above_bb_mid"
     ],
-    "flag_count": 5,
+    "flag_count": 6,
     "flag_total": 8
   },
   "fundamentals": null,
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-07-16T15:51:39.640398+00:00"
+  "updated_at": "2026-07-17T15:03:28.457337+00:00"
 }

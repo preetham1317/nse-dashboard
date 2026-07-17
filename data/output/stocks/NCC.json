@@ -3,35 +3,30 @@
   "name": "NCC Ltd",
   "sector": "Infrastructure",
   "indicators": {
-    "date": "2026-07-16",
-    "close": 140.9,
-    "prev_close": 142.3,
-    "change_pct": -0.9838369641602288,
-    "ema20": 147.10636972522747,
-    "ema50": 150.04176454844958,
-    "ema200": 164.58530338488413,
-    "rsi14": 35.38392735620978,
-    "macd": -2.71034988600627,
-    "macd_signal": -1.8231121415053388,
-    "atr14": 3.936302511739193,
-    "adx14": 16.94590080824563,
-    "adx_pos": 14.223735751492997,
-    "adx_neg": 24.499221394572256,
-    "bb_high": 160.27054904524593,
-    "bb_low": 138.3774509547541,
-    "bb_mid": 149.324,
-    "vwap20": 151.38346662873306,
+    "date": "2026-07-17",
+    "close": 139.6,
+    "prev_close": 140.9,
+    "change_pct": -0.9226401703335779,
+    "ema20": 146.3914773704439,
+    "ema50": 149.63228484034994,
+    "ema200": 164.3488838908462,
+    "rsi14": 33.61976101789551,
+    "macd": -2.96458154537666,
+    "macd_signal": -2.05140602229915,
+    "atr14": 3.9265666181208245,
+    "adx14": 18.041022913058622,
+    "adx_pos": 13.240503160225447,
+    "adx_neg": 25.861788710656004,
+    "bb_high": 159.9556429643233,
+    "bb_low": 137.15435703567672,
+    "bb_mid": 148.555,
+    "vwap20": 150.58135790450342,
     "high_52w": 232.0,
     "low_52w": 130.0,
-    "volume": 1374966.0,
-    "avg_volume20": 1899985.55
+    "volume": 2565797.0,
+    "avg_volume20": 1969908.9
   },
   "price_history": [
-    {
-      "date": "2026-01-20",
-      "close": 142.47,
-      "ema50": 166.01
-    },
     {
       "date": "2026-01-21",
       "close": 141.99,
@@ -626,6 +621,11 @@
       "date": "2026-07-16",
       "close": 140.9,
       "ema50": 150.04
+    },
+    {
+      "date": "2026-07-17",
+      "close": 139.6,
+      "ema50": 149.63
     }
   ],
   "flags": {
@@ -640,14 +640,14 @@
       "price_above_bb_mid": false
     },
     "flags_detail": {
-      "price_above_ema20": "Close 140.90 vs EMA20 147.11",
-      "ema20_above_ema50": "EMA20 147.11 vs EMA50 150.04",
-      "ema50_above_ema200": "EMA50 150.04 vs EMA200 164.59",
-      "rsi_above_50": "RSI(14) 35.38 vs 50",
-      "macd_bullish": "MACD -2.71 vs signal -1.82",
-      "adx_trending_up": "ADX(14) 16.95 vs 20, +DI 14.22 vs -DI 24.50",
-      "price_above_vwap20": "Close 140.90 vs 20d VWAP 151.38",
-      "price_above_bb_mid": "Close 140.90 vs BB mid 149.32"
+      "price_above_ema20": "Close 139.60 vs EMA20 146.39",
+      "ema20_above_ema50": "EMA20 146.39 vs EMA50 149.63",
+      "ema50_above_ema200": "EMA50 149.63 vs EMA200 164.35",
+      "rsi_above_50": "RSI(14) 33.62 vs 50",
+      "macd_bullish": "MACD -2.96 vs signal -2.05",
+      "adx_trending_up": "ADX(14) 18.04 vs 20, +DI 13.24 vs -DI 25.86",
+      "price_above_vwap20": "Close 139.60 vs 20d VWAP 150.58",
+      "price_above_bb_mid": "Close 139.60 vs BB mid 148.56"
     },
     "flags_on": [],
     "flag_count": 0,
@@ -657,5 +657,5 @@
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-07-16T16:32:19.733630+00:00"
+  "updated_at": "2026-07-17T15:44:26.713253+00:00"
 }

@@ -3,39 +3,34 @@
   "name": "Gujarat Narmada Valley Fertilizers & Chemicals",
   "sector": "Agri & Fertilizers",
   "indicators": {
-    "date": "2026-07-16",
-    "close": 513.0,
-    "prev_close": 498.55,
-    "change_pct": 2.8984053755892063,
-    "ema20": 516.4955459867928,
-    "ema50": 509.99584529645546,
-    "ema200": 492.12067308352215,
-    "rsi14": 48.14596602383042,
-    "macd": -5.0804850557389045,
-    "macd_signal": -0.6250999427765402,
-    "atr14": 16.248689306674134,
-    "adx14": 19.749070571136116,
-    "adx_pos": 23.242549388420496,
-    "adx_neg": 22.65418657975898,
-    "bb_high": 582.6891494579193,
-    "bb_low": 478.050850542081,
-    "bb_mid": 530.3700000000001,
-    "vwap20": 546.8293334687362,
+    "date": "2026-07-17",
+    "close": 502.7,
+    "prev_close": 513.0,
+    "change_pct": -2.007797270955168,
+    "ema20": 515.1816844642415,
+    "ema50": 509.7097554301663,
+    "ema200": 492.4369292661293,
+    "rsi14": 43.88646676059166,
+    "macd": -5.440481529808267,
+    "macd_signal": -1.5881762605212626,
+    "atr14": 15.94521149897333,
+    "adx14": 18.429988895286574,
+    "adx_pos": 21.993134466243443,
+    "adx_neg": 21.436399396251336,
+    "bb_high": 578.8219095281738,
+    "bb_low": 475.9280904718261,
+    "bb_mid": 527.375,
+    "vwap20": 544.4000443299561,
     "high_52w": 616.0,
     "low_52w": 365.0,
-    "volume": 655111.0,
-    "avg_volume20": 496296.8
+    "volume": 252671.0,
+    "avg_volume20": 476070.1
   },
   "price_history": [
     {
-      "date": "2026-01-20",
-      "close": 458.45,
-      "ema50": 489.38
-    },
-    {
       "date": "2026-01-21",
       "close": 444.55,
-      "ema50": 487.62
+      "ema50": 487.63
     },
     {
       "date": "2026-01-22",
@@ -55,7 +50,7 @@
     {
       "date": "2026-01-28",
       "close": 471.05,
-      "ema50": 483.66
+      "ema50": 483.67
     },
     {
       "date": "2026-01-29",
@@ -100,12 +95,12 @@
     {
       "date": "2026-02-09",
       "close": 480.5,
-      "ema50": 478.98
+      "ema50": 478.99
     },
     {
       "date": "2026-02-10",
       "close": 489.2,
-      "ema50": 479.38
+      "ema50": 479.39
     },
     {
       "date": "2026-02-11",
@@ -140,7 +135,7 @@
     {
       "date": "2026-02-19",
       "close": 461.2,
-      "ema50": 476.38
+      "ema50": 476.39
     },
     {
       "date": "2026-02-20",
@@ -185,7 +180,7 @@
     {
       "date": "2026-03-05",
       "close": 433.1,
-      "ema50": 468.29
+      "ema50": 468.3
     },
     {
       "date": "2026-03-06",
@@ -215,7 +210,7 @@
     {
       "date": "2026-03-13",
       "close": 426.15,
-      "ema50": 459.39
+      "ema50": 459.4
     },
     {
       "date": "2026-03-16",
@@ -626,6 +621,11 @@
       "date": "2026-07-16",
       "close": 513.0,
       "ema50": 510.0
+    },
+    {
+      "date": "2026-07-17",
+      "close": 502.7,
+      "ema50": 509.71
     }
   ],
   "flags": {
@@ -640,14 +640,14 @@
       "price_above_bb_mid": false
     },
     "flags_detail": {
-      "price_above_ema20": "Close 513.00 vs EMA20 516.50",
-      "ema20_above_ema50": "EMA20 516.50 vs EMA50 510.00",
-      "ema50_above_ema200": "EMA50 510.00 vs EMA200 492.12",
-      "rsi_above_50": "RSI(14) 48.15 vs 50",
-      "macd_bullish": "MACD -5.08 vs signal -0.63",
-      "adx_trending_up": "ADX(14) 19.75 vs 20, +DI 23.24 vs -DI 22.65",
-      "price_above_vwap20": "Close 513.00 vs 20d VWAP 546.83",
-      "price_above_bb_mid": "Close 513.00 vs BB mid 530.37"
+      "price_above_ema20": "Close 502.70 vs EMA20 515.18",
+      "ema20_above_ema50": "EMA20 515.18 vs EMA50 509.71",
+      "ema50_above_ema200": "EMA50 509.71 vs EMA200 492.44",
+      "rsi_above_50": "RSI(14) 43.89 vs 50",
+      "macd_bullish": "MACD -5.44 vs signal -1.59",
+      "adx_trending_up": "ADX(14) 18.43 vs 20, +DI 21.99 vs -DI 21.44",
+      "price_above_vwap20": "Close 502.70 vs 20d VWAP 544.40",
+      "price_above_bb_mid": "Close 502.70 vs BB mid 527.38"
     },
     "flags_on": [
       "ema20_above_ema50",
@@ -660,5 +660,5 @@
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-07-16T16:10:29.970522+00:00"
+  "updated_at": "2026-07-17T15:22:27.361284+00:00"
 }

@@ -3,35 +3,30 @@
   "name": "PNC Infratech",
   "sector": "Infrastructure",
   "indicators": {
-    "date": "2026-07-16",
+    "date": "2026-07-17",
     "close": 244.0,
-    "prev_close": 244.9,
-    "change_pct": -0.3674969375255229,
-    "ema20": 235.3125549504022,
-    "ema50": 224.54790818051526,
-    "ema200": 233.2515642040576,
-    "rsi14": 65.9922965774737,
-    "macd": 7.782553555029551,
-    "macd_signal": 7.444716863877155,
-    "atr14": 7.296585118540979,
-    "adx14": 34.94355611764145,
-    "adx_pos": 27.85348380044394,
-    "adx_neg": 13.01598074037372,
-    "bb_high": 251.32754172576446,
-    "bb_low": 221.0404582742356,
-    "bb_mid": 236.18400000000003,
-    "vwap20": 232.78467098347784,
+    "prev_close": 244.04,
+    "change_pct": -0.01639075561383054,
+    "ema20": 236.14337738142967,
+    "ema50": 225.31224580106786,
+    "ema200": 233.3917284133265,
+    "rsi14": 65.98733461088472,
+    "macd": 7.521032241809991,
+    "macd_signal": 7.460490480721603,
+    "atr14": 8.081829038558459,
+    "adx14": 36.18988125121006,
+    "adx_pos": 34.92896649720808,
+    "adx_neg": 10.911945993337659,
+    "bb_high": 250.1623577308288,
+    "bb_low": 224.9286422691712,
+    "bb_mid": 237.5455,
+    "vwap20": 235.66521334791938,
     "high_52w": 331.8,
     "low_52w": 158.17,
-    "volume": 289169.0,
-    "avg_volume20": 638372.45
+    "volume": 1851672.0,
+    "avg_volume20": 689609.1
   },
   "price_history": [
-    {
-      "date": "2026-01-20",
-      "close": 227.35,
-      "ema50": 253.92
-    },
     {
       "date": "2026-01-21",
       "close": 220.7,
@@ -180,7 +175,7 @@
     {
       "date": "2026-03-04",
       "close": 197.39,
-      "ema50": 227.86
+      "ema50": 227.87
     },
     {
       "date": "2026-03-05",
@@ -624,8 +619,13 @@
     },
     {
       "date": "2026-07-16",
-      "close": 244.0,
+      "close": 244.04,
       "ema50": 224.55
+    },
+    {
+      "date": "2026-07-17",
+      "close": 244.0,
+      "ema50": 225.31
     }
   ],
   "flags": {
@@ -640,14 +640,14 @@
       "price_above_bb_mid": true
     },
     "flags_detail": {
-      "price_above_ema20": "Close 244.00 vs EMA20 235.31",
-      "ema20_above_ema50": "EMA20 235.31 vs EMA50 224.55",
-      "ema50_above_ema200": "EMA50 224.55 vs EMA200 233.25",
+      "price_above_ema20": "Close 244.00 vs EMA20 236.14",
+      "ema20_above_ema50": "EMA20 236.14 vs EMA50 225.31",
+      "ema50_above_ema200": "EMA50 225.31 vs EMA200 233.39",
       "rsi_above_50": "RSI(14) 65.99 vs 50",
-      "macd_bullish": "MACD 7.78 vs signal 7.44",
-      "adx_trending_up": "ADX(14) 34.94 vs 20, +DI 27.85 vs -DI 13.02",
-      "price_above_vwap20": "Close 244.00 vs 20d VWAP 232.78",
-      "price_above_bb_mid": "Close 244.00 vs BB mid 236.18"
+      "macd_bullish": "MACD 7.52 vs signal 7.46",
+      "adx_trending_up": "ADX(14) 36.19 vs 20, +DI 34.93 vs -DI 10.91",
+      "price_above_vwap20": "Close 244.00 vs 20d VWAP 235.67",
+      "price_above_bb_mid": "Close 244.00 vs BB mid 237.55"
     },
     "flags_on": [
       "price_above_ema20",
@@ -665,5 +665,5 @@
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-07-16T16:39:20.508126+00:00"
+  "updated_at": "2026-07-17T15:51:31.680183+00:00"
 }

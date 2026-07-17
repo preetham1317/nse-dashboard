@@ -3,35 +3,30 @@
   "name": "Ujjivan Small Finance Bank",
   "sector": "Banking",
   "indicators": {
-    "date": "2026-07-16",
-    "close": 65.62,
-    "prev_close": 65.51,
-    "change_pct": 0.16791329568004795,
-    "ema20": 61.38263459059683,
-    "ema50": 58.83923512299149,
-    "ema200": 55.46928925410037,
-    "rsi14": 65.70566916462096,
-    "macd": 2.5120720869062936,
-    "macd_signal": 1.9294866951529221,
-    "atr14": 2.306089602335225,
-    "adx14": 37.88196282408956,
-    "adx_pos": 32.76839338049523,
-    "adx_neg": 10.674464090651476,
-    "bb_high": 67.51231223464865,
-    "bb_low": 53.71868776535134,
-    "bb_mid": 60.6155,
-    "vwap20": 61.589661736527155,
+    "date": "2026-07-17",
+    "close": 64.88,
+    "prev_close": 65.62,
+    "change_pct": -1.1277049679975755,
+    "ema20": 61.715717010539976,
+    "ema50": 59.07612684994801,
+    "ema200": 55.553082002082846,
+    "rsi14": 62.897971506949965,
+    "macd": 2.472613431347149,
+    "macd_signal": 2.0381120424075627,
+    "atr14": 2.304226059310321,
+    "adx14": 38.923496770490196,
+    "adx_pos": 31.816355810156168,
+    "adx_neg": 9.920018703201254,
+    "bb_high": 68.00062351419285,
+    "bb_low": 53.85637648580716,
+    "bb_mid": 60.92850000000001,
+    "vwap20": 61.9191149421102,
     "high_52w": 68.0,
     "low_52w": 41.32,
-    "volume": 11662798.0,
-    "avg_volume20": 17462345.6
+    "volume": 19761879.0,
+    "avg_volume20": 17776630.6
   },
   "price_history": [
-    {
-      "date": "2026-01-20",
-      "close": 57.89,
-      "ema50": 54.71
-    },
     {
       "date": "2026-01-21",
       "close": 57.77,
@@ -626,6 +621,11 @@
       "date": "2026-07-16",
       "close": 65.62,
       "ema50": 58.84
+    },
+    {
+      "date": "2026-07-17",
+      "close": 64.88,
+      "ema50": 59.08
     }
   ],
   "flags": {
@@ -640,14 +640,14 @@
       "price_above_bb_mid": true
     },
     "flags_detail": {
-      "price_above_ema20": "Close 65.62 vs EMA20 61.38",
-      "ema20_above_ema50": "EMA20 61.38 vs EMA50 58.84",
-      "ema50_above_ema200": "EMA50 58.84 vs EMA200 55.47",
-      "rsi_above_50": "RSI(14) 65.71 vs 50",
-      "macd_bullish": "MACD 2.51 vs signal 1.93",
-      "adx_trending_up": "ADX(14) 37.88 vs 20, +DI 32.77 vs -DI 10.67",
-      "price_above_vwap20": "Close 65.62 vs 20d VWAP 61.59",
-      "price_above_bb_mid": "Close 65.62 vs BB mid 60.62"
+      "price_above_ema20": "Close 64.88 vs EMA20 61.72",
+      "ema20_above_ema50": "EMA20 61.72 vs EMA50 59.08",
+      "ema50_above_ema200": "EMA50 59.08 vs EMA200 55.55",
+      "rsi_above_50": "RSI(14) 62.90 vs 50",
+      "macd_bullish": "MACD 2.47 vs signal 2.04",
+      "adx_trending_up": "ADX(14) 38.92 vs 20, +DI 31.82 vs -DI 9.92",
+      "price_above_vwap20": "Close 64.88 vs 20d VWAP 61.92",
+      "price_above_bb_mid": "Close 64.88 vs BB mid 60.93"
     },
     "flags_on": [
       "price_above_ema20",
@@ -666,5 +666,5 @@
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-07-16T16:52:15.176542+00:00"
+  "updated_at": "2026-07-17T16:04:33.785056+00:00"
 }

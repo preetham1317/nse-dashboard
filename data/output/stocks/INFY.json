@@ -3,35 +3,30 @@
   "name": "Infosys",
   "sector": "IT",
   "indicators": {
-    "date": "2026-07-16",
-    "close": 1082.4,
-    "prev_close": 1076.3,
-    "change_pct": 0.5667564805351795,
-    "ema20": 1077.6771660795462,
-    "ema50": 1125.20861949149,
-    "ema200": 1311.2195043543895,
-    "rsi14": 49.06819425843979,
-    "macd": -13.369475867756591,
-    "macd_signal": -23.12514686074882,
-    "atr14": 33.04214997859256,
-    "adx14": 15.266220911936685,
-    "adx_pos": 28.47236423066619,
-    "adx_neg": 27.425939989718884,
-    "bb_high": 1120.6838473043085,
-    "bb_low": 993.1361526956916,
-    "bb_mid": 1056.91,
-    "vwap20": 1056.3883937973853,
+    "date": "2026-07-17",
+    "close": 1096.5,
+    "prev_close": 1082.4,
+    "change_pct": 1.3026607538802577,
+    "ema20": 1079.4698169291132,
+    "ema50": 1124.0827743874984,
+    "ema200": 1308.9188891247177,
+    "rsi14": 51.73678148330658,
+    "macd": -10.449476884220076,
+    "macd_signal": -20.590012865179734,
+    "atr14": 33.13913926547757,
+    "adx14": 14.83596716674876,
+    "adx_pos": 30.56430293076347,
+    "adx_neg": 25.392409425938734,
+    "bb_high": 1113.4493931797633,
+    "bb_low": 997.2706068202365,
+    "bb_mid": 1055.36,
+    "vwap20": 1054.1204292898624,
     "high_52w": 1728.0,
     "low_52w": 982.4,
-    "volume": 8592146.0,
-    "avg_volume20": 15595520.0
+    "volume": 12547728.0,
+    "avg_volume20": 15383834.05
   },
   "price_history": [
-    {
-      "date": "2026-01-20",
-      "close": 1658.9,
-      "ema50": 1598.18
-    },
     {
       "date": "2026-01-21",
       "close": 1654.4,
@@ -70,7 +65,7 @@
     {
       "date": "2026-02-01",
       "close": 1654.5,
-      "ema50": 1615.44
+      "ema50": 1615.43
     },
     {
       "date": "2026-02-02",
@@ -85,7 +80,7 @@
     {
       "date": "2026-02-04",
       "close": 1535.8,
-      "ema50": 1614.35
+      "ema50": 1614.34
     },
     {
       "date": "2026-02-05",
@@ -105,7 +100,7 @@
     {
       "date": "2026-02-10",
       "close": 1497.8,
-      "ema50": 1598.21
+      "ema50": 1598.2
     },
     {
       "date": "2026-02-11",
@@ -185,7 +180,7 @@
     {
       "date": "2026-03-05",
       "close": 1305.8,
-      "ema50": 1473.23
+      "ema50": 1473.22
     },
     {
       "date": "2026-03-06",
@@ -325,7 +320,7 @@
     {
       "date": "2026-04-20",
       "close": 1312.6,
-      "ema50": 1350.39
+      "ema50": 1350.38
     },
     {
       "date": "2026-04-21",
@@ -626,6 +621,11 @@
       "date": "2026-07-16",
       "close": 1082.4,
       "ema50": 1125.21
+    },
+    {
+      "date": "2026-07-17",
+      "close": 1096.5,
+      "ema50": 1124.08
     }
   ],
   "flags": {
@@ -633,34 +633,35 @@
       "price_above_ema20": true,
       "ema20_above_ema50": false,
       "ema50_above_ema200": false,
-      "rsi_above_50": false,
+      "rsi_above_50": true,
       "macd_bullish": true,
       "adx_trending_up": false,
       "price_above_vwap20": true,
       "price_above_bb_mid": true
     },
     "flags_detail": {
-      "price_above_ema20": "Close 1,082.40 vs EMA20 1,077.68",
-      "ema20_above_ema50": "EMA20 1,077.68 vs EMA50 1,125.21",
-      "ema50_above_ema200": "EMA50 1,125.21 vs EMA200 1,311.22",
-      "rsi_above_50": "RSI(14) 49.07 vs 50",
-      "macd_bullish": "MACD -13.37 vs signal -23.13",
-      "adx_trending_up": "ADX(14) 15.27 vs 20, +DI 28.47 vs -DI 27.43",
-      "price_above_vwap20": "Close 1,082.40 vs 20d VWAP 1,056.39",
-      "price_above_bb_mid": "Close 1,082.40 vs BB mid 1,056.91"
+      "price_above_ema20": "Close 1,096.50 vs EMA20 1,079.47",
+      "ema20_above_ema50": "EMA20 1,079.47 vs EMA50 1,124.08",
+      "ema50_above_ema200": "EMA50 1,124.08 vs EMA200 1,308.92",
+      "rsi_above_50": "RSI(14) 51.74 vs 50",
+      "macd_bullish": "MACD -10.45 vs signal -20.59",
+      "adx_trending_up": "ADX(14) 14.84 vs 20, +DI 30.56 vs -DI 25.39",
+      "price_above_vwap20": "Close 1,096.50 vs 20d VWAP 1,054.12",
+      "price_above_bb_mid": "Close 1,096.50 vs BB mid 1,055.36"
     },
     "flags_on": [
       "price_above_ema20",
+      "rsi_above_50",
       "macd_bullish",
       "price_above_vwap20",
       "price_above_bb_mid"
     ],
-    "flag_count": 4,
+    "flag_count": 5,
     "flag_total": 8
   },
   "fundamentals": null,
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-07-16T16:17:56.736379+00:00"
+  "updated_at": "2026-07-17T15:29:53.759700+00:00"
 }

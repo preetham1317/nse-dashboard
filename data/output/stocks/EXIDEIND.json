@@ -3,35 +3,30 @@
   "name": "Exide Industries",
   "sector": "Auto Ancillary",
   "indicators": {
-    "date": "2026-07-16",
-    "close": 421.3,
-    "prev_close": 419.2,
-    "change_pct": 0.5009541984732879,
-    "ema20": 408.7141454252062,
-    "ema50": 388.2889394554968,
-    "ema200": 366.77465218451704,
-    "rsi14": 64.64432507604336,
-    "macd": 11.38822631340662,
-    "macd_signal": 11.14057618290452,
-    "atr14": 10.85534392879313,
-    "adx14": 34.12967925872412,
-    "adx_pos": 31.6891595848971,
-    "adx_neg": 14.241570540934346,
-    "bb_high": 439.5362702547283,
-    "bb_low": 370.49372974527165,
-    "bb_mid": 405.015,
-    "vwap20": 408.0685572767715,
-    "high_52w": 431.0,
+    "date": "2026-07-17",
+    "close": 435.2,
+    "prev_close": 421.3,
+    "change_pct": 3.299311654403033,
+    "ema20": 411.2366077656628,
+    "ema50": 390.12859685040144,
+    "ema200": 367.5328641408207,
+    "rsi14": 71.15824714703865,
+    "macd": 12.122732089637509,
+    "macd_signal": 11.337007364127004,
+    "atr14": 11.36567650547587,
+    "adx14": 35.07757716743804,
+    "adx_pos": 35.39452086716678,
+    "adx_neg": 12.630527794882108,
+    "bb_high": 443.13121170421743,
+    "bb_low": 371.9337882957826,
+    "bb_mid": 407.5325,
+    "vwap20": 411.2550998339716,
+    "high_52w": 436.55,
     "low_52w": 287.0,
-    "volume": 1789682.0,
-    "avg_volume20": 4149489.0
+    "volume": 12389278.0,
+    "avg_volume20": 4705621.0
   },
   "price_history": [
-    {
-      "date": "2026-01-20",
-      "close": 330.5,
-      "ema50": 365.18
-    },
     {
       "date": "2026-01-21",
       "close": 325.95,
@@ -140,7 +135,7 @@
     {
       "date": "2026-02-19",
       "close": 333.2,
-      "ema50": 346.55
+      "ema50": 346.56
     },
     {
       "date": "2026-02-20",
@@ -626,6 +621,11 @@
       "date": "2026-07-16",
       "close": 421.3,
       "ema50": 388.29
+    },
+    {
+      "date": "2026-07-17",
+      "close": 435.2,
+      "ema50": 390.13
     }
   ],
   "flags": {
@@ -640,14 +640,14 @@
       "price_above_bb_mid": true
     },
     "flags_detail": {
-      "price_above_ema20": "Close 421.30 vs EMA20 408.71",
-      "ema20_above_ema50": "EMA20 408.71 vs EMA50 388.29",
-      "ema50_above_ema200": "EMA50 388.29 vs EMA200 366.77",
-      "rsi_above_50": "RSI(14) 64.64 vs 50",
-      "macd_bullish": "MACD 11.39 vs signal 11.14",
-      "adx_trending_up": "ADX(14) 34.13 vs 20, +DI 31.69 vs -DI 14.24",
-      "price_above_vwap20": "Close 421.30 vs 20d VWAP 408.07",
-      "price_above_bb_mid": "Close 421.30 vs BB mid 405.01"
+      "price_above_ema20": "Close 435.20 vs EMA20 411.24",
+      "ema20_above_ema50": "EMA20 411.24 vs EMA50 390.13",
+      "ema50_above_ema200": "EMA50 390.13 vs EMA200 367.53",
+      "rsi_above_50": "RSI(14) 71.16 vs 50",
+      "macd_bullish": "MACD 12.12 vs signal 11.34",
+      "adx_trending_up": "ADX(14) 35.08 vs 20, +DI 35.39 vs -DI 12.63",
+      "price_above_vwap20": "Close 435.20 vs 20d VWAP 411.26",
+      "price_above_bb_mid": "Close 435.20 vs BB mid 407.53"
     },
     "flags_on": [
       "price_above_ema20",
@@ -666,5 +666,5 @@
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-07-16T16:08:39.015052+00:00"
+  "updated_at": "2026-07-17T15:20:35.485966+00:00"
 }
