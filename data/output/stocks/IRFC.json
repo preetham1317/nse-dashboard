@@ -3,35 +3,30 @@
   "name": "Indian Railway Finance Corporation",
   "sector": "NBFC",
   "indicators": {
-    "date": "2026-07-17",
-    "close": 88.41,
+    "date": "2026-07-20",
+    "close": 88.72,
     "prev_close": 88.41,
-    "change_pct": 0.0,
-    "ema20": 90.99617406627475,
-    "ema50": 94.66656229302777,
-    "ema200": 106.98940857461515,
-    "rsi14": 35.17537748117702,
-    "macd": -2.214148249497512,
-    "macd_signal": -2.2135967963526992,
-    "atr14": 1.7410521323373749,
-    "adx14": 25.665563622384507,
-    "adx_pos": 16.884728059263708,
-    "adx_neg": 30.862697278608874,
-    "bb_high": 98.80956562701321,
-    "bb_low": 83.88043437298678,
-    "bb_mid": 91.345,
-    "vwap20": 92.05291869235388,
-    "high_52w": 138.94,
+    "change_pct": 0.350639067978738,
+    "ema20": 90.77939558377209,
+    "ema50": 94.43333329241717,
+    "ema200": 106.51381470189186,
+    "rsi14": 36.78206247365665,
+    "macd": -2.126242152990443,
+    "macd_signal": -2.1961258672002906,
+    "atr14": 1.7245484084999896,
+    "adx14": 25.633694953929922,
+    "adx_pos": 17.278374001955374,
+    "adx_neg": 28.932474650419604,
+    "bb_high": 97.3323812613675,
+    "bb_low": 84.27861873863252,
+    "bb_mid": 90.80550000000001,
+    "vwap20": 91.66181807154119,
+    "high_52w": 138.0,
     "low_52w": 86.93,
-    "volume": 5054877.0,
-    "avg_volume20": 15955130.65
+    "volume": 5972073.0,
+    "avg_volume20": 15596127.1
   },
   "price_history": [
-    {
-      "date": "2026-01-21",
-      "close": 115.14,
-      "ema50": 120.99
-    },
     {
       "date": "2026-01-22",
       "close": 117.02,
@@ -45,7 +40,7 @@
     {
       "date": "2026-01-27",
       "close": 114.61,
-      "ema50": 120.34
+      "ema50": 120.33
     },
     {
       "date": "2026-01-28",
@@ -65,7 +60,7 @@
     {
       "date": "2026-02-01",
       "close": 113.54,
-      "ema50": 120.05
+      "ema50": 120.04
     },
     {
       "date": "2026-02-02",
@@ -80,12 +75,12 @@
     {
       "date": "2026-02-04",
       "close": 116.0,
-      "ema50": 119.52
+      "ema50": 119.51
     },
     {
       "date": "2026-02-05",
       "close": 114.71,
-      "ema50": 119.33
+      "ema50": 119.32
     },
     {
       "date": "2026-02-06",
@@ -125,7 +120,7 @@
     {
       "date": "2026-02-17",
       "close": 112.99,
-      "ema50": 117.8
+      "ema50": 117.79
     },
     {
       "date": "2026-02-18",
@@ -160,7 +155,7 @@
     {
       "date": "2026-02-26",
       "close": 103.23,
-      "ema50": 115.68
+      "ema50": 115.67
     },
     {
       "date": "2026-02-27",
@@ -255,7 +250,7 @@
     {
       "date": "2026-03-27",
       "close": 92.45,
-      "ema50": 105.48
+      "ema50": 105.47
     },
     {
       "date": "2026-03-30",
@@ -626,6 +621,11 @@
       "date": "2026-07-17",
       "close": 88.41,
       "ema50": 94.67
+    },
+    {
+      "date": "2026-07-20",
+      "close": 88.72,
+      "ema50": 94.43
     }
   ],
   "flags": {
@@ -634,28 +634,30 @@
       "ema20_above_ema50": false,
       "ema50_above_ema200": false,
       "rsi_above_50": false,
-      "macd_bullish": false,
+      "macd_bullish": true,
       "adx_trending_up": false,
       "price_above_vwap20": false,
       "price_above_bb_mid": false
     },
     "flags_detail": {
-      "price_above_ema20": "Close 88.41 vs EMA20 91.00",
-      "ema20_above_ema50": "EMA20 91.00 vs EMA50 94.67",
-      "ema50_above_ema200": "EMA50 94.67 vs EMA200 106.99",
-      "rsi_above_50": "RSI(14) 35.18 vs 50",
-      "macd_bullish": "MACD -2.21 vs signal -2.21",
-      "adx_trending_up": "ADX(14) 25.67 vs 20, +DI 16.88 vs -DI 30.86",
-      "price_above_vwap20": "Close 88.41 vs 20d VWAP 92.05",
-      "price_above_bb_mid": "Close 88.41 vs BB mid 91.34"
+      "price_above_ema20": "Close 88.72 vs EMA20 90.78",
+      "ema20_above_ema50": "EMA20 90.78 vs EMA50 94.43",
+      "ema50_above_ema200": "EMA50 94.43 vs EMA200 106.51",
+      "rsi_above_50": "RSI(14) 36.78 vs 50",
+      "macd_bullish": "MACD -2.13 vs signal -2.20",
+      "adx_trending_up": "ADX(14) 25.63 vs 20, +DI 17.28 vs -DI 28.93",
+      "price_above_vwap20": "Close 88.72 vs 20d VWAP 91.66",
+      "price_above_bb_mid": "Close 88.72 vs BB mid 90.81"
     },
-    "flags_on": [],
-    "flag_count": 0,
+    "flags_on": [
+      "macd_bullish"
+    ],
+    "flag_count": 1,
     "flag_total": 8
   },
   "fundamentals": null,
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-07-17T15:31:45.539073+00:00"
+  "updated_at": "2026-07-20T16:41:05.598320+00:00"
 }

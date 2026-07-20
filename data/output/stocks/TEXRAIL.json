@@ -3,59 +3,54 @@
   "name": "Texmaco Rail & Engineering",
   "sector": "Railways",
   "indicators": {
-    "date": "2026-07-17",
-    "close": 115.28,
-    "prev_close": 117.0,
-    "change_pct": -1.470085470085469,
-    "ema20": 113.75572975264205,
-    "ema50": 110.69406263277826,
-    "ema200": 117.73014546947836,
-    "rsi14": 54.03451573223744,
-    "macd": 2.2788400988608686,
-    "macd_signal": 2.157904366458911,
-    "atr14": 4.429594337440292,
-    "adx14": 25.220821054768574,
-    "adx_pos": 31.380514164936447,
-    "adx_neg": 19.38001265942479,
-    "bb_high": 120.97883923719621,
-    "bb_low": 106.09216076280379,
-    "bb_mid": 113.5355,
-    "vwap20": 114.86605690486962,
-    "high_52w": 168.43,
+    "date": "2026-07-20",
+    "close": 114.86,
+    "prev_close": 115.28,
+    "change_pct": -0.3643303261623887,
+    "ema20": 113.8608983476279,
+    "ema50": 110.85737337509323,
+    "ema200": 117.13018645673864,
+    "rsi14": 53.31810941181644,
+    "macd": 2.0855694066003423,
+    "macd_signal": 2.143437375423219,
+    "atr14": 4.241051884756603,
+    "adx14": 25.108005591892407,
+    "adx_pos": 30.434469887390414,
+    "adx_neg": 18.795753579221827,
+    "bb_high": 121.01393444414504,
+    "bb_low": 106.61406555585495,
+    "bb_mid": 113.814,
+    "vwap20": 115.00935096701743,
+    "high_52w": 165.01,
     "low_52w": 78.05,
-    "volume": 1181882.0,
-    "avg_volume20": 3300841.7
+    "volume": 971257.0,
+    "avg_volume20": 3269182.6
   },
   "price_history": [
     {
-      "date": "2026-01-21",
-      "close": 118.49,
-      "ema50": 130.44
-    },
-    {
       "date": "2026-01-22",
       "close": 121.54,
-      "ema50": 130.09
+      "ema50": 130.08
     },
     {
       "date": "2026-01-23",
       "close": 119.26,
-      "ema50": 129.67
+      "ema50": 129.66
     },
     {
       "date": "2026-01-27",
       "close": 118.79,
-      "ema50": 129.24
+      "ema50": 129.23
     },
     {
       "date": "2026-01-28",
       "close": 128.75,
-      "ema50": 129.22
+      "ema50": 129.21
     },
     {
       "date": "2026-01-29",
       "close": 126.89,
-      "ema50": 129.13
+      "ema50": 129.12
     },
     {
       "date": "2026-01-30",
@@ -65,7 +60,7 @@
     {
       "date": "2026-02-01",
       "close": 120.98,
-      "ema50": 128.76
+      "ema50": 128.75
     },
     {
       "date": "2026-02-02",
@@ -105,12 +100,12 @@
     {
       "date": "2026-02-11",
       "close": 118.05,
-      "ema50": 126.44
+      "ema50": 126.43
     },
     {
       "date": "2026-02-12",
       "close": 116.46,
-      "ema50": 126.05
+      "ema50": 126.04
     },
     {
       "date": "2026-02-13",
@@ -140,7 +135,7 @@
     {
       "date": "2026-02-20",
       "close": 111.21,
-      "ema50": 123.27
+      "ema50": 123.26
     },
     {
       "date": "2026-02-23",
@@ -160,7 +155,7 @@
     {
       "date": "2026-02-26",
       "close": 105.63,
-      "ema50": 120.91
+      "ema50": 120.9
     },
     {
       "date": "2026-02-27",
@@ -180,12 +175,12 @@
     {
       "date": "2026-03-05",
       "close": 96.58,
-      "ema50": 117.66
+      "ema50": 117.65
     },
     {
       "date": "2026-03-06",
       "close": 100.57,
-      "ema50": 116.99
+      "ema50": 116.98
     },
     {
       "date": "2026-03-09",
@@ -200,7 +195,7 @@
     {
       "date": "2026-03-11",
       "close": 96.92,
-      "ema50": 114.72
+      "ema50": 114.71
     },
     {
       "date": "2026-03-12",
@@ -265,12 +260,12 @@
     {
       "date": "2026-04-01",
       "close": 88.4,
-      "ema50": 103.92
+      "ema50": 103.91
     },
     {
       "date": "2026-04-02",
       "close": 89.66,
-      "ema50": 103.36
+      "ema50": 103.35
     },
     {
       "date": "2026-04-06",
@@ -300,7 +295,7 @@
     {
       "date": "2026-04-13",
       "close": 96.18,
-      "ema50": 101.61
+      "ema50": 101.6
     },
     {
       "date": "2026-04-15",
@@ -320,7 +315,7 @@
     {
       "date": "2026-04-20",
       "close": 103.23,
-      "ema50": 101.92
+      "ema50": 101.91
     },
     {
       "date": "2026-04-21",
@@ -355,7 +350,7 @@
     {
       "date": "2026-04-29",
       "close": 106.32,
-      "ema50": 102.74
+      "ema50": 102.73
     },
     {
       "date": "2026-04-30",
@@ -460,7 +455,7 @@
     {
       "date": "2026-06-01",
       "close": 103.58,
-      "ema50": 107.23
+      "ema50": 107.22
     },
     {
       "date": "2026-06-02",
@@ -520,7 +515,7 @@
     {
       "date": "2026-06-17",
       "close": 109.52,
-      "ema50": 106.4
+      "ema50": 106.39
     },
     {
       "date": "2026-06-18",
@@ -626,6 +621,11 @@
       "date": "2026-07-17",
       "close": 115.28,
       "ema50": 110.69
+    },
+    {
+      "date": "2026-07-20",
+      "close": 114.86,
+      "ema50": 110.86
     }
   ],
   "flags": {
@@ -634,36 +634,34 @@
       "ema20_above_ema50": true,
       "ema50_above_ema200": false,
       "rsi_above_50": true,
-      "macd_bullish": true,
+      "macd_bullish": false,
       "adx_trending_up": true,
-      "price_above_vwap20": true,
+      "price_above_vwap20": false,
       "price_above_bb_mid": true
     },
     "flags_detail": {
-      "price_above_ema20": "Close 115.28 vs EMA20 113.76",
-      "ema20_above_ema50": "EMA20 113.76 vs EMA50 110.69",
-      "ema50_above_ema200": "EMA50 110.69 vs EMA200 117.73",
-      "rsi_above_50": "RSI(14) 54.03 vs 50",
-      "macd_bullish": "MACD 2.28 vs signal 2.16",
-      "adx_trending_up": "ADX(14) 25.22 vs 20, +DI 31.38 vs -DI 19.38",
-      "price_above_vwap20": "Close 115.28 vs 20d VWAP 114.87",
-      "price_above_bb_mid": "Close 115.28 vs BB mid 113.54"
+      "price_above_ema20": "Close 114.86 vs EMA20 113.86",
+      "ema20_above_ema50": "EMA20 113.86 vs EMA50 110.86",
+      "ema50_above_ema200": "EMA50 110.86 vs EMA200 117.13",
+      "rsi_above_50": "RSI(14) 53.32 vs 50",
+      "macd_bullish": "MACD 2.09 vs signal 2.14",
+      "adx_trending_up": "ADX(14) 25.11 vs 20, +DI 30.43 vs -DI 18.80",
+      "price_above_vwap20": "Close 114.86 vs 20d VWAP 115.01",
+      "price_above_bb_mid": "Close 114.86 vs BB mid 113.81"
     },
     "flags_on": [
       "price_above_ema20",
       "ema20_above_ema50",
       "rsi_above_50",
-      "macd_bullish",
       "adx_trending_up",
-      "price_above_vwap20",
       "price_above_bb_mid"
     ],
-    "flag_count": 7,
+    "flag_count": 5,
     "flag_total": 8
   },
   "fundamentals": null,
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-07-17T16:01:57.276658+00:00"
+  "updated_at": "2026-07-20T17:11:12.675093+00:00"
 }

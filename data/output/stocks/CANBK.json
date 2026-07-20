@@ -3,35 +3,30 @@
   "name": "Canara Bank",
   "sector": "Banking",
   "indicators": {
-    "date": "2026-07-17",
-    "close": 125.01,
-    "prev_close": 125.9,
-    "change_pct": -0.7069102462271649,
-    "ema20": 127.42681558606125,
-    "ema50": 130.30476666363228,
-    "ema200": 132.5487439477649,
-    "rsi14": 43.05900600056914,
-    "macd": -1.534080085733308,
-    "macd_signal": -1.598030619928341,
-    "atr14": 3.2640267000801644,
-    "adx14": 15.94526797456599,
-    "adx_pos": 18.81067007194635,
-    "adx_neg": 26.62114683979386,
-    "bb_high": 133.5958251611931,
-    "bb_low": 121.22317483880694,
-    "bb_mid": 127.40950000000001,
-    "vwap20": 127.29586748841109,
+    "date": "2026-07-20",
+    "close": 128.82,
+    "prev_close": 125.01,
+    "change_pct": 3.04775617950563,
+    "ema20": 127.55949981596018,
+    "ema50": 130.24653636230255,
+    "ema200": 132.4684734528448,
+    "rsi14": 51.243646073415825,
+    "macd": -1.2374209784787809,
+    "macd_signal": -1.5259086915793056,
+    "atr14": 3.358739078695058,
+    "adx14": 14.867703870574047,
+    "adx_pos": 24.439037024752864,
+    "adx_neg": 24.022572510816627,
+    "bb_high": 132.6781542049357,
+    "bb_low": 121.64884579506429,
+    "bb_mid": 127.1635,
+    "vwap20": 127.15541906048415,
     "high_52w": 162.89,
     "low_52w": 103.55,
-    "volume": 19266430.0,
-    "avg_volume20": 29206866.35
+    "volume": 44159205.0,
+    "avg_volume20": 30590547.35
   },
   "price_history": [
-    {
-      "date": "2026-01-21",
-      "close": 150.76,
-      "ema50": 147.55
-    },
     {
       "date": "2026-01-22",
       "close": 154.68,
@@ -55,7 +50,7 @@
     {
       "date": "2026-01-29",
       "close": 150.32,
-      "ema50": 148.69
+      "ema50": 148.68
     },
     {
       "date": "2026-01-30",
@@ -70,7 +65,7 @@
     {
       "date": "2026-02-02",
       "close": 146.47,
-      "ema50": 148.27
+      "ema50": 148.26
     },
     {
       "date": "2026-02-03",
@@ -190,7 +185,7 @@
     {
       "date": "2026-03-09",
       "close": 139.91,
-      "ema50": 149.3
+      "ema50": 149.29
     },
     {
       "date": "2026-03-10",
@@ -626,38 +621,47 @@
       "date": "2026-07-17",
       "close": 125.01,
       "ema50": 130.3
+    },
+    {
+      "date": "2026-07-20",
+      "close": 128.82,
+      "ema50": 130.25
     }
   ],
   "flags": {
     "flags": {
-      "price_above_ema20": false,
+      "price_above_ema20": true,
       "ema20_above_ema50": false,
       "ema50_above_ema200": false,
-      "rsi_above_50": false,
+      "rsi_above_50": true,
       "macd_bullish": true,
       "adx_trending_up": false,
-      "price_above_vwap20": false,
-      "price_above_bb_mid": false
+      "price_above_vwap20": true,
+      "price_above_bb_mid": true
     },
     "flags_detail": {
-      "price_above_ema20": "Close 125.01 vs EMA20 127.43",
-      "ema20_above_ema50": "EMA20 127.43 vs EMA50 130.30",
-      "ema50_above_ema200": "EMA50 130.30 vs EMA200 132.55",
-      "rsi_above_50": "RSI(14) 43.06 vs 50",
-      "macd_bullish": "MACD -1.53 vs signal -1.60",
-      "adx_trending_up": "ADX(14) 15.95 vs 20, +DI 18.81 vs -DI 26.62",
-      "price_above_vwap20": "Close 125.01 vs 20d VWAP 127.30",
-      "price_above_bb_mid": "Close 125.01 vs BB mid 127.41"
+      "price_above_ema20": "Close 128.82 vs EMA20 127.56",
+      "ema20_above_ema50": "EMA20 127.56 vs EMA50 130.25",
+      "ema50_above_ema200": "EMA50 130.25 vs EMA200 132.47",
+      "rsi_above_50": "RSI(14) 51.24 vs 50",
+      "macd_bullish": "MACD -1.24 vs signal -1.53",
+      "adx_trending_up": "ADX(14) 14.87 vs 20, +DI 24.44 vs -DI 24.02",
+      "price_above_vwap20": "Close 128.82 vs 20d VWAP 127.16",
+      "price_above_bb_mid": "Close 128.82 vs BB mid 127.16"
     },
     "flags_on": [
-      "macd_bullish"
+      "price_above_ema20",
+      "rsi_above_50",
+      "macd_bullish",
+      "price_above_vwap20",
+      "price_above_bb_mid"
     ],
-    "flag_count": 1,
+    "flag_count": 5,
     "flag_total": 8
   },
   "fundamentals": null,
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-07-17T15:13:31.428110+00:00"
+  "updated_at": "2026-07-20T16:22:52.502752+00:00"
 }

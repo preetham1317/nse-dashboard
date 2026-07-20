@@ -3,44 +3,39 @@
   "name": "Torrent Pharmaceuticals",
   "sector": "Pharma",
   "indicators": {
-    "date": "2026-07-17",
-    "close": 4763.0,
-    "prev_close": 4987.6,
-    "change_pct": -4.50316785628359,
-    "ema20": 4775.32896926445,
-    "ema50": 4592.550988508528,
-    "ema200": 4167.947628791378,
-    "rsi14": 53.078729293161814,
-    "macd": 122.35899480896751,
-    "macd_signal": 118.6521899079178,
-    "atr14": 131.53353609590368,
-    "adx14": 35.54577692496501,
-    "adx_pos": 22.625718352345384,
-    "adx_neg": 18.45325968833138,
-    "bb_high": 5113.654487702086,
-    "bb_low": 4367.1655122979155,
-    "bb_mid": 4740.410000000001,
-    "vwap20": 4805.43208025737,
+    "date": "2026-07-20",
+    "close": 5005.4,
+    "prev_close": 4763.0,
+    "change_pct": 5.089229477220232,
+    "ema20": 4797.240496001169,
+    "ema50": 4608.741212519732,
+    "ema200": 4176.78994890008,
+    "rsi14": 65.31771901069088,
+    "macd": 125.67159139080468,
+    "macd_signal": 120.0560702031718,
+    "atr14": 143.2025692305032,
+    "adx14": 34.51167343078169,
+    "adx_pos": 24.140892514472732,
+    "adx_neg": 15.738889850299213,
+    "bb_high": 5130.778882019334,
+    "bb_low": 4407.601117980667,
+    "bb_mid": 4769.1900000000005,
+    "vwap20": 4826.503399249135,
     "high_52w": 5085.8,
     "low_52w": 3309.4,
-    "volume": 1396928.0,
-    "avg_volume20": 889355.5
+    "volume": 959571.0,
+    "avg_volume20": 900517.5
   },
   "price_history": [
     {
-      "date": "2026-01-21",
-      "close": 3981.8,
-      "ema50": 3838.71
-    },
-    {
       "date": "2026-01-22",
       "close": 4020.5,
-      "ema50": 3845.84
+      "ema50": 3845.85
     },
     {
       "date": "2026-01-23",
       "close": 3932.2,
-      "ema50": 3849.22
+      "ema50": 3849.23
     },
     {
       "date": "2026-01-27",
@@ -50,27 +45,27 @@
     {
       "date": "2026-01-28",
       "close": 3958.7,
-      "ema50": 3859.1
+      "ema50": 3859.11
     },
     {
       "date": "2026-01-29",
       "close": 3930.1,
-      "ema50": 3861.88
+      "ema50": 3861.89
     },
     {
       "date": "2026-01-30",
       "close": 3960.8,
-      "ema50": 3865.76
+      "ema50": 3865.77
     },
     {
       "date": "2026-02-01",
       "close": 3997.1,
-      "ema50": 3870.91
+      "ema50": 3870.92
     },
     {
       "date": "2026-02-02",
       "close": 3987.2,
-      "ema50": 3875.47
+      "ema50": 3875.48
     },
     {
       "date": "2026-02-03",
@@ -90,7 +85,7 @@
     {
       "date": "2026-02-06",
       "close": 3939.0,
-      "ema50": 3893.04
+      "ema50": 3893.05
     },
     {
       "date": "2026-02-09",
@@ -100,12 +95,12 @@
     {
       "date": "2026-02-10",
       "close": 4079.6,
-      "ema50": 3904.28
+      "ema50": 3904.29
     },
     {
       "date": "2026-02-11",
       "close": 4056.7,
-      "ema50": 3910.26
+      "ema50": 3910.27
     },
     {
       "date": "2026-02-12",
@@ -130,7 +125,7 @@
     {
       "date": "2026-02-18",
       "close": 4210.8,
-      "ema50": 3959.29
+      "ema50": 3959.3
     },
     {
       "date": "2026-02-19",
@@ -180,7 +175,7 @@
     {
       "date": "2026-03-05",
       "close": 4353.4,
-      "ema50": 4085.65
+      "ema50": 4085.66
     },
     {
       "date": "2026-03-06",
@@ -210,7 +205,7 @@
     {
       "date": "2026-03-13",
       "close": 4390.0,
-      "ema50": 4152.65
+      "ema50": 4152.66
     },
     {
       "date": "2026-03-16",
@@ -245,7 +240,7 @@
     {
       "date": "2026-03-24",
       "close": 4256.6,
-      "ema50": 4178.3
+      "ema50": 4178.31
     },
     {
       "date": "2026-03-25",
@@ -355,7 +350,7 @@
     {
       "date": "2026-04-29",
       "close": 4231.5,
-      "ema50": 4161.16
+      "ema50": 4161.17
     },
     {
       "date": "2026-04-30",
@@ -626,43 +621,50 @@
       "date": "2026-07-17",
       "close": 4763.0,
       "ema50": 4592.55
+    },
+    {
+      "date": "2026-07-20",
+      "close": 5005.4,
+      "ema50": 4608.74
     }
   ],
   "flags": {
     "flags": {
-      "price_above_ema20": false,
+      "price_above_ema20": true,
       "ema20_above_ema50": true,
       "ema50_above_ema200": true,
       "rsi_above_50": true,
       "macd_bullish": true,
       "adx_trending_up": true,
-      "price_above_vwap20": false,
+      "price_above_vwap20": true,
       "price_above_bb_mid": true
     },
     "flags_detail": {
-      "price_above_ema20": "Close 4,763.00 vs EMA20 4,775.33",
-      "ema20_above_ema50": "EMA20 4,775.33 vs EMA50 4,592.55",
-      "ema50_above_ema200": "EMA50 4,592.55 vs EMA200 4,167.95",
-      "rsi_above_50": "RSI(14) 53.08 vs 50",
-      "macd_bullish": "MACD 122.36 vs signal 118.65",
-      "adx_trending_up": "ADX(14) 35.55 vs 20, +DI 22.63 vs -DI 18.45",
-      "price_above_vwap20": "Close 4,763.00 vs 20d VWAP 4,805.43",
-      "price_above_bb_mid": "Close 4,763.00 vs BB mid 4,740.41"
+      "price_above_ema20": "Close 5,005.40 vs EMA20 4,797.24",
+      "ema20_above_ema50": "EMA20 4,797.24 vs EMA50 4,608.74",
+      "ema50_above_ema200": "EMA50 4,608.74 vs EMA200 4,176.79",
+      "rsi_above_50": "RSI(14) 65.32 vs 50",
+      "macd_bullish": "MACD 125.67 vs signal 120.06",
+      "adx_trending_up": "ADX(14) 34.51 vs 20, +DI 24.14 vs -DI 15.74",
+      "price_above_vwap20": "Close 5,005.40 vs 20d VWAP 4,826.50",
+      "price_above_bb_mid": "Close 5,005.40 vs BB mid 4,769.19"
     },
     "flags_on": [
+      "price_above_ema20",
       "ema20_above_ema50",
       "ema50_above_ema200",
       "rsi_above_50",
       "macd_bullish",
       "adx_trending_up",
+      "price_above_vwap20",
       "price_above_bb_mid"
     ],
-    "flag_count": 6,
+    "flag_count": 8,
     "flag_total": 8
   },
   "fundamentals": null,
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-07-17T16:03:26.692902+00:00"
+  "updated_at": "2026-07-20T17:12:41.822179+00:00"
 }

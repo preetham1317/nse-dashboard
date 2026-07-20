@@ -3,35 +3,30 @@
   "name": "Krishna Institute of Medical Sciences",
   "sector": "Healthcare",
   "indicators": {
-    "date": "2026-07-17",
-    "close": 805.0,
+    "date": "2026-07-20",
+    "close": 788.6,
     "prev_close": 802.95,
-    "change_pct": 0.25530854972289113,
-    "ema20": 805.1473797409216,
-    "ema50": 778.0823461748092,
-    "ema200": 717.243422720147,
-    "rsi14": 52.215701154266405,
-    "macd": 7.9299233152054285,
-    "macd_signal": 12.22233735621219,
-    "atr14": 22.747656239222803,
-    "adx14": 24.838560298056084,
-    "adx_pos": 19.725117496084806,
-    "adx_neg": 19.311554883898523,
-    "bb_high": 839.1856379907272,
-    "bb_low": 784.6093620092729,
-    "bb_mid": 811.8975,
-    "vwap20": 812.659885052564,
+    "change_pct": -1.7871598480602804,
+    "ema20": 803.3947948222853,
+    "ema50": 778.4175830394598,
+    "ema200": 718.1262673134231,
+    "rsi14": 45.88958532568493,
+    "macd": 5.631872353769722,
+    "macd_signal": 10.878079113266297,
+    "atr14": 22.262109365048087,
+    "adx14": 23.291251280996555,
+    "adx_pos": 18.71566487622222,
+    "adx_neg": 19.94357271242312,
+    "bb_high": 840.0790421920285,
+    "bb_low": 781.9459578079716,
+    "bb_mid": 811.0125,
+    "vwap20": 812.8058462750904,
     "high_52w": 858.0,
     "low_52w": 575.8,
-    "volume": 243386.0,
-    "avg_volume20": 553961.9
+    "volume": 354159.0,
+    "avg_volume20": 533611.85
   },
   "price_history": [
-    {
-      "date": "2026-01-21",
-      "close": 609.65,
-      "ema50": 649.61
-    },
     {
       "date": "2026-01-22",
       "close": 597.65,
@@ -55,7 +50,7 @@
     {
       "date": "2026-01-29",
       "close": 607.15,
-      "ema50": 641.1
+      "ema50": 641.11
     },
     {
       "date": "2026-01-30",
@@ -70,12 +65,12 @@
     {
       "date": "2026-02-02",
       "close": 593.0,
-      "ema50": 636.07
+      "ema50": 636.08
     },
     {
       "date": "2026-02-03",
       "close": 616.95,
-      "ema50": 635.32
+      "ema50": 635.33
     },
     {
       "date": "2026-02-04",
@@ -190,7 +185,7 @@
     {
       "date": "2026-03-09",
       "close": 693.05,
-      "ema50": 673.02
+      "ema50": 673.03
     },
     {
       "date": "2026-03-10",
@@ -205,7 +200,7 @@
     {
       "date": "2026-03-12",
       "close": 664.4,
-      "ema50": 673.35
+      "ema50": 673.36
     },
     {
       "date": "2026-03-13",
@@ -250,7 +245,7 @@
     {
       "date": "2026-03-25",
       "close": 649.4,
-      "ema50": 665.35
+      "ema50": 665.36
     },
     {
       "date": "2026-03-27",
@@ -624,8 +619,13 @@
     },
     {
       "date": "2026-07-17",
-      "close": 805.0,
-      "ema50": 778.08
+      "close": 802.95,
+      "ema50": 778.0
+    },
+    {
+      "date": "2026-07-20",
+      "close": 788.6,
+      "ema50": 778.42
     }
   ],
   "flags": {
@@ -633,34 +633,32 @@
       "price_above_ema20": false,
       "ema20_above_ema50": true,
       "ema50_above_ema200": true,
-      "rsi_above_50": true,
+      "rsi_above_50": false,
       "macd_bullish": false,
-      "adx_trending_up": true,
+      "adx_trending_up": false,
       "price_above_vwap20": false,
       "price_above_bb_mid": false
     },
     "flags_detail": {
-      "price_above_ema20": "Close 805.00 vs EMA20 805.15",
-      "ema20_above_ema50": "EMA20 805.15 vs EMA50 778.08",
-      "ema50_above_ema200": "EMA50 778.08 vs EMA200 717.24",
-      "rsi_above_50": "RSI(14) 52.22 vs 50",
-      "macd_bullish": "MACD 7.93 vs signal 12.22",
-      "adx_trending_up": "ADX(14) 24.84 vs 20, +DI 19.73 vs -DI 19.31",
-      "price_above_vwap20": "Close 805.00 vs 20d VWAP 812.66",
-      "price_above_bb_mid": "Close 805.00 vs BB mid 811.90"
+      "price_above_ema20": "Close 788.60 vs EMA20 803.39",
+      "ema20_above_ema50": "EMA20 803.39 vs EMA50 778.42",
+      "ema50_above_ema200": "EMA50 778.42 vs EMA200 718.13",
+      "rsi_above_50": "RSI(14) 45.89 vs 50",
+      "macd_bullish": "MACD 5.63 vs signal 10.88",
+      "adx_trending_up": "ADX(14) 23.29 vs 20, +DI 18.72 vs -DI 19.94",
+      "price_above_vwap20": "Close 788.60 vs 20d VWAP 812.81",
+      "price_above_bb_mid": "Close 788.60 vs BB mid 811.01"
     },
     "flags_on": [
       "ema20_above_ema50",
-      "ema50_above_ema200",
-      "rsi_above_50",
-      "adx_trending_up"
+      "ema50_above_ema200"
     ],
-    "flag_count": 4,
+    "flag_count": 2,
     "flag_total": 8
   },
   "fundamentals": null,
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-07-17T15:36:15.190749+00:00"
+  "updated_at": "2026-07-20T16:45:34.032166+00:00"
 }

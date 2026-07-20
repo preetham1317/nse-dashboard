@@ -3,35 +3,30 @@
   "name": "Jindal Steel & Power",
   "sector": "Metals",
   "indicators": {
-    "date": "2026-07-17",
-    "close": 1025.0,
-    "prev_close": 1028.0,
-    "change_pct": -0.2918287937743191,
-    "ema20": 1060.732446369094,
-    "ema50": 1112.6615035151976,
-    "ema200": 1109.7699195536038,
-    "rsi14": 34.95141070325752,
-    "macd": -31.481385858329077,
-    "macd_signal": -34.361567181332155,
-    "atr14": 26.84957031273376,
-    "adx14": 38.84629514493175,
-    "adx_pos": 13.283728994456053,
-    "adx_neg": 31.84435705306956,
-    "bb_high": 1120.122018457969,
-    "bb_low": 991.6679815420309,
-    "bb_mid": 1055.895,
-    "vwap20": 1062.1766187799515,
+    "date": "2026-07-20",
+    "close": 1033.3,
+    "prev_close": 1025.0,
+    "change_pct": 0.8097560975609711,
+    "ema20": 1058.1198324291804,
+    "ema50": 1109.5492883705572,
+    "ema200": 1108.992979753176,
+    "rsi14": 37.96369035907042,
+    "macd": -29.908912736806315,
+    "macd_signal": -33.47103629248373,
+    "atr14": 26.646029576115605,
+    "adx14": 38.51052042137362,
+    "adx_pos": 14.627243294773217,
+    "adx_neg": 29.7956343250113,
+    "bb_high": 1103.3989177224182,
+    "bb_low": 997.9510822775818,
+    "bb_mid": 1050.675,
+    "vwap20": 1057.8688251949409,
     "high_52w": 1306.2,
     "low_52w": 927.2,
-    "volume": 628804.0,
-    "avg_volume20": 1551310.55
+    "volume": 1212343.0,
+    "avg_volume20": 1544636.55
   },
   "price_history": [
-    {
-      "date": "2026-01-21",
-      "close": 1041.4,
-      "ema50": 1032.95
-    },
     {
       "date": "2026-01-22",
       "close": 1076.0,
@@ -626,6 +621,11 @@
       "date": "2026-07-17",
       "close": 1025.0,
       "ema50": 1112.66
+    },
+    {
+      "date": "2026-07-20",
+      "close": 1033.3,
+      "ema50": 1109.55
     }
   ],
   "flags": {
@@ -640,14 +640,14 @@
       "price_above_bb_mid": false
     },
     "flags_detail": {
-      "price_above_ema20": "Close 1,025.00 vs EMA20 1,060.73",
-      "ema20_above_ema50": "EMA20 1,060.73 vs EMA50 1,112.66",
-      "ema50_above_ema200": "EMA50 1,112.66 vs EMA200 1,109.77",
-      "rsi_above_50": "RSI(14) 34.95 vs 50",
-      "macd_bullish": "MACD -31.48 vs signal -34.36",
-      "adx_trending_up": "ADX(14) 38.85 vs 20, +DI 13.28 vs -DI 31.84",
-      "price_above_vwap20": "Close 1,025.00 vs 20d VWAP 1,062.18",
-      "price_above_bb_mid": "Close 1,025.00 vs BB mid 1,055.89"
+      "price_above_ema20": "Close 1,033.30 vs EMA20 1,058.12",
+      "ema20_above_ema50": "EMA20 1,058.12 vs EMA50 1,109.55",
+      "ema50_above_ema200": "EMA50 1,109.55 vs EMA200 1,108.99",
+      "rsi_above_50": "RSI(14) 37.96 vs 50",
+      "macd_bullish": "MACD -29.91 vs signal -33.47",
+      "adx_trending_up": "ADX(14) 38.51 vs 20, +DI 14.63 vs -DI 29.80",
+      "price_above_vwap20": "Close 1,033.30 vs 20d VWAP 1,057.87",
+      "price_above_bb_mid": "Close 1,033.30 vs BB mid 1,050.67"
     },
     "flags_on": [
       "ema50_above_ema200",
@@ -660,5 +660,5 @@
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-07-17T15:32:30.254990+00:00"
+  "updated_at": "2026-07-20T16:41:50.112711+00:00"
 }

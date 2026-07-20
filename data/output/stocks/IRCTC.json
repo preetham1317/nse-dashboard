@@ -3,39 +3,34 @@
   "name": "Indian Railway Catering and Tourism Corporation",
   "sector": "Railways",
   "indicators": {
-    "date": "2026-07-17",
-    "close": 507.0,
-    "prev_close": 499.9,
-    "change_pct": 1.4202840568113668,
-    "ema20": 506.683270926803,
-    "ema50": 519.1045548183239,
-    "ema200": 592.379772604409,
-    "rsi14": 47.84366827550667,
-    "macd": -5.342906347381984,
-    "macd_signal": -6.134981949843483,
-    "atr14": 8.89859230856835,
-    "adx14": 13.789879540115189,
-    "adx_pos": 19.07433425402947,
-    "adx_neg": 19.927639640962777,
-    "bb_high": 521.4916758750707,
-    "bb_low": 491.7033241249294,
-    "bb_mid": 506.5975,
-    "vwap20": 506.66845539588076,
-    "high_52w": 790.8,
+    "date": "2026-07-20",
+    "close": 504.75,
+    "prev_close": 507.0,
+    "change_pct": -0.4437869822485207,
+    "ema20": 506.49914988615444,
+    "ema50": 518.5415707735435,
+    "ema200": 590.9040589714264,
+    "rsi14": 46.04999342768542,
+    "macd": -4.866974996142403,
+    "macd_signal": -5.881380558198924,
+    "atr14": 8.78440714358071,
+    "adx14": 12.961163132663822,
+    "adx_pos": 17.94211182283119,
+    "adx_neg": 18.74476633586311,
+    "bb_high": 519.5115332351054,
+    "bb_low": 492.1984667648944,
+    "bb_mid": 505.8549999999999,
+    "vwap20": 505.96375924842886,
+    "high_52w": 783.7,
     "low_52w": 492.65,
-    "volume": 1670497.0,
-    "avg_volume20": 868999.15
+    "volume": 519486.0,
+    "avg_volume20": 857159.1
   },
   "price_history": [
     {
-      "date": "2026-01-21",
-      "close": 613.7,
-      "ema50": 671.1
-    },
-    {
       "date": "2026-01-22",
       "close": 628.85,
-      "ema50": 669.45
+      "ema50": 669.44
     },
     {
       "date": "2026-01-23",
@@ -55,7 +50,7 @@
     {
       "date": "2026-01-29",
       "close": 615.35,
-      "ema50": 661.62
+      "ema50": 661.61
     },
     {
       "date": "2026-01-30",
@@ -65,22 +60,22 @@
     {
       "date": "2026-02-01",
       "close": 606.35,
-      "ema50": 658.0
+      "ema50": 657.99
     },
     {
       "date": "2026-02-02",
       "close": 610.3,
-      "ema50": 656.13
+      "ema50": 656.12
     },
     {
       "date": "2026-02-03",
       "close": 614.1,
-      "ema50": 654.48
+      "ema50": 654.47
     },
     {
       "date": "2026-02-04",
       "close": 622.35,
-      "ema50": 653.22
+      "ema50": 653.21
     },
     {
       "date": "2026-02-05",
@@ -90,7 +85,7 @@
     {
       "date": "2026-02-06",
       "close": 620.0,
-      "ema50": 650.73
+      "ema50": 650.72
     },
     {
       "date": "2026-02-09",
@@ -135,12 +130,12 @@
     {
       "date": "2026-02-19",
       "close": 629.1,
-      "ema50": 642.47
+      "ema50": 642.46
     },
     {
       "date": "2026-02-20",
       "close": 645.3,
-      "ema50": 642.58
+      "ema50": 642.57
     },
     {
       "date": "2026-02-23",
@@ -150,12 +145,12 @@
     {
       "date": "2026-02-24",
       "close": 614.45,
-      "ema50": 641.36
+      "ema50": 641.35
     },
     {
       "date": "2026-02-25",
       "close": 605.9,
-      "ema50": 639.97
+      "ema50": 639.96
     },
     {
       "date": "2026-02-26",
@@ -195,7 +190,7 @@
     {
       "date": "2026-03-10",
       "close": 547.95,
-      "ema50": 618.04
+      "ema50": 618.03
     },
     {
       "date": "2026-03-11",
@@ -205,7 +200,7 @@
     {
       "date": "2026-03-12",
       "close": 536.7,
-      "ema50": 611.69
+      "ema50": 611.68
     },
     {
       "date": "2026-03-13",
@@ -215,7 +210,7 @@
     {
       "date": "2026-03-16",
       "close": 526.45,
-      "ema50": 605.18
+      "ema50": 605.17
     },
     {
       "date": "2026-03-17",
@@ -300,7 +295,7 @@
     {
       "date": "2026-04-13",
       "close": 537.9,
-      "ema50": 564.41
+      "ema50": 564.4
     },
     {
       "date": "2026-04-15",
@@ -325,7 +320,7 @@
     {
       "date": "2026-04-21",
       "close": 561.2,
-      "ema50": 563.6
+      "ema50": 563.59
     },
     {
       "date": "2026-04-22",
@@ -335,7 +330,7 @@
     {
       "date": "2026-04-23",
       "close": 551.35,
-      "ema50": 562.93
+      "ema50": 562.92
     },
     {
       "date": "2026-04-24",
@@ -626,41 +621,43 @@
       "date": "2026-07-17",
       "close": 507.0,
       "ema50": 519.1
+    },
+    {
+      "date": "2026-07-20",
+      "close": 504.75,
+      "ema50": 518.54
     }
   ],
   "flags": {
     "flags": {
-      "price_above_ema20": true,
+      "price_above_ema20": false,
       "ema20_above_ema50": false,
       "ema50_above_ema200": false,
       "rsi_above_50": false,
       "macd_bullish": true,
       "adx_trending_up": false,
-      "price_above_vwap20": true,
-      "price_above_bb_mid": true
+      "price_above_vwap20": false,
+      "price_above_bb_mid": false
     },
     "flags_detail": {
-      "price_above_ema20": "Close 507.00 vs EMA20 506.68",
-      "ema20_above_ema50": "EMA20 506.68 vs EMA50 519.10",
-      "ema50_above_ema200": "EMA50 519.10 vs EMA200 592.38",
-      "rsi_above_50": "RSI(14) 47.84 vs 50",
-      "macd_bullish": "MACD -5.34 vs signal -6.13",
-      "adx_trending_up": "ADX(14) 13.79 vs 20, +DI 19.07 vs -DI 19.93",
-      "price_above_vwap20": "Close 507.00 vs 20d VWAP 506.67",
-      "price_above_bb_mid": "Close 507.00 vs BB mid 506.60"
+      "price_above_ema20": "Close 504.75 vs EMA20 506.50",
+      "ema20_above_ema50": "EMA20 506.50 vs EMA50 518.54",
+      "ema50_above_ema200": "EMA50 518.54 vs EMA200 590.90",
+      "rsi_above_50": "RSI(14) 46.05 vs 50",
+      "macd_bullish": "MACD -4.87 vs signal -5.88",
+      "adx_trending_up": "ADX(14) 12.96 vs 20, +DI 17.94 vs -DI 18.74",
+      "price_above_vwap20": "Close 504.75 vs 20d VWAP 505.96",
+      "price_above_bb_mid": "Close 504.75 vs BB mid 505.85"
     },
     "flags_on": [
-      "price_above_ema20",
-      "macd_bullish",
-      "price_above_vwap20",
-      "price_above_bb_mid"
+      "macd_bullish"
     ],
-    "flag_count": 4,
+    "flag_count": 1,
     "flag_total": 8
   },
   "fundamentals": null,
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-07-17T15:31:23.224398+00:00"
+  "updated_at": "2026-07-20T16:40:43.293466+00:00"
 }

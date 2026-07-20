@@ -3,35 +3,30 @@
   "name": "Federal Bank",
   "sector": "Banking",
   "indicators": {
-    "date": "2026-07-17",
-    "close": 349.0,
-    "prev_close": 326.6,
-    "change_pct": 6.858542559706055,
-    "ema20": 327.16956221505944,
-    "ema50": 314.2331510395821,
-    "ema200": 277.51571004991627,
-    "rsi14": 74.39186286771769,
-    "macd": 6.61857769135986,
-    "macd_signal": 6.699772729736658,
-    "atr14": 7.9941865979426305,
-    "adx14": 32.902502366192714,
-    "adx_pos": 30.924655367221316,
-    "adx_neg": 8.923404894865513,
-    "bb_high": 339.87857341437217,
-    "bb_low": 317.07642658562787,
-    "bb_mid": 328.4775,
-    "vwap20": 330.54967961311684,
-    "high_52w": 351.0,
+    "date": "2026-07-20",
+    "close": 350.75,
+    "prev_close": 349.0,
+    "change_pct": 0.501432664756447,
+    "ema20": 329.41531819457754,
+    "ema50": 315.6651750015439,
+    "ema200": 278.1489282767504,
+    "rsi14": 75.23102314357779,
+    "macd": 7.712166476706784,
+    "macd_signal": 6.902251479266233,
+    "atr14": 8.187458983769186,
+    "adx14": 34.58618865130778,
+    "adx_pos": 29.08478737331235,
+    "adx_neg": 8.09041985026291,
+    "bb_high": 344.5794536308681,
+    "bb_low": 315.0555463691319,
+    "bb_mid": 329.8175,
+    "vwap20": 331.9682045302633,
+    "high_52w": 352.2,
     "low_52w": 185.11,
-    "volume": 44155126.0,
-    "avg_volume20": 8533823.15
+    "volume": 10483345.0,
+    "avg_volume20": 8669825.05
   },
   "price_history": [
-    {
-      "date": "2026-01-21",
-      "close": 276.1,
-      "ema50": 254.86
-    },
     {
       "date": "2026-01-22",
       "close": 282.2,
@@ -40,7 +35,7 @@
     {
       "date": "2026-01-23",
       "close": 278.55,
-      "ema50": 256.82
+      "ema50": 256.81
     },
     {
       "date": "2026-01-27",
@@ -65,7 +60,7 @@
     {
       "date": "2026-02-01",
       "close": 285.1,
-      "ema50": 262.11
+      "ema50": 262.1
     },
     {
       "date": "2026-02-02",
@@ -90,7 +85,7 @@
     {
       "date": "2026-02-06",
       "close": 286.8,
-      "ema50": 266.41
+      "ema50": 266.4
     },
     {
       "date": "2026-02-09",
@@ -260,7 +255,7 @@
     {
       "date": "2026-03-30",
       "close": 259.4,
-      "ema50": 273.64
+      "ema50": 273.63
     },
     {
       "date": "2026-04-01",
@@ -626,6 +621,11 @@
       "date": "2026-07-17",
       "close": 349.0,
       "ema50": 314.23
+    },
+    {
+      "date": "2026-07-20",
+      "close": 350.75,
+      "ema50": 315.67
     }
   ],
   "flags": {
@@ -634,36 +634,37 @@
       "ema20_above_ema50": true,
       "ema50_above_ema200": true,
       "rsi_above_50": true,
-      "macd_bullish": false,
+      "macd_bullish": true,
       "adx_trending_up": true,
       "price_above_vwap20": true,
       "price_above_bb_mid": true
     },
     "flags_detail": {
-      "price_above_ema20": "Close 349.00 vs EMA20 327.17",
-      "ema20_above_ema50": "EMA20 327.17 vs EMA50 314.23",
-      "ema50_above_ema200": "EMA50 314.23 vs EMA200 277.52",
-      "rsi_above_50": "RSI(14) 74.39 vs 50",
-      "macd_bullish": "MACD 6.62 vs signal 6.70",
-      "adx_trending_up": "ADX(14) 32.90 vs 20, +DI 30.92 vs -DI 8.92",
-      "price_above_vwap20": "Close 349.00 vs 20d VWAP 330.55",
-      "price_above_bb_mid": "Close 349.00 vs BB mid 328.48"
+      "price_above_ema20": "Close 350.75 vs EMA20 329.42",
+      "ema20_above_ema50": "EMA20 329.42 vs EMA50 315.67",
+      "ema50_above_ema200": "EMA50 315.67 vs EMA200 278.15",
+      "rsi_above_50": "RSI(14) 75.23 vs 50",
+      "macd_bullish": "MACD 7.71 vs signal 6.90",
+      "adx_trending_up": "ADX(14) 34.59 vs 20, +DI 29.08 vs -DI 8.09",
+      "price_above_vwap20": "Close 350.75 vs 20d VWAP 331.97",
+      "price_above_bb_mid": "Close 350.75 vs BB mid 329.82"
     },
     "flags_on": [
       "price_above_ema20",
       "ema20_above_ema50",
       "ema50_above_ema200",
       "rsi_above_50",
+      "macd_bullish",
       "adx_trending_up",
       "price_above_vwap20",
       "price_above_bb_mid"
     ],
-    "flag_count": 7,
+    "flag_count": 8,
     "flag_total": 8
   },
   "fundamentals": null,
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-07-17T15:21:20.141445+00:00"
+  "updated_at": "2026-07-20T16:30:40.754191+00:00"
 }

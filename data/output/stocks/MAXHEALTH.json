@@ -3,35 +3,30 @@
   "name": "Max Healthcare Institute",
   "sector": "Healthcare",
   "indicators": {
-    "date": "2026-07-17",
-    "close": 1090.0,
-    "prev_close": 1098.2,
-    "change_pct": -0.7466763795301443,
-    "ema20": 1094.850772661374,
-    "ema50": 1065.4367118537123,
-    "ema200": 1064.9459328220094,
-    "rsi14": 50.91721131309449,
-    "macd": 13.623301027508433,
-    "macd_signal": 20.363143270470864,
-    "atr14": 29.609944087369374,
-    "adx14": 28.571669767878095,
-    "adx_pos": 18.177127188548926,
-    "adx_neg": 16.161009288649193,
-    "bb_high": 1154.4068871364784,
-    "bb_low": 1066.378112863522,
-    "bb_mid": 1110.3925000000002,
-    "vwap20": 1112.091117435724,
+    "date": "2026-07-20",
+    "close": 1104.7,
+    "prev_close": 1089.9,
+    "change_pct": 1.3579227452059779,
+    "ema20": 1095.7801775326259,
+    "ema50": 1066.9726457455888,
+    "ema200": 1064.9525542226572,
+    "rsi14": 54.59744146405466,
+    "macd": 12.865969553545938,
+    "macd_signal": 18.862432174261578,
+    "atr14": 28.816376651831366,
+    "adx14": 27.228174863576328,
+    "adx_pos": 18.756468261754833,
+    "adx_neg": 15.41991613383947,
+    "bb_high": 1154.4126590227386,
+    "bb_low": 1067.3573409772614,
+    "bb_mid": 1110.885,
+    "vwap20": 1112.7926537496905,
     "high_52w": 1301.7,
     "low_52w": 903.0,
-    "volume": 1617983.0,
-    "avg_volume20": 2121631.8
+    "volume": 991001.0,
+    "avg_volume20": 2068311.75
   },
   "price_history": [
-    {
-      "date": "2026-01-21",
-      "close": 1004.2,
-      "ema50": 1073.2
-    },
     {
       "date": "2026-01-22",
       "close": 998.8,
@@ -50,12 +45,12 @@
     {
       "date": "2026-01-28",
       "close": 958.6,
-      "ema50": 1059.48
+      "ema50": 1059.47
     },
     {
       "date": "2026-01-29",
       "close": 952.6,
-      "ema50": 1055.29
+      "ema50": 1055.28
     },
     {
       "date": "2026-01-30",
@@ -120,7 +115,7 @@
     {
       "date": "2026-02-16",
       "close": 1075.85,
-      "ema50": 1043.62
+      "ema50": 1043.61
     },
     {
       "date": "2026-02-17",
@@ -624,13 +619,18 @@
     },
     {
       "date": "2026-07-17",
-      "close": 1090.0,
-      "ema50": 1065.44
+      "close": 1089.9,
+      "ema50": 1065.43
+    },
+    {
+      "date": "2026-07-20",
+      "close": 1104.7,
+      "ema50": 1066.97
     }
   ],
   "flags": {
     "flags": {
-      "price_above_ema20": false,
+      "price_above_ema20": true,
       "ema20_above_ema50": true,
       "ema50_above_ema200": true,
       "rsi_above_50": true,
@@ -640,27 +640,28 @@
       "price_above_bb_mid": false
     },
     "flags_detail": {
-      "price_above_ema20": "Close 1,090.00 vs EMA20 1,094.85",
-      "ema20_above_ema50": "EMA20 1,094.85 vs EMA50 1,065.44",
-      "ema50_above_ema200": "EMA50 1,065.44 vs EMA200 1,064.95",
-      "rsi_above_50": "RSI(14) 50.92 vs 50",
-      "macd_bullish": "MACD 13.62 vs signal 20.36",
-      "adx_trending_up": "ADX(14) 28.57 vs 20, +DI 18.18 vs -DI 16.16",
-      "price_above_vwap20": "Close 1,090.00 vs 20d VWAP 1,112.09",
-      "price_above_bb_mid": "Close 1,090.00 vs BB mid 1,110.39"
+      "price_above_ema20": "Close 1,104.70 vs EMA20 1,095.78",
+      "ema20_above_ema50": "EMA20 1,095.78 vs EMA50 1,066.97",
+      "ema50_above_ema200": "EMA50 1,066.97 vs EMA200 1,064.95",
+      "rsi_above_50": "RSI(14) 54.60 vs 50",
+      "macd_bullish": "MACD 12.87 vs signal 18.86",
+      "adx_trending_up": "ADX(14) 27.23 vs 20, +DI 18.76 vs -DI 15.42",
+      "price_above_vwap20": "Close 1,104.70 vs 20d VWAP 1,112.79",
+      "price_above_bb_mid": "Close 1,104.70 vs BB mid 1,110.88"
     },
     "flags_on": [
+      "price_above_ema20",
       "ema20_above_ema50",
       "ema50_above_ema200",
       "rsi_above_50",
       "adx_trending_up"
     ],
-    "flag_count": 4,
+    "flag_count": 5,
     "flag_total": 8
   },
   "fundamentals": null,
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-07-17T15:41:05.877894+00:00"
+  "updated_at": "2026-07-20T16:50:23.923930+00:00"
 }
