@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-20T17:21:56.214504+00:00",
+  "updated_at": "2026-07-21T17:11:20.349546+00:00",
   "symbols_covered": [
     "BAJAJ-AUTO",
     "BAJAJHFL",
@@ -13,7 +13,7 @@
     "INDUSINDBK",
     "JIOFIN",
     "JSWINFRA",
-    "OFSS",
+    "MANKIND",
     "RCOM",
     "RTNPOWER",
     "SCTL",
@@ -25,30 +25,120 @@
   "source": "google_news_rss",
   "items": [
     {
+      "symbol": "BAJAJ-AUTO",
+      "title": "Bajaj Auto Q1 Profit Jumps 42 PC to Rs 2,983 Crore; Revenue Rises 37 PC",
+      "publisher": "HDFC Sky",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdDJGWFBPNHcwTVMwaWRoNnR4dE1DcXFjbTdkLVZaZFN6RXgyMlJuSU5ibTJOQ2ZmcEFfak8tRDg4cVZhZ0d2V2xVT1FhY19ocnpxYnFpZVVIUnFLZ0dZTmd0S3pITmlIRlk4OXY2MHpYVzNIcWxhZ0tfcWlOdTZxYnI5TQ?oc=5",
+      "published_at": "2026-07-21T08:55:25+00:00",
+      "sentiment": "positive",
+      "sentiment_source": "keyword"
+    },
+    {
+      "symbol": "BAJFINANCE",
+      "title": "Bajaj Finance Touches 8-Month High on Q1 Update",
+      "publisher": "Equitypandit",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZUVOMGRYMmpBU2RFcnRyaGFSeHItOXlNNjYzOWJ2ZDhxNUNPdGFmYklHQkVYbnVjbXlOa1lWdENXbTJqUE5ZelhjTVh6VHNFUFRwSEE5VXFxdGY0NlprTmR4TU0zazZiMUw5Wll0dXFNM3VCMW5DMjNxQkRndUt2OVpOTQ?oc=5",
+      "published_at": "2026-07-21T08:18:23+00:00",
+      "sentiment": "neutral",
+      "sentiment_source": "keyword"
+    },
+    {
+      "symbol": "DIVISLAB",
+      "title": "1500% Dividend Payout: This pharma stock turns ex-dividend this week; here's the last day to buy the stock",
+      "publisher": "Zee Business",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNTV9UZDJPYWNBNjFyWTFUQm9rUVU1YV9INDNMYnNOcTlzeTY2WnpSWnVxQW01SkV0XzY5N3Frd3VLa29ZT2pJN2pYd1ZlMGpSZ1FhZFRKOF9VdkV1aTMtQXNpeVpSNE5zRFF1d04wYWpVNTd0OVJUYlBQdjdEMnVmMmQ3UGkxeXVNcXk0bnZCZGNFN3lUcnJXY2NCSXVKMnNNZ2JaUlVRMFJ6Nk5lOE9xU1hyRTYxNjZhdnRWN0ZFdlpVbkxjSl9raEVETzJza1NxSDcySzliOV9GdThobnctUE92QQ?oc=5",
+      "published_at": "2026-07-21T08:13:16+00:00",
+      "sentiment": "neutral",
+      "sentiment_source": "keyword"
+    },
+    {
       "symbol": "SUZLON",
-      "title": "Suzlon Energy board to consider Q1FY27 results on July 28; shares down 10% in July",
-      "publisher": "livemint.com",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNQkh0cUx0ZEpNbDZuY3Z1Vkk2enhMaVZaSlVkc2psSFUzdlVaRFh3MHlSYWxSTUdPY1RlYzhyNVR0ZnpfMkxkbi1EMS1PS2plYjlnb1FnMUpKZkZXTVpsTDd5aGs5bkVqOGdjZW5JNnYyblNfYXlIejdJOVBfSXFBSzNkcEExQ3VvbjRMdlpYY3B1Nmtldk04TF9scU8wVkRaSGhaclhZcVZQd1VKTU00VS1SazUyV1BQdGw1VzFhNlNwS2pQei00VFhWU2tXeFBUcjJra3NDcDJYa3V0blpTWnY4MldIY3U5WFHSAeoBQVVfeXFMTUJIdHFMdGRKTWw2bmN2dVZJNnp4TGlWWkpVZHNqbEhVM3ZVWkRYdzB5UmFsUk1HT2NUZWM4cjVUdGZ6XzJMZG4tRDEtT0tqZWI5Z29RZzFKSmZGV01abEw3eWhrOW5FajhnY2VuSTZ2Mm5TX2F5SHo3STlQX0lxQUszZHBBMUN1b240THZaWGNwdTZrZXZNOExfbHFPMFZEWkhoWnJYWXFWUHdVSk1NNFUtUms1MldQUHRsNVcxYTZTcEtqUHotNFRYVlNrV3hQVHIya2tzQ3AyWGt1dG5aU1p2ODJXSGN1OVhR?oc=5",
-      "published_at": "2026-07-20T13:05:57+00:00",
+      "title": "Suzlon Energy, Bharat Forge, Paytm, City Union Bank, TechM: Expert shares targets, outlook; check key levels",
+      "publisher": "Business Today",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPdGZhWExsMXJzSFlRUDJGakNQZDE4dktubTBHX05rYS1ZUEZxbklpQUVFcTFpMldMcVlZYU5fbGFseWFseDB5aDg4N1pPMnljZlpxUldfZE1VS3V4MUFCcmJjWGc4TTVqNTdRNGszcDM5UEEzR1ZWUXpzeVI5bnItbTVYWVZ1NDBuN0NXZGZFV05VVVRvN1g0SDlxMGExX0dvUnFnVGhmZ1pocFprUUk1ZjA2MVI3SW92OWpoN2FKTWNVZFVnVWFxNVpwOEN1SVlwRzgyd3RDOFNTR2pTbEZIRDVlTHE5ejB4dEY4TWExZ2dTSVcyaDJnb2dMdER3Z9IBgwJBVV95cUxQYlZaNUFFQzQ5Vmx1MmZnXzNvdmlhQUFBbmxhbVhRYk5mVVM2NXdpeUlNLW1kQlhJUTVheTYzdzhZZlhVVVVLSmpjM0VYRXVYWmcwSURlNlBUT1pfQlNZOFJ6a3hvd2k4REk2bmVOcmlZaWNfY2Y4VktPTjM4TXVjQ3Z5RGhJSjJoUjU5bHhMQnM5c1c3bE9KZVozSFZxMXF1ZjFZSGg5aEtLT0Z1NExfM2x2bVNobEpFM3ZfejRZSmIwdlFXUnpOdUt4RVRFTTZnQWpEWUQ0TjJNZnBLbWJmTHlScjBCMU5UVjN3ejEwS2pnS0U4dU90UDJLOFRhekxqYy1r?oc=5",
+      "published_at": "2026-07-21T07:52:19+00:00",
       "sentiment": "neutral",
       "sentiment_source": "keyword"
     },
     {
       "symbol": "BAJFINANCE",
-      "title": "Stock of the day : Bajaj Finance Ltd by Target Rs. 1125 - Religare Broking Ltd",
-      "publisher": "Investment Guru India",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZGxuVXlqVnpvRGFZZHdObnVBbGV6ZFFENWtMcXoxZGNISWxqWFpYa2JCbGZCODh4SXh6SkloRWNuV1dRUHNDU1JGSjRtZkdnYXhWTTJ4Y3RBSjdLWU5LeFFXMWktTHFqcS1paFBUck1YNXVzZm9EMTdEdWxaenNOYzhqTVFYQUp3Ni1RQjFNX0ZoSjM0dFFZems5VjFPUGU0a2U2MWRHT0VZMGJsMnFIZ0MtaTZSSzY3NnFBVTFkZDJkZw?oc=5",
-      "published_at": "2026-07-20T12:04:08+00:00",
+      "title": "Bajaj Finance Ltd extends uptick",
+      "publisher": "Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaVdhbkdoM3h3eE0yTkZPY2ctLWY0QVNuNWVxMHdpc3NVT185dTVkaXMwbnJ0a3JHNHV5M3JFSnFaRG42Y3ZkampyNzRHUTdvY2xNR1ViWkFrWUR0VDdLeWJHaVhYZkh1UlZrTlVQdnFJeE5icHhZeEtaanZwMWViQlZmMkk4QTF3OGp5ZEdnMEd3a1FVdWJmVzZaaUdCbXhZX2ZOaURnTnBTbWFKejJjM0JDaXPSAboBQVVfeXFMUG1sZWhTM0twRnNseEhxTllxaXNDQUFxY3Y2MDFBOWpudWlMQlAybFRtREJMM1NNZTJvXzkzYmp6WVJmS1didGYwR2lQRnRTTVpwYXRwcFJMWXA5Mkt4b0lrZ2JFdjBrenNNc1lBS1RqVm45TkxHdlZKemd5b05saTJEekg1Q0JYNnc1Qml5YmRTYVppV0pJRXhRVnhRZkEycUdSbEtPLVZ6eXJwRWh1VkJJQmRtaWtRT3Vn?oc=5",
+      "published_at": "2026-07-21T07:46:51+00:00",
       "sentiment": "neutral",
       "sentiment_source": "keyword"
     },
     {
-      "symbol": "SUZLON",
-      "title": "Suzlon Energy to Consider Q1 Results",
-      "publisher": "Sahi",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPaEh4LTU4SjVIc2t3SXFxUTZTaE1KSkRtNkRLemlhZE5TTWZINDdGMi01N1ZrdzNVSXg3bHRQRDY0SEQzR2NEc1QtdFRVTXVhTGtTckhYUm5OTC04dEJqb0czQmdvanJZZzdBNGtQWW5NVjdHdWM5ZnptNjVOeU5KMw?oc=5",
-      "published_at": "2026-07-20T10:42:31+00:00",
+      "symbol": "INDUSINDBK",
+      "title": "IndusInd Bank Ltd extends winning spree",
+      "publisher": "Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZ2NQeFB1ano1cllHWms0LTBjeDZlaHBZZ1hIYl9mVDh2ZlVlN29YX3NnV0tLSzYzVlJjMmFiZ0RqMzhYRURHZmk2bFFWZldNckt0ZmlsekNreTF0cHk3YTVOdDVqZjB3ZGhudnc2cGhHb1VoX3lINjdaeUE4UlN0Q2dtVU5BOTRESkRtS0Ztd3M5dmZPYmlOZlNiUmFHeldoVVJqc2ZoZk1DWktUUVZLN2lPUDRQOHF6ZWZ2LURn0gHDAUFVX3lxTE9sbkk1Y2JLbGVYSXJrZVY2VU9nZlJnZHlCc2pUZlJUX2Q0ZjIzOWhqVlBEamhpRTBxSk5KWnNKYmFvOXlHOWtYbEwxVXk4ZGdLZXdtM3RwNDNnTkQyS2R0MVhTRVFJVHdwd3JRUFRVWlBmbGNJQXRNWUlLLUxFQUk2cHdEMGRvZnp0bXZZS3VBczl6bEl2SG0xV19Ia2FXazhnUF9tZ3JVRFVsbEItVmdXMEdoX093VUVIYUdQQUFHSnJxaw?oc=5",
+      "published_at": "2026-07-21T07:46:02+00:00",
       "sentiment": "neutral",
+      "sentiment_source": "keyword"
+    },
+    {
+      "symbol": "BAJAJ-AUTO",
+      "title": "Bajaj Auto Q1 results: Consolidated net profit jumps 46% on-year to Rs 3,226 crore; revenue rises 65%",
+      "publisher": "Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPSm5HYkNtV3VkczNKS1F0eURORThOZ0hCUU5PRWtLX0hud2tCamR1Mi15aW1ZWDNVTWRYN0tRN29RaV93LURPY2pOLVBINU43THBjUWp6WmtQMmJNQWZoOW9OdGdFekh3UEE2OUR5XzVKaTlxMUpIeVZyU1JZTl9FNXhXYmsxNURWRkVMOXBlcTdEZThCMXdkbFVtMGxGNWxaMHFJNHpmRnlMS0RaMXMteE40VGtIeWJpYnJvTFE2UFFqSE5BNDZoa05zdEZtQS1iUTRpVUFDRHhWQWRmel9pWS01NEtTalZTdDZv0gHwAUFVX3lxTE1JYmRxU012VmYtRWF4Q1RDOW94UnFhZUxfQjRMUHBfdW1WVnpWN0xtTWNpWHF2Nm9oU01lVi0xWnkzZnNaSTBmMTNxTVd3YndpbGJHSVhVQ3hjcUdtY3JmTE92cW9uOHRDMEI2VUI1XzNZdGdmaW1NcEVWeGF2aXRFNXdMbk5ZQU9ZS0kzckFkcV8xZDFldDlXY0VVX0NnT2F0amtfX1pQNDJ5ZFZUeVBWUVNLQWpkVFpNNmdqckUyMGtLTzRydGlEZ1lobjh4b3hINWhCcjhNN3g0QXhreGozNWJVMEVtSXMzeTVmeXMxRA?oc=5",
+      "published_at": "2026-07-21T07:20:26+00:00",
+      "sentiment": "positive",
+      "sentiment_source": "keyword"
+    },
+    {
+      "symbol": "BAJFINANCE",
+      "title": "Bajaj Finance shares jump to eight-month high, nearing recent peak; Here's the next big trigger",
+      "publisher": "CNBC TV18",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPel9Bci1qeUVGRWVWdWx1enYxVXUwT3pRcmYwVC1TYkZmTU5vOHRNYV8wRjJyVGNNRkJfVG9ENFVBQVBrd1ZVVm02THk5cXJjTkkwMmxMbEwwSEFtNXp1cXV1QUV2MVI3NkVfamJCZ3E2Sjh4TXJYa1p6VzhVQWo5VGxBeE0wZFpFX3piV2dvVXBnSGhTdjBxM1VVSE1WV0xLeVVhbEdRVmJSZEpvQ3J3YkRpamFUMGF5UmQtNXN3SVNvMGFyQ1JOYkRvQk84aDFjYUdSTU9WdWxOOHBL0gHiAUFVX3lxTE9NNDZOWmVNc3NMSTAyUWQ4a2xUUkVJb3E3U08xdnllS1pjSTBYSVFnemZfb0ROZ01TX24tZGFYSlJoV3FVZTFKUmllcnowUXJvelFaVHVjWWJBY3Y0UW1MR3hDaWhoeVhuU2t0aWYwNzNBa1FkMWZFMU5fMnhtOVFUZVRlaTdzLUhuNHRpeC1pVkNLUG5XbFk0cXdVY0YwaUVOdUlZQnJQZWdYdU9GTmh0NjZkV3JPNXpaTzdLSVkybXJvNGlOSHJKclRCZERuRFlybmZHZHBGNXdUazBaQWZmcXc?oc=5",
+      "published_at": "2026-07-21T06:09:24+00:00",
+      "sentiment": "positive",
+      "sentiment_source": "keyword"
+    },
+    {
+      "symbol": "ICICIBANK",
+      "title": "HDFC Bank vs ICICI Bank: From Interest income to asset quality, who fared better in Q1FY27?",
+      "publisher": "Upstox",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNVmU5MGlmX2FsaHhIYXIwZmJYclJnYTVRbnVDMWhUSHNhYWdZLTI3VHlkSlB5MlY1RFZsYVcxWWRLc1FhYVhnZFpCRnpJS3MxcG9nQVVyc2VueTBSMEFCVUJMNWVQc1pqc2NRVEUtOWVFWmVvZHJFRENEM2haaU1iOTdNRWFkVWRhTXpkMFdJc0JkWDBCLWVMS0NTLUp4RzVKX092a283R21tZVphM2Z3QjFNY0ZfMWVhUEJSQ0JCOWRoQllUMWNPRW14YWZEeUw5bFZLcXpsald1a0JwNUYycWhYNA?oc=5",
+      "published_at": "2026-07-21T04:30:48+00:00",
+      "sentiment": "neutral",
+      "sentiment_source": "keyword"
+    },
+    {
+      "symbol": "BAJAJ-AUTO",
+      "title": "Bajaj Auto Q1 Results Today: Time, Q1FY27 Expectations, Earnings Call Schedule, Key Things To Watch",
+      "publisher": "NDTV Profit",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPM05aUFVMdTg2VnVZS0Y2dHJTU2pBd2lKanVqTlNSdzN4SHZ3OFZicktvZUZzT1VSdUlYakUzQ1RrajE1Snh5bk96bG1ITDVETVExUTBmVUZBT3FybVp6cFp6c0czaV9HQ0RJeUtYT0libXBBTm5lRnZDamNRb3M0ZHJGd21XUTVybmhfSkwwcGFvMnZ3MWVSTHA3aHo0TGhBRmZ2bUtGODA5Tlo3ZXlybXNtYUxITlNjTnN0UThR0gHGAUFVX3lxTE55SFBnNWNZWVV4V3YySWU0MmNmZG4yajFuN2tpUXNfSkx2NDZiVmtpRlZWTktCQUhkYXRUZmJhbTFac19QeTU2RmpOVzJVdUFrbjQtTXgzQTFTQ1RoWEZ6eU1CRjg3ODM2ekpydnR6Mi1jQ3NvYUs5UmdiNkRBQldLeThzSHFzaDBseG93NTV0czN2VVN6bjM5OXVRS3dkZWIwUEZ0aWI2ZXhoaEJhQ1R2LWJIU1Awb0hmbFYwOWZjYmhyeWR5QQ?oc=5",
+      "published_at": "2026-07-21T03:10:19+00:00",
+      "sentiment": "neutral",
+      "sentiment_source": "keyword"
+    },
+    {
+      "symbol": "DIVISLAB",
+      "title": "Stock Radar: Divi\u2019s Laboratories stock hits fresh record high in July 2026; time to book profits or buy th",
+      "publisher": "The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQUm84ZDdtbHk0M3pncXA1cERuR2hEa2pvdWctUUZDY0pBUVNGMG5oR256Xy02aTF1M09xeFBFbkd2OU5oOUl6enh5TzJZR1VBUDZjbGRQb2tOSHdCVmRJZUQ4MDlVNlNGNTRMb1FDRWx2ZVFwaU5JNFZ3U2czX2VlaGYyMlhUUVNKSFdCZ3pHTkZtOXRrdGc3emdDZGxoTzFGOWotQjV1OVc1QWlLRG5VTGZyalBNeVJYNkJITmh0ZnRDQkVVcWxzREhyTmlaWUlHVGpiNXB3U0duUG5nVlhaTEh2UHg5bWtCaUJtMTJLdVhFRk5MZlZ4WHZycmZzQmRkVk5rSHV1RTJuYlNGbVRr0gGUAkFVX3lxTE10dEk1dlIyazdJUW5OVkR4dmthUklOaDhZZURNaWZrUElXX3BMZGJZNzFRQ1lralRmd3RpN0ptTDNzQ3BDLUd2RnV0SlBSZ29mQlplNHhzLUhubUVRMlUweDFpb3QyLVZvMEJDMFB3bUJNVDQ0ZFp3WjJ6aDJOdm5JYkVIRnlyQmhFMDhUM3UyYlZwMDNGbVV6VmF4S3kzU3FJZERUWTU5VjNkaTVHYURHVW5CRlhHT0ZkTXJabnlJOHQ5WTFVZEktVzBRdmxoY3VYbl9CWXZia2Nkd1RoblJPaTFodVhJaFd2d2hXcmtLTUdpaXJ3bEtnYm9LQVhQejkxZ0dMT0JPS25MeFNYaTVRbDBXcw?oc=5",
+      "published_at": "2026-07-20T23:30:00+00:00",
+      "sentiment": "positive",
+      "sentiment_source": "keyword"
+    },
+    {
+      "symbol": "INDUSINDBK",
+      "title": "IndusInd Bank stock holds firm as asset quality improves and profit grows double digits",
+      "publisher": "Ad-hoc-news.de",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOaUhDVjdYRHdUN0dvR1Z1RmY1WXhHT1VPZVpjMURDQlNoTUpBZnBHXzlDLVVLTmR5b09nSGpLNld3eWJzWXB2RldPbHpnU3d1UjJIY3VRN2Z4Z0pWU0RodVlRVUEzVjJSNjg3YXVRN1dBZjNGdHpHU2pCSTM5b1J6OG1fOElvOFhXM1Z3Y1pvc3lWamlyZktUcTZoN1dZblNXSW8ydjhBT3JDN20xWEZUN3dqTjZLZThHWHZncDJjMnNfMDVsUVhtNEhCRXk?oc=5",
+      "published_at": "2026-07-20T19:13:52+00:00",
+      "sentiment": "neutral",
+      "sentiment_source": "keyword"
+    },
+    {
+      "symbol": "ICICIBANK",
+      "title": "ICICI Bank Q1 Earnings: Profit Jumps, Shares Rise 1%",
+      "publisher": "Rediff MoneyWiz",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcU1MVGQwWU1QMEdvVDkwVmNRdGNlamt6QTdseEFTbXNwRXJHYmxvNllocE9VWnlzZWNtQzkza3VqNGhXTTFqQ3QtMFJmeEUwa1l5ZXB0cm13X3ZtTGRYWlhibTFBa3hZSlJBVkJoajlLRUNDd3JaeTVGa2VKMDZuWnk4SXNuWklLLXhWc2dQNjliTkZwWUJPMkN5WTd4MWVvdDdB0gGoAUFVX3lxTE8yWklFa0xEUjg5RWlVS292NDdYQTl0RDRmY3hBRTh6eHlXU1VxZ0R0bGtjQ0RXRHNuZ1JJYXpSd2lXTU0zZ3BnVk15dXR6aUx1UV9XOUNXamtfeWt1NC13bDVpWjBWVEVFeDNVTkRmQ2ZsU1hzT3hZN3o3cnRYdkVsM3U4TE5oRExYQTVJSjdkUUFSMjU3VjRhU01hTFU5UHppa1lpMXJ3RA?oc=5",
+      "published_at": "2026-07-20T11:36:01+00:00",
+      "sentiment": "positive",
       "sentiment_source": "keyword"
     },
     {
@@ -58,6 +148,24 @@
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQeHlhWEVuNF9RNzhOamoyTzJJNHJQa2RhQUpwaHZ3Q3ljUmJJR1NnREV2XzZ6NzVURUU4NjZjNzY0V3RmbmdrY1RqbEtkbXM0NHB5UjQ5ZTJpT0ZhTm52b2pOMjY1SUF3ZjdzRlcwNlVidTU1Q3Z4QWRBMzEwSHk4TUpHWmlUQWViSFAwNzJpTU90bGFoQ1FZVFhrOFhNcVZJYkhpRW5jSjNNbjMyM2hyVUFpNTVwOTRULVhuTDNlclhNcHpqTVVRd29pYllLanMtSElCUnluMUzSAd4BQVVfeXFMT3p1bGxjYmJCdGJEaEt4YVY3MGJNYk1YOGptRU5qLXRmeVFBbVg5bHhzVG1jT3p0ei11T05ETGM0Z2ptZkdhb1N2RDFjemRaNmY5aDBNMXVQamZ5YUJpb1lUZXQ2OEZZS19Vbjl3TlRUMElVNDNoNzZWNGpjdWFfUktOT3NkU29obEQ0SlJuZDY4N3puX3MxVmRWOS1scXJ4aEotSkgyTHpVRU5yNWxPU1pTWWEySDVsRzJaUi14R04yN2NqVU12WWI1NXR4VHBHSGRfaXdheXNQT0xDVXRR?oc=5",
       "published_at": "2026-07-20T09:37:08+00:00",
       "sentiment": "neutral",
+      "sentiment_source": "keyword"
+    },
+    {
+      "symbol": "MANKIND",
+      "title": "Pharma index surges 2%; Torrent, Mankind, Cipla, Aurobindo soar up to 5%",
+      "publisher": "Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVGMxRDJianhTaFdpbEtsS1ZXQzBMenB0UU1iRGZwRTlzM19YWUw2aDJRVnVTb3otWnA5X1p0bzFIb2JNSXFORGpaRjlFWGtWMjIzWHI2Y0JOZkdrWnZXVmZGcURRVmRsQ3VBM3h3eWlZcXAyUGhPdFFBNTBhZ05FejdOX2V3cXJDNmpXcDQ1cmtQcG5sUmV2ZkZfLTg5cnl5TUh0SFotMkZoRFFWRG9ndVBGU2FGVEM0Mi1LNndQLS1uRzJ6VmxiZ0lsdmt6UdIB0wFBVV95cUxPbEpWM0tVNXVuQndqV3BEdkoyczNvRl9ETTloUGx4VEthUjBNbUZ3bVk0Zk9xRFFsTDJOdzJfLU82VHM3WkdNMWF2OFRuVUtPYmhBLWwyZkxfRkZfd0FNSUtiZWlkdWtSd1hVZnhfMjlVT0RJcnI5bGx0d21XdkpxUmJJMlhWeHhIRUZoeEhSaGt0YXZLZGpIbWoyaFUtb3F5YXEzd2ZnZXVsaldHSnV1NHRtdHBibmVyMm5mQzVqRFZna2tkbmx6YlgzMUFZbjcyV2pJ?oc=5",
+      "published_at": "2026-07-20T09:13:15+00:00",
+      "sentiment": "positive",
+      "sentiment_source": "keyword"
+    },
+    {
+      "symbol": "MANKIND",
+      "title": "Torrent Pharma, Mankind, Cipla, others lift Nifty Pharma 1.8%; why are pharma stocks rising in weak market?",
+      "publisher": "Upstox",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNd202UkY1T0FtQXlfRkRWdGJiYUNYNEF5WXkwYzVGV3ZyN0E5YUhnVUQxaGFGMFRuRDhpblV4cDB6cjYxS2duaTRsamRsUFhtZXIwRjFKSGEyN2c0VU1WTkNVOE11V1o5N21SV1llNmdzMDN5LUlwYlBwRDFiRjFVZFdqSm5KUVdEekozbE9DcF9SdURMblBWdTNwWmt5cExwV2FseERyMy1xMy1UdlRIZFNTNXhuTm0yQWFBVVlQNnRWZjRXa3VoVFp6NGVnWjlobnlpSXhpcmk4WXZTdTdKYWdCOTBqQ2tWb1FmTzM0cnNSUQ?oc=5",
+      "published_at": "2026-07-20T08:50:12+00:00",
+      "sentiment": "negative",
       "sentiment_source": "keyword"
     },
     {
@@ -71,11 +179,11 @@
     },
     {
       "symbol": "ICICIBANK",
-      "title": "HDFC Bank vs ICICI Bank: From Interest income to asset quality, who fared better in Q1FY27?",
-      "publisher": "Upstox",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNVmU5MGlmX2FsaHhIYXIwZmJYclJnYTVRbnVDMWhUSHNhYWdZLTI3VHlkSlB5MlY1RFZsYVcxWWRLc1FhYVhnZFpCRnpJS3MxcG9nQVVyc2VueTBSMEFCVUJMNWVQc1pqc2NRVEUtOWVFWmVvZHJFRENEM2haaU1iOTdNRWFkVWRhTXpkMFdJc0JkWDBCLWVMS0NTLUp4RzVKX092a283R21tZVphM2Z3QjFNY0ZfMWVhUEJSQ0JCOWRoQllUMWNPRW14YWZEeUw5bFZLcXpsald1a0JwNUYycWhYNA?oc=5",
-      "published_at": "2026-07-20T07:52:14+00:00",
-      "sentiment": "neutral",
+      "title": "HSBC raises ICICI Bank stock price target on strong performance",
+      "publisher": "Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVUZaeUVXX2JncjFwUHREb0tYNFBCaEdfcTBuaGZ0QW81WUNZcWJmT2dfUEhxRWhBeUhoSW13OXFFWVZtT1l1RGtGaDZ2SllTeC1NR2NYMk82aDlEcEtfQ29OdnlFZDZCNXlra1NvTHJ0bmw4N2QwQU5tODM1MmtyNzBYeWo0Q1NJc29YczdQN2d6TUlFZF9kaWd6RFFwTUUwcGFVY09UTDRTT1ZYd1B1amZoaXR0VVVLNmNMYXNqdnI?oc=5",
+      "published_at": "2026-07-20T06:49:53+00:00",
+      "sentiment": "positive",
       "sentiment_source": "keyword"
     },
     {
@@ -97,38 +205,11 @@
       "sentiment_source": "keyword"
     },
     {
-      "symbol": "BAJAJ-AUTO",
-      "title": "Bajaj Auto Q1 preview: Volume growth to lift earnings; margins under watch",
-      "publisher": "Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNbzJ4VVF6c3FwVF9mdXdVSmc5WHd1ajdyWEZibThrNlBmd2gwbTRFWUFheGhLZjN1OC1UcnZiTWlPUmtFT050bThGSlppRmxQb3k3ZFB4S3c1cTFMTzI4OUFlbEFPTkt4Q01iTHU3VEtfU1pWY0tSNFZiZ2hrd0t1V1ZzLXM5YVVFRDh5QVc5b3d5NFF5ZmVuNkxxT3U0NEJsNGJwblozaWZ2X2Y0dmFHaFcwODM3dVgzWWhieTZ4SUgzUlEwb1ZLT0ZIS0ZpNVV0QldIdzliZ05mWURseGIyQ9IB5gFBVV95cUxOOUxVVDQ3ZDBaNHc4SHU5MkNGa1BVMVRQaHp4R1NWSkZoMEFVLW5YbHU2RWgxak1JTGo4SlZDWjI5RWRWZlkyNG1xb0M4LUJKc1dRS0VJT3JWY25wZ20xSXpSZmFLMG04WHduN2J5akZOOHJDU3VmMnhPVXVUVm03N3M2UUpadXJVVU9OZHRNYzFJek5IQVBPWGVBRGxYZ2IxNURlbXpiUmFQTDZFeWI5dWh3MTBpQVRwU0hiWW9WV3cxeU0xeVhPbDBZem40T3dORFB1LWozV3hMX0FqVVdxeTkybFdkQQ?oc=5",
-      "published_at": "2026-07-20T05:25:32+00:00",
-      "sentiment": "positive",
-      "sentiment_source": "keyword"
-    },
-    {
-      "symbol": "ICICIBANK",
-      "title": "Bank Stocks Underperform post Q1: ICICI Bank gains while HDFC Bank, Axis Bank, Kotak Mahindra, Yes Bank decline",
-      "publisher": "BusinessLine",
-      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQTGhGNFB1Sk5ZY2NiOHJjOVJWeFdBeV9zLWZmQ1BEdlpTS2FTNm51ODRQaEhHTXpkaFh6eGVjN1lpdExJb2g0eV9NREVJaHVkcHViSDR4SnM1RHVDZG8xT2g4SzRPbEs0QW02Rm1tWnhVcDN2a0k1MGxmVnl6LUZ0QnVUd2N3Vk1nVWN5bzBTclRDSXh3SUhLMHgxX1JqTE91SHRiTk43WUJjSFNDT1VYRndWYVN5RGxwNE1SNEowaHV2RjJ2RXl2ek9TRHZNblc3MXNGVEJLZ1h6MmlUTmhpRTdXUVIyNHZCV0I5WG0wR2ZuS01PWG51a25CdTdWMW42SjB1UGhyc2JzUdIBkAJBVV95cUxQWDV0OTFQOUc3aHF3aGxnOG5xUUhPdjlrZUpZXzB3eGg4dlVoRjQ5dl9lM1JZaDFhR09nQTNzemJLSFBzQUJHU2VYZmZiMUJwbVdhNDFKZmlqcGx0OTZuYW56cFpxSzFZTkNUNmliZUhOVV80YmVLMHR3Y09QTmVuNmFVMXZIeldwRTNvaXJRTE9ZdzVQck9tWUhOOXUxSWxJSmVaM2FfazhiaEZTOHI3Uy1lTEhyUFF6VVFzU0hKT0R6M0Rpa2VWTWEydmR2R2w4bXZwdFRuaklXaWNmbFd6bE13S0hQMDh6T1JFRHNmclE4UndPRnNaU1liZWh4Z1NnYW5FQ2pOVEdoZnJ0QUJadg?oc=5",
-      "published_at": "2026-07-20T04:50:51+00:00",
-      "sentiment": "neutral",
-      "sentiment_source": "keyword"
-    },
-    {
       "symbol": "BEL",
       "title": "HAL, BEL to Bharat Dynamics: Defence stocks dip after escalation in the US-Iran war",
       "publisher": "livemint.com",
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQS2JlYWNmcUc4eDlQX25YOHh1ZGtybTFPdHNHZVljSEYxV0JJUDdLTTZMMFdmQmgyazhISkVUSXFtQ1VKRVMwenhIanNyRDVUeTY3QnBneUUzb0hPYTY5VkZnV1lYdS1rYkVqUHljOVZFYS1qNEJ4Z2FsNnlOUTJQWFI0RWc1TTdjTGE1ZFJlS1BpQVdfNUVOYUZfd3NweWg5Wk5UeEhYUXVtQlFlVHlDaXRhUi1NYjNkbWtMSTdDTW5sRjJWQkhqa1RiXzhwZ24xYVIxVkJQMC1kMmxmNHROeUowdDRsQdIB6wFBVV95cUxPOXUybllxY3B0cTk4T3ljd1RXN0tpQUpPT2paeVYzaTlZTDBrRzRpN3hUb0FxLVMwWDZ2TFowZ2R0SEpxNEF2cHU4S2VWbmhMYTBQSlZVVlBWYy1MS3Z3QWtIcFZiNGo4ZVRtQmhSekVRSlA1WHg4dVBCSldPazdGYUV1aDRFV1NIajhvMHdtSFpLcUxlWUNyaFZPTUlNQmViMG5TNHJGOUFFNUxOWllRc000WG9oTFZSOGgwdVZpSFZybGUzd2dNVFVsVG1yLU8wMENOajRfalVLUnNENjNoU1pkSk1kZFpiSUJJ?oc=5",
       "published_at": "2026-07-20T04:49:37+00:00",
-      "sentiment": "neutral",
-      "sentiment_source": "keyword"
-    },
-    {
-      "symbol": "DIVISLAB",
-      "title": "Divis Labs Share Price Live Updates: Divis Labs reports a six-month beta of 0.7686",
-      "publisher": "The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQT3REU1pPNS1QaGI5Zi00a0JoNEtKbXdNdWJfY1hrb1psWG84ODRTZEh1Sjl1eTZBanRieDZCZDFNZWhPZVZGMjI4TmdHd0pxdDdKc2p0dEYzazVSRjc5ckQ5R2pRWlRjaW5oMEs0UXk4ampwZG9WbE11VVN2TUxpc2ZKTWR0djRMVndpelpfcTRubC1Yd243TjAtYnh6RXlHbm92bVBPVFhfNEJjdWZxVE0wYU1ZQktKc1VENV9PbUFmS1FpbHQtWk03cnNPUFHSAdQBQVVfeXFMTXpSYnlNVEFSS19QMi1HNm5BaVlwbTU0cFpqMjdJY3p2WkJKcTg2MHVFdzZTUDBuaHZmMlJJb09QS1FzX1RnMlNVSktFOGtlQnF6Z2FESUU2VUZNdGZIa2h4OGpoV1VsM3NOYlJnRGlpOHp0bHplQ2d1Wk1uenByNVYzM0Nuek0yeHpQQzlCMkhjS1dYTDRwNExXSkpEa3Y0X09NR1o4a3JpR3loWmVZVzZOMGFqZDg0ZTV5c2FlTTVOOHhYbEcyZG82Z0RId1duZ3NuMTA?oc=5",
-      "published_at": "2026-07-20T03:46:26+00:00",
       "sentiment": "neutral",
       "sentiment_source": "keyword"
     },
@@ -142,20 +223,11 @@
       "sentiment_source": "keyword"
     },
     {
-      "symbol": "ICICIBANK",
-      "title": "Stock Picks Today: HDFC Bank, Reliance Industries, ICICI Bank, JSW Steel, And More On Brokerages' Radar",
-      "publisher": "NDTV Profit",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQTi1QdzZ1WFQ5TTFyT3FWLWxqdmRSdGhiWWdwUnBUTld4dnNNQWJ1bnljS1hXYmtBWWQ4WVFyaXh4WF80RlZKcmt3cE1XRXA3bFpYUVRtOVQxcnZPckc3SzEyTXliZjA2anBLX3VsZjNtTDdIY05tX2VfNlM2UG4wdUVBaTVNSHNmd3llbmJPRVBXTW1HTWVUWGctWE9qN2VfYUU1SGpaUmt3ZWEzdnVXeUlSeHNjRENfX3d4c05GSTNHY1NPY29wQlM0anlLdWRTQVRfQm41NGp0NS1rTUHSAeYBQVVfeXFMTWZCWGlxbXV1YjhjV0l0TEpubkFfWTktOWFPakJUT0ktR01pQ1BOcngyV0xjeDBfQWFtOHJid2JycTBjTUhJU0tGMTRDSkFCdUlYcHNYVnhoZzAxYXZ0RUFFb1dyVkZlZF8wU3EwRFFzZFVsTHNlZTFtdE9Eem8wdHQwWkhsVWtJaDkzVXpTLWlWMkpESElKUlU4a012cXljSF9oZXlDZVQ1TUI4UVlkT05ZeW8wNzR1LWRiQW1KVmczQkVLY29tMU5WaDJqcnREa2g0dWl3dk9XZUZQVk5jODU2b3Vuc0E?oc=5",
-      "published_at": "2026-07-20T02:22:11+00:00",
-      "sentiment": "neutral",
-      "sentiment_source": "keyword"
-    },
-    {
-      "symbol": "DIVISLAB",
-      "title": "Three Days Left Until Divi's Laboratories Limited (NSE:DIVISLAB) Trades Ex-Dividend",
-      "publisher": "simplywall.st",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOTjFpU3FiaDJFcFNHSE9sNFdQNU90dHJhODd5UVZSeFN2YUpidjFKV09ENkJXZjRwbFVoWlBYVDJpOUE3b0pOX0hsTmdZSjAxYXVHZVgyVXFhUVF3dWdpeENHalIzZmJCWXFrWXpHdk1Md056dkFGMW1DU3JqRm1kbG9VQjg1dWdTTG9lTjR3NXl1blhidXVJMXRPandyLTdkbG5SWE5aZEZtalVnSVVsMDNZZ3NVLWZoNTZlQzNVVlY5bzJOZDhRVTdBTmh6a1pJMUF5UlNoM01wOUNtRFBRalQyTFBFRFcyOE5lOG9VYjAtZ9IB9wFBVV95cUxNSTY3eFdwbHZSZDk2cnd3X1M1bW45enF6QzJlWG1kc0t0eFJWNG1kOGF6QW91VVBpcE5SUWRoU0xRcjVybVZENUR5VlpncXN3TEYzMkJTZ1ZtWWV3ZzBJNkNVYUFSZG0yUGkwS0tCVXN1aEY4dk9rTHNjazVtbmFOYUVIOHB6Y2dCTWJ4ekNnaXpZM3dkRmVPdVgtWmc1azF3R2g4RXVUWUZEQlVXX0xncURmd0FPOUlpWi16NWxQOHQ4S3hXNjFhVmRCdEpIOXJIOHVOTDdTd052SUVqektwY3cxVzhVR2VoR2tfeXNsMVo4LWVWUTBZ?oc=5",
-      "published_at": "2026-07-20T00:44:30+00:00",
+      "symbol": "YESBANK",
+      "title": "HDFC Bank vs ICICI Bank vs Yes Bank: Which stock to buy after Q1 results 2026?",
+      "publisher": "livemint.com",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOOGhUT3RhQkdkaUtMeHVBdDlkWURfTkhQUzZKcjJjSnZtZVNjZklaaUlqdU9tU3lBem9lLUVfSUNPVzZrTGc5NVVld3ZMY2RSektBZ05zS1lOaEVqelkwUkoxTkNIR3RFTVJwbGJSNkpNdFFNTzdZelNWemhTcE8xRWxRazFNNXdFVVFicjZvOWZ1N2JPenpDdnlNbzhfMmVETHBNZ1Q5U1daZG9LalVPa21vNEtEOE9FVkp3SlhEa29rTzFlWS1RRU5OcVhtelBrZW9PT3pZQVRCanhpalNj0gHkAUFVX3lxTFA0U0lta1lMSTFQcnBEaG45dDBTLWdRNXM3bVgzbDd1aEhwaHZJcUFhdVlRcEk0c3MwR2V4YkFWTjRhenJMV2JUWkJXdG14R1RJOTlOOGtaQ0FKV1d4TTB6MzRjUzIyUXFoTVlOWUExMWhHNHNXWVVTenY0OWxEOVh3elZJRnV3QXcyZ0phZ1Y1WXFnVVpfWnBxTW5pLUNkS1FEWllCc3h0UDBsZEFWLVQ2OUd1VFZ0MmlUbzA5Unc3dGZoZm5ycHdTenZwMUl3S0dFVEFDWkN1Y1FrMjZlQVRiUzlESw?oc=5",
+      "published_at": "2026-07-20T02:00:46+00:00",
       "sentiment": "neutral",
       "sentiment_source": "keyword"
     },
@@ -178,15 +250,6 @@
       "sentiment_source": "keyword"
     },
     {
-      "symbol": "YESBANK",
-      "title": "Yes Bank Q1 profit rises 34% to Rs 1,071 crore; NII grows 17.5%, asset quality improves",
-      "publisher": "Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSHBHN3RiN3psTklVU2lOYmxVTEpXNGRhbVdrUnBnVGc5TzV0TVpUN3ZHVEVnMVhNTlB4bWFWNEcyaHhDbi1hLWlfMGtqVnNDQ3VqSEV4a3Z4Y2tDZUFUb0lTUmZESGpOaGtTT016RDhlQ25LeWFTSG9tYjNtTnJkbWVOM1N0Q1V5MDVkYV9ZMEM5VENYUDBCaGVLWHNFLUs4Vjh4d0NQOFhBZkFZb1kwMTJYRURqSEYwMXcwdGcxUGpfQzZ3dGFBY2V3VjhFaVZodGVYY0hHbTPSAd4BQVVfeXFMUFliUGVhTGdqNkxyS1NhaUFobkJpWklybkh3cURpc0lCeUR5LVRvaU92VGxTeTk3a0tQYTZ1djBuMDZTTW1zRHZweW5xcTduREhvSnRHM3B5Q3Q2bzlNZTJzQjROd2sxTV9hdnd1UUg1eS1YOE1yQ3ZQOXlfMjdUbUQtdXVsNzVWRXJhTC05S0syNkdITk1tRXZQbTlBM2hHYzZKTmRSQllIYUlKc0hhLVlJUjhCTWdPSFpxdDVIdDNFNHM5TklCSGQ1QVU0eldxRzdxTTIyQkNBUWd3RGlB?oc=5",
-      "published_at": "2026-07-18T08:21:19+00:00",
-      "sentiment": "positive",
-      "sentiment_source": "keyword"
-    },
-    {
       "symbol": "FEDERALBNK",
       "title": "Earnings call transcript: Federal Bank Q1 2026 profit jumps as shares rally 6.9%",
       "publisher": "Investing.com",
@@ -205,15 +268,6 @@
       "sentiment_source": "keyword"
     },
     {
-      "symbol": "BAJFINANCE",
-      "title": "Bajaj Finance Ltd rises for third consecutive session",
-      "publisher": "Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcHJCVHNuT0tfOE5Ta3JGcVBXSTBsaGdHdmpLaktQd0RNaXZreFhMdHkzNEFucENGblFZOHUtZ3lTbGNHeWJOOTJ4LU1CTWZ0aVFsVmN4MmFPNGdGNmJ3ZUFDb3ltYVo5WTJtR3VGVDdrMGdkNm8zd3ctVm0zSWF5WE9iWlQxWGFtdzYybGg2UVN2LUJaX2JGTklmOVROdFRUWHpvOWdLaGFUWXVnQUdLZXIxOTM2WThYNEMxOGFTRzZqZWpoTFN6SmdPT25xVVpO0gHWAUFVX3lxTFB0Z3NtUUpwUjAtWTJ0aUtwUlVXOFVOOUs0Z19XUW5rRXBqbVJwN0ZMMXNtUkllazc2YTVhZ3EyM1hKTUxSaFZoQXl2U0lRSjh5RFhMTjNNMnFCWkJEckZMX2RzcVdiMEo0TXdoUWhZMjhtWUtsQlhoTVlLLURVTXVveS1RNlY5VHA5dlZmaGx0X1k5YnBmRldEZ1hLb2M1dWp6SHJLX2VJSHdEUUxSUlB4MWkxMUVSMGVWbGZWdXVkTkxnUDVscGJSYUx6Mzk4cGJRUkdMM2c?oc=5",
-      "published_at": "2026-07-17T09:20:53+00:00",
-      "sentiment": "neutral",
-      "sentiment_source": "keyword"
-    },
-    {
       "symbol": "FEDERALBNK",
       "title": "Federal Bank Q1 results: Net profit jumps 37% to Rs 1,177 crore, shares rise 7%",
       "publisher": "Moneycontrol.com",
@@ -227,15 +281,6 @@
       "title": "EXIDEIND Outlook for the Week (July 20, 2026 \u2013 July 24, 2026)",
       "publisher": "Equitypandit",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4ySWRoQUJlSjk1MzQ5b1k3UUZ5YjVJbVpuZTZQV3hOZVVPemF0Q0lSRWhqUGJXUERsTnV1T0VFTENxd0hYZEIzaVhQZk1OSXdsRVh5ckNoQ1RTOWZrZDRQVlU5WG1CYWsxM3Br?oc=5",
-      "published_at": "2026-07-17T07:00:00+00:00",
-      "sentiment": "neutral",
-      "sentiment_source": "keyword"
-    },
-    {
-      "symbol": "UJJIVANSFB",
-      "title": "Ujjivan Small Finance Bank Ltd (UJJIVANSFB) Share Price",
-      "publisher": "Business Today",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcXlQR3BiMG8xSGIwajU5NEFfaXJBUjNYSDV3MjZDUGdGeWxRQ0NSQmo2dUN2SUdiOFJYY3dZTG5RN3pzd2xSZzlZQklzei1hRFZzMzFVQ3RMV3NPWWp2d0hKMnZOWDBfMC1wbEhaUzFlek9XV0xOUWxNSTZqbHBnazBSSDRaa0ZGdXlrX2JmVE1vUDQ0QjdhLXptTWk?oc=5",
       "published_at": "2026-07-17T07:00:00+00:00",
       "sentiment": "neutral",
       "sentiment_source": "keyword"
@@ -268,15 +313,6 @@
       "sentiment_source": "keyword"
     },
     {
-      "symbol": "BEL",
-      "title": "Zero-Debt Defence PSU Stock BEL Falls Despite Rs 1,081 Crore Orders Win; Buy-On-Dips For Rs 530 Target",
-      "publisher": "Goodreturns",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNa18yY2w3RlVPYWxwcDZxQmZMY2ZGTUtIdWdzMjlHR3BuWUFQTnFEcF9oZDRKd213MlBSamNIMXpSTUFCMVZibkh5YlVCWTlFUC1mLW9FWGtWdUVBak5GZFVMbTdfNVpSbUJfWnNfTWdpMVF1S3d1cGVleUxnWVo3VjVHV0ZGa29ZQ0NIR3NTeVVOajFXWUg1MHFHcm9EOXhrRkZFaFZMWVRhTnBfTHZnMjAzUVVUaVkzMl9rRkM0MDZsUnQxaDRpT3Z4RWcxQWdaYWhTODFlQ3dOQQ?oc=5",
-      "published_at": "2026-07-14T13:49:47+00:00",
-      "sentiment": "neutral",
-      "sentiment_source": "keyword"
-    },
-    {
       "symbol": "JSWINFRA",
       "title": "JSW Infra rallies 5%, nears record high; ICICI Direct sees more upside",
       "publisher": "Business Standard",
@@ -286,11 +322,11 @@
       "sentiment_source": "keyword"
     },
     {
-      "symbol": "INDUSINDBK",
-      "title": "Five Stocks To Buy: Biocon, IndusInd Bank, Angel One And More | July 6, 2026",
-      "publisher": "NDTV Profit",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNS0hIUENNN09TLXQtVS05b2t1VHBMLUNiX0pnR2NRRy0xTzBlYklzWk56VDBZaHFpdEJoUnh0ajFtNFA1Y0ZLN1B4UHkySGRXT3ZxdloxMmEwbG40SVIyQUR5MTM4OW02SGlxdWpSeVpzZ0psSVNkY0V0c1lGLWRsUl9MeE1XTXdPbjNVV0pQTllLdU01dmxwUF80V08xQWQ3UWNrajVXNnBvbVhSS0ZGTEdlaThSSWdSOUNXYXkwRGx1OVF5QU9NMXJERFhMQlXSAdcBQVVfeXFMTlBMLUJWSHJCX0FFY19NV3BZYzFpSFdSMGcxS2hUVmg3Sm93TE9MbDc4cmNUZURWY2xvSml3UDIyUjBIRlU4YWV5ZzVxaW9CQTNwUHlBc01pVkJSdG52MHpmbFlydW9GMElpc3Zvd0JYTTJ5dE8zdjBMU1dlZVRITzVFUmVscTgxeHpDZFNWVnJxcTRpeDJZZklFV2N4Y0gyWlF2UEtlMjIyeTdHTDluOGdZUDFYVmx1enlRUlg5dFVJMWV0OW9oNkxzang0WDJ0S2g0RzFraG8?oc=5",
-      "published_at": "2026-07-06T07:00:00+00:00",
+      "symbol": "MANKIND",
+      "title": "Analysts Are Updating Their Mankind Pharma Limited (NSE:MANKIND) Estimates After Its Yearly Results",
+      "publisher": "simplywall.st",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQZjNaWTFOM2JFeGNZYTBKa1RpNm8tN3dpWUE5Rlo3V0NISVMtbFA2YnNsZS04UWw5MEo1djNoYkdUZHNXdHhrazlyXzM1OUwtSmZQbTJNWEpKWUstSGdDT2FFRE0zVV8xYldiNkl1RzNlNE4xblNPSmR3QWlCNllVTjQxb2NuVUk1Mm5FY0lyUGJUWl9LRlRDZ1BzNnVYRVdYVmdibTFvNkxjak05X1I3NjF5OTJ1dWNwTk1rcFRvQVFqZDh0aHZBTlB3NlpxZUtLOHRGcGlQQllTS200NXBaNlZOSUVLR0pnUndBSFVB0gHzAUFVX3lxTFBKc1I4VjJmTmE1Y2tvaVQyaV9oOGRVSjFGZG5sVk9CUkNDaUt0aExVbTNXQWpkYjJ1RTZ1Z0R2bFdncFJoN1pzTi1maGtDREdOMGx6UzdMUUwzV0Z1TjI3MUNuUTNWbV8tbDBRX2dWU3d1N1FjemYtbVlGQWUtNW1fVnJxQWlQVmFNTmFndWVhR0NNUk1sQnROZ1FGd1ZmOXdkLTlOVjN4MmtZNTlieXNFbU9yN2ktUEY1S0NWXzZJWkNxNEJoOHMyNUJJNV9HUVZ3ZkQwOXctbm9STEJsbVlZYUJGdVhsWjFJbzVzSHFBaGpQQQ?oc=5",
+      "published_at": "2026-07-13T02:54:16+00:00",
       "sentiment": "neutral",
       "sentiment_source": "keyword"
     },
@@ -304,30 +340,12 @@
       "sentiment_source": "keyword"
     },
     {
-      "symbol": "BAJFINANCE",
-      "title": "Bajaj Finance 'bull' expects stock to benefit from this RBI move, projects 19% upside",
-      "publisher": "CNBC TV18",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRzNadjhlRlI1Ql9BTUhHM2g4NWRVWTgtNGp4dlJQU3FXY1NETUxSSnktZTJ4QnlvUURkLV9Ha0lRblVnMWwwOTQxSWxpTmo2NUVBbTdXTl9OeVZkSEtTTjBfMDNReVlIZEo1VXpmRGR2NmNMcHpLUkhIcWdScVp5ZV9QNFNWY3NiLUJaQUlWZUstR0xSTXBFRTdFTWVTSTZjem9neFM2VklGUnM3b3J0MGpJNDhwQ05FODZnVG9ITVo5QTBCNkkyOUFQcGpLOUxf0gHWAUFVX3lxTFBMS04tNFA4cVR1ZTNNbnlrSk1EV2Y1aS1iUDd4dU5ZcVR0UUUtZ01SUHVNZV9vV0R3c2FTOTRHdXY5VC1aTUs5U3VHVURtSHhwVml4X3l2Z2NYTExWS3FOZDl1RlhWOTFQMXQ0VUU0dlhkaVZIZlZOYkE4aTBlNnhqNUVDYzV5anhXeTF6TE1nZDNtT090VjY4RmRjVVpaOUs0ZThDRzFUYjhERzFWcHFUVFd4b2dMZHI2WVFEMUEtVFp3dWJnY0hHVm9USjRGZzhwRG43X0E?oc=5",
-      "published_at": "2026-07-03T07:00:00+00:00",
-      "sentiment": "neutral",
-      "sentiment_source": "keyword"
-    },
-    {
       "symbol": "UJJIVANSFB",
       "title": "Ujjivan SFB deposits rise 25%, loan book grows 29%; GNPA improves",
       "publisher": "CNBC TV18",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQa3dNRzJBRF9PWlZ2V3IwS1ZWWWs4ektfdi1lZWlBRHJqRUJHVzdEaHhyQjJYanZhdWYwZTlTRVBPR3BsY0JIeERCMkJEWjZVdjlaS1VqUGdUMWhmeUZ0T2pKU1VzdWEzSDF3b3RYbDh2V0V2MW5iNG9aUUtxUG1JZTNrbGx1aGlMVzhJNVRjTmFqcHlkc0JCcW0xdG5uMDd1WDk4Q3h0VHhVRjBtckZJcG0zQWhWREFnUWZQSlVSV1fSAcYBQVVfeXFMT1Z2SnB5UWJLbEJSdXdHcHBZQ3pfX3lwR24yS0FISk1EdEY2NWJpNkVzaGE3UjBvdVFncE5uRFE1Q0JGSXBKSDRIR2J5Z3g0ZjByek5IVlV4VWxvOWtWd09tQnJQVUgyTmlDZEV4Wm1oTDVPVlM4V0QzTHdERGNySEphVEFMMXdkcURQc0pWYjdweWhURGVuWWlyeGFReE9hVzJ5XzFROHdQV3NBZUFNdE9tbm1kX1oweWd2NURhaW95cWR4cndR?oc=5",
       "published_at": "2026-07-02T13:14:15+00:00",
       "sentiment": "neutral",
-      "sentiment_source": "keyword"
-    },
-    {
-      "symbol": "BAJAJ-AUTO",
-      "title": "Bajaj Auto Shares Decline Even as June Sales Rise 28%. What's Dragging the Stock?",
-      "publisher": "NDTV Profit",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRHQ3VWFhdzU2WTJrRG1VdDJ6VXpkNUhuVFlaVkl1RjEyc2t0Q1FEQlN0WlV6U2FpZnRmSG5HdDhvRXBwNkJRYldNT29Sd2l0LUpuNWpmaTFXbUM3UmtXTHd0bXZxQWo4QVBKRlpmR1JCNEZkNXBpNmhfWFR4VF85WnlncTBlZHRJellYbExIa2F1ZW1mRUk2MVdaUFVmWFZqVFlxYkVXaXF3aC1tRzlXaVNobkFDV2NqU2I3Rm5B0gHGAUFVX3lxTFBjMFNLNzJDbk0tSS1QSnpvb1VUVU54LTJyWVFHWlhQNzUzTjUwYmJmeUNNOWNwblpaY19RNU90RmZiUkhLVGJXYlRZR0ROMVM0MEp5ZG1QYVVjcHFtM2ZFMEJQRlRzWTUtX3pVYWZOT3ZyNTlJTXVrdnI4b1A5bEZ0UWZ5NnlxWG1acmdIUFdnOWFlTkVZdjdQaTloQ1I2ZnBNby1mUVBfcXNiYzg1WG16RGxMMFNxOFQwX1VrTWJmeXpHZHk5UQ?oc=5",
-      "published_at": "2026-07-02T07:00:00+00:00",
-      "sentiment": "negative",
       "sentiment_source": "keyword"
     },
     {
@@ -349,10 +367,10 @@
       "sentiment_source": "keyword"
     },
     {
-      "symbol": "BAJAJ-AUTO",
-      "title": "Bajaj Auto share buyback to open on July 1: Should you participate in the \u20b95,633 crore offer?",
-      "publisher": "livemint.com",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOSnBBWEJTcExsdDNvNzNNUkJKazEwNkpha005UjZ0VzJuc0poZVVMdW84cEN2ZzdhM3ZyRGctR1pYM3pSd3pLRmduYTB1N2lDNE1yT2JOY0dOdWtmUkpaTHRidXF6bmRGTU5BN19qZ3gzWUhrLVM5SElaRFhsSGpDNTh0VjAzRi01Ti1acGdwNERvdVl5WG91amY1UXg4TWdQWGo4bVh3c0EwLWxYaGFDTXIwOVE4dkI5b0JVUXBQMkFQTmVhOU1CMlVGYTZCSTBXVHBaYTZFSTNSZmRBUm13aFJnWUd0aGxuNUs5ZUlzZllFUdIB9wFBVV95cUxPR1NTOXhYZlR5d0NuOFhja1ljZk5lbS0yejVtc0pMUFNsbUY1ckVWNkdHQmx0cnRKR0xhLXJJWlRrMXFjZ3Y5UEhiSktIcjQ5NkVTVS1YT1JSZ1gzYjNUN2ltVG5IV1hmUU9zaEpQZ2hRekhNN0dRNExETldiWXRPOEVOLS1sQy1uY053NTNxVDB4RGFqRHlaTlM5M0ljTGhkdFozUGNURGt3MFhjN2lFSDRkOW1DX0VnYUxDaExwcm1CVmZvVzB3Z0NmaUxJeERNUkYzWUljenQyVm1JZmNiU1pzQ3hXaTcxdHZjandkN1oyLVRnQl84?oc=5",
+      "symbol": "SUZLON",
+      "title": "Suzlon's S175 (5.0 MW) marks a strong commercial debut with a 105 MW order from Sunsure Energy",
+      "publisher": "suzlon.com",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTDhWa3FKaWxvZ2FfSWJNREJ0LVpGWDRFVG1obHd3LU42b0wtZFpGTlQ2T0w2cmwzYkVGUmdzMmY5YWV0Y2FhTkluQy1QeUhkZG4zbm9adVZ1TjhOSFBxRTFKTVBHdDVqdmNMYVZxOHhnVkJqSTR4bklfZTU5Q0pGSHllckJQa3VNLU5GNFFCWmlkX05tY2YzTTVNc09MeWlpeXh3c2hqNV8yY1ZUZUZORmgxRDlrX3BRWU5nZjdOM2ZTbG5GRmNucURLQjBPdEI4VjJWeXFGcWtLZw?oc=5",
       "published_at": "2026-06-30T07:00:00+00:00",
       "sentiment": "positive",
       "sentiment_source": "keyword"
@@ -376,6 +394,24 @@
       "sentiment_source": "keyword"
     },
     {
+      "symbol": "UJJIVANSFB",
+      "title": "Ujjivan Small Finance Bank Ltd. Actuals & Estimates (NSE:UJJIVANSFB)",
+      "publisher": "TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQUl3NVVqaEx5UHJDWXpLN3h0c1dURW9pdlU0bDQwUjM0c3dwWjZyaXN3YTBObEFnNl9hMEVMOUZsNjRJVlRPS3YzTzRkSG9qM1p1YlB2VnhEbHBsQTJKdktnM1ROTUhwQzZTTXczdEdlVWdRc2NOd3I5czkwTzJFTDVQNzB4cHBMY1E?oc=5",
+      "published_at": "2026-06-25T14:18:01+00:00",
+      "sentiment": "neutral",
+      "sentiment_source": "keyword"
+    },
+    {
+      "symbol": "BEL",
+      "title": "RIL, BEL, Lenskart, Delhivery among Motilal Oswal's top monthly picks",
+      "publisher": "Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZVFXeUxiRjVPVEVpc3lLNVg2YlN2UzAyTUdPMUIwQnhfZWFsZGk3ci12czZBRjY5cnJyY3plZXlnenlZY1NHMTdXU1ZfckFnR2I0OW9vZmJyVlZSWE5UejJQMHczWVR3UHJRalVvcnN4bkctZF9CdFd5RG1vbnE2ek9NQ2lPeHBlYTJRT055UXhZbEVfdG55VG5DNlI0dEFObzZod3ZObHJVNEN6OEZXVWlrckpodE5TbXdKd2pna0pOSXJpZVlmZWMzazJJSG56eUtSTXpR0gHbAUFVX3lxTFBSR3JWN0V4YzBKS001dlZBVFd0M0tEVENRWEwyT1JnR0phYmRZcUFRUWRiMnJWaFk0REduX1NuVXVXc0NvTmxxaE83RWRJUE0zUXVYMDZSSVppOGxvenhpREpldmcyRmxzUE9VZ3BkS2lUZzZnODVGQUN2ZmZTWFpCVkRLRHp5ME1xeVdmM2pfOGFZLVlSS1ZIUHgyUjZEUkRBc3F6dFpxa3FGb3J2eDFhSldOYWREcUZacHNjZ2dfU3BUQjNEREd5MnNvaTZpaFNzaVpVTHdqNFg0RQ?oc=5",
+      "published_at": "2026-06-24T07:00:00+00:00",
+      "sentiment": "neutral",
+      "sentiment_source": "keyword"
+    },
+    {
       "symbol": "JSWINFRA",
       "title": "JSW Infra share price jumps 4% as QIP kicks off; stock up 29% in three months",
       "publisher": "Business Today",
@@ -385,56 +421,20 @@
       "sentiment_source": "keyword"
     },
     {
-      "symbol": "GODREJPROP",
-      "title": "DLF, Godrej Properties, and other realty stocks jump up to 13% in 3 days. Is the rally sustainable?",
-      "publisher": "The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPejFMUmFCeTloMWlGRHhTODRfZGMzNFF1d25iVWNqVV93b2JQTjl2aTN6eFA1WFBBM2VsOVp1VGpzYWdXaXhLMTdEaGM1ZUtQZE9fOVNaazJrMkJXMlRSUzBuR19UQldUWVkzcjB4bXNGYkJwSG12Z01QNmlQTXNUa1ZydW9Rck0xbGdJXzBSaHVhbGdMQVZLcFkxdl82d3cxXzMxQl9JNGY0eVhzMUF0RmUzeEROM3M4blE1QndZS3hJbk1ldUhPV3lSajhHbV9YUFRaYlp6aUR6Tkhrb0E4eGJiSHpwTXZHTVl6TUg2TC1MUkszcWFZ0gH8AUFVX3lxTE9IMk5wSGpHWnJ1TlRoalcwT1JvWDBDelhWNGNMYXFwNXFRQzNuTVB1R3V3V2VSeUZudFdobXhhUHlDZ1YwZmM0ajlzOGJBV2lKek5ReGt3eGl3WndXR0ZfdEVTNVhQTVBQMUttTzdTRzBMT0V5a3BabmlwYUhQSHBUbHJqejRiNmhpaDdKVWtyZW9HNnoxMnlEZW5xZ1pOd0g4R1VxRVdOcWF3MGRxbzNyV0VBSEduVV93Z2stSUZES3ZDUnh4aElYMjJWOWNVVE56WXYwTHlsaXQtTGNNTC1XQmFuOXdjUUhXOUloNDB5VTdLbDZzN1A1dXJwVA?oc=5",
-      "published_at": "2026-06-16T07:00:00+00:00",
-      "sentiment": "positive",
-      "sentiment_source": "keyword"
-    },
-    {
-      "symbol": "OFSS",
-      "title": "Oracle Financial Services shares fall 2% as post-US parent's Q4 results",
-      "publisher": "Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWkZzcEVxNDlUbTJmVTFwWnZFSGxPYWZWOV9FazNHRVB4elN1RUN0SlRuZnRxSmthOFU0V1IwUXBKTmYwZ0Q1a1FSNzd3R2lZeVhyUTVpVFJ2MTBMX0RWSlNmRnhIcG1kaDNxNF9tVVpPamdLaWFMdWNBRUVpbHhORVVmbDNQMXpMNWI1cmFJM3paeVIydlN0Z01sOXV3R3NhY0pVZUJsSnkxNjI0V2dQVkdxaFZ5TjlIdWNaTXJNLXZQUVlJRHR5SXR0c3UtdTk30gHWAUFVX3lxTE1GNUVObU10QWhmckd3UHVwQVRJNjNXRlNnalV4Nms0bEpqRWNPMVBKZlRaR0hUdm9hSjNrcEgxbkQ0Z1NSLTJrREtSLUp4UzFZWUNGSjA2bjQ0VDc4blNPS18zSzl4STk4bXdiMGFnNVF3c0NTZVZmenQtbHlFa2ExVGNxSGdqUnY4Z0k3bmNOQjdkdEtpWW1pbVBfVEx4amhWbnA0Ymx4cFU3S0VVcVpfRElwZVJpZDRyN2lnSlNnWFpWalR1ejNVVmhERG1uUWc2OERQc3c?oc=5",
-      "published_at": "2026-06-11T07:00:00+00:00",
-      "sentiment": "negative",
-      "sentiment_source": "keyword"
-    },
-    {
-      "symbol": "INDUSINDBK",
-      "title": "IndusInd Bank Ltd. Stock 12\u2011Month Price Target Cut to INR 883, Implies 5% Downside",
-      "publisher": "TradingView",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZ01vLVY3cFFQSHl0eVgwWXNVYWR6YmRjWUZYTkRvREt5Z3ZHb1NfRl9Gc0dIS29MWmNtNXBYcU8xT2swOE5CUUNnQklNRHhpTnBaZ1F6MkZOSjljb1QzSnhnT29aUWY4cTVibFQ4MUZQaXRFYVdfaVp5Z3I3d2JfMVl4bWxIdTdNSkpUR0NpZEd0dDJ0QlVSV3NsUE5DMGV6UDkyTFJlSm5yMVF6d2h2NGU3Q0gzemt3ZTVaSzBIQXhnRjVsbHRvNnFlY09UYnZCYWllNkpnZnU?oc=5",
-      "published_at": "2026-05-26T07:00:00+00:00",
-      "sentiment": "neutral",
-      "sentiment_source": "keyword"
-    },
-    {
-      "symbol": "OFSS",
-      "title": "OFSS jumps 6% to 15-month high, up 60% from March lows; buy, sell or hold?",
-      "publisher": "Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOaDJGYXhQYlgzWU5VejA4QUYxNjNFbjlGVWxtWUtJTlNYcnpzQnZIb09WTTlXRkZlRmphXzgtVUhVc0w2ZVFLc0Z0TkpiX2pLcVJUMkRlTXBWblJqSnZieWhrOHpUMXpYQkdfOTJ2eDJ5ckd1bVo4bkVkekh6S3ZBeG9hOTRBRW9JNTFmM1psWHM1TWZRaWQ5VnFfaTZueGQ2TTBRVlUzQzJhN21aUXM3TEIxR2tEM3BQVFlFNGFjb1ZiWHpmd0ItYzRMUlpnaEd0dk5VYzJ3V2p1b05ESndNbNIB5gFBVV95cUxPNjlDbUdCWm9DSkpJTkJKb2d2eUtCZmFoaXcwSXRPT3pBRF9ITjNLS1p6UkVDSHY2VDJUeXRGam9nenJwM001VjlSdkxVWVdpQ2JJaFF0SmN6NkktUWZPLW1rdXNTTDZuRHd6UExwYjQ2Tk96eS1CeEp2R0ZIMUJuN0VaNkE2SHNKTmc3eEVZa3RJT3V5b3RtaXZyMi1hRm9qb0VZYVMyMmNYM3N2Z05QSElBbUlMNjVfV1pYN3YzMzRTVS1WeHQxVjlJeXpOSXBCRzVFVUpOLU96ZWZGV3NWeVJWY3JCZw?oc=5",
-      "published_at": "2026-05-19T07:00:00+00:00",
-      "sentiment": "positive",
-      "sentiment_source": "keyword"
-    },
-    {
-      "symbol": "SCTL",
-      "title": "What we learnt from Scotland\u2019s 2026 elections",
-      "publisher": "Electoral Reform Society",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZHlIWlZnZUt2M2JSVmhkaWtmSE1raTgyU2JyQURCN1ZxN21WZ3JSOWQ4NkY3dDBQS25sbkNLZFJGdDZpWWlZcmtQcWtNb1RjRmVlMWt1Wi03VF83dWsxbzZVVGJjREFraDdTdDJfcUpRQXJtbkw5eGF6VXpZZENqVkNzRQ?oc=5",
-      "published_at": "2026-05-14T07:00:00+00:00",
-      "sentiment": "neutral",
-      "sentiment_source": "keyword"
-    },
-    {
       "symbol": "JSWINFRA",
       "title": "JSW Infrastructure Limited (NSE:JSWINFRA) Just Reported Full-Year Earnings: Have Analysts Changed Their Mind On The Stock?",
       "publisher": "simplywall.st",
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOT0dYZ3FnRUR1dUdsaWFTLUpGMzF4U0hKSXIxS3phWkRXN1pVLUxGVGRwYkV1QnpOd3F3TmxmSHYtRm9YWE1uS2pxYV9wOHo5OE1GWWZXNUJic1FaR3lfaHljY2NVamNzdnJ5eUhHWnZrSUd3X1NyUl9SS2lEVlFFS2ZId3MwdVJRaGN1cUZRQ0tXNjdSc0FtSlM2Wm9GamxRbXZuc2hoWmtUeTZZd3YtYzZFcXBNcW1sV1hoa1JyRTFrZWZWUWhYLUgxVmszbEs1WVBYS1ZxYTZnUkhDbFR3SVV4clF5QdIB6wFBVV95cUxQZUZRQVdXMzB5U2ZUQjhzQUl0R2VISTVQejFLdm5ldnJVUmpNc3VDSldGUWxoOGpUNEFwQTlpQTdKSkdOVk5lY0U4WHFaY2ZJTElyU1JuZkJYOVhQSmFwVF81MUVUcWVqQkNURXpCdmJvM0RTSTlYT09KRGQydmM3NWZRdnR3R05MZXlwVGNzSTM2LXdORDNYZmNTWFloeXFDNFUxczJOeWxDNnNoNlh0cjhNTTAxSFZRYjJubWZqUVZVSHR3bTN0Ql9fbjlKY0wyM2tpTzRqVnNYZE55dmJta0dJTVZhUVlGTTNn?oc=5",
       "published_at": "2026-05-12T07:00:00+00:00",
+      "sentiment": "neutral",
+      "sentiment_source": "keyword"
+    },
+    {
+      "symbol": "GODREJPROP",
+      "title": "Godrej Properties falls 5% despite strong Q4; brokerages see up to 15% gain",
+      "publisher": "Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPR1lBMkhUTmstRDdCQ2Z0aEF6TTFJSHhsd2tCRm1FZ05FNzRJV09KcnlwblJsbGNFUWw2bjNCOWpOOG4yUnNtNGdXUjVLc1RGUW9EcHM4MXdtNDA1Yy1fYkc3YTRzLV9KbVVRRGVNRkZRWmMtSWxJa053eUhRaElfQ1FJRGJBWVJrUTNLUk9CVEp0OV9PWWlIdTZLTFhMalRVa21fY2ktbUNzSEd6MnhnUVZyNUYwUmNCdmJZTmp3X2d6RHp0R3dKRzlPRk1JUFF5QUpvUjZR0gHbAUFVX3lxTE16YnowQmtsc05UOWo2WDhmb0RDNFlHOXk5aDRFZThoV1dxdnd6cHFBR2I5SWJfTlh4ekNRckJmT3lzUXRfVjcxckFzamphYzhwRW9TM0g3QllsTGZWRnctQm8wU0xQbUR6X1JvUGVtNFhMQ3RwbWZySERmVkRPNHJDeTFFWnRBSms0OExXYVNGeUhCN3ZaaURTTGliV0FwNnlrLWFpT29KT21HdlFlY2JTaVNlTVJqYWcyVDA0Vmp1T0Uxc2hYcnUtVk1zZGVnNkdPQVpaaVo4NEZzcw?oc=5",
+      "published_at": "2026-05-05T07:00:00+00:00",
       "sentiment": "neutral",
       "sentiment_source": "keyword"
     },
@@ -448,20 +448,29 @@
       "sentiment_source": "keyword"
     },
     {
-      "symbol": "OFSS",
-      "title": "Why It Might Not Make Sense To Buy Oracle Financial Services Software Limited (NSE:OFSS) For Its Upcoming Dividend",
-      "publisher": "simplywall.st",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPNkFMek1IVXdqdUNQdmc0ZFFFUjlxUnF1WllPQ180eXNjSHlfSnhSejhwaklabS1kUC1wRlBteENvLU9tcUtibWdtU2JodmdsYzBKT3Rfa2ZxWmdQekNlcjhOcU01U1BaeUhxNGs4N0FwRGE5VVJhZTZORDRtczhMa05OXzVGOGVzTG9VTFlmMUtMeGRCLTl1NlZjUDJHRDF0UzV4ZDN3QlBGbERtR0ZsTWxUQzgwUVc0eTU3c2V3Umc3RUZ1ZWZKUjFqSGp3S3ctWTU1Z0xERHlCUEVUM21vSkxvbkFIZzNHVlVPRGdWZmvSAfYBQVVfeXFMUFlHMHhjelBjRURqejlqUEZZQlRtRUNPQV94bHJWT0E5RnRqNDU1cFFwZlJVMk5IX1pyaTFCSHNPWVRiYkhCRVZ4UWNvYlRyOWN3MklwU3JxbS1fdU1fdVk5NlZUcUY5Sk5YQ1hzdEdJLXNwZXhIZGR3Y21NUENPVkxtcnZWQ0ctYkJzRFd5eEpBVkJqLWUxbEFFbEdWd01EMTFfUUhXQ0V1MkFjTEo5TUM5d3h5ZWJyWmItWFJEYjFCRXN6MEJfYlhReG1RR3g0MXRQOVdWOE95VndQMk1Gc1JKYVF1blJfVTJoRkFWVEVKTERmZ2F3?oc=5",
-      "published_at": "2026-05-03T07:00:00+00:00",
-      "sentiment": "neutral",
-      "sentiment_source": "keyword"
-    },
-    {
       "symbol": "RCOM",
       "title": "Penny stock under Re 1 Reliance Communications hits 5% upper circuit after this update",
       "publisher": "livemint.com",
       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPQmxSMTJCZk9IQzRKdC1SUFEzR0tUMGlJaXpFMngyaERBZmZEQ2hYcnQxZGVNX0lYWFpHY0Ffc2dkUXI4V1FjSzJJV1NLNndSYkhRX0hXWkg2VlVOUkhfSVVyOWZnR0FqeTZaeFNYYTJ6czdlYjhuV2hLamZFN2pSN2dNdGNuN3VzdFUyc2F2UDFfTGMyeVlzRXpudXdYMTd1Mm54T2dwdnlMSDVWQTZKYzA4U0VrTXh5SmVhZHpfUlRmZURUUEF5MnUwMjZPSG5feEpYaTVxczNWSzJaOFpZdzJvVEIxeTg4Yk1v0gHwAUFVX3lxTFBocjFoZHowMVlHOUVlS21wU3FXQ0RKb1hOQzE3czZTelI3NEtfNVVhbkdXVmhTWHlMYXlhaFp3ZTVxVmpxSGsxMEJxQnl3WWkyUnBFenFaS2wtUjhNMDZud0dLVWw2LUNsd3QzZTVSbkpGU2d0REZ5aklQeWZzRWJtOTlJYW5wNTFMWi1SR3hhd0dLcC1vZ2RVaDYxTlJZTXMweXBLRmZIeS1ZUWxrNUUzZTBzOGxYMEdEQ2c2NXZ6Z2VQeThlR19WLV83RzNWUjhBMS1MaC1fd3A0b2pFNFdRdEc3RzJaeGdRcGFwdmpFZg?oc=5",
       "published_at": "2026-04-07T07:00:00+00:00",
+      "sentiment": "neutral",
+      "sentiment_source": "keyword"
+    },
+    {
+      "symbol": "RCOM",
+      "title": "CBI files fresh case against Anil Ambani, RCom in \u20b93,750 cr LIC fraud case",
+      "publisher": "Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNSUg0Y3VmbE9YcXRpcXkwUnV5emQ3XzNMaUUyeXRNc25jS3dlREtoTklaTTBpcERlblRkel9ma2h2QW1KdnI3Nnh2czd0NHlkNXA5YVAxbGt6d0g4bG5Va2NScmU2SUxyQWhHUXRoVThnRER4dUtvQnF3LWVDdEZtdzhnZkpOektQZTRyY3JTWU9RWXV2LTByZ3dEVE9nc2pPeEtwMVdJYmE2MnRUakZwTUFFaTNnblhxUE1QdE9Cb1Z6U1A1dTJ6VkVxeE8ydXZ4RjladGNwQUk3SlXSAeABQVVfeXFMTWlUT29KdGpGNjVibEY1SldMdDltMnIyRFI1dWFhd2oyYkxaU3RLZjhmQ2pOQWh4Y0VORXVwOFhEOGJIVlZlWlBJbWxPWm1tdS1Pc00xVXNDT2VBbXdQSWlUSHpOYmF2Mk1hMUxQb1EzNzlnc2xGM0ZrWFNZUURiUmZ3aVFoamdnNHdxSURJclhud0hsZ1BqRUVfM0Jndm5UeVJmcEYxTjNISjJaU3RyMllqbTVJajg4QUd2cjFWTFdXc3BpRnJ6c3A2LVZ3ZDlMbmJzcEwwdzdrQkN6NVo5R2U?oc=5",
+      "published_at": "2026-04-01T07:00:00+00:00",
+      "sentiment": "negative",
+      "sentiment_source": "keyword"
+    },
+    {
+      "symbol": "SCTL",
+      "title": "Share your memories of Scotland v Denmark",
+      "publisher": "BBC",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE44YkljdFozU2pTUFEweFc2dzBsWlBIVTZ1QTRlM09qRlkwbU1FSUMxY25LY0xiV0dNS0FNYVZGSGlxLTh5Smx2UVJsYVAzVURBelhPeFVJZFVzNEtYRDlQcGtBV0liWVk?oc=5",
+      "published_at": "2026-03-27T07:00:00+00:00",
       "sentiment": "neutral",
       "sentiment_source": "keyword"
     },
@@ -511,12 +520,12 @@
       "sentiment_source": "keyword"
     },
     {
-      "symbol": "RCOM",
-      "title": "Reliance Communications Ltd",
-      "publisher": "Equitypandit",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0xYXdQZ0lWazNFRGJtaE01aUUxa0laSGJBemlpdWNtOU1INU5RWTZrRzM5b1ZBNFBwMXp2Q0VFRGpyamZVU0FQek1BZUQ2X05mS24tVGVGVmpxU3h2aGc?oc=5",
-      "published_at": "2025-09-13T02:08:22+00:00",
-      "sentiment": "neutral",
+      "symbol": "RTNPOWER",
+      "title": "RattanIndia Power Q2FY26 Loss Widens to \u20b931.6 Cr; Revenue Falls 4.2% YoY",
+      "publisher": "HDFC Sky",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQOFZOam5wZDB3dUZ3dVMyOWVKOVZQZENqVGxWa3N6V1VYSnJGU2tOTC1TZ2RZZG45OVY1cmFPZDRGaDI2bWdTUEZnbFNqNmNWaWZPSktGS0E3NFEtRUx3SU1CWW9aRnVzcVpSTmU4NTZXYUdTWC1WRjIzMXJ0S2kxN2VRVHlhWkVMaUwxYkJjZ24?oc=5",
+      "published_at": "2025-10-31T07:00:00+00:00",
+      "sentiment": "negative",
       "sentiment_source": "keyword"
     },
     {
@@ -526,15 +535,6 @@
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNkdaYWd5aS05Qk16eDdyTnduY2dnWm5lMlJwZV9SXzFPWkJQdGx4WTJVWGVxVUt4a0M2ME1CZzJmQ1dJM1NJeTJuSWdJWW5GSW92UHJKbzgwcUc1VXBXQ2ZWVEVpb3NGTVdGVEhKQjlJZmFFRzB5ZDVrbGFZay1RUExsenVfRWpveXkzLWZTMWt5OVN6b0ZlVmlqaUktQkoxWDBLYmliYk5DTXZRNGFSaTFiOGwySFk2UHU0YTJMYW9tczNxMlNiTTZQaTVqZWstamfSAdcBQVVfeXFMUExBT3J5UUw3U0RTSTNFV0QwaGV4UDdpQ2xFZWVINlVxcDB3ZEtETWJURmhqYWJscXByZXR6NjlJSXdXeDdhU3FGQWxMNjc0Y180dThwcUdJS1NsVTQ4RWVHSVhOYUNydW8zV21kaDBSdklhcnBuUGxmS2hZb2thZDZtMFNCN2ZWWGk3aU1PUW5HOTk5NTZHQnpZcTVIcThIMERHWTJtTTRHd3BpbjkzN1VXNWpJcnBQVVRNLUdiTkdOb2E1WC1qQy0yMTlWN3lLcm1IeGtGSUU?oc=5",
       "published_at": "2025-09-10T07:00:00+00:00",
       "sentiment": "neutral",
-      "sentiment_source": "keyword"
-    },
-    {
-      "symbol": "RTNPOWER",
-      "title": "RattanIndia Power Rises 4% on \u20b936 Cr Volume Surge",
-      "publisher": "HDFC Sky",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNczdmRjBuZXlUVThpSFBUaWtxZ3U0S2o3bUdNWldYdE13bTRPUXFBZ3pkb1p5bUhWR3IyTGg1UWwycTdobmxnNWlwaEdseHpzbGVONzBzdmxhZjNyV0lUVW4wMm9DbGZQUWUzcy1XbGtkQWFYTkdBM2tVYmJQLUlHVXZnRlhRQWViVVJBcjlsZ2tNdHJqMUs4ZldCZ0FXdw?oc=5",
-      "published_at": "2025-08-28T07:00:00+00:00",
-      "sentiment": "positive",
       "sentiment_source": "keyword"
     }
   ]

@@ -3,35 +3,30 @@
   "name": "Phoenix Mills",
   "sector": "Realty",
   "indicators": {
-    "date": "2026-07-20",
-    "close": 2070.1,
-    "prev_close": 2075.8,
-    "change_pct": -0.2745929280277615,
-    "ema20": 2029.8636895246868,
-    "ema50": 1918.6579401161544,
-    "ema200": 1767.2271301541375,
-    "rsi14": 60.25793728979273,
-    "macd": 70.4986119280195,
-    "macd_signal": 75.98397217583543,
-    "atr14": 56.31610579318707,
-    "adx14": 40.242196041296324,
-    "adx_pos": 26.791739056073382,
-    "adx_neg": 14.978210997588794,
-    "bb_high": 2214.640500106524,
-    "bb_low": 1841.3694998934764,
-    "bb_mid": 2028.0050000000003,
-    "vwap20": 2046.2860840275541,
+    "date": "2026-07-21",
+    "close": 2091.2,
+    "prev_close": 2074.0,
+    "change_pct": 0.8293153326904443,
+    "ema20": 2036.0412973250568,
+    "ema50": 1925.5712388889924,
+    "ema200": 1770.489160640463,
+    "rsi14": 62.67766640767714,
+    "macd": 67.09688050387808,
+    "macd_signal": 74.25633161922174,
+    "atr14": 55.072098236530856,
+    "adx14": 39.504160166982786,
+    "adx_pos": 26.360877045942722,
+    "adx_neg": 14.222510189719772,
+    "bb_high": 2213.2011088645736,
+    "bb_low": 1865.2088911354263,
+    "bb_mid": 2039.205,
+    "vwap20": 2051.896469900521,
     "high_52w": 2169.8,
     "low_52w": 1402.5,
-    "volume": 215029.0,
-    "avg_volume20": 902895.1
+    "volume": 618619.0,
+    "avg_volume20": 910888.4
   },
   "price_history": [
-    {
-      "date": "2026-01-22",
-      "close": 1768.2,
-      "ema50": 1798.7
-    },
     {
       "date": "2026-01-23",
       "close": 1726.5,
@@ -624,8 +619,13 @@
     },
     {
       "date": "2026-07-20",
-      "close": 2070.1,
-      "ema50": 1918.66
+      "close": 2074.0,
+      "ema50": 1918.81
+    },
+    {
+      "date": "2026-07-21",
+      "close": 2091.2,
+      "ema50": 1925.57
     }
   ],
   "flags": {
@@ -640,14 +640,14 @@
       "price_above_bb_mid": true
     },
     "flags_detail": {
-      "price_above_ema20": "Close 2,070.10 vs EMA20 2,029.86",
-      "ema20_above_ema50": "EMA20 2,029.86 vs EMA50 1,918.66",
-      "ema50_above_ema200": "EMA50 1,918.66 vs EMA200 1,767.23",
-      "rsi_above_50": "RSI(14) 60.26 vs 50",
-      "macd_bullish": "MACD 70.50 vs signal 75.98",
-      "adx_trending_up": "ADX(14) 40.24 vs 20, +DI 26.79 vs -DI 14.98",
-      "price_above_vwap20": "Close 2,070.10 vs 20d VWAP 2,046.29",
-      "price_above_bb_mid": "Close 2,070.10 vs BB mid 2,028.01"
+      "price_above_ema20": "Close 2,091.20 vs EMA20 2,036.04",
+      "ema20_above_ema50": "EMA20 2,036.04 vs EMA50 1,925.57",
+      "ema50_above_ema200": "EMA50 1,925.57 vs EMA200 1,770.49",
+      "rsi_above_50": "RSI(14) 62.68 vs 50",
+      "macd_bullish": "MACD 67.10 vs signal 74.26",
+      "adx_trending_up": "ADX(14) 39.50 vs 20, +DI 26.36 vs -DI 14.22",
+      "price_above_vwap20": "Close 2,091.20 vs 20d VWAP 2,051.90",
+      "price_above_bb_mid": "Close 2,091.20 vs BB mid 2,039.20"
     },
     "flags_on": [
       "price_above_ema20",
@@ -665,5 +665,5 @@
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-07-20T16:59:18.978609+00:00"
+  "updated_at": "2026-07-21T16:48:43.041766+00:00"
 }
