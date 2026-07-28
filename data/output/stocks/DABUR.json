@@ -3,35 +3,30 @@
   "name": "Dabur India",
   "sector": "FMCG",
   "indicators": {
-    "date": "2026-07-27",
-    "close": 427.35,
-    "prev_close": 423.2,
-    "change_pct": 0.980623818525528,
-    "ema20": 430.77980076362326,
-    "ema50": 436.0987389925671,
-    "ema200": 464.4726331247466,
-    "rsi14": 45.15877422306708,
-    "macd": -2.8575966093532656,
-    "macd_signal": -1.6625856948966298,
-    "atr14": 7.954832029818567,
-    "adx14": 16.379714778759926,
-    "adx_pos": 17.760968181851066,
-    "adx_neg": 23.925703005579287,
-    "bb_high": 454.3016651421378,
-    "bb_low": 415.5833348578622,
-    "bb_mid": 434.9425,
-    "vwap20": 436.9813238661247,
+    "date": "2026-07-28",
+    "close": 424.6,
+    "prev_close": 427.35,
+    "change_pct": -0.6435006435006435,
+    "ema20": 430.19124830994485,
+    "ema50": 435.64780805168215,
+    "ema200": 464.07589050658993,
+    "rsi14": 42.670549792032595,
+    "macd": -2.989051383213905,
+    "macd_signal": -1.927878832560085,
+    "atr14": 8.493772599117241,
+    "adx14": 15.563023351336287,
+    "adx_pos": 22.972391239507523,
+    "adx_neg": 20.807045085874147,
+    "bb_high": 454.13181763332295,
+    "bb_low": 415.99318236667705,
+    "bb_mid": 435.0625,
+    "vwap20": 436.6469760187381,
     "high_52w": 577.0,
     "low_52w": 403.35,
-    "volume": 853775.0,
-    "avg_volume20": 1997075.8
+    "volume": 4458851.0,
+    "avg_volume20": 2130049.85
   },
   "price_history": [
-    {
-      "date": "2026-01-30",
-      "close": 506.6,
-      "ema50": 510.68
-    },
     {
       "date": "2026-02-01",
       "close": 502.1,
@@ -626,6 +621,11 @@
       "date": "2026-07-27",
       "close": 427.35,
       "ema50": 436.1
+    },
+    {
+      "date": "2026-07-28",
+      "close": 424.6,
+      "ema50": 435.65
     }
   ],
   "flags": {
@@ -640,14 +640,14 @@
       "price_above_bb_mid": false
     },
     "flags_detail": {
-      "price_above_ema20": "Close 427.35 vs EMA20 430.78",
-      "ema20_above_ema50": "EMA20 430.78 vs EMA50 436.10",
-      "ema50_above_ema200": "EMA50 436.10 vs EMA200 464.47",
-      "rsi_above_50": "RSI(14) 45.16 vs 50",
-      "macd_bullish": "MACD -2.86 vs signal -1.66",
-      "adx_trending_up": "ADX(14) 16.38 vs 20, +DI 17.76 vs -DI 23.93",
-      "price_above_vwap20": "Close 427.35 vs 20d VWAP 436.98",
-      "price_above_bb_mid": "Close 427.35 vs BB mid 434.94"
+      "price_above_ema20": "Close 424.60 vs EMA20 430.19",
+      "ema20_above_ema50": "EMA20 430.19 vs EMA50 435.65",
+      "ema50_above_ema200": "EMA50 435.65 vs EMA200 464.08",
+      "rsi_above_50": "RSI(14) 42.67 vs 50",
+      "macd_bullish": "MACD -2.99 vs signal -1.93",
+      "adx_trending_up": "ADX(14) 15.56 vs 20, +DI 22.97 vs -DI 20.81",
+      "price_above_vwap20": "Close 424.60 vs 20d VWAP 436.65",
+      "price_above_bb_mid": "Close 424.60 vs BB mid 435.06"
     },
     "flags_on": [],
     "flag_count": 0,
@@ -657,5 +657,5 @@
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-07-27T17:29:18.948489+00:00"
+  "updated_at": "2026-07-28T16:40:14.712965+00:00"
 }

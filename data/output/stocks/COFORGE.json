@@ -3,35 +3,30 @@
   "name": "Coforge",
   "sector": "IT",
   "indicators": {
-    "date": "2026-07-27",
-    "close": 1528.4,
-    "prev_close": 1484.7,
-    "change_pct": 2.9433555600458035,
-    "ema20": 1487.0815158991559,
-    "ema50": 1445.3728723921593,
-    "ema200": 1475.5265590036554,
-    "rsi14": 57.27939031105424,
-    "macd": 14.747258848473166,
-    "macd_signal": 19.47759472649927,
-    "atr14": 50.65421970287728,
-    "adx14": 10.890138257874922,
-    "adx_pos": 24.33958027733373,
-    "adx_neg": 23.46206044030114,
-    "bb_high": 1569.1178638676654,
-    "bb_low": 1404.1021361323349,
-    "bb_mid": 1486.6100000000001,
-    "vwap20": 1484.7389131567502,
+    "date": "2026-07-28",
+    "close": 1686.0,
+    "prev_close": 1528.4,
+    "change_pct": 10.311436796650085,
+    "ema20": 1506.0261334325696,
+    "ema50": 1454.8092303375647,
+    "ema200": 1477.6208220981466,
+    "rsi14": 70.60534243348883,
+    "macd": 28.972706854572834,
+    "macd_signal": 21.376617152113983,
+    "atr14": 58.7789182955289,
+    "adx14": 12.55287426314779,
+    "adx_pos": 38.26412199907687,
+    "adx_neg": 18.774808071347884,
+    "bb_high": 1616.7302286845763,
+    "bb_low": 1378.5197713154237,
+    "bb_mid": 1497.625,
+    "vwap20": 1521.9659385474602,
     "high_52w": 1989.7,
     "low_52w": 1008.1,
-    "volume": 3779933.0,
-    "avg_volume20": 2943502.05
+    "volume": 15625771.0,
+    "avg_volume20": 3497810.95
   },
   "price_history": [
-    {
-      "date": "2026-01-30",
-      "close": 1653.8,
-      "ema50": 1732.76
-    },
     {
       "date": "2026-02-01",
       "close": 1655.4,
@@ -626,6 +621,11 @@
       "date": "2026-07-27",
       "close": 1528.4,
       "ema50": 1445.37
+    },
+    {
+      "date": "2026-07-28",
+      "close": 1686.0,
+      "ema50": 1454.81
     }
   ],
   "flags": {
@@ -634,34 +634,35 @@
       "ema20_above_ema50": true,
       "ema50_above_ema200": false,
       "rsi_above_50": true,
-      "macd_bullish": false,
+      "macd_bullish": true,
       "adx_trending_up": false,
       "price_above_vwap20": true,
       "price_above_bb_mid": true
     },
     "flags_detail": {
-      "price_above_ema20": "Close 1,528.40 vs EMA20 1,487.08",
-      "ema20_above_ema50": "EMA20 1,487.08 vs EMA50 1,445.37",
-      "ema50_above_ema200": "EMA50 1,445.37 vs EMA200 1,475.53",
-      "rsi_above_50": "RSI(14) 57.28 vs 50",
-      "macd_bullish": "MACD 14.75 vs signal 19.48",
-      "adx_trending_up": "ADX(14) 10.89 vs 20, +DI 24.34 vs -DI 23.46",
-      "price_above_vwap20": "Close 1,528.40 vs 20d VWAP 1,484.74",
-      "price_above_bb_mid": "Close 1,528.40 vs BB mid 1,486.61"
+      "price_above_ema20": "Close 1,686.00 vs EMA20 1,506.03",
+      "ema20_above_ema50": "EMA20 1,506.03 vs EMA50 1,454.81",
+      "ema50_above_ema200": "EMA50 1,454.81 vs EMA200 1,477.62",
+      "rsi_above_50": "RSI(14) 70.61 vs 50",
+      "macd_bullish": "MACD 28.97 vs signal 21.38",
+      "adx_trending_up": "ADX(14) 12.55 vs 20, +DI 38.26 vs -DI 18.77",
+      "price_above_vwap20": "Close 1,686.00 vs 20d VWAP 1,521.97",
+      "price_above_bb_mid": "Close 1,686.00 vs BB mid 1,497.62"
     },
     "flags_on": [
       "price_above_ema20",
       "ema20_above_ema50",
       "rsi_above_50",
+      "macd_bullish",
       "price_above_vwap20",
       "price_above_bb_mid"
     ],
-    "flag_count": 5,
+    "flag_count": 6,
     "flag_total": 8
   },
   "fundamentals": null,
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-07-27T17:27:50.308257+00:00"
+  "updated_at": "2026-07-28T16:38:45.533140+00:00"
 }
