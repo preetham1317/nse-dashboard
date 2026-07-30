@@ -1,7 +1,6 @@
 {
-  "updated_at": "2026-07-29T17:13:23.735428+00:00",
+  "updated_at": "2026-07-30T17:23:09.070019+00:00",
   "symbols_covered": [
-    "AUBANK",
     "BAJAJ-AUTO",
     "BAJAJHFL",
     "BEL",
@@ -15,6 +14,7 @@
     "MANKIND",
     "MARICO",
     "MEDANTA",
+    "NESTLEIND",
     "RCOM",
     "RTNPOWER",
     "SCTL",
@@ -26,21 +26,111 @@
   "source": "google_news_rss",
   "items": [
     {
-      "symbol": "YESBANK",
-      "title": "Yes Bank, Capital Stack Sign MoU for Lending Collaboration",
-      "publisher": "HDFC Sky",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4wLWUtZHl1cTV2NF82WUwyZ0x4OWtpNTJkT3B2TlpWeTZYSlFJNnoxTkpmZjR1eDI0MFFmcjRvaXRDR0MzeV9Ueks3UlpQLUlrN1VwRFV5MTNQX3BXWlhZUTVCNDIyRkhsRnRYdkl2TTd6SzY2TmdQNzV5cTJoZw?oc=5",
-      "published_at": "2026-07-29T10:29:36+00:00",
+      "symbol": "NESTLEIND",
+      "title": "Nestl\u00e9 India Conducts 67th AGM: Highest-Ever Domestic Sales of \u20b923,071.5 Crore, Special Dividend Declared",
+      "publisher": "scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOWnhTXzRlLWJIOVphZktscm5WQ1RpLUlLV1k3QlhLdWpNT2NFNzlFSklDcDFzUmlDRnVfeDcwMmNrTEdYUzR0NVlrOVVrSWk2aFU3OGdBZ2NCQ2FUY0VYazRBZEd5Y1N6M0JLUno4RmpabnJuQXVOakZheU9GZ0poTFNxS01VdmtTbzhqZ2YtOEJ6TkVMR3M2Qlgzeks5YTA1elpOZFZIaVpkTVZaZXpwNjNCU2dFS3N1U3VWRzFwV0I2MFN3SG9CTThZVGFuU19vVWdDeTdQRjBseWVWX2dSanlESEFPWllVdExRSmtPWQ?oc=5",
+      "published_at": "2026-07-30T15:13:36+00:00",
       "sentiment": "neutral",
       "sentiment_source": "keyword"
     },
     {
-      "symbol": "FEDERALBNK",
-      "title": "The Federal Bank - These 15 midcap stocks soared up to 98% in a year; check FII and MF holdings",
-      "publisher": "The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPQ3ZOZVVhRW1uZUpMaTM2elFjUDR2b1NuR0cxNmRZWGtxWmQ2bjJrMGV4Mk5vS0hkM0Q4a0FmZm1YdkVBV3pyM0ZUamJUajlwall1Ti1RNTVORlZMNzhNazN1Rmt4S2dwRlA5TXVPaEZteDAzRE5OSFRzelJlV3N5cXoxUUJlelZ3SHpCOGlSdHpuNkg4TE1vaXFPOWdzaWtpOF9zUGExRWJxWmNkZ1FHQWJkQTlXc0lIel9ZbnBQRzZobjFDVXpzTzd1aUZZRUtldnZHQ1N5N2RDeEZJNTN0LW4zWXdYTW1HTDg2Q2NQT0VZZEd1Mmc?oc=5",
-      "published_at": "2026-07-29T09:51:43+00:00",
+      "symbol": "MANKIND",
+      "title": "Earnings call transcript: Mankind Pharma posts strong Q1 2026 growth, shares ease",
+      "publisher": "Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWnJfbl9HSEQ3UjFtZlp0NVdqaDIyWFZjMEszd2RndFl2SnU3R0RLUjdsOXFFUENnNE1HbXMzVFZHZ0lfeDJzWFcwcGdKY3dOWjhrM1A3YmdZZUxkeW5PNHktbjI5VWR0REs0SjdJeWw2Tnh3V0RCcHEzM1ZhcjhsaDJXeHo4Yk9OQlF0dGFIdG11LUJ2dW9NMF9pdFNsQWdBcTY1N1FXWTF0blpySlk0UURaSjNCRm96dzdaRTNhYk83TXFRa2RZS0F4QUxSVm85?oc=5",
+      "published_at": "2026-07-30T14:40:51+00:00",
       "sentiment": "positive",
+      "sentiment_source": "keyword"
+    },
+    {
+      "symbol": "FEDERALBNK",
+      "title": "Federal Bank holds one-on-one analyst meet with IKIGAI Asset Manager",
+      "publisher": "scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNclBtNWZUV0Z4NVZGVnJxY0wySUM4a2Z1ai1hMkdKd0NFRXQxc3IzYjdRSzI5OVNpNktDTnd5TXI3QldHdG5xMEdEeWs4VHd1SXd0dVByWDZFUmtReEVNT3VPT3RkdDBpb0RPSVZnR1Y5SXRicWl5MFE2NTY0SlR2Z2RWcTNUVGp2YTk1V09yN3QwMUxfNGtVQTNhcUJ2YlZVSlNBWHNVeFlJckJNM1BBaF9vZ0JVbkN1SFM2a01tWENwYmc?oc=5",
+      "published_at": "2026-07-30T13:04:30+00:00",
+      "sentiment": "neutral",
+      "sentiment_source": "keyword"
+    },
+    {
+      "symbol": "IDFCFIRSTB",
+      "title": "Where Will IDFC First Bank Share Price be in the Next 3 Years?",
+      "publisher": "Equitymaster",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVEVUajdjMFVXT0huc0NWb0tGNWZZNUZhTXNNZE9YOHNWYnFEeXJ6cnlkejc3cDBrUkd3MjB6LWRvTFlaZGJVX3A2VkpLYmpZM05wOEIxVWxjTndfYlNXRURLNHNwcmM0MXRtNWItQXN5YVJoc21rUURZT09uSW5ucVpZVWxIQTNBbTVaY0JKMkVpeHVfazdtdkw2Y1AtM2NjU2ZRZ3VxaDVTbDFYMmpMMkk0a2RFVm02Z3d4M2lRZmxFQkhWVThiYlU2ZFM?oc=5",
+      "published_at": "2026-07-30T12:21:52+00:00",
+      "sentiment": "neutral",
+      "sentiment_source": "keyword"
+    },
+    {
+      "symbol": "MANKIND",
+      "title": "Mankind Pharma Q1 Results: Profit Rises 29%, Revenue Crosses Rs 4,000 Crore",
+      "publisher": "NDTV Profit",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUUhZY1FGcFBTbWlUaWg0SG9HNU9icUl1VURfWG9MbkNtcWVDU0VoemEtYnQ5Y00xY1lnRHdOT2p5Q3E4Y0tZQ3BtN0pmR3B3alNyZTBpZUNNYWxuaktqaXpJZC1UOU1NSGlXaXdaNlBfQjl5UnZCM2Z0Z3oxTVNFeGw0VW5BVWRELVlINXNBdDJiTC1VVTMtV0lEXzdWUF9YT19WWFpDY001SU1PVDI5bUhaUlRVQ0Y0WS1VNm5hMVFXbTQ2ZDJuRHUxV0lGb2RkTXfSAdoBQVVfeXFMUHA0RHY0MFc2STh1QmgyT0g1WV9YRmdyNUlwQkxmZlMwYnJqcmV1ZjZvRWFwYjhUM0J1eDh2TVFIMHZVMmFjdGJhTUdTcS1hY1Bmc0FmYkJvQXhLVzlQSFpTTEtJTEZpOURLZkdWNzhsbC1iQWg2SFFaR2VXaGduLVhWM0NRMWlVMmhiLTZCNDQ5LS1BWFV1TmNxbVZObDhmRkFuMHRlWnBXb1JxV1Qwbjd4aU9QYVllQXdCM3dxNEpxNnVHbmVDcFVMcXhFWjZYZ19YczZ4WUloRlE?oc=5",
+      "published_at": "2026-07-30T11:23:32+00:00",
+      "sentiment": "positive",
+      "sentiment_source": "keyword"
+    },
+    {
+      "symbol": "MANKIND",
+      "title": "Mankind Pharma Q1 result: Profit rises 29.6% to \u20b9568 cr, revenue up 12.9%",
+      "publisher": "Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPX1RLS3k0X25BcDNsenNqNGNZWUtWS1o5UVpocWRaUkJ1QVB1dmhfWENXbGRTQXlGWnNvdjRzYTFLQmR2WEE4TFpqSzJhYWcyb3ZIOVZTN1hBaUpOQlRNWThDbU1NWmE0dmFwVHBrVEZ4c2JBRWgtRFdpNERybUh0QTVBc3M0VExacUVSQ2xSanpsOV94YVAzQk13eWIwZEVYZDlFRlY2bFN5NUx0cEtzQ054MUw4X1JnTkR1YS1vc25ycDRW0gHKAUFVX3lxTE1DWS1adjM3dHQyMEJlTlZhNFZ2aE8xOW1Gc2VvVHdNazF1b0lCVFFkYUJuNkFEQ0x4YnBrOFJGYUhsTDZJVFc3N3E0Qldrdkp1b2cyVjlvd2RKbkplaG4yNjFOV2RQMTAtYm1vVXluMklNZXc4ckxDamlRNnFXQWRZdEdoVkYzeEhtUTVZQV9xYUtSa2dKc0hPcjY3T0hwU05LNnladjdrczhpRVh3ZlNhNlk0Y295Y2ptdnFkVlJHcW9CYXp1b1pmSmc?oc=5",
+      "published_at": "2026-07-30T10:27:05+00:00",
+      "sentiment": "positive",
+      "sentiment_source": "keyword"
+    },
+    {
+      "symbol": "BAJAJ-AUTO",
+      "title": "Retail investors broaden bets in Q1, flock to Vedanta, Wipro and Bajaj Auto",
+      "publisher": "livemint.com",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWmJONDZuYTNGZURZVkZDb3pjUURTVDh2c3VLckpzandKbGlhRHJMUkMxOXExSWI5bUdldU5wUzFyMzJ6V0R6RlctZWFoNTJvckk2Xzd4YlAxYnFyRnEzQVBFRW1lWVNtUjBUUzJtamYySEh6WUtpZFpIN0RLXzhMbTVhTFdJUDJWNks1eXR6YkdseUd3ZjlDaGV2ZzRVZTZXZkhNSmxjNWJRVDRwZ1Vyc2lfY2LSAboBQVVfeXFMT0pSMEhYRzhyWnVzS0F4d3JqakxEYmkySEU0RXlfdnQ3OTRWMDBzV2loM0p1cVJaZDZia3NITWQ4emJmRVRuOWxmaDlMWHd2bW13b1k5Mk1JLUFJblZ0Ui0tRjNRUTFEVE9TeVA3YW5YLUFzT2RDMy1PdEc4Z0ltUU1GOWQ5bXVldGdZX3NxZjlLYUZnMV83WU1DY0JLbGEtZmRLVjJZdTJRSEx5R3FnYTVDNGdEYWpDN1pB?oc=5",
+      "published_at": "2026-07-30T08:44:52+00:00",
+      "sentiment": "neutral",
+      "sentiment_source": "keyword"
+    },
+    {
+      "symbol": "MEDANTA",
+      "title": "Global Health Ltd approves 20,000 ESOPs for one employee",
+      "publisher": "scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYms3Z2dRdGRVcDd0QThEYk9zRl9iVEcxLXd3U2doWEI3TV9oSXdSbzBfZXliX0VuaDh1S1I1NHFRQUwzQi1WanpacUxuSG5BaVhGcXUyUl9qa3ZVd2R1bnJCQXlfNENtRXBSUVl2YTJZbGVlUk1Ibm9UZHQ4RGkwaFhsSEFMem1uRjlyckxvNnV2dkR0dkNqclIxMGFibG1DMjJGRFgtREZWNGNTX3N1aHhSUQ?oc=5",
+      "published_at": "2026-07-30T06:45:03+00:00",
+      "sentiment": "neutral",
+      "sentiment_source": "keyword"
+    },
+    {
+      "symbol": "BAJAJ-AUTO",
+      "title": "Bajaj Auto Consolidated June 2026 Net Sales at Rs 21,688.83 crore, up 65.14% Y-o-Y",
+      "publisher": "Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRmswRmJ5bElRa0JFZzN3VEI5a25LVVVLelZQSnNCZUJGbi16dEttYnBLUmJnYV9ac2hCWm9KX2QzV3g1RHgzVmpRYnVCU3VxUFl0Zy1QMVlaMHFaSkVWQnN2bUFxcENCOGU5dWhyWHl0dnRRekdUMy1lTVdJZW0zWWtXbXlhMGZHTGZDaUhNbTZaWlhEejhRTHJ2WHBWOGp2YmF1M29xSERjUHA2TkppR1U5cTNPUS0tbGhXRFp1eEIyTGd1TURaMVV0TF9CU1lEYjFwQ2I4dkw2cEFWdUHSAeMBQVVfeXFMTnI4SnVYTkxLbXJHcllLMGlKV0lnWFhST2pmZG1WR0NERHZWNi1fWU1XdloyOFRISHpGVHdLbnNYR3llZmRwQ2dvd2wwZjRhbmtZWjR1MG96N1ZGbDY2aHFOaGJfclp5b19XTEIxYmJxczc3UTZ2cGQ5aVBuOG92SkRxR19jTWstdzk4Sk55dDhaZVlMdWwwbU54YzNTanBlek1XRDlmYVk4T1ZKdVhjbWRuVXV3Zm5adFB3bUhCVGtNS3lqX2l1dGZYVnJmOTBxQUkyQ2JUM3dzYTRFT2hSVmJndXM?oc=5",
+      "published_at": "2026-07-30T05:52:21+00:00",
+      "sentiment": "neutral",
+      "sentiment_source": "keyword"
+    },
+    {
+      "symbol": "DIVISLAB",
+      "title": "Divis Labs Share Price Live Updates: Divis Labs Current Price Update",
+      "publisher": "The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRUhoYTRib2tpRHFnOE9kWGpTejNpWTM5bExCaUNReFZLc2xvamxwTk5rN2JXdlhST05EYV9JSmEyQ1dBbG9LSUlDN0phME83NUhNdWNXT3FXZ3E5U2MyVlp1UzNSaGpoOEUzRzFuZW9lTnNKLUppS3lfLWtSWXJYU3lRWEdUNHZpM3E0cmZkVXoyNFQ5eV8zVUUyWGVJQ2FfUFlZR3BQdzdUSXJyNU1hT0pXM1NDdVQwQ2Y0SnMtXzBlLTF4dGtN0gHMAUFVX3lxTE5ZTXdxM3RHMXdWMVMyQVdMVlhFYnRUckZXN3U5U0lObkhGYVpPZ29OTDl3U1g3dVpULW5jMXhwUnNKRnFpTEpXcEhSdm4xTldhc2lMaFQ2ZF9ac296MEJka0o5YW5mcl9ROXIzZW5IREQtQWdyUGw4RUNtVUFaM3ZnYW14TEo1RkdwdFdBREdVMFlha1ZXOUI1bXZaZDJVOFFpaGFZR1MtNEh1dTRzc0N5dndhSklKOUdLRHNjSDZLVlZwMHUyVzJ3U3dhOQ?oc=5",
+      "published_at": "2026-07-30T04:33:59+00:00",
+      "sentiment": "neutral",
+      "sentiment_source": "keyword"
+    },
+    {
+      "symbol": "SUZLON",
+      "title": "Pros and Cons of Investing in Suzlon Energy",
+      "publisher": "Equitymaster",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWFRzQ1dxcks3amtwTHhUMFhBZ0ZrM3YyX3FHdjlMdHhLVWQyaGdBRnNxRVRxTjljVWM3VjBBTkVSak90b3dCcmFlc1VXUm15Qm5XeVBoOGF2QXRCbnotQV84RlcyZERQLVNyb3ZoelUxLXowbmRvc25VSUVheTkxcDFhLVpSQmZuV0dfRkliZFlrYXFRYmJqQmRIaFJTV1NiVHpSVzkzNmxmM3dWSy1Nb1E1SQ?oc=5",
+      "published_at": "2026-07-30T03:30:00+00:00",
+      "sentiment": "neutral",
+      "sentiment_source": "keyword"
+    },
+    {
+      "symbol": "JIOFIN",
+      "title": "Five Stocks To Buy: Trent, Jio Financial Services, NMDC And More | July 30, 2026",
+      "publisher": "NDTV Profit",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQb0RmNDRESnVNMDQyYVZpd3k2YWx2c0E3VG5VVmZ5d2htYm1JOVd4WnJUdnFtdGpiUElBbUYzSlBjRVltOXZsM2p5YnoxZ016WHgzUVdNU3FMUm16Y3VOeWI3dUMycDAwV0VfRTZXWXlaMjB3MVQ2VXBfTFJJcFNaX2RTQ0pzWXJTVk4tTlZBcENOTnp4Q3lhX0FwTWl1aEJia0piSjdtamlITnhwM0NTM2xCamtFWW1TLUpjY25rRnA1S2hrMWNkV0N5T05sTVZSbDl2QtIB3AFBVV95cUxPSERuTjg4M3RPS2FyVFMxZW91TDBjdEZrQVQzT0FmTWJVRFBNeko1WWh2dEV3eXFJck5aS3g0aC14RUtPb1RBSUVEcWt6OG5heFVUSnFOZFBXWXgtWWdMZUNacGpqaFhEVW1iSkx0a0NpRnpfVTlnRGt4LXpNOHdxUEFiRVhYVXZHZ3RmYVgyekNPY1pHaVhDb25CU1I3TlFXQ3JPaXZTZ3lJLVVoWTVJSzVLYUdNZ0R2QWxZSHMzdTBIVm5nZEQ4R3hXSmh1bVpxUUhoUDJjbzR2Uy1r?oc=5",
+      "published_at": "2026-07-30T01:22:20+00:00",
+      "sentiment": "neutral",
       "sentiment_source": "keyword"
     },
     {
@@ -49,33 +139,6 @@
       "publisher": "Business Standard",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcFJIeHZ3eFhXTC02TEJJRlQ3N1ZPUlYzRVVuRU5sOXJDMl9VMXRXa0JlOGRKSzlJS1FkVGJmZTYxZnhCbjBzTndrMkNhNldNdnRsRm5iRW40RWJHZmQ0cWIwVEgtVFhFQUNDZ3l0MFNMTExWX2Y3U0ROaW1UcklxXzJhZ2J5bWNCYU1BSE1TZ3JBX0h2b0JVY0RocEkwY1loLUJpVnhvbHY5cWFIN25mS1JVeGwwTnRsRW5kNWlMbVJUZ250RjlfRUFGa29WZ3NEQUJ4WW5B0gHbAUFVX3lxTE43MzB5RGJkaUlMaVg0Tlp6UjlfNVdvY0ZJQkVuLXJRX3ZoMGZ2UmhlcHZwTWwzblkwUVROYjBVX1NVdlA2QVFhUnkyNXdTaEtUY2ZwQzlNdGJTWENsajZTMDJ0Uk9hOEx6R05nUFUyT1R1bUNWQ3FfR3dpUEJRODlfSnFNYlJCSGhCbnloU3hSUm01RnlhU1dYQU1CTEc3M2NwNlZ4eHZHVkZwSjE1bk54TE5SUndZRUFfcTdXNy1zTERocDgyQ0twVjdldUxnLTlQSWtBMlJ2YXZhUQ?oc=5",
       "published_at": "2026-07-29T09:13:30+00:00",
-      "sentiment": "neutral",
-      "sentiment_source": "keyword"
-    },
-    {
-      "symbol": "FEDERALBNK",
-      "title": "Federal Bank sets Aug 21 for 95th AGM, recommends \u20b91.20 dividend",
-      "publisher": "scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNUFvRTZzNlNzTVZuOXBaeG9yQUhPUjQ0cE9CRTNHblJBR3BmajRVcEJLVG9jd29KUmRrd0IzUVluWUtld1ZhbWtmX2ZDM2wwYjFTV1pOdjhKMmptNWhkQl83bkNhR0pTYXlfYjlFbWV4VEFfaFYzM0RLZ29SbHlxcEF4dWc0enU3MEFYQ0o3aDROb2xRVGZRWEI0YUJIRnFFLUNOdnZ6ZG5FUjFTZUNpNWhmMTY2S0Q4Nms4?oc=5",
-      "published_at": "2026-07-29T06:46:15+00:00",
-      "sentiment": "neutral",
-      "sentiment_source": "keyword"
-    },
-    {
-      "symbol": "JIOFIN",
-      "title": "Nifty Top Gainers & Losers, July 29, 2026, 3:30 PM IST: Jio Financial Leads",
-      "publisher": "HDFC Sky",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAxM2Ryb3o1b2p2YnprTzVnN04zdFF3anRlMjlUNm5VX0NfcXFDVUNPcjVVUEJQYTZ3ZHlhUUt1VkVTVnVoM3F1VWN4VDluNXBLR19yb2Vxdm04bWZEamttWHV4dmpRVWNGNWVZZG9HMA?oc=5",
-      "published_at": "2026-07-29T06:13:21+00:00",
-      "sentiment": "neutral",
-      "sentiment_source": "keyword"
-    },
-    {
-      "symbol": "SUZLON",
-      "title": "Suzlon Bets on Becoming India's First OEM to Take RE Integration Risk",
-      "publisher": "Saur Energy",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZTBSTkt0TG9fR3FQSnZxbDg5RUhCX0kwZm9sZG8ySzJnaFlqcXlrZ2tNLWJIb3JwUlI4WUU0SHktc2FqM0l5WjRvUjVQTlhMN0tYRVozT2ItTFRiS1RtbGcxM2lOLWJFQUNHQkhhS21pYXR4dG9LUmZiMGZELUJwVXZYNWFBUXUtSjNpeldNSm9yOGJPOV9DOFlUMUI2Qmp4TF9JTDRDQ0Z6eWVoU2l3ZFNOeUE1VDFURkNfSk5uOA?oc=5",
-      "published_at": "2026-07-29T05:54:41+00:00",
       "sentiment": "neutral",
       "sentiment_source": "keyword"
     },
@@ -100,7 +163,7 @@
     {
       "symbol": "MARICO",
       "title": "Marico, JK Tyre, IG Petrochemicals, Kokuyo Camlin, Cheviot Dividend Record Date: Last Day To Buy Shares To Qualify",
-      "publisher": "ndtvprofit.com",
+      "publisher": "NDTV Profit",
       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQX3pPREMyS0sxS2xnSHRGaXNGU3NvVEJFYy02QmdkX2ctclFfVWdzNXFCbVlLSjZNMmVEUXBjR2dGX0FYNnZZa3R5dW4yZFBsSlZTTmlfaFJzdmJsMFNkWDUxNFp5N2tkRXZ4X1VlTG1mamVaNXhRbE1iN2hucUdYS3hEWEVLX1JlVTgzZTVSSU9pbUg5d1EzdTJsU0F6eGIxS2luSnhGYm83Q2M3MXFmRzZ0LS1DenktNFZ3dFM1N3N0YzVSYW8xSzRFMERBanF0VFJOSWtvZy1GT3VHUVJxX2FReUg3Vkc50gHwAUFVX3lxTE1jRjZSX0MyeGNrcUk5aEFSeFptYnhuMFd6LWFVMTZSX2tqQUduMlJlVDVyZ0paWTNES1pSZi11RU5wYjBhRXBJOWp0NEVhOXFqeVdTU3VyZzdXS2VrTGRSSlc0Q253YmZiUU5uNWZjNUl6SGJmOUJzMDl4V1JVeU9GNlItajZnd08tSjdhVTdpQVBvUm51X3N1T3QyUl9DUnU4QXZSeHVjUnVFTWV4YVZxQ3lDRkVJZWhlamdPTl9FZndzbnF4SEhsS1k3Z1N3TzdQSnFZZk5UbUFVM0lhWG8ybHlnUXcyUVcweHBsTVFTbg?oc=5",
       "published_at": "2026-07-29T02:19:27+00:00",
       "sentiment": "neutral",
@@ -116,29 +179,38 @@
       "sentiment_source": "keyword"
     },
     {
-      "symbol": "BEL",
-      "title": "Bharat Electronics Shares Fall 4% After Q1 Results As Margins Disappoint Investors",
-      "publisher": "HDFC Sky",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeF9LdmpRMThzM1VtY3VoMmgyNE93eXN0UEx2d3FWalNIb1FWQlhWcGhQQklOc2FUbzZaUE1PaE9wVDVST1dRNUpZQWtRdlFlNXZzY2l0YjBSOG5tVGVjZksxd2ktYTdBMndxWkVBMG9KbWdRSVNHNWJBLXpCWndQNFg4UVlyaGc?oc=5",
-      "published_at": "2026-07-28T08:49:32+00:00",
-      "sentiment": "negative",
+      "symbol": "MEDANTA",
+      "title": "Max Healthcare Share Price - Live NSE: MAXHEALTH Stock Price & Chart",
+      "publisher": "Upstox",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1qeXBHSDBqU0g2OGNBT1gxRkxseGJ3dm5DdFZ0eVZ3bHE1WDZwaDhDVG5BMndNTG9WNkRYUUtBa2s4UlFzMTAtOXNEeE13SkYyWmFybjNvWlJpa1VXQnhXWEtvOFFIVERCX1B4S053?oc=5",
+      "published_at": "2026-07-28T18:05:46+00:00",
+      "sentiment": "neutral",
       "sentiment_source": "keyword"
     },
     {
       "symbol": "SUZLON",
-      "title": "Suzlon net profit falls 6% YoY to Rs 305 crore in Q1, shares decline 6%",
-      "publisher": "Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOUWpneWQwaGFsbUV4VlhJbGVXd0pLWktrdllBZXVLdUNVOUhwaXdWUUF6WmRrSno3c1pneUZmSDFBV2xlMzJwdDZwREJaSnctWDNTWTAyN1lvUGxzY29xX2RIdWNoTUV2TlVvZDBXcU9oVl9Hd1FxN1hhaWRTNTdYQXZUdXVlWjAyMktWVFgyY3A1ejJ6b3pXMDZtMUZYQWdRVHpYbWphN2pmaGNtUGZ5Tjdib1FwZEFEeXU2cW4wYnItT3Y2c2FPQ2c2TdIB0AFBVV95cUxOYmZGdUtEbTk0b29sMXlQVE1FdjB5ak9GbVFoa29wZm5kT29HY3BjdlNicnVPS1VQMkJESlRsbDB3ZUR6c1o5eDBLLXNuNVR4VWhsRHp6VFZ1TnJJRkRDc3h6UENaTGh6OThmUmoxcEJwS0lCQlZMODZxOHFUa0U4b0lvbElOSFp6SnJPSjlZVGEzRE1xMDA2Z1dmaGExUlZkb2tERG54RzZvZ2lXeHFucDJ1QXFyalZWdzNoSFJWZkR4YWc4NWd1Mk90b2k5TDcw?oc=5",
-      "published_at": "2026-07-28T08:33:33+00:00",
-      "sentiment": "negative",
+      "title": "Suzlon Energy appoints Anjali Byce as Group CHRO",
+      "publisher": "ETHRWorld.com",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPak5ma2ROZ2RCS25MbXdDSkJzU2hVR293aERyY0pOT0I0UTl3alRUcl9CclBzTnZkMTllWHR4dVZYN0Jaay1lSEdNd2FmVDZXR3BjNzJyb3hSb0hvNEhtejJPbWlfb2Y1cEk4OW1WYnJlVHZENGh6ZV8xSEg3RlROQjVyYkZTc0dJSWhQNmpFWDZQaHdEVFZRQVZNRHg1bWhBUlI0aU14Q3Q1cDZ4N0psNU1KVTBvRlXSAbwBQVVfeXFMTTlfQjQ1djd1MDV1WWo5cVA5THZSSzZZbXkxblZwSDFsS2RDMDd3dXVZQ1luZUUtZnZ1WS10eThabml2R0I1NTVzRFJQYS1RMm05cHlqa0NHcGRBZ3RGVDlrdWhBTlpnTG1WTzg2dHdyTFlIb2lpNUlmOXNNaUpxWS0xVzlieS1tTTZCa2FXdlotRklnamRHZU9ScXhmcjFoT3pTcGhVWWxZQVlUUFpHTHhfMGNSZDAwVThiT0I?oc=5",
+      "published_at": "2026-07-28T14:37:08+00:00",
+      "sentiment": "neutral",
       "sentiment_source": "keyword"
     },
     {
-      "symbol": "AUBANK",
-      "title": "Nomura raises AU Small Finance Bank target price to Rs 980, maintains \u2018Neutral\u2019 after Q1",
-      "publisher": "Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNVnVjY3RHWUcycjZVaURVYk9na0hyM05BODl0TDhHdy05dG5hUFROYkswTlh5ZUN2WS1EWmticnNzclV3eU0yTG9aZkFDMjJ6N2JoZHc2OFJCYThvMzZCaUdHbklkcVpUczBLNF9xZjhnYzJSYmhZbGpzYnhsbG1xV0Nqc2U5ekp5Z2VQLWdqU01Ja0F5cHZTVl96U2dXWXZ2a2F4U0VudmxoaVp6VzZvYUdiWXBaX0JOV0x3QVRWTXhVUUoxWWFlQ0V4V1FRS2p0SGw5SUg3M0lOVTJvTl91S2ZWQdIB6AFBVV95cUxPQ095YUFVX29Wa19DeE83bmhYcGpmTHk0OC1IX0VHamJCLXRrbUVBR0hkU0Q0el9DSzB4dmlva0ZTVW5HSWVFRUZ6eDNDdzFseXRPUVI5UFoyVE53OUlxT3JaZ0hZYktVOE9OWFRwWXlKdFo4YlEzdGFDeTJNbDYwUXBOM3NlYk4xZ1RYOW9leng1LTJDZ29BUGJnb2pxMDBkSHUtQk0xSWh6aTNXTE9tbS1XNG5aRWhmYy1Jb1EtZ1Y2NVJNV2xBbjhLTHo1LXdVbnhWcm5EOWtvY0l5V19VZmVsN2lEdldm?oc=5",
-      "published_at": "2026-07-28T07:08:45+00:00",
+      "symbol": "NESTLEIND",
+      "title": "Q1 earnings review: What Nestle India and Tata Consumer results say about FMCG demand",
+      "publisher": "Upstox",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOUlp3LUVqaWIyTV9mcERtelk3WDU5bnV4LWNoYkliejcxNmtTT3ZHb0U2bzBQeVBxOUFGRU5JTTRjSFQ2cVhjMDkxazhMZXljbE9yUEhzVG1LMHozSlo3anBXMWZfeG04OHFYbUQxaHBJZXVZNzAwS1d2LU5vU3REY3RWakpZazJsWDM5ODJsU3pwTklsR2dHOHdfTWdhWk1EVERoMTF3ck5zalRWN2ttWG9iQ0t1TjQwRHhEMWhVSzFZVlpXSmpvOHIxR0gtdnVFMlN6d1Q3QTZyV0liX2Z4MTlkUlJ4T3N2RVFn?oc=5",
+      "published_at": "2026-07-28T08:12:45+00:00",
+      "sentiment": "neutral",
+      "sentiment_source": "keyword"
+    },
+    {
+      "symbol": "BEL",
+      "title": "Why Bharat Electronics Share Price Is Falling",
+      "publisher": "Equitymaster",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbzFEbV9mUDJKc3poTVc1Sms4RjltUFN2WDdtV0prOThteHI5Uy0wdDBHWl9LeUJzNy1kT0ZJRm1PbVFQc1hMay15VG9rc3dqdFVQa0V3U09SWlZBNEFsbFVPNEVscXl4UC1zeTRkSXFnWFZRNDhJWUtPMjlFbFRLRVYtZ1ZMUUF4M3RzUTV0VVhXMUJqLVZnOVZDcXpPMzI0S21VWEp6azdsQ0lLU01xUndBdWtWQQ?oc=5",
+      "published_at": "2026-07-28T07:09:49+00:00",
       "sentiment": "neutral",
       "sentiment_source": "keyword"
     },
@@ -149,6 +221,15 @@
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNemx4VFJDME1CT19qUlZ5T1JiUnlRWENOOXNpOHFSLVE3aGFmTDA2c1o1R2xRWnRZV2lQOWVoR1VQeE8zMWFXTkREQ1hWd0dkX2lQRGF1VF9FSGFGOGNnVXZaNWxBUHZyX21aZVV0OFgtOW5sQTBwRk5XRHNmcXRFUDZoaUE1LUo1WmJ5dG02US1FYnRveHpFSlZvdzE1dm81THFQRWhOU2RrNHhHal9JZnpGMjFfZGY2Qk1iNE51U2RRSU90TDh3S1FLamVyUERiRU9n0gHYAUFVX3lxTE82SWZ5ckpIVy1sQWlWWjByc1FMc3hOMC10OE8wWEQ2ZDdaVldpeWthRXU3alVDMVNhUnF0ZmNJOURIWWJvenZ5UVFWUVJ1My1nSDk3X1V6TUZHNHBpY0dzVVM1Q3lERnhXXzRDQk9aaHZsUGVjYUxaZjlrM3doTEp3dzA3ZGFKTkFTUGlad3lmaXRtOUlDYUlTV3BHdkFBQUJDQnJEeHJ0dTUta3NfT1hqR01NYWdRY0d6Q1B1OTY2NWNkY3BrSmF5ZlZVdkE1bEdoVGRSTEdzSQ?oc=5",
       "published_at": "2026-07-28T06:55:39+00:00",
       "sentiment": "positive",
+      "sentiment_source": "keyword"
+    },
+    {
+      "symbol": "BEL",
+      "title": "Bharat Electronics shares fall 3% amid lower-than-expected margins in Q1: Should you buy, sell or hold?",
+      "publisher": "TradingView",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQa3dJZzFYUllraGpLQ1RibnJEMzlIWFV0V1Z1WlZXNWFSZ1ZER1g2MDNKM0R2V3NSVVJDQkNyN1FGcktKa3NXYTlvcnFFeUMzeW9WSWR4bGo5VUlyNjFhcTVYNFhVVzJFcHQtcllRVWwzT1VlVWIxSFVTc2dPd19pOFo5ODF6RnY4TS1aVVJCQUdyeEFYb2ppbW1ZZFZpbVB2Y0FpcjhVYjNZeGplSzlmUTZSVzhpSUx4eTJjTWJYcXlEeDgwVm1Oc0F2blZQam1MYUdMa2hFdWJvV2FWOTFxTkd3SjVOVF9kNGVtYlMyN1QwalVR?oc=5",
+      "published_at": "2026-07-28T06:16:00+00:00",
+      "sentiment": "negative",
       "sentiment_source": "keyword"
     },
     {
@@ -170,11 +251,11 @@
       "sentiment_source": "keyword"
     },
     {
-      "symbol": "MANKIND",
-      "title": "Mankind Pharma completes sale of Broadway Hospitality stake for \u20b949 crore",
-      "publisher": "scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVDVtQXBnYlpnZEVMdHpUXzYtZEhZbGc0WEs5REVtejNNbEpRVGExZkRxYUZIRE1yZTVLRzdpVG12R0I0TTU0ZHBKazMtbVdvWGlxUUZzbWxRc0lnYUpzVTl1X0F0ZUU4UGNmVHA1T1BTb0hSSU9HSG9xdTItMjhZUHR4VElNRTFRMXB3U3BnOWtiQjdfS0pkMkp1b0lGS0xGd2tac3d2U2UycDhmNHN2c2Fac1JiclpVd25xSnRHSjBNaG51YnAwSQ?oc=5",
-      "published_at": "2026-07-27T14:18:40+00:00",
+      "symbol": "BEL",
+      "title": "BEL shares get their highest price target from Jefferies, Macquarie after Q1 results",
+      "publisher": "CNBC TV18",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORWhjRWZGRWVJWEZqUkVuQmF6RG5MNU9ZZUlIakRfSzZSTE81T1otTGNsSFpwdVBTM2ZGR2R4U3YxREE5NUYxZ1g1Nmk5UktxVVhxa1hRMC1za1hHWU9aRXBwMzJ2QlFIdXlZaXZMMk9zRUE4SGNpM1lfOUhqUGFXcjBRcGZUcGhpMlhqTW9XUGtsSnozMEdDUkRoY3d0Zy0zVlNCMTFLck5JRDFIaFVzMlVpN1pCWHRQMTVIMjhEOTQ2STFZaWJB0gHMAUFVX3lxTE14RWFRWWdIejllQnIxcEJHdkNJa3FPcFBnRjBoRF8tUU15Uk10ems0SE0xV3JyZHNJZ0l0TjRqQXhHeGtSVndBckxPMUx1aFhZSEpaOXBWSGJuUXQ5YjhUTGN3R3B1Z2xSWTdnQjBhS3dULUJvenFzM2RkaTM1TkVEWXF4MENETjJ4eHZBSk5KSEJVT3o0YWVkWHlqUzh2UWhjVzBXbVc3a3lWT1ItREp2MHowN2ZuNFcwSWFia1ZqSmYzZzA4eWgxUFN3TQ?oc=5",
+      "published_at": "2026-07-28T03:46:07+00:00",
       "sentiment": "neutral",
       "sentiment_source": "keyword"
     },
@@ -188,39 +269,12 @@
       "sentiment_source": "keyword"
     },
     {
-      "symbol": "BEL",
-      "title": "Bharat Electronics Q1 results: Net profit rises 9% YoY to \u20b91,054 crore, revenue climbs 25%; check key details",
-      "publisher": "Upstox",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQRlEzLVBNX0dKUE9TNHRvTWVDSklhUkJ5X191ajhzRWxyc1pMVHBVRGRmalZLNFNtb1NlV0wzTkJVdWRBU1hIamFlejYySVF1U0d3ZEh4UEJSNDRLT3l3SnBxQ21Rel8yUFg3UGE5V0NOOGt5ME9HS3pRWldmQWxaR2U4TzRwUWdQLS1hdzJJcFgxbTE4QnhzZGlCc3Q0Rm9WMkZsZE5YVVVYU3QtOThvYU93VnJVS0UwLUFCSWZnN3p1YTBXZHQ1cWo2RUpyQWk0VWNqM3BUOW1MbnNfMHlYWV94LVN3WnFZU3c1cVp2UW9oLWVnUXhIaA?oc=5",
-      "published_at": "2026-07-27T12:42:16+00:00",
-      "sentiment": "positive",
-      "sentiment_source": "keyword"
-    },
-    {
-      "symbol": "AUBANK",
-      "title": "AU Small Finance Bank shares rise 5% as Q1 net profit jumps 37% on lower provisions, margin expansion",
-      "publisher": "Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNZE93N20xX1lLdzhLeFZEWXc0SmRwN1ZWaXNBNHRVWHljZnotSUJjaDZnUTNfc2g3M3RueG5jLXN6QlQ5Tmt6V2x4RmtQX2E0SkxieGM0Qmk2bGV1dFN1dURwZTBsR0dCaGRiSVBjalA0dTdSNGhLWkQ3NGpYblBDaDdWSXVCSU9vaFhiNnN4MVRWS0pVcjZkaHhhaG5NUkRzMENScVprdmtqRHl5N0ZmLU9RNlktZlVCYk5rZnprZDRtcC11d0szdG5jUkFwZnBqckxocWs2ODhfakJUZHJtVWRaX1FwWlRWQk9XcUVpLU03SFd6ZGfSAfsBQVVfeXFMT0QySDVoOTlaX1l3Z3FIWDBubkxQSDFod1dvVmZQYnUxMDNsNWdlaUxpSXZYbHlMNmdjTVpGcXdzdlpFVnlkRFFhZ0NVTWQyUW4zY1lCS3VzRS0zUl9CUWVtSUFSeHRNdUFhWWtuNUZ4aXJScWNHYmJrWWRhd2JCejFNSGd5bVNYekRoWE5GNzVoTmROWkdCeTd2S2pFSThIV1VNdEFFSGlhTkNGWENJc3FlWEpYV1MtazlQLTloNHZnVmJTTnNwZi02VV9SV0ZGMFhUVEw3MjUyVEU2Z3hPdlBMa29XZzBDSVVPRlVhS3h1aHhtMEJlZGRYRTg?oc=5",
-      "published_at": "2026-07-27T12:22:00+00:00",
-      "sentiment": "positive",
-      "sentiment_source": "keyword"
-    },
-    {
       "symbol": "SUZLON",
       "title": "Suzlon Energy Fails To Get Immediate Stay From SAT Against SEBI Penalty",
-      "publisher": "ndtvprofit.com",
+      "publisher": "NDTV Profit",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaTRvMU9taUxqOW1HWWtvR2FtSHQ2LW0tSFRtTXlkbWt2amdZelN5cDF2X2dfbld6Tk5SREdITnZ0ck1vby05bnIzRHRpZnZJR3R0MVFnM0k4X3ljVDh3cDNJNWpZQzV3YWxSWWUzT2xsQzl2bmtGU3h3VEUxSG9DeHlhdllya1BDS09ucjZsNE5XdUdVMkF3R0ozODRTMEdmdVA3aVNvUEduem5PQWZmZ2FvZ0RxQdIBvgFBVV95cUxPUk5LaVZVZWoyS0VfVzVsUTVHemFNWnFXaW1ZczNHMmNrZGpZZUcwQ3RFWWhDVFlubU5mQjl3QmZJRUJNR1RXdmZkeFowM0RYV1YySTJ4dFQtLWtva0N6bFBtaUh0VnhtdjlQSkVmNVpUbG4wSllaUTdNMF9OMnl1cFMtVWZxclFzNGNQam1GLVhFaTA5bWlJbEQtRHh3aGc5UFJCTzRrOThGWnd3Q3RCcVNnbTVLY1V2SWR2N0Zn?oc=5",
       "published_at": "2026-07-27T11:29:52+00:00",
       "sentiment": "negative",
-      "sentiment_source": "keyword"
-    },
-    {
-      "symbol": "MEDANTA",
-      "title": "Manipal Health IPO: GMP signals modest listing gains; 10 key things to know from RHP",
-      "publisher": "livemint.com",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQdFZvSFFrN2Q2ZUF1ejBWNzdPTk80V3MyRDRodXgtZXpWOFNmQUpWVklxZ0VsbW9JV243LUdGQzFoam1sODVtdVV4bElnSFAxOEtwWVM5SHhiOE5zaFUxYnlLZ1RlN3NnWTRuQ0EtR0ZUa2IzRFBISi1sUkVOWU1ReEJDNkp6ZnpSNElkSHo5V0ZFOVMtNENRSU1YMS1NX3lJaTdsNVFaNFZwVjlzdUFzWmZJT3FoTGozcHl3TEpPUjVtOWtLM0dwUWFqUXZnZnNUWWNFaXpEdF80SmR0c0lTMVhfWGrSAeoBQVVfeXFMTmNlN0N1bVN5YUhjM0NnTTQ4Z1F3ZDJxVVZCS2s3Q29KX2FxRzdodFhYYmFhSVZBUkU0aWNUX3RNZHpsNHFXY3RTVmEwSFE3dEdBNzRac0x2eU4xZVdvcDFFeWF2bEUxR21fWUFQNFJUYTQ1VU5IUVlvTWZlNWZ1N1p2dVRHQndNUlZ5RE1tOEg5S3JnLXBoMVRhbXdwMTZ4UFdWWDd6TGZ1MTAxZ1AwQUlERlFxUmg5WWduNWdBak1NcUNCYmVxYTVZclludDluRTRNaDQ4c3duQ3RkYlhhQ0VpeHgyVnowVmNR?oc=5",
-      "published_at": "2026-07-27T09:43:08+00:00",
-      "sentiment": "positive",
       "sentiment_source": "keyword"
     },
     {
@@ -233,11 +287,11 @@
       "sentiment_source": "keyword"
     },
     {
-      "symbol": "BEL",
-      "title": "Bharat Electronics Stock Volatile Ahead Of Q1 Results; What To Expect In BELs Q1? Check Timing & Dividends",
-      "publisher": "Goodreturns",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOMU5TTks2RDJKVDZ4NDVOZTlLYUhpb0d5dVhxcWU5Q1BmRUVCa2xVa1ZJVkZqMDRqblRHQVJCTnNCS053T0NiVWhQSHJmQ2d1cXZlVk5ERTlpT29HOHpuSGlrVWJ0cS1vTDFBbUdGSHpOVjl0dlk1aFVpaWlNWDBReTE0LUdBTWpaaS1DcmR0Q0Z2QWV6RjBrUG9DcXlEbmlnTUR3c3VGLTlXa0pNdHZwWklZekFzOEx5dGhSX28zc2xXSzJfUGIxd1gtS2E1bVFqSnlGbl9XM25TLUFZYkHSAegBQVVfeXFMUEJfQTV3cGcweEJoV1FMOUVXRUhoVjlWNFR2V202cVNfbVFFQ3AySEhFT296NUJBWE5ZLTVDSy1abE9mU0t4cUM0cVJwRFFpclRVNDNrU2ZxX1RKSHZBVkNLcHVhVVFDZEdPR20xWU9vOU5LdzI1cTF6RV80U3BLZHlqc3MwaWRwN1lqbzd1YW5Ld1ZZQWhzN21IbFJiMzc1T1ZDTjNYRXpBQ1N1N1VTODVXbVVOMUxlX2pJOWZhbWxsUWI1a0JzalJvQThTNWVFenNXUGFuSmt5NGNueU53VDctdWFvbzlZTw?oc=5",
-      "published_at": "2026-07-27T06:55:56+00:00",
+      "symbol": "UJJIVANSFB",
+      "title": "Ujjivan Small Finance Bank raises FY27 ROA guidance to 1.8%-2.0% on lower credit costs",
+      "publisher": "scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPai1ER21Ec3dXblRiM3JSQ2xUa2E0Y2ZXU0tKNjJDbmZFdlF4R0NVY0J2b0tXeVRNU0xPN004MVJLZGxyTjFMYzZITEJ3ZWxTemJmcWFKMk0wU0xXcC00cmYyU3h6Mk8xWk9ZMURyX1VDRXEzZTRpUjF2MFdlZnpyMFhvZElDa18yTGM5YVhrYmxCVkkzUFZKLXNRcF90QkNfU0k4QW1GbGZ2YjE2SzFSSGdGZGxFUkFwVGt5czR3?oc=5",
+      "published_at": "2026-07-27T07:00:00+00:00",
       "sentiment": "neutral",
       "sentiment_source": "keyword"
     },
@@ -269,38 +323,11 @@
       "sentiment_source": "keyword"
     },
     {
-      "symbol": "IDFCFIRSTB",
-      "title": "Stocks to Watch today: BEL, IDFC First Bank, BoB, Coal India, AU SFB, SAIL",
-      "publisher": "Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORXRNY1RQM3Y4eWtlS0Jtc094Wk5SX2djd0NZQWdCd0NVNDZpM05XNkZXQi1ob21GZUlRZjNJUkhGLW5xTG5OMzdOaFpxV0N0YXdSOU00YzRJWktKVzU4OVZMQmtPc2JjM2VzS0F5R1ZOaGxhbjdDOUtCUkdVcm4wMlpRbXhnUGpqb3c4bGJIYU5JaFl4RURmZFFxM0RYZmFfci1qbFFnNVZBam5DelVRY3diSWhMaVlycmlCU2pxaWpyMEtTcEVhTHRZdkpZZ1E10gHWAUFVX3lxTFBKQVA2SnpMQ1h0dUx0d3JxSjJpY2xxODBMU3g2NDNoelZRR20ta2FFS3RDUDRmcVFlSjZJdzhkUWZxOHFCdExSc0d1Um9JMF9tdEN4Slk3SWVaM2tDd2QwOUpsLXJjY0NNX2tlU0EzcU12bHdFYzZORlhub0JaT20wNmNSNGJtUEdiYW1mUlRjUWRoMUMtVmZrakhpRlU5SUQ2ZjBHTzIzTndNSzZGZVFpYXB5M3RJOHdYekJMOXNYSERhdGpJSHFZQ1RSbzZBNGJGa0JLS0E?oc=5",
-      "published_at": "2026-07-27T02:31:30+00:00",
-      "sentiment": "neutral",
-      "sentiment_source": "keyword"
-    },
-    {
-      "symbol": "AUBANK",
-      "title": "Stocks to Watch Today: Waaree Renewable, Authum Investment, Lodha Developers, Bank of Baroda, NTPC, AU...",
-      "publisher": "Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxOcmZlTjZPVzQ2cGF1Nm9yVEl1cVctNjVCejNGVjJ6Y25LbGVYWXFmQS1OeDM4aVEwZlZIYnJJTnlsMGdJb1F2ZXhVZ29kcnNUWmJYcl9vbUs3eDlGU2trRF9aaDNtMzVNQVMzdVcxSEx5b25YdWdGbTZkbUU2bl9uVXE3VDRNMW5qMXBSZjdvb01sRlVjUWxmUE55V0FWYVVoQ0poUjdDbXdUQ1lUSF9zY3ZRM2lzcVNXYi1PVnB3X1ZvVVB2ZUJxc0JuTXNSSzg4WEZ6WUEzQ1l1elB1S21tNWFBM1RvVTFONC1vYlU3VUF1U19WZFBsd3R1MS1iZmNncTNwZllJRjBnM0JUbmQ3LWtmbG5BM1ZCeVoxXzg0YzhEbHdENTlHWXhCWDdNanRnNWZMb2xTTmPSAb4CQVVfeXFMT25DdUtSOTU0dGdxMlhLWkRfQlVxWWxMQkVDUDVaR2NCYmJEbjBHNVk4MlA3QTFFd0NJWmszZVZVT3h2V1BvUWJxVXRfUXR6cHdaaGlCX0VtQWhKNFRGZUM0T0RtWWo5Y21jVk1oWlltWC1FRXltdWhyblZ6WTZTZjR6WU1ldjl2YzB1cEM3TGUtUFJqejUxWkdqR2kwRjRuV2NrRzBCaUpjcDNFSWMxMGpscjlFMEpoMHRpVk5EakdGenlNVy1ybEFZZGVNZFBUTGtpa2JtaVJMSFoycjI3dWdWYmU2RWlYRUxfNG9TblJVNmRjNFJkc2h0cGEzYkxZSW5mV1puRl9FZnNRUWF3b21FbWlNRGQtdWZVYnhMZTRxSU5KNlBiRDBGNDRMNGdGM2Z6YXUwb3lBTVpRSG9B?oc=5",
-      "published_at": "2026-07-26T21:36:27+00:00",
-      "sentiment": "neutral",
-      "sentiment_source": "keyword"
-    },
-    {
       "symbol": "MARICO",
       "title": "Marico Limited (NSE:MARICO) Looks Interesting, And It's About To Pay A Dividend",
       "publisher": "simplywall.st",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNUnpONC1vZGJ6REZDQWJwV3psWE5ncTRWSmYyLVZCOW9pd3lvVURleEF3QXNDaXMtaVVBek1WRWtLS2F3WldsSGx2cDJpNHJsaXBjVTBRTnlLa3dST2RPczIyajdaWjVLamdkTHN5Q1hSU1FlM1pxTV9JdjJubUhfa3ljVEowVzNLOGtnOWc5ajVleDNZdWViUk9qTUFEbm1GS1JmWHZQcTNjRVFCOF9GbjFSQnYtcld1Q0JZN0VmU3ZteExzaXFjcWplUmlwSUNCMjRTM0J0dVdSU2fSAeABQVVfeXFMUFFLSTFsSUV0NzQ3MHZ1OUNZZlJrOFc5THBPc1Z2WDBVTXlhVTcxa0pNN2l2OHlaNS1yZGZSbl9nazQ2NDBRSmZDOERUXzh4cks0TVB0UHZvelpvekNWRGsza3FIYVlDeFdDeFdZLTJqWkJrMEQ5RE82aHZMdm13UVFlZHRvNFdHZjVaRFdFWVc3U2NyV1ZlOUVaUHJsNmQ4Ykx2WHBhaXl5NmdzNE0xdDJkT09BSGktSTdGUHlneEtGbmZrdlpqZi1jWXpkb3kzNXNhWEhFQ1phRUk5U0tDVUo?oc=5",
       "published_at": "2026-07-26T02:26:28+00:00",
-      "sentiment": "neutral",
-      "sentiment_source": "keyword"
-    },
-    {
-      "symbol": "MANKIND",
-      "title": "Mankind Pharma Limited (MANKIND.BO) stock price, news, quote and history",
-      "publisher": "Yahoo Finance UK",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5sWDFjOW9SZG5QN05fckxXNDZVNDlFMXdMSGJJNVZEc1p4c1cyQXIyU1FHY3R1MUhIYTFSNkttTFhHSm00X216TDJ0bGEySldKVzU5Y0UzUTZ0dw?oc=5",
-      "published_at": "2026-07-24T09:59:39+00:00",
       "sentiment": "neutral",
       "sentiment_source": "keyword"
     },
@@ -323,30 +350,21 @@
       "sentiment_source": "keyword"
     },
     {
-      "symbol": "UJJIVANSFB",
-      "title": "Ujjivan Small Finance Bank Q1 results 2026: Net profit jumps 200% to \u20b9317 crore, NII up 38% YoY",
-      "publisher": "livemint.com",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQZmFnd21hV09NZ1BIWEhXNEJZUHZHTzd5U0Izdm9IbFBHcFVpSmFCVkt2emdHb3ZaSjBPb0owTnFoVlF0NFBna1pTR0NpX1d5UUpPNUdoOWRTNGdBbjRJY3ZidlNxc3lrOGdaejcyWjJiNlpoRklxODVWLWtPYUNKcnBnQkIyUmxTNndpZHN3MWxnOEJ1NUZncG5nY1d1d3lKT0dyVkpzd2hrZEpQM014bndBOFlsUzhjSEh2ZFNXdFlzbmpCd2lES3F4eWdZUERLNEgzZlFKdmtqa25mTVp0dUJYM1VwZ2VWNEsxT3ZUeGZyZ9IB9wFBVV95cUxOS2JlQTBUNEs0clN5SE14V3lwS1lnWTQ5dE5keFBmZWRuTWNidlNtNG5iZ3IxWVlmeEFwZXl3R0JaSzNvZk9CYjE3M0Y0OHZua0ZqTkZOTzJDemE0c2NhWHl2N1llcjlCZEd3MzFRYmEtcEpXUkdiRE1nZWlMLUNzVTFkdVAwM2FpT3ZkU2Fqa3MtZTd5Ql9DVlhkcG1MS24zUFNXX0JEUnF0TDhwV0RLMXdHZjBWenB0S2Q4dnJjWncyMXN2a2tVTTRvRGtuc1pRbDRLT1BmMEQ4a0ltNzZDWXFoU091X0h5bVdYenRDUDdEQ0o4UlBj?oc=5",
-      "published_at": "2026-07-23T08:37:56+00:00",
-      "sentiment": "positive",
+      "symbol": "NESTLEIND",
+      "title": "Nestle India stock extends fall to over 2% after post-results rally, among top Nifty losers; brokerages...",
+      "publisher": "Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNWHl0djg4MzRSdklpTEZZTFUybEtaSVJzQ2tYMUNlOHBTZ2pHSFFaTGRHeFB1THoxeWZ0cFUyQ2lIZjVVRlFCZVVYeWVyZkxLUUxXNGdNSWZidmpKWmpqb0laTFM2bjZGMHoxSlE3eU55U0RqRUtvYU52Y0NwaldVZ3hKSTlHWXNPdzJqQVNLS0NhVWZnbjhOZ3M4S1FQVjdiNDN3VzJUbWtVM1AtcnBfVGlFMmlGUXY3YV9SdmpCNS1tTzBpQm1xRk94UHRDUUtDVWdzNGpVbUJJcTdIOEFUZkdfNWl2VWprMlUtdTF3NlhieUw0bl9uZ0tMRF83RGxn0gGGAkFVX3lxTFBFcC1YRUVaWkFodlJhQnlZUTloREdwQ1BIbHNSeU1EcVYzMGFLaXYzbHNTNWg0a0FXWUZkVzNrRDZoSnQtQk5tMnV5VU1JT0R5M3ZZQklTWFR2MnMxVm5XbElKcGpWc1daclpFRDRJT2dSbVc4eXJmS2F0cmJzdHN0VThiT0s5am5oSmdDWWNNYlZ0WTJBdzlmVXI3OFhrMXlfVEZfdldOOEJSZmhtamI5X0pxU0pld2x0dmc2cXYwVm5TczRTQlpCOThsZmlzc0RvbjZiZl9aalRsYzkydlQtYVU1OHhkVVBGVzM0dVd3YmgxMjNYOEJ2eDRUVEwzd19UcFhETnc?oc=5",
+      "published_at": "2026-07-23T03:55:54+00:00",
+      "sentiment": "neutral",
       "sentiment_source": "keyword"
     },
     {
-      "symbol": "BAJAJ-AUTO",
-      "title": "Bajaj Auto Shares Gain 2.06 percent to Rs 11,225",
-      "publisher": "TradingView",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPR3p3d2d5NEtYMElCUy1uZVB3cjlFbTJuck4xSDFreUNRcDJtRVNHdHhGUzQ5U2RuWXpmYUdJUG43TTduT3NXc1BxOTRTT3E3NFlTSFozRnhpcWdSUlBiejhBcFRKMUNsTTRBV1RKRldOb1Jyb2Utc0NKMkFMMmQ1UzFEU1Q4TEkxNDBzQUhJWFlueVNQT1htdzlOQkVOV3ltTnBsekVSamJHQzl3ZDRLMA?oc=5",
-      "published_at": "2026-07-23T05:18:00+00:00",
-      "sentiment": "positive",
-      "sentiment_source": "keyword"
-    },
-    {
-      "symbol": "BAJAJ-AUTO",
-      "title": "Bajaj Auto Credit standalone net profit rises 120.97% in the June 2026 quarter",
-      "publisher": "Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNNTZIdzRuTGd4VFV5V2hDbEFjSUs3bEV3MEdQWUpqWVU0NUhFLWNSUy1RWTA2NlQtRnhmek9na09zdFQ1a2Rhai00ZVp5UTZoT3RXT2hKY1NIaWZ6Wmoyb3JnNWFoajIzOFJsbG9uUmRXY09NMkxYSmR5SkN5U3g1bHowaU1tbEk4eG9yUGg1MC1Sel9HTXJ2Y0V0bUpaM09iOTM1b2lpNThJZTNlejFGQktibFNJalU3WjNZdlhObjBBVEdWa0hZd0lXMlpOSTc5R3cyc3hySVdLYUFnRFg5aXMxT3kzTGs4ZzhWOGpXQ2PSAfYBQVVfeXFMTmxDSncyOFRTT1BuYVU2WDFEd1ZLcGRRNGdidE8tczFEX3hTYlpyM284bXhRUjBfWVROX3lZS1ZrNjFOVnFYR282WVY4cGZac01wSko1WHpvN01scnc5M3g2ejl3SmdJcmZKbmZJTWl5NWVwU3hyM0RyOHlLakxMMk5SNFFtaFByaWE0WnBLVlNxaE1aTHFHa3lrQ05yWlhKLTc3Qkg4YndfODZ4dXZuamhmVzltNFVhSTdSdWtpc0hlNG1CZnZaTXU0UGNhOFBsQ1ktX19mS0JNek94ZjZLOEx5VHZpWlVva0JzMWVyYmtobUtnTTdn?oc=5",
-      "published_at": "2026-07-20T07:00:00+00:00",
-      "sentiment": "positive",
+      "symbol": "YESBANK",
+      "title": "YES Bank share price target: What can trigger a re-rating for the stock?",
+      "publisher": "Business Today",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOczFpSW9TbXczVm1qQlBmTm9qdkdWaHU5NS1RSkgyT05SS1UwSF9ENkZVbktWR3EyTGtaTVpxdUUtWHNtbzFUTEl2NUdFamhKX3BJYm1PU3o3LW1USjRtaExMd044SlNCYUZkUDhQZHhwal9UeVQtbUJwWGxEd0dUbkxuRF9ValVRLVhud1ZZcGtaQnZVV2p0VF9BaFZUMndZT2NsdWRLdy1lei05TWI2ZTA3Sy1pLXZaZ184RXdFZ3lfSVZ3WHhscDdKM05pS1BxMzVHRdIB2gFBVV95cUxQeUhzNjZ6SkpIU3pzLUM1Z2dzOTJscmphX29LOFpmcGwySlp6cEZFTmxJYXhmQlJaeHVVYlpHTU1yOWZCb2pOMFZ5d0dHelRCNXlnTTZvc2V5S0pzWHBnYjJ0WTczSVgxdzczeVR3NXJueU5LZXZBR0lJbkYxTjNPYnRxdkZOaElvQWRzX2dyQkZ1UFQ1NEhQSUtNOUdZRmNwNW4wbExLUG1QWmpjZmdDTXdpSlZlXzNVam1WVjVWWUc3TjlnaWZaQWhpbE50TE04STRpUnFNRl84Zw?oc=5",
+      "published_at": "2026-07-22T02:57:57+00:00",
+      "sentiment": "neutral",
       "sentiment_source": "keyword"
     },
     {
@@ -378,11 +396,20 @@
     },
     {
       "symbol": "JIOFIN",
-      "title": "Jio Financial Services Q1 Results: 2027 PAT Surges 156%, Income Up 141%",
-      "publisher": "sahi.com",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9BeTZya2tod1UwX2czVkpBenRTaGF1YzNyTkNOWkpzeDVpWnptWGZGOW5UNnVVcktINnNPaDg2V3VORFhmTVBScXJYZGctbTk4ZEhjSFFwV19hUGhWLVVtVVpIUjVfRTBZVW14aUJYMlJzVFU?oc=5",
-      "published_at": "2026-07-16T07:00:00+00:00",
+      "title": "India's Jio Financial shines on upbeat growth outlook",
+      "publisher": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNalIwNElFakpqU01LMFl4MHVEWU5rYzFHWGk2cTBfRDV1eTl2czVKWXZMWHowRFZnRFp0cVkxTC1wZjRaUjNwVjczWHMxNUp2ZVp2aER5dGZ0ZnhlTkJYSGNzcDFpQ3BIUERvQjl3clduamdLY2JOUDJ6ZUlqLXBiVm1NMTFrb0VYNXZ4NmJBdUV1WjJyTXQ4akhfSjE5dFNqaXVPaGpXMTBvVVN4NXZpa0NqQQ?oc=5",
+      "published_at": "2026-07-17T07:00:00+00:00",
       "sentiment": "positive",
+      "sentiment_source": "keyword"
+    },
+    {
+      "symbol": "DIVISLAB",
+      "title": "Divis Labs Share Price Highlights: Divis Labs Stock Price History",
+      "publisher": "The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZVUwT2hNRXFubGJZNHlYTU4wMzJvX3FWbjB1VHJOMnUzUklxQlVIRjRBTE5NaC1IRnhzb2loTTdXNFJRUkdLMnNzSUJkeHlYb0cxVGdMWEcyQ0l0cDhFUmNORXQtaXAwWVAxOHBFdVZjbzJ3eE5kVy02dGFUQmg0Y3JxUGVUM1RTZ2ZSRzFfa3lid0pxRldDTmdQRWx0TS1RVDBxQ3UyTVJZSXhiUzVlR2oxWFVUUjBpTHFMb1dVSTJKVWRP0gHKAUFVX3lxTE8wSnduWmJxOHp0dVBGbWF2cWxyTDVDZVdRcjNLQ0U1dWk0YXJIRFF3QW9tSC1wODhJdGpDRGU1bm5veW5hb3d6ODJTbWVMUnQwZTVnb1g4aE9MRlVWc09mQlZYWnJHZ1ExS0otbkVGSkFjeWladmtWakZ1OUVYZDJLdGo5eTlhdVMycllEMERkZWxoaEtKejc1c2F0bjUtcXFoOHF3Y0RuQWY3UjRONnJya0Q5YnVOV0thZEJPOGJfRlRzYVdFemQ3bEE?oc=5",
+      "published_at": "2026-07-14T07:00:00+00:00",
+      "sentiment": "neutral",
       "sentiment_source": "keyword"
     },
     {
@@ -392,24 +419,6 @@
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNMDFlY3ZBZkF3eHQ3WFR2V0VYblEweXV0dWd2YkFoZHN1VjluRU1QMjZGR3ZLQ3dWY2hwVjBqX0VoeVlMcWVNUkVTaFd6eDN6MEhqalp6cHdMSlhWNkJBX25RMGJfOEpNVFBVN0E5Rk9BNHpLdHUxaTZldjJJNURwOGxhZkQwTDJoNWNsc09hVjgyTzlVSERXUEpnYXUxRG50TWRnVTRUODlvWVpkYVp0ZktnOGNhVGRyMDVldGw1Y0EwU2NCY1RVY1BGMzdNSWfSAdQBQVVfeXFMTm8xV1Jsd2VybXY0V3V3eDZyd1VURVlaYU5CaGJCbWc4bi1UMW9ybkZwckxrTWs4VGVmRzV2NHhxemU1eGxYOGVIdzJKbTVWbFhMcXlsZWhKR04tNklydDYxVEE1UGFIckdIaHpPeXQ0NFVvbXFOVTRNYzI3VlZqenBEQ1A4X2w3Uk1YeDRzSmdmblhVS1VzTU9VVUVhUWVZQTdlSm1jMXFFYkhtLVJNQ0ttTWJTQ1dEWFdoTUdiNEpmYld0dmFNX01HSzNkZndzaHZENGI?oc=5",
       "published_at": "2026-07-13T07:00:00+00:00",
       "sentiment": "positive",
-      "sentiment_source": "keyword"
-    },
-    {
-      "symbol": "MANKIND",
-      "title": "Analysts Are Updating Their Mankind Pharma Limited (NSE:MANKIND) Estimates After Its Yearly Results",
-      "publisher": "simplywall.st",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQZjNaWTFOM2JFeGNZYTBKa1RpNm8tN3dpWUE5Rlo3V0NISVMtbFA2YnNsZS04UWw5MEo1djNoYkdUZHNXdHhrazlyXzM1OUwtSmZQbTJNWEpKWUstSGdDT2FFRE0zVV8xYldiNkl1RzNlNE4xblNPSmR3QWlCNllVTjQxb2NuVUk1Mm5FY0lyUGJUWl9LRlRDZ1BzNnVYRVdYVmdibTFvNkxjak05X1I3NjF5OTJ1dWNwTk1rcFRvQVFqZDh0aHZBTlB3NlpxZUtLOHRGcGlQQllTS200NXBaNlZOSUVLR0pnUndBSFVB0gHzAUFVX3lxTFBKc1I4VjJmTmE1Y2tvaVQyaV9oOGRVSjFGZG5sVk9CUkNDaUt0aExVbTNXQWpkYjJ1RTZ1Z0R2bFdncFJoN1pzTi1maGtDREdOMGx6UzdMUUwzV0Z1TjI3MUNuUTNWbV8tbDBRX2dWU3d1N1FjemYtbVlGQWUtNW1fVnJxQWlQVmFNTmFndWVhR0NNUk1sQnROZ1FGd1ZmOXdkLTlOVjN4MmtZNTlieXNFbU9yN2ktUEY1S0NWXzZJWkNxNEJoOHMyNUJJNV9HUVZ3ZkQwOXctbm9STEJsbVlZYUJGdVhsWjFJbzVzSHFBaGpQQQ?oc=5",
-      "published_at": "2026-07-13T07:00:00+00:00",
-      "sentiment": "neutral",
-      "sentiment_source": "keyword"
-    },
-    {
-      "symbol": "DIVISLAB",
-      "title": "Divis Labs Share Price Highlights: Divis Labs Stock Price History",
-      "publisher": "The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTmtmOGNwY3BIbGVwOXptMmJfZEhab293SFRJZ0pHSF9DanhGdGRzeTc1NTE2TTU5QlJ0RWFDeDk1QUVpRlVUUlNIVUtlM18xc1Z4VUtuMlhaeGlCRjd4cVlSbFhTZnNyZDdwR3kyQ3Vmd3NIdC03QmRrREcxNklNcE8wS3QwR2QxcUFkdWcyOWttamwyOXo2OEs2eFQxdEpEOTRrUlJsN0NFWkFrNGdyc2ZadFRxc3MzUkxaWWhQUlBMbW1ZZ2h30gHMAUFVX3lxTE94RkdxZVdOcWJjX1VnZFBacmxvTWZfWnVyeWU4dkprV2xZZWVKOWhuR2poU0Q1d1g5OHk2TUVpRXZPWlQwTnJYMFJCMU9nay1xblFyc0Y2TUtmeTZZVi1yNnc1SlpOblFmYk5uOTJlNVlJTlktQklNQXlKeHFTb19LQ1MzbTZRZE1lYUF0eFhhaEhnbXo2MzNsUktCM2xaMVJVRGdUczVQVUdPS0Z3eWpMdXcyYnBnOXFrbUVOckthVGhPRjNrQ3VuSHhJNQ?oc=5",
-      "published_at": "2026-07-09T07:00:00+00:00",
-      "sentiment": "neutral",
       "sentiment_source": "keyword"
     },
     {
@@ -458,6 +467,15 @@
       "sentiment_source": "keyword"
     },
     {
+      "symbol": "FEDERALBNK",
+      "title": "Federal Bank (NSEI:FEDERALBNK) Stock Sees Split Analyst Revisions On Valuation Inputs",
+      "publisher": "Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNLTlQcTN0RG4tY2E0Z1NxNUVtVEJoaEdpWGI4WEZ0Z2ZDT1l6M0VhRE0tQXk2V2dzNzh2WE9UUDlGZHpfOWxWeGFIWlN0b3cyeXNfZU5iUTJCVzVySi1YRzFqTktVLXkxN3hrUGxWZkJGZ0JFa005SXZaMVBvWkdoQ3dsSjR1YjJ2cWFneXlKX0dWRmxLaktScHFiRGdpOTl1?oc=5",
+      "published_at": "2026-06-14T07:00:00+00:00",
+      "sentiment": "neutral",
+      "sentiment_source": "keyword"
+    },
+    {
       "symbol": "BAJAJHFL",
       "title": "Bajaj Housing Finance shares a long-term 'Buy' with 60-70% upside potential?",
       "publisher": "Business Today",
@@ -467,20 +485,20 @@
       "sentiment_source": "keyword"
     },
     {
-      "symbol": "SCTL",
-      "title": "What we learnt from Scotland\u2019s 2026 elections",
-      "publisher": "Electoral Reform Society",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZHlIWlZnZUt2M2JSVmhkaWtmSE1raTgyU2JyQURCN1ZxN21WZ3JSOWQ4NkY3dDBQS25sbkNLZFJGdDZpWWlZcmtQcWtNb1RjRmVlMWt1Wi03VF83dWsxbzZVVGJjREFraDdTdDJfcUpRQXJtbkw5eGF6VXpZZENqVkNzRQ?oc=5",
-      "published_at": "2026-05-14T07:00:00+00:00",
-      "sentiment": "neutral",
-      "sentiment_source": "keyword"
-    },
-    {
       "symbol": "RCOM",
       "title": "Penny stock under Re 1 Reliance Communications hits 5% upper circuit after this update",
       "publisher": "livemint.com",
       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPQmxSMTJCZk9IQzRKdC1SUFEzR0tUMGlJaXpFMngyaERBZmZEQ2hYcnQxZGVNX0lYWFpHY0Ffc2dkUXI4V1FjSzJJV1NLNndSYkhRX0hXWkg2VlVOUkhfSVVyOWZnR0FqeTZaeFNYYTJ6czdlYjhuV2hLamZFN2pSN2dNdGNuN3VzdFUyc2F2UDFfTGMyeVlzRXpudXdYMTd1Mm54T2dwdnlMSDVWQTZKYzA4U0VrTXh5SmVhZHpfUlRmZURUUEF5MnUwMjZPSG5feEpYaTVxczNWSzJaOFpZdzJvVEIxeTg4Yk1v0gHwAUFVX3lxTFBocjFoZHowMVlHOUVlS21wU3FXQ0RKb1hOQzE3czZTelI3NEtfNVVhbkdXVmhTWHlMYXlhaFp3ZTVxVmpxSGsxMEJxQnl3WWkyUnBFenFaS2wtUjhNMDZud0dLVWw2LUNsd3QzZTVSbkpGU2d0REZ5aklQeWZzRWJtOTlJYW5wNTFMWi1SR3hhd0dLcC1vZ2RVaDYxTlJZTXMweXBLRmZIeS1ZUWxrNUUzZTBzOGxYMEdEQ2c2NXZ6Z2VQeThlR19WLV83RzNWUjhBMS1MaC1fd3A0b2pFNFdRdEc3RzJaeGdRcGFwdmpFZg?oc=5",
       "published_at": "2026-04-07T07:00:00+00:00",
+      "sentiment": "neutral",
+      "sentiment_source": "keyword"
+    },
+    {
+      "symbol": "SCTL",
+      "title": "My phone contents were shared with the police colleague I accused of rape",
+      "publisher": "BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBIeWdPekNkWUtkUjA1MS1XYk14eVNYbjJIMEFma0xfM1huOVQwTkh2ZGtRbWFLU05xQ0pFeWMwWTI1V010X1diaUpQSktyZ0RRWjNtLW9XVXRNdw?oc=5",
+      "published_at": "2026-03-12T07:00:00+00:00",
       "sentiment": "neutral",
       "sentiment_source": "keyword"
     },
@@ -499,15 +517,6 @@
       "publisher": "Rediff",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObmhFVXN1TUdCVXh6Qjdza3kzVnFHaV9LVXpLSDNDaW1tUTFKdHJiX2NQVUxDZHM1eHRkS2wyQVZPcEFCaEpFWnNHa2tRVC1fUVozQy1ST0s4cjFONnhaS0V4RERVZHJGRE1wNzdGb29JU3d0YVNVcHlyUER2R2x1OUVPZ2FfN2FJbVdKOU8yYndSWWlWS2piNktoMGFQcTjSAaIBQVVfeXFMUEVHUVF6c192cDNtWWszc2RuMmkybXlQSmZWREJRUkZIVVVaYWhwdmtUbWlyUEZ4c2F3eXU1MW1zeWVsZE16ODgzbC0xcFA2UGp5bERYVWE4S05mLW1YWFZDODQwOG9sTExUenktLVlzWHNUNEQ5cnE3QTJMMUYwenJxVktSME1UUm1CRmprVUFOVlZyR0FXYUQ0NVdXYmtpbklB?oc=5",
       "published_at": "2026-03-09T07:00:00+00:00",
-      "sentiment": "neutral",
-      "sentiment_source": "keyword"
-    },
-    {
-      "symbol": "MEDANTA",
-      "title": "Global Health Ltd. Share Price Today - Global Health Ltd. Stock Price Live NSE/BSE",
-      "publisher": "CNBC TV18",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOZW1McFo2Q0NfS2ZIX3JsalhIQzNKOVY0OW9heXFCYWxPRHlreEJ0S3pCVG1aRHd0OVhmWHpEY0t3czI5bTdaV29JZEI1N2w4OUx5MW1nTnFDT3hISkVhMXk5a21OUE9IbUFjT2tfbEZ3TF9oSFpwd0lKVnhyY28?oc=5",
-      "published_at": "2026-01-03T16:20:04+00:00",
       "sentiment": "neutral",
       "sentiment_source": "keyword"
     },
