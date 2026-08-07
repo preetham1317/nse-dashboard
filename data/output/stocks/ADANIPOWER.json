@@ -3,40 +3,30 @@
   "name": "Adani Power",
   "sector": "Power",
   "indicators": {
-    "date": "2026-08-05",
-    "close": 207.4,
-    "prev_close": 209.95,
-    "change_pct": -1.214574898785417,
-    "ema20": 214.22231340358613,
-    "ema50": 215.49196001572076,
-    "ema200": 183.49737171658023,
-    "rsi14": 39.22012758862479,
-    "macd": -3.3675713409218417,
-    "macd_signal": -2.972137040904685,
-    "atr14": 5.692216265114618,
-    "adx14": 14.7085696649717,
-    "adx_pos": 15.825833216452063,
-    "adx_neg": 24.35301904442971,
-    "bb_high": 223.9343337393061,
-    "bb_low": 205.32366626069387,
-    "bb_mid": 214.629,
-    "vwap20": 216.4793792849224,
+    "date": "2026-08-07",
+    "close": 209.0,
+    "prev_close": 208.12,
+    "change_pct": 0.4228329809725136,
+    "ema20": 213.32308583442244,
+    "ema50": 215.01717639411368,
+    "ema200": 184.04948865751874,
+    "rsi14": 41.34780557743448,
+    "macd": -3.2986883869609187,
+    "macd_signal": -3.0790930382976454,
+    "atr14": 5.424513004158466,
+    "adx14": 15.158477595170092,
+    "adx_pos": 16.82104073614808,
+    "adx_neg": 22.401360175404758,
+    "bb_high": 223.3777860109966,
+    "bb_low": 204.27421398900333,
+    "bb_mid": 213.82599999999996,
+    "vwap20": 215.86933031287282,
     "high_52w": 254.2,
     "low_52w": 110.45,
-    "volume": 14923211.0,
-    "avg_volume20": 25147431.4
+    "volume": 14177243.0,
+    "avg_volume20": 24372254.85
   },
   "price_history": [
-    {
-      "date": "2026-02-09",
-      "close": 151.37,
-      "ema50": 143.47
-    },
-    {
-      "date": "2026-02-10",
-      "close": 149.05,
-      "ema50": 143.69
-    },
     {
       "date": "2026-02-11",
       "close": 150.91,
@@ -624,8 +614,18 @@
     },
     {
       "date": "2026-08-05",
-      "close": 207.4,
-      "ema50": 215.49
+      "close": 208.99,
+      "ema50": 215.55
+    },
+    {
+      "date": "2026-08-06",
+      "close": 208.12,
+      "ema50": 215.26
+    },
+    {
+      "date": "2026-08-07",
+      "close": 209.0,
+      "ema50": 215.02
     }
   ],
   "flags": {
@@ -640,14 +640,14 @@
       "price_above_bb_mid": false
     },
     "flags_detail": {
-      "price_above_ema20": "Close 207.40 vs EMA20 214.22",
-      "ema20_above_ema50": "EMA20 214.22 vs EMA50 215.49",
-      "ema50_above_ema200": "EMA50 215.49 vs EMA200 183.50",
-      "rsi_above_50": "RSI(14) 39.22 vs 50",
-      "macd_bullish": "MACD -3.37 vs signal -2.97",
-      "adx_trending_up": "ADX(14) 14.71 vs 20, +DI 15.83 vs -DI 24.35",
-      "price_above_vwap20": "Close 207.40 vs 20d VWAP 216.48",
-      "price_above_bb_mid": "Close 207.40 vs BB mid 214.63"
+      "price_above_ema20": "Close 209.00 vs EMA20 213.32",
+      "ema20_above_ema50": "EMA20 213.32 vs EMA50 215.02",
+      "ema50_above_ema200": "EMA50 215.02 vs EMA200 184.05",
+      "rsi_above_50": "RSI(14) 41.35 vs 50",
+      "macd_bullish": "MACD -3.30 vs signal -3.08",
+      "adx_trending_up": "ADX(14) 15.16 vs 20, +DI 16.82 vs -DI 22.40",
+      "price_above_vwap20": "Close 209.00 vs 20d VWAP 215.87",
+      "price_above_bb_mid": "Close 209.00 vs BB mid 213.83"
     },
     "flags_on": [
       "ema50_above_ema200"
@@ -659,5 +659,5 @@
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-08-05T16:23:34.701436+00:00"
+  "updated_at": "2026-08-07T12:34:07.029529+00:00"
 }

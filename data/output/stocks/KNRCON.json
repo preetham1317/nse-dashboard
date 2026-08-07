@@ -3,40 +3,30 @@
   "name": "KNR Constructions",
   "sector": "Infrastructure",
   "indicators": {
-    "date": "2026-08-05",
-    "close": 132.96,
-    "prev_close": 128.23,
-    "change_pct": 3.68868439522734,
-    "ema20": 125.40847932139467,
-    "ema50": 127.0025205517966,
-    "ema200": 144.14850436173927,
-    "rsi14": 63.416830368417,
-    "macd": -0.546533234235298,
-    "macd_signal": -1.7352580148719987,
-    "atr14": 3.935520688450311,
-    "adx14": 21.417078275446418,
-    "adx_pos": 34.63822246548215,
-    "adx_neg": 18.164352694631674,
-    "bb_high": 131.30633852238174,
-    "bb_low": 117.25966147761824,
-    "bb_mid": 124.28299999999999,
-    "vwap20": 126.73570908879091,
+    "date": "2026-08-07",
+    "close": 139.99,
+    "prev_close": 140.35,
+    "change_pct": -0.2565016031350091,
+    "ema20": 128.08467354880622,
+    "ema50": 128.01475760969663,
+    "ema200": 144.27429588046738,
+    "rsi14": 70.60151627599592,
+    "macd": 1.6363113620381569,
+    "macd_signal": -0.6716298931046334,
+    "atr14": 4.3350663079973435,
+    "adx14": 24.336166479073047,
+    "adx_pos": 35.330045413864255,
+    "adx_neg": 14.218605814132182,
+    "bb_high": 137.2349965969015,
+    "bb_low": 113.72700340309852,
+    "bb_mid": 125.48100000000002,
+    "vwap20": 130.67146073315132,
     "high_52w": 220.0,
     "low_52w": 108.65,
-    "volume": 4128143.0,
-    "avg_volume20": 739631.75
+    "volume": 1538765.0,
+    "avg_volume20": 1023337.15
   },
   "price_history": [
-    {
-      "date": "2026-02-09",
-      "close": 146.76,
-      "ema50": 153.35
-    },
-    {
-      "date": "2026-02-10",
-      "close": 147.75,
-      "ema50": 153.13
-    },
     {
       "date": "2026-02-11",
       "close": 146.2,
@@ -115,7 +105,7 @@
     {
       "date": "2026-03-05",
       "close": 123.97,
-      "ema50": 145.07
+      "ema50": 145.08
     },
     {
       "date": "2026-03-06",
@@ -170,12 +160,12 @@
     {
       "date": "2026-03-20",
       "close": 118.01,
-      "ema50": 136.75
+      "ema50": 136.76
     },
     {
       "date": "2026-03-23",
       "close": 114.06,
-      "ema50": 135.86
+      "ema50": 135.87
     },
     {
       "date": "2026-03-24",
@@ -626,12 +616,22 @@
       "date": "2026-08-05",
       "close": 132.96,
       "ema50": 127.0
+    },
+    {
+      "date": "2026-08-06",
+      "close": 140.35,
+      "ema50": 127.53
+    },
+    {
+      "date": "2026-08-07",
+      "close": 139.99,
+      "ema50": 128.01
     }
   ],
   "flags": {
     "flags": {
       "price_above_ema20": true,
-      "ema20_above_ema50": false,
+      "ema20_above_ema50": true,
       "ema50_above_ema200": false,
       "rsi_above_50": true,
       "macd_bullish": true,
@@ -640,29 +640,30 @@
       "price_above_bb_mid": true
     },
     "flags_detail": {
-      "price_above_ema20": "Close 132.96 vs EMA20 125.41",
-      "ema20_above_ema50": "EMA20 125.41 vs EMA50 127.00",
-      "ema50_above_ema200": "EMA50 127.00 vs EMA200 144.15",
-      "rsi_above_50": "RSI(14) 63.42 vs 50",
-      "macd_bullish": "MACD -0.55 vs signal -1.74",
-      "adx_trending_up": "ADX(14) 21.42 vs 20, +DI 34.64 vs -DI 18.16",
-      "price_above_vwap20": "Close 132.96 vs 20d VWAP 126.74",
-      "price_above_bb_mid": "Close 132.96 vs BB mid 124.28"
+      "price_above_ema20": "Close 139.99 vs EMA20 128.08",
+      "ema20_above_ema50": "EMA20 128.08 vs EMA50 128.01",
+      "ema50_above_ema200": "EMA50 128.01 vs EMA200 144.27",
+      "rsi_above_50": "RSI(14) 70.60 vs 50",
+      "macd_bullish": "MACD 1.64 vs signal -0.67",
+      "adx_trending_up": "ADX(14) 24.34 vs 20, +DI 35.33 vs -DI 14.22",
+      "price_above_vwap20": "Close 139.99 vs 20d VWAP 130.67",
+      "price_above_bb_mid": "Close 139.99 vs BB mid 125.48"
     },
     "flags_on": [
       "price_above_ema20",
+      "ema20_above_ema50",
       "rsi_above_50",
       "macd_bullish",
       "adx_trending_up",
       "price_above_vwap20",
       "price_above_bb_mid"
     ],
-    "flag_count": 6,
+    "flag_count": 7,
     "flag_total": 8
   },
   "fundamentals": null,
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-08-05T16:56:25.813326+00:00"
+  "updated_at": "2026-08-07T13:06:49.207937+00:00"
 }

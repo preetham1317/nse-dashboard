@@ -5,39 +5,35 @@
       "quantity": 85,
       "buy_price": 152.95,
       "buy_date": null,
-      "current_price": 86.98,
-      "pnl": -5607.449999999999,
-      "pnl_pct": -43.13174239947695,
+      "current_price": 85.79,
+      "pnl": -5708.5999999999985,
+      "pnl_pct": -43.90977443609022,
       "flags": {
         "flags": {
-          "price_above_ema20": true,
+          "price_above_ema20": false,
           "ema20_above_ema50": true,
           "ema50_above_ema200": false,
-          "rsi_above_50": true,
+          "rsi_above_50": false,
           "macd_bullish": true,
           "adx_trending_up": false,
-          "price_above_vwap20": true,
-          "price_above_bb_mid": true
+          "price_above_vwap20": false,
+          "price_above_bb_mid": false
         },
         "flags_detail": {
-          "price_above_ema20": "Close 86.98 vs EMA20 86.56",
-          "ema20_above_ema50": "EMA20 86.56 vs EMA50 86.44",
-          "ema50_above_ema200": "EMA50 86.44 vs EMA200 92.22",
-          "rsi_above_50": "RSI(14) 52.11 vs 50",
-          "macd_bullish": "MACD -0.02 vs signal -0.11",
-          "adx_trending_up": "ADX(14) 17.03 vs 20, +DI 26.76 vs -DI 16.49",
-          "price_above_vwap20": "Close 86.98 vs 20d VWAP 86.66",
-          "price_above_bb_mid": "Close 86.98 vs BB mid 86.53"
+          "price_above_ema20": "Close 85.79 vs EMA20 86.47",
+          "ema20_above_ema50": "EMA20 86.47 vs EMA50 86.42",
+          "ema50_above_ema200": "EMA50 86.42 vs EMA200 92.17",
+          "rsi_above_50": "RSI(14) 46.44 vs 50",
+          "macd_bullish": "MACD -0.09 vs signal -0.09",
+          "adx_trending_up": "ADX(14) 16.68 vs 20, +DI 24.51 vs -DI 19.43",
+          "price_above_vwap20": "Close 85.79 vs 20d VWAP 86.53",
+          "price_above_bb_mid": "Close 85.79 vs BB mid 86.36"
         },
         "flags_on": [
-          "price_above_ema20",
           "ema20_above_ema50",
-          "rsi_above_50",
-          "macd_bullish",
-          "price_above_vwap20",
-          "price_above_bb_mid"
+          "macd_bullish"
         ],
-        "flag_count": 6,
+        "flag_count": 2,
         "flag_total": 8
       },
       "sector": null
@@ -47,32 +43,37 @@
       "quantity": 103,
       "buy_price": 173.35,
       "buy_date": null,
-      "current_price": 389.4,
-      "pnl": 22253.149999999998,
-      "pnl_pct": 124.63224689933661,
+      "current_price": 402.0,
+      "pnl": 23550.95,
+      "pnl_pct": 131.900778771272,
       "flags": {
         "flags": {
-          "price_above_ema20": false,
+          "price_above_ema20": true,
           "ema20_above_ema50": false,
           "ema50_above_ema200": false,
           "rsi_above_50": false,
-          "macd_bullish": false,
+          "macd_bullish": true,
           "adx_trending_up": false,
-          "price_above_vwap20": false,
-          "price_above_bb_mid": false
+          "price_above_vwap20": true,
+          "price_above_bb_mid": true
         },
         "flags_detail": {
-          "price_above_ema20": "Close 389.40 vs EMA20 399.61",
-          "ema20_above_ema50": "EMA20 399.61 vs EMA50 408.78",
-          "ema50_above_ema200": "EMA50 408.78 vs EMA200 412.78",
-          "rsi_above_50": "RSI(14) 36.48 vs 50",
-          "macd_bullish": "MACD -6.75 vs signal -5.53",
-          "adx_trending_up": "ADX(14) 23.16 vs 20, +DI 16.01 vs -DI 32.01",
-          "price_above_vwap20": "Close 389.40 vs 20d VWAP 397.65",
-          "price_above_bb_mid": "Close 389.40 vs BB mid 401.71"
+          "price_above_ema20": "Close 402.00 vs EMA20 399.85",
+          "ema20_above_ema50": "EMA20 399.85 vs EMA50 408.17",
+          "ema50_above_ema200": "EMA50 408.17 vs EMA200 413.22",
+          "rsi_above_50": "RSI(14) 49.81 vs 50",
+          "macd_bullish": "MACD -4.98 vs signal -5.47",
+          "adx_trending_up": "ADX(14) 21.39 vs 20, +DI 22.96 vs -DI 27.02",
+          "price_above_vwap20": "Close 402.00 vs 20d VWAP 396.71",
+          "price_above_bb_mid": "Close 402.00 vs BB mid 400.75"
         },
-        "flags_on": [],
-        "flag_count": 0,
+        "flags_on": [
+          "price_above_ema20",
+          "macd_bullish",
+          "price_above_vwap20",
+          "price_above_bb_mid"
+        ],
+        "flag_count": 4,
         "flag_total": 8
       },
       "sector": "Defence"
@@ -82,9 +83,9 @@
       "quantity": 18,
       "buy_price": 290.79,
       "buy_date": null,
-      "current_price": 261.95,
-      "pnl": -519.1200000000006,
-      "pnl_pct": -9.917810103511135,
+      "current_price": 257.8,
+      "pnl": -593.8200000000002,
+      "pnl_pct": -11.344956841707077,
       "flags": {
         "flags": {
           "price_above_ema20": true,
@@ -97,14 +98,14 @@
           "price_above_bb_mid": true
         },
         "flags_detail": {
-          "price_above_ema20": "Close 261.95 vs EMA20 246.72",
-          "ema20_above_ema50": "EMA20 246.72 vs EMA50 242.69",
-          "ema50_above_ema200": "EMA50 242.69 vs EMA200 257.06",
-          "rsi_above_50": "RSI(14) 66.93 vs 50",
-          "macd_bullish": "MACD 5.66 vs signal 2.63",
-          "adx_trending_up": "ADX(14) 21.45 vs 20, +DI 42.91 vs -DI 13.11",
-          "price_above_vwap20": "Close 261.95 vs 20d VWAP 246.49",
-          "price_above_bb_mid": "Close 261.95 vs BB mid 243.28"
+          "price_above_ema20": "Close 257.80 vs EMA20 249.19",
+          "ema20_above_ema50": "EMA20 249.19 vs EMA50 244.06",
+          "ema50_above_ema200": "EMA50 244.06 vs EMA200 257.42",
+          "rsi_above_50": "RSI(14) 60.93 vs 50",
+          "macd_bullish": "MACD 6.18 vs signal 3.92",
+          "adx_trending_up": "ADX(14) 24.89 vs 20, +DI 37.22 vs -DI 15.42",
+          "price_above_vwap20": "Close 257.80 vs 20d VWAP 248.16",
+          "price_above_bb_mid": "Close 257.80 vs BB mid 245.56"
         },
         "flags_on": [
           "price_above_ema20",
@@ -125,9 +126,9 @@
       "quantity": 6,
       "buy_price": 318.45,
       "buy_date": null,
-      "current_price": 334.4,
-      "pnl": 95.69999999999993,
-      "pnl_pct": 5.008635578583761,
+      "current_price": 335.75,
+      "pnl": 103.80000000000007,
+      "pnl_pct": 5.4325639817867835,
       "flags": {
         "flags": {
           "price_above_ema20": true,
@@ -140,14 +141,14 @@
           "price_above_bb_mid": true
         },
         "flags_detail": {
-          "price_above_ema20": "Close 334.40 vs EMA20 325.89",
-          "ema20_above_ema50": "EMA20 325.89 vs EMA50 314.02",
-          "ema50_above_ema200": "EMA50 314.02 vs EMA200 291.28",
-          "rsi_above_50": "RSI(14) 57.24 vs 50",
-          "macd_bullish": "MACD 2.55 vs signal 3.99",
-          "adx_trending_up": "ADX(14) 20.98 vs 20, +DI 25.39 vs -DI 17.26",
-          "price_above_vwap20": "Close 334.40 vs 20d VWAP 332.59",
-          "price_above_bb_mid": "Close 334.40 vs BB mid 331.10"
+          "price_above_ema20": "Close 335.75 vs EMA20 326.97",
+          "ema20_above_ema50": "EMA20 326.97 vs EMA50 315.38",
+          "ema50_above_ema200": "EMA50 315.38 vs EMA200 292.19",
+          "rsi_above_50": "RSI(14) 57.07 vs 50",
+          "macd_bullish": "MACD 2.97 vs signal 3.53",
+          "adx_trending_up": "ADX(14) 20.13 vs 20, +DI 24.82 vs -DI 16.91",
+          "price_above_vwap20": "Close 335.75 vs 20d VWAP 333.25",
+          "price_above_bb_mid": "Close 335.75 vs BB mid 331.57"
         },
         "flags_on": [
           "price_above_ema20",
@@ -178,37 +179,34 @@
       "quantity": 65,
       "buy_price": 4.95,
       "buy_date": null,
-      "current_price": 8.76,
-      "pnl": 247.64999999999998,
-      "pnl_pct": 76.96969696969695,
+      "current_price": 8.68,
+      "pnl": 242.44999999999996,
+      "pnl_pct": 75.35353535353534,
       "flags": {
         "flags": {
-          "price_above_ema20": true,
+          "price_above_ema20": false,
           "ema20_above_ema50": false,
           "ema50_above_ema200": false,
           "rsi_above_50": false,
           "macd_bullish": true,
           "adx_trending_up": false,
-          "price_above_vwap20": true,
-          "price_above_bb_mid": true
+          "price_above_vwap20": false,
+          "price_above_bb_mid": false
         },
         "flags_detail": {
-          "price_above_ema20": "Close 8.76 vs EMA20 8.75",
-          "ema20_above_ema50": "EMA20 8.75 vs EMA50 8.95",
-          "ema50_above_ema200": "EMA50 8.95 vs EMA200 9.49",
-          "rsi_above_50": "RSI(14) 47.90 vs 50",
-          "macd_bullish": "MACD -0.11 vs signal -0.14",
-          "adx_trending_up": "ADX(14) 11.97 vs 20, +DI 30.06 vs -DI 17.65",
-          "price_above_vwap20": "Close 8.76 vs 20d VWAP 8.75",
-          "price_above_bb_mid": "Close 8.76 vs BB mid 8.73"
+          "price_above_ema20": "Close 8.68 vs EMA20 8.75",
+          "ema20_above_ema50": "EMA20 8.75 vs EMA50 8.93",
+          "ema50_above_ema200": "EMA50 8.93 vs EMA200 9.49",
+          "rsi_above_50": "RSI(14) 44.93 vs 50",
+          "macd_bullish": "MACD -0.09 vs signal -0.13",
+          "adx_trending_up": "ADX(14) 13.33 vs 20, +DI 27.26 vs -DI 18.37",
+          "price_above_vwap20": "Close 8.68 vs 20d VWAP 8.73",
+          "price_above_bb_mid": "Close 8.68 vs BB mid 8.71"
         },
         "flags_on": [
-          "price_above_ema20",
-          "macd_bullish",
-          "price_above_vwap20",
-          "price_above_bb_mid"
+          "macd_bullish"
         ],
-        "flag_count": 4,
+        "flag_count": 1,
         "flag_total": 8
       },
       "sector": null
@@ -228,9 +226,9 @@
       "quantity": 117,
       "buy_price": 77.63,
       "buy_date": null,
-      "current_price": 48.04,
-      "pnl": -3462.0299999999997,
-      "pnl_pct": -38.11670745845678,
+      "current_price": 48.1,
+      "pnl": -3455.0099999999993,
+      "pnl_pct": -38.039417750869504,
       "flags": {
         "flags": {
           "price_above_ema20": false,
@@ -243,14 +241,14 @@
           "price_above_bb_mid": false
         },
         "flags_detail": {
-          "price_above_ema20": "Close 48.04 vs EMA20 50.79",
-          "ema20_above_ema50": "EMA20 50.79 vs EMA50 52.46",
-          "ema50_above_ema200": "EMA50 52.46 vs EMA200 52.63",
-          "rsi_above_50": "RSI(14) 30.49 vs 50",
-          "macd_bullish": "MACD -1.92 vs signal -1.59",
-          "adx_trending_up": "ADX(14) 32.20 vs 20, +DI 15.20 vs -DI 34.11",
-          "price_above_vwap20": "Close 48.04 vs 20d VWAP 50.27",
-          "price_above_bb_mid": "Close 48.04 vs BB mid 51.09"
+          "price_above_ema20": "Close 48.10 vs EMA20 50.31",
+          "ema20_above_ema50": "EMA20 50.31 vs EMA50 52.13",
+          "ema50_above_ema200": "EMA50 52.13 vs EMA200 52.71",
+          "rsi_above_50": "RSI(14) 31.10 vs 50",
+          "macd_bullish": "MACD -1.84 vs signal -1.69",
+          "adx_trending_up": "ADX(14) 32.60 vs 20, +DI 16.43 vs -DI 31.64",
+          "price_above_vwap20": "Close 48.10 vs 20d VWAP 49.94",
+          "price_above_bb_mid": "Close 48.10 vs BB mid 50.52"
         },
         "flags_on": [],
         "flag_count": 0,
@@ -273,9 +271,9 @@
       "quantity": 40,
       "buy_price": 43.62,
       "buy_date": null,
-      "current_price": 69.59,
-      "pnl": 1038.8000000000002,
-      "pnl_pct": 59.53690967446127,
+      "current_price": 70.11,
+      "pnl": 1059.6000000000001,
+      "pnl_pct": 60.72902338376892,
       "flags": {
         "flags": {
           "price_above_ema20": true,
@@ -288,14 +286,14 @@
           "price_above_bb_mid": true
         },
         "flags_detail": {
-          "price_above_ema20": "Close 69.59 vs EMA20 67.62",
-          "ema20_above_ema50": "EMA20 67.62 vs EMA50 63.32",
-          "ema50_above_ema200": "EMA50 63.32 vs EMA200 57.21",
-          "rsi_above_50": "RSI(14) 61.89 vs 50",
-          "macd_bullish": "MACD 2.83 vs signal 2.94",
-          "adx_trending_up": "ADX(14) 46.68 vs 20, +DI 27.64 vs -DI 14.01",
-          "price_above_vwap20": "Close 69.59 vs 20d VWAP 68.09",
-          "price_above_bb_mid": "Close 69.59 vs BB mid 67.84"
+          "price_above_ema20": "Close 70.11 vs EMA20 68.24",
+          "ema20_above_ema50": "EMA20 68.24 vs EMA50 63.91",
+          "ema50_above_ema200": "EMA50 63.91 vs EMA200 57.55",
+          "rsi_above_50": "RSI(14) 59.96 vs 50",
+          "macd_bullish": "MACD 2.66 vs signal 2.87",
+          "adx_trending_up": "ADX(14) 45.50 vs 20, +DI 27.81 vs -DI 12.78",
+          "price_above_vwap20": "Close 70.11 vs 20d VWAP 68.77",
+          "price_above_bb_mid": "Close 70.11 vs BB mid 68.56"
         },
         "flags_on": [
           "price_above_ema20",
@@ -316,9 +314,9 @@
       "quantity": 289,
       "buy_price": 19.05,
       "buy_date": null,
-      "current_price": 22.91,
-      "pnl": 1115.5399999999997,
-      "pnl_pct": 20.262467191601047,
+      "current_price": 22.69,
+      "pnl": 1051.9600000000003,
+      "pnl_pct": 19.107611548556434,
       "flags": {
         "flags": {
           "price_above_ema20": false,
@@ -331,14 +329,14 @@
           "price_above_bb_mid": false
         },
         "flags_detail": {
-          "price_above_ema20": "Close 22.91 vs EMA20 23.17",
-          "ema20_above_ema50": "EMA20 23.17 vs EMA50 23.09",
-          "ema50_above_ema200": "EMA50 23.09 vs EMA200 21.93",
-          "rsi_above_50": "RSI(14) 43.99 vs 50",
-          "macd_bullish": "MACD -0.23 vs signal -0.20",
-          "adx_trending_up": "ADX(14) 19.05 vs 20, +DI 18.17 vs -DI 23.59",
-          "price_above_vwap20": "Close 22.91 vs 20d VWAP 23.21",
-          "price_above_bb_mid": "Close 22.91 vs BB mid 23.20"
+          "price_above_ema20": "Close 22.69 vs EMA20 23.08",
+          "ema20_above_ema50": "EMA20 23.08 vs EMA50 23.06",
+          "ema50_above_ema200": "EMA50 23.06 vs EMA200 21.98",
+          "rsi_above_50": "RSI(14) 40.71 vs 50",
+          "macd_bullish": "MACD -0.24 vs signal -0.21",
+          "adx_trending_up": "ADX(14) 19.01 vs 20, +DI 16.52 vs -DI 24.58",
+          "price_above_vwap20": "Close 22.69 vs 20d VWAP 23.15",
+          "price_above_bb_mid": "Close 22.69 vs BB mid 23.09"
         },
         "flags_on": [
           "ema20_above_ema50",
@@ -350,5 +348,5 @@
       "sector": "Banking"
     }
   ],
-  "updated_at": "2026-08-05T17:27:17.885358+00:00"
+  "updated_at": "2026-08-07T13:37:41.626197+00:00"
 }
