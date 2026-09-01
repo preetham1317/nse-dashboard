@@ -3,35 +3,30 @@
   "name": "Bajaj Finance",
   "sector": "NBFC",
   "indicators": {
-    "date": "2026-08-31",
-    "close": 1057.0,
-    "prev_close": 1079.9,
-    "change_pct": -2.1205667191406694,
-    "ema20": 1082.3376097861515,
-    "ema50": 1053.3051562409858,
-    "ema200": 989.9744453968713,
-    "rsi14": 43.43128053333422,
-    "macd": 4.048520827050652,
-    "macd_signal": 10.853878456938023,
-    "atr14": 22.864014242671665,
-    "adx14": 14.096441868943199,
-    "adx_pos": 21.167700870422685,
-    "adx_neg": 30.3248087060478,
-    "bb_high": 1145.8993579412922,
-    "bb_low": 1046.2206420587077,
-    "bb_mid": 1096.06,
-    "vwap20": 1099.4872880169132,
+    "date": "2026-09-01",
+    "close": 1053.9,
+    "prev_close": 1057.0,
+    "change_pct": -0.2932828760643244,
+    "ema20": 1079.6292659969943,
+    "ema50": 1053.3284834472215,
+    "ema200": 990.6105205670516,
+    "rsi14": 42.58570505196351,
+    "macd": 1.4736723667349452,
+    "macd_signal": 8.977837238897408,
+    "atr14": 22.659441796766547,
+    "adx14": 14.545575243510376,
+    "adx_pos": 19.833176704124902,
+    "adx_neg": 29.98910451490143,
+    "bb_high": 1138.0862558617257,
+    "bb_low": 1044.5237441382744,
+    "bb_mid": 1091.305,
+    "vwap20": 1092.878438273651,
     "high_52w": 1176.4,
     "low_52w": 787.9,
-    "volume": 7002192.0,
-    "avg_volume20": 5482385.1
+    "volume": 4813301.0,
+    "avg_volume20": 5251150.65
   },
   "price_history": [
-    {
-      "date": "2026-03-06",
-      "close": 950.2,
-      "ema50": 984.07
-    },
     {
       "date": "2026-03-09",
       "close": 938.05,
@@ -626,6 +621,11 @@
       "date": "2026-08-31",
       "close": 1057.0,
       "ema50": 1053.31
+    },
+    {
+      "date": "2026-09-01",
+      "close": 1053.9,
+      "ema50": 1053.33
     }
   ],
   "flags": {
@@ -640,14 +640,14 @@
       "price_above_bb_mid": false
     },
     "flags_detail": {
-      "price_above_ema20": "Close 1,057.00 vs EMA20 1,082.34",
-      "ema20_above_ema50": "EMA20 1,082.34 vs EMA50 1,053.31",
-      "ema50_above_ema200": "EMA50 1,053.31 vs EMA200 989.97",
-      "rsi_above_50": "RSI(14) 43.43 vs 50",
-      "macd_bullish": "MACD 4.05 vs signal 10.85",
-      "adx_trending_up": "ADX(14) 14.10 vs 20, +DI 21.17 vs -DI 30.32",
-      "price_above_vwap20": "Close 1,057.00 vs 20d VWAP 1,099.49",
-      "price_above_bb_mid": "Close 1,057.00 vs BB mid 1,096.06"
+      "price_above_ema20": "Close 1,053.90 vs EMA20 1,079.63",
+      "ema20_above_ema50": "EMA20 1,079.63 vs EMA50 1,053.33",
+      "ema50_above_ema200": "EMA50 1,053.33 vs EMA200 990.61",
+      "rsi_above_50": "RSI(14) 42.59 vs 50",
+      "macd_bullish": "MACD 1.47 vs signal 8.98",
+      "adx_trending_up": "ADX(14) 14.55 vs 20, +DI 19.83 vs -DI 29.99",
+      "price_above_vwap20": "Close 1,053.90 vs 20d VWAP 1,092.88",
+      "price_above_bb_mid": "Close 1,053.90 vs BB mid 1,091.31"
     },
     "flags_on": [
       "ema20_above_ema50",
@@ -660,5 +660,5 @@
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-08-31T17:43:42.495392+00:00"
+  "updated_at": "2026-09-01T14:58:14.642140+00:00"
 }

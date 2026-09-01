@@ -3,40 +3,30 @@
   "name": "Sun Pharma",
   "sector": "Pharma",
   "indicators": {
-    "date": "2026-08-28",
-    "close": 1920.0,
-    "prev_close": 1913.3,
-    "change_pct": 0.350180316730259,
-    "ema20": 1920.1136113511855,
-    "ema50": 1908.3311343610749,
-    "ema200": 1814.1312202448703,
-    "rsi14": 49.73000885644028,
-    "macd": -5.944447896837801,
-    "macd_signal": -4.058938387173244,
-    "atr14": 30.622270018983272,
-    "adx14": 20.045396070493982,
-    "adx_pos": 13.50933597951025,
-    "adx_neg": 15.964223769007265,
-    "bb_high": 1973.9172187916506,
-    "bb_low": 1874.502781208349,
-    "bb_mid": 1924.2099999999998,
-    "vwap20": 1928.854907202437,
+    "date": "2026-09-01",
+    "close": 1929.0,
+    "prev_close": 1984.8,
+    "change_pct": -2.8113663845223678,
+    "ema20": 1926.533817908794,
+    "ema50": 1912.0229110750079,
+    "ema200": 1817.4818395122632,
+    "rsi14": 50.675570757417155,
+    "macd": 0.31743061996235156,
+    "macd_signal": -2.5241778590881263,
+    "atr14": 36.24675323076825,
+    "adx14": 20.828101262657082,
+    "adx_pos": 19.68551041169455,
+    "adx_neg": 11.629116209464566,
+    "bb_high": 1974.3419213943612,
+    "bb_low": 1872.708078605639,
+    "bb_mid": 1923.525,
+    "vwap20": 1926.7053818995305,
     "high_52w": 2046.9,
     "low_52w": 1548.0,
-    "volume": 1140742.0,
-    "avg_volume20": 1672781.0
+    "volume": 3595272.0,
+    "avg_volume20": 1701943.7
   },
   "price_history": [
-    {
-      "date": "2026-03-05",
-      "close": 1784.5,
-      "ema50": 1716.65
-    },
-    {
-      "date": "2026-03-06",
-      "close": 1799.4,
-      "ema50": 1719.9
-    },
     {
       "date": "2026-03-09",
       "close": 1807.4,
@@ -50,32 +40,32 @@
     {
       "date": "2026-03-11",
       "close": 1825.9,
-      "ema50": 1730.72
+      "ema50": 1730.73
     },
     {
       "date": "2026-03-12",
       "close": 1825.3,
-      "ema50": 1734.43
+      "ema50": 1734.44
     },
     {
       "date": "2026-03-13",
       "close": 1801.6,
-      "ema50": 1737.06
+      "ema50": 1737.07
     },
     {
       "date": "2026-03-16",
       "close": 1783.2,
-      "ema50": 1738.87
+      "ema50": 1738.88
     },
     {
       "date": "2026-03-17",
       "close": 1794.4,
-      "ema50": 1741.05
+      "ema50": 1741.06
     },
     {
       "date": "2026-03-18",
       "close": 1778.3,
-      "ema50": 1742.51
+      "ema50": 1742.52
     },
     {
       "date": "2026-03-19",
@@ -95,12 +85,12 @@
     {
       "date": "2026-03-24",
       "close": 1753.3,
-      "ema50": 1744.85
+      "ema50": 1744.86
     },
     {
       "date": "2026-03-25",
       "close": 1795.4,
-      "ema50": 1746.83
+      "ema50": 1746.84
     },
     {
       "date": "2026-03-27",
@@ -110,7 +100,7 @@
     {
       "date": "2026-03-30",
       "close": 1757.2,
-      "ema50": 1749.0
+      "ema50": 1749.01
     },
     {
       "date": "2026-04-01",
@@ -135,7 +125,7 @@
     {
       "date": "2026-04-08",
       "close": 1714.6,
-      "ema50": 1741.9
+      "ema50": 1741.91
     },
     {
       "date": "2026-04-09",
@@ -155,7 +145,7 @@
     {
       "date": "2026-04-15",
       "close": 1696.6,
-      "ema50": 1732.73
+      "ema50": 1732.74
     },
     {
       "date": "2026-04-16",
@@ -260,7 +250,7 @@
     {
       "date": "2026-05-15",
       "close": 1878.2,
-      "ema50": 1764.85
+      "ema50": 1764.86
     },
     {
       "date": "2026-05-18",
@@ -355,7 +345,7 @@
     {
       "date": "2026-06-12",
       "close": 1807.7,
-      "ema50": 1791.45
+      "ema50": 1791.46
     },
     {
       "date": "2026-06-15",
@@ -370,7 +360,7 @@
     {
       "date": "2026-06-17",
       "close": 1820.4,
-      "ema50": 1793.46
+      "ema50": 1793.47
     },
     {
       "date": "2026-06-18",
@@ -415,7 +405,7 @@
     {
       "date": "2026-07-01",
       "close": 1866.2,
-      "ema50": 1813.73
+      "ema50": 1813.74
     },
     {
       "date": "2026-07-02",
@@ -626,39 +616,55 @@
       "date": "2026-08-28",
       "close": 1920.0,
       "ema50": 1908.33
+    },
+    {
+      "date": "2026-08-31",
+      "close": 1984.8,
+      "ema50": 1911.33
+    },
+    {
+      "date": "2026-09-01",
+      "close": 1929.0,
+      "ema50": 1912.02
     }
   ],
   "flags": {
     "flags": {
-      "price_above_ema20": false,
+      "price_above_ema20": true,
       "ema20_above_ema50": true,
       "ema50_above_ema200": true,
-      "rsi_above_50": false,
-      "macd_bullish": false,
-      "adx_trending_up": false,
-      "price_above_vwap20": false,
-      "price_above_bb_mid": false
+      "rsi_above_50": true,
+      "macd_bullish": true,
+      "adx_trending_up": true,
+      "price_above_vwap20": true,
+      "price_above_bb_mid": true
     },
     "flags_detail": {
-      "price_above_ema20": "Close 1,920.00 vs EMA20 1,920.11",
-      "ema20_above_ema50": "EMA20 1,920.11 vs EMA50 1,908.33",
-      "ema50_above_ema200": "EMA50 1,908.33 vs EMA200 1,814.13",
-      "rsi_above_50": "RSI(14) 49.73 vs 50",
-      "macd_bullish": "MACD -5.94 vs signal -4.06",
-      "adx_trending_up": "ADX(14) 20.05 vs 20, +DI 13.51 vs -DI 15.96",
-      "price_above_vwap20": "Close 1,920.00 vs 20d VWAP 1,928.85",
-      "price_above_bb_mid": "Close 1,920.00 vs BB mid 1,924.21"
+      "price_above_ema20": "Close 1,929.00 vs EMA20 1,926.53",
+      "ema20_above_ema50": "EMA20 1,926.53 vs EMA50 1,912.02",
+      "ema50_above_ema200": "EMA50 1,912.02 vs EMA200 1,817.48",
+      "rsi_above_50": "RSI(14) 50.68 vs 50",
+      "macd_bullish": "MACD 0.32 vs signal -2.52",
+      "adx_trending_up": "ADX(14) 20.83 vs 20, +DI 19.69 vs -DI 11.63",
+      "price_above_vwap20": "Close 1,929.00 vs 20d VWAP 1,926.71",
+      "price_above_bb_mid": "Close 1,929.00 vs BB mid 1,923.53"
     },
     "flags_on": [
+      "price_above_ema20",
       "ema20_above_ema50",
-      "ema50_above_ema200"
+      "ema50_above_ema200",
+      "rsi_above_50",
+      "macd_bullish",
+      "adx_trending_up",
+      "price_above_vwap20",
+      "price_above_bb_mid"
     ],
-    "flag_count": 2,
+    "flag_count": 8,
     "flag_total": 8
   },
   "fundamentals": null,
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-08-28T22:09:10.488527+00:00"
+  "updated_at": "2026-09-01T15:48:12.726353+00:00"
 }

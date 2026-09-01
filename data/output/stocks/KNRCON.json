@@ -3,35 +3,30 @@
   "name": "KNR Constructions",
   "sector": "Infrastructure",
   "indicators": {
-    "date": "2026-08-31",
-    "close": 121.19,
-    "prev_close": 124.55,
-    "change_pct": -2.6977117623444395,
-    "ema20": 127.19268266701069,
-    "ema50": 128.16182150691034,
-    "ema200": 141.50989384022142,
-    "rsi14": 38.222127250686604,
-    "macd": -1.5927862671937305,
-    "macd_signal": -0.3786191853015461,
-    "atr14": 4.878318172122898,
-    "adx14": 16.312308292537466,
-    "adx_pos": 16.454390405598296,
-    "adx_neg": 22.252948449574646,
-    "bb_high": 142.8640455355574,
-    "bb_low": 118.20195446444262,
-    "bb_mid": 130.53300000000002,
-    "vwap20": 131.4729165068886,
+    "date": "2026-09-01",
+    "close": 117.68,
+    "prev_close": 121.19,
+    "change_pct": -2.8962785708391707,
+    "ema20": 126.28671288920015,
+    "ema50": 127.75076968310994,
+    "ema200": 141.27278046867693,
+    "rsi14": 33.86954858419868,
+    "macd": -2.1373820682327533,
+    "macd_signal": -0.7303717618877876,
+    "atr14": 5.0048668741141205,
+    "adx14": 17.346867669108416,
+    "adx_pos": 14.892743384985973,
+    "adx_neg": 28.147466485597946,
+    "bb_high": 143.53032232785296,
+    "bb_low": 116.48067767214707,
+    "bb_mid": 130.0055,
+    "vwap20": 130.961279728612,
     "high_52w": 220.0,
     "low_52w": 108.65,
-    "volume": 3134063.0,
-    "avg_volume20": 2000821.95
+    "volume": 1890101.0,
+    "avg_volume20": 2043602.95
   },
   "price_history": [
-    {
-      "date": "2026-03-06",
-      "close": 122.74,
-      "ema50": 144.19
-    },
     {
       "date": "2026-03-09",
       "close": 120.52,
@@ -626,6 +621,11 @@
       "date": "2026-08-31",
       "close": 121.19,
       "ema50": 128.16
+    },
+    {
+      "date": "2026-09-01",
+      "close": 117.68,
+      "ema50": 127.75
     }
   ],
   "flags": {
@@ -640,14 +640,14 @@
       "price_above_bb_mid": false
     },
     "flags_detail": {
-      "price_above_ema20": "Close 121.19 vs EMA20 127.19",
-      "ema20_above_ema50": "EMA20 127.19 vs EMA50 128.16",
-      "ema50_above_ema200": "EMA50 128.16 vs EMA200 141.51",
-      "rsi_above_50": "RSI(14) 38.22 vs 50",
-      "macd_bullish": "MACD -1.59 vs signal -0.38",
-      "adx_trending_up": "ADX(14) 16.31 vs 20, +DI 16.45 vs -DI 22.25",
-      "price_above_vwap20": "Close 121.19 vs 20d VWAP 131.47",
-      "price_above_bb_mid": "Close 121.19 vs BB mid 130.53"
+      "price_above_ema20": "Close 117.68 vs EMA20 126.29",
+      "ema20_above_ema50": "EMA20 126.29 vs EMA50 127.75",
+      "ema50_above_ema200": "EMA50 127.75 vs EMA200 141.27",
+      "rsi_above_50": "RSI(14) 33.87 vs 50",
+      "macd_bullish": "MACD -2.14 vs signal -0.73",
+      "adx_trending_up": "ADX(14) 17.35 vs 20, +DI 14.89 vs -DI 28.15",
+      "price_above_vwap20": "Close 117.68 vs 20d VWAP 130.96",
+      "price_above_bb_mid": "Close 117.68 vs BB mid 130.01"
     },
     "flags_on": [],
     "flag_count": 0,
@@ -657,5 +657,5 @@
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-08-31T18:11:46.820547+00:00"
+  "updated_at": "2026-09-01T15:26:05.794623+00:00"
 }

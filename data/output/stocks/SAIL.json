@@ -3,44 +3,34 @@
   "name": "Steel Authority of India",
   "sector": "Metals",
   "indicators": {
-    "date": "2026-08-28",
-    "close": 200.0,
-    "prev_close": 193.0,
-    "change_pct": 3.6269430051813467,
-    "ema20": 179.31567958984516,
-    "ema50": 175.5509477444421,
-    "ema200": 164.63777730718476,
-    "rsi14": 74.48324870360489,
-    "macd": 5.766038689550015,
-    "macd_signal": 2.85341456026506,
-    "atr14": 6.716898060060951,
-    "adx14": 19.830602569764405,
-    "adx_pos": 33.49717002260312,
-    "adx_neg": 13.380453788162264,
-    "bb_high": 194.9470691547633,
-    "bb_low": 159.2589308452367,
-    "bb_mid": 177.103,
-    "vwap20": 180.42767446343979,
+    "date": "2026-09-01",
+    "close": 193.0,
+    "prev_close": 195.0,
+    "change_pct": -1.0256410256410255,
+    "ema20": 181.97043159168732,
+    "ema50": 176.96802510721065,
+    "ema200": 165.25162498887872,
+    "rsi14": 64.45995712061864,
+    "macd": 6.418655903491867,
+    "macd_signal": 4.111745145340498,
+    "atr14": 6.902682510998189,
+    "adx14": 21.876378050277737,
+    "adx_pos": 28.10538958158916,
+    "adx_neg": 16.14197896279446,
+    "bb_high": 198.98528977217356,
+    "bb_low": 160.16571022782645,
+    "bb_mid": 179.5755,
+    "vwap20": 182.67683255999918,
     "high_52w": 209.7,
     "low_52w": 118.1,
-    "volume": 48585004.0,
-    "avg_volume20": 24847467.6
+    "volume": 29120262.0,
+    "avg_volume20": 25531147.65
   },
   "price_history": [
     {
-      "date": "2026-03-05",
-      "close": 156.15,
-      "ema50": 153.01
-    },
-    {
-      "date": "2026-03-06",
-      "close": 154.94,
-      "ema50": 153.08
-    },
-    {
       "date": "2026-03-09",
       "close": 149.52,
-      "ema50": 152.94
+      "ema50": 152.95
     },
     {
       "date": "2026-03-10",
@@ -140,7 +130,7 @@
     {
       "date": "2026-04-09",
       "close": 163.35,
-      "ema50": 153.59
+      "ema50": 153.6
     },
     {
       "date": "2026-04-10",
@@ -415,7 +405,7 @@
     {
       "date": "2026-07-01",
       "close": 168.27,
-      "ema50": 180.57
+      "ema50": 180.58
     },
     {
       "date": "2026-07-02",
@@ -626,6 +616,16 @@
       "date": "2026-08-28",
       "close": 200.0,
       "ema50": 175.55
+    },
+    {
+      "date": "2026-08-31",
+      "close": 195.0,
+      "ema50": 176.31
+    },
+    {
+      "date": "2026-09-01",
+      "close": 193.0,
+      "ema50": 176.97
     }
   ],
   "flags": {
@@ -635,19 +635,19 @@
       "ema50_above_ema200": true,
       "rsi_above_50": true,
       "macd_bullish": true,
-      "adx_trending_up": false,
+      "adx_trending_up": true,
       "price_above_vwap20": true,
       "price_above_bb_mid": true
     },
     "flags_detail": {
-      "price_above_ema20": "Close 200.00 vs EMA20 179.32",
-      "ema20_above_ema50": "EMA20 179.32 vs EMA50 175.55",
-      "ema50_above_ema200": "EMA50 175.55 vs EMA200 164.64",
-      "rsi_above_50": "RSI(14) 74.48 vs 50",
-      "macd_bullish": "MACD 5.77 vs signal 2.85",
-      "adx_trending_up": "ADX(14) 19.83 vs 20, +DI 33.50 vs -DI 13.38",
-      "price_above_vwap20": "Close 200.00 vs 20d VWAP 180.43",
-      "price_above_bb_mid": "Close 200.00 vs BB mid 177.10"
+      "price_above_ema20": "Close 193.00 vs EMA20 181.97",
+      "ema20_above_ema50": "EMA20 181.97 vs EMA50 176.97",
+      "ema50_above_ema200": "EMA50 176.97 vs EMA200 165.25",
+      "rsi_above_50": "RSI(14) 64.46 vs 50",
+      "macd_bullish": "MACD 6.42 vs signal 4.11",
+      "adx_trending_up": "ADX(14) 21.88 vs 20, +DI 28.11 vs -DI 16.14",
+      "price_above_vwap20": "Close 193.00 vs 20d VWAP 182.68",
+      "price_above_bb_mid": "Close 193.00 vs BB mid 179.58"
     },
     "flags_on": [
       "price_above_ema20",
@@ -655,15 +655,16 @@
       "ema50_above_ema200",
       "rsi_above_50",
       "macd_bullish",
+      "adx_trending_up",
       "price_above_vwap20",
       "price_above_bb_mid"
     ],
-    "flag_count": 7,
+    "flag_count": 8,
     "flag_total": 8
   },
   "fundamentals": null,
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-08-28T22:06:08.393089+00:00"
+  "updated_at": "2026-09-01T15:45:14.510020+00:00"
 }
