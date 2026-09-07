@@ -3,35 +3,30 @@
   "name": "LIC Housing Finance",
   "sector": "NBFC",
   "indicators": {
-    "date": "2026-09-04",
-    "close": 562.05,
-    "prev_close": 554.0,
-    "change_pct": 1.4530685920577535,
-    "ema20": 527.98347536246,
-    "ema50": 529.0757959283528,
-    "ema200": 540.6438394081567,
-    "rsi14": 69.46255023980171,
-    "macd": 6.862493117414033,
-    "macd_signal": -0.18806138469764644,
-    "atr14": 13.719090047030113,
-    "adx14": 27.73264325809014,
-    "adx_pos": 40.1549728414084,
-    "adx_neg": 12.502961088873857,
-    "bb_high": 558.9667954782427,
-    "bb_low": 474.4332045217573,
-    "bb_mid": 516.7,
-    "vwap20": 523.6021970389752,
+    "date": "2026-09-07",
+    "close": 552.0,
+    "prev_close": 562.05,
+    "change_pct": -1.7880971443821645,
+    "ema20": 530.2707634231782,
+    "ema50": 529.9747895365633,
+    "ema200": 540.8011799293206,
+    "rsi14": 62.5060879445633,
+    "macd": 7.80601193879977,
+    "macd_signal": 1.4107532799084819,
+    "atr14": 14.139155043526992,
+    "adx14": 28.848450261000696,
+    "adx_pos": 36.178995366004955,
+    "adx_neg": 14.296066633709914,
+    "bb_high": 563.4914245074748,
+    "bb_low": 475.1085754925251,
+    "bb_mid": 519.3,
+    "vwap20": 524.8491263782859,
     "high_52w": 598.2,
     "low_52w": 458.9,
-    "volume": 7126780.0,
-    "avg_volume20": 3269044.95
+    "volume": 1618855.0,
+    "avg_volume20": 3280556.05
   },
   "price_history": [
-    {
-      "date": "2026-03-12",
-      "close": 498.5,
-      "ema50": 523.91
-    },
     {
       "date": "2026-03-13",
       "close": 496.6,
@@ -70,7 +65,7 @@
     {
       "date": "2026-03-24",
       "close": 479.0,
-      "ema50": 513.99
+      "ema50": 514.0
     },
     {
       "date": "2026-03-25",
@@ -626,12 +621,17 @@
       "date": "2026-09-04",
       "close": 562.05,
       "ema50": 529.08
+    },
+    {
+      "date": "2026-09-07",
+      "close": 552.0,
+      "ema50": 529.97
     }
   ],
   "flags": {
     "flags": {
       "price_above_ema20": true,
-      "ema20_above_ema50": false,
+      "ema20_above_ema50": true,
       "ema50_above_ema200": false,
       "rsi_above_50": true,
       "macd_bullish": true,
@@ -640,29 +640,30 @@
       "price_above_bb_mid": true
     },
     "flags_detail": {
-      "price_above_ema20": "Close 562.05 vs EMA20 527.98",
-      "ema20_above_ema50": "EMA20 527.98 vs EMA50 529.08",
-      "ema50_above_ema200": "EMA50 529.08 vs EMA200 540.64",
-      "rsi_above_50": "RSI(14) 69.46 vs 50",
-      "macd_bullish": "MACD 6.86 vs signal -0.19",
-      "adx_trending_up": "ADX(14) 27.73 vs 20, +DI 40.15 vs -DI 12.50",
-      "price_above_vwap20": "Close 562.05 vs 20d VWAP 523.60",
-      "price_above_bb_mid": "Close 562.05 vs BB mid 516.70"
+      "price_above_ema20": "Close 552.00 vs EMA20 530.27",
+      "ema20_above_ema50": "EMA20 530.27 vs EMA50 529.97",
+      "ema50_above_ema200": "EMA50 529.97 vs EMA200 540.80",
+      "rsi_above_50": "RSI(14) 62.51 vs 50",
+      "macd_bullish": "MACD 7.81 vs signal 1.41",
+      "adx_trending_up": "ADX(14) 28.85 vs 20, +DI 36.18 vs -DI 14.30",
+      "price_above_vwap20": "Close 552.00 vs 20d VWAP 524.85",
+      "price_above_bb_mid": "Close 552.00 vs BB mid 519.30"
     },
     "flags_on": [
       "price_above_ema20",
+      "ema20_above_ema50",
       "rsi_above_50",
       "macd_bullish",
       "adx_trending_up",
       "price_above_vwap20",
       "price_above_bb_mid"
     ],
-    "flag_count": 6,
+    "flag_count": 7,
     "flag_total": 8
   },
   "fundamentals": null,
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-09-04T14:54:57.687262+00:00"
+  "updated_at": "2026-09-07T16:25:39.720825+00:00"
 }
