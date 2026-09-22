@@ -3,35 +3,30 @@
   "name": "KEC International",
   "sector": "Infrastructure",
   "indicators": {
-    "date": "2026-09-21",
-    "close": 403.3,
-    "prev_close": 404.25,
-    "change_pct": -0.23500309214594647,
-    "ema20": 413.27376163722676,
-    "ema50": 440.7374484846217,
-    "ema200": 554.7155520197252,
-    "rsi14": 39.25065311291919,
-    "macd": -12.36531612388842,
-    "macd_signal": -14.186893726054189,
-    "atr14": 12.352677473887999,
-    "adx14": 45.68158828792662,
-    "adx_pos": 13.058614564060589,
-    "adx_neg": 23.94193676085569,
-    "bb_high": 432.6812447092561,
-    "bb_low": 389.8587552907439,
-    "bb_mid": 411.27,
-    "vwap20": 410.6768615055941,
+    "date": "2026-09-22",
+    "close": 391.55,
+    "prev_close": 403.3,
+    "change_pct": -2.9134639226382344,
+    "ema20": 411.20483195749085,
+    "ema50": 438.8085289362052,
+    "ema200": 553.0920141886833,
+    "rsi14": 34.071780322733545,
+    "macd": -12.64961007154102,
+    "macd_signal": -13.879436995151556,
+    "atr14": 12.770343368610284,
+    "adx14": 45.33720603500923,
+    "adx_pos": 11.72926902940783,
+    "adx_neg": 27.93700078383607,
+    "bb_high": 430.249868859858,
+    "bb_low": 388.31013114014195,
+    "bb_mid": 409.28,
+    "vwap20": 409.08727707654475,
     "high_52w": 937.8,
     "low_52w": 389.15,
-    "volume": 321934.0,
-    "avg_volume20": 1039718.65
+    "volume": 1574562.0,
+    "avg_volume20": 1090844.35
   },
   "price_history": [
-    {
-      "date": "2026-03-27",
-      "close": 533.7,
-      "ema50": 595.42
-    },
     {
       "date": "2026-03-30",
       "close": 511.3,
@@ -626,6 +621,11 @@
       "date": "2026-09-21",
       "close": 403.3,
       "ema50": 440.74
+    },
+    {
+      "date": "2026-09-22",
+      "close": 391.55,
+      "ema50": 438.81
     }
   ],
   "flags": {
@@ -640,14 +640,14 @@
       "price_above_bb_mid": false
     },
     "flags_detail": {
-      "price_above_ema20": "Close 403.30 vs EMA20 413.27",
-      "ema20_above_ema50": "EMA20 413.27 vs EMA50 440.74",
-      "ema50_above_ema200": "EMA50 440.74 vs EMA200 554.72",
-      "rsi_above_50": "RSI(14) 39.25 vs 50",
-      "macd_bullish": "MACD -12.37 vs signal -14.19",
-      "adx_trending_up": "ADX(14) 45.68 vs 20, +DI 13.06 vs -DI 23.94",
-      "price_above_vwap20": "Close 403.30 vs 20d VWAP 410.68",
-      "price_above_bb_mid": "Close 403.30 vs BB mid 411.27"
+      "price_above_ema20": "Close 391.55 vs EMA20 411.20",
+      "ema20_above_ema50": "EMA20 411.20 vs EMA50 438.81",
+      "ema50_above_ema200": "EMA50 438.81 vs EMA200 553.09",
+      "rsi_above_50": "RSI(14) 34.07 vs 50",
+      "macd_bullish": "MACD -12.65 vs signal -13.88",
+      "adx_trending_up": "ADX(14) 45.34 vs 20, +DI 11.73 vs -DI 27.94",
+      "price_above_vwap20": "Close 391.55 vs 20d VWAP 409.09",
+      "price_above_bb_mid": "Close 391.55 vs BB mid 409.28"
     },
     "flags_on": [
       "macd_bullish"
@@ -659,5 +659,5 @@
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-09-21T17:01:26.415417+00:00"
+  "updated_at": "2026-09-22T15:23:58.858379+00:00"
 }
