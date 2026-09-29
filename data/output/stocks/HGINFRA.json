@@ -3,44 +3,34 @@
   "name": "HG Infra Engineering",
   "sector": "Infrastructure",
   "indicators": {
-    "date": "2026-09-25",
-    "close": 453.1,
-    "prev_close": 468.05,
-    "change_pct": -3.1941031941031914,
-    "ema20": 471.6356595864642,
-    "ema50": 501.0278256420388,
-    "ema200": 610.688712448619,
-    "rsi14": 36.458823173652604,
-    "macd": -16.66635109484315,
-    "macd_signal": -17.080191394003634,
-    "atr14": 16.673681867653457,
-    "adx14": 18.058305823123597,
-    "adx_pos": 35.58510373459073,
-    "adx_neg": 18.111253513451985,
-    "bb_high": 504.4364127207965,
-    "bb_low": 437.61358727920344,
-    "bb_mid": 471.025,
-    "vwap20": 474.66459200196095,
-    "high_52w": 1022.7,
+    "date": "2026-09-29",
+    "close": 438.25,
+    "prev_close": 444.55,
+    "change_pct": -1.4171634236868769,
+    "ema20": 466.12216124878387,
+    "ema50": 496.438015984801,
+    "ema200": 607.6092232132912,
+    "rsi14": 31.535798001545402,
+    "macd": -17.247892029112847,
+    "macd_signal": -17.071796500491917,
+    "atr14": 16.16098079492597,
+    "adx14": 18.308614229484597,
+    "adx_pos": 31.65648319345221,
+    "adx_neg": 22.694128101543896,
+    "bb_high": 499.9186073030125,
+    "bb_low": 431.75639269698746,
+    "bb_mid": 465.8375,
+    "vwap20": 473.85542280889166,
+    "high_52w": 1014.0,
     "low_52w": 429.5,
-    "volume": 451893.0,
-    "avg_volume20": 730003.1
+    "volume": 173913.0,
+    "avg_volume20": 739807.25
   },
   "price_history": [
     {
-      "date": "2026-04-06",
-      "close": 489.9,
-      "ema50": 564.04
-    },
-    {
-      "date": "2026-04-07",
-      "close": 484.7,
-      "ema50": 560.93
-    },
-    {
       "date": "2026-04-08",
       "close": 516.2,
-      "ema50": 559.17
+      "ema50": 559.18
     },
     {
       "date": "2026-04-09",
@@ -65,7 +55,7 @@
     {
       "date": "2026-04-16",
       "close": 621.95,
-      "ema50": 562.34
+      "ema50": 562.35
     },
     {
       "date": "2026-04-17",
@@ -80,12 +70,12 @@
     {
       "date": "2026-04-21",
       "close": 628.15,
-      "ema50": 569.39
+      "ema50": 569.4
     },
     {
       "date": "2026-04-22",
       "close": 619.1,
-      "ema50": 571.34
+      "ema50": 571.35
     },
     {
       "date": "2026-04-23",
@@ -120,7 +110,7 @@
     {
       "date": "2026-05-04",
       "close": 598.8,
-      "ema50": 579.32
+      "ema50": 579.33
     },
     {
       "date": "2026-05-05",
@@ -135,7 +125,7 @@
     {
       "date": "2026-05-07",
       "close": 628.9,
-      "ema50": 584.26
+      "ema50": 584.27
     },
     {
       "date": "2026-05-08",
@@ -626,6 +616,16 @@
       "date": "2026-09-25",
       "close": 453.1,
       "ema50": 501.03
+    },
+    {
+      "date": "2026-09-28",
+      "close": 444.55,
+      "ema50": 498.81
+    },
+    {
+      "date": "2026-09-29",
+      "close": 438.25,
+      "ema50": 496.44
     }
   ],
   "flags": {
@@ -634,30 +634,28 @@
       "ema20_above_ema50": false,
       "ema50_above_ema200": false,
       "rsi_above_50": false,
-      "macd_bullish": true,
+      "macd_bullish": false,
       "adx_trending_up": false,
       "price_above_vwap20": false,
       "price_above_bb_mid": false
     },
     "flags_detail": {
-      "price_above_ema20": "Close 453.10 vs EMA20 471.64",
-      "ema20_above_ema50": "EMA20 471.64 vs EMA50 501.03",
-      "ema50_above_ema200": "EMA50 501.03 vs EMA200 610.69",
-      "rsi_above_50": "RSI(14) 36.46 vs 50",
-      "macd_bullish": "MACD -16.67 vs signal -17.08",
-      "adx_trending_up": "ADX(14) 18.06 vs 20, +DI 35.59 vs -DI 18.11",
-      "price_above_vwap20": "Close 453.10 vs 20d VWAP 474.66",
-      "price_above_bb_mid": "Close 453.10 vs BB mid 471.02"
+      "price_above_ema20": "Close 438.25 vs EMA20 466.12",
+      "ema20_above_ema50": "EMA20 466.12 vs EMA50 496.44",
+      "ema50_above_ema200": "EMA50 496.44 vs EMA200 607.61",
+      "rsi_above_50": "RSI(14) 31.54 vs 50",
+      "macd_bullish": "MACD -17.25 vs signal -17.07",
+      "adx_trending_up": "ADX(14) 18.31 vs 20, +DI 31.66 vs -DI 22.69",
+      "price_above_vwap20": "Close 438.25 vs 20d VWAP 473.86",
+      "price_above_bb_mid": "Close 438.25 vs BB mid 465.84"
     },
-    "flags_on": [
-      "macd_bullish"
-    ],
-    "flag_count": 1,
+    "flags_on": [],
+    "flag_count": 0,
     "flag_total": 8
   },
   "fundamentals": null,
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-09-25T15:37:48.255161+00:00"
+  "updated_at": "2026-09-29T16:53:23.755379+00:00"
 }

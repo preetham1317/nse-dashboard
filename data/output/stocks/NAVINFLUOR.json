@@ -3,54 +3,44 @@
   "name": "Navin Fluorine International",
   "sector": "Chemicals",
   "indicators": {
-    "date": "2026-09-25",
-    "close": 8572.0,
-    "prev_close": 8461.0,
-    "change_pct": 1.3119016664696845,
-    "ema20": 8451.709094985375,
-    "ema50": 8210.999472751624,
-    "ema200": 7128.584035421158,
-    "rsi14": 55.75768970193005,
-    "macd": 62.19908685384871,
-    "macd_signal": 86.56684034605465,
-    "atr14": 222.11646473806135,
-    "adx14": 22.87047493646395,
-    "adx_pos": 26.642492663257467,
-    "adx_neg": 17.764228250063663,
-    "bb_high": 8860.207793380703,
-    "bb_low": 8199.142206619295,
-    "bb_mid": 8529.675,
-    "vwap20": 8545.170866742452,
+    "date": "2026-09-29",
+    "close": 8234.5,
+    "prev_close": 8432.5,
+    "change_pct": -2.348058108508746,
+    "ema20": 8430.34182583783,
+    "ema50": 8220.719262112334,
+    "ema200": 7153.030047049282,
+    "rsi14": 44.76168667555777,
+    "macd": 31.84088218992474,
+    "macd_signal": 70.67006612881725,
+    "atr14": 224.18205378129363,
+    "adx14": 20.630522718434722,
+    "adx_pos": 22.76068860509014,
+    "adx_neg": 23.14713948312372,
+    "bb_high": 8853.12691102241,
+    "bb_low": 8154.87308897759,
+    "bb_mid": 8504.0,
+    "vwap20": 8525.569159722882,
     "high_52w": 8949.5,
     "low_52w": 4498.5,
-    "volume": 107462.0,
-    "avg_volume20": 131382.55
+    "volume": 136712.0,
+    "avg_volume20": 125753.95
   },
   "price_history": [
     {
-      "date": "2026-04-06",
-      "close": 5843.0,
-      "ema50": 6156.75
-    },
-    {
-      "date": "2026-04-07",
-      "close": 5821.5,
-      "ema50": 6143.6
-    },
-    {
       "date": "2026-04-08",
       "close": 6061.5,
-      "ema50": 6140.38
+      "ema50": 6140.39
     },
     {
       "date": "2026-04-09",
       "close": 6135.0,
-      "ema50": 6140.17
+      "ema50": 6140.18
     },
     {
       "date": "2026-04-10",
       "close": 6181.0,
-      "ema50": 6141.77
+      "ema50": 6141.78
     },
     {
       "date": "2026-04-13",
@@ -75,12 +65,12 @@
     {
       "date": "2026-04-20",
       "close": 6471.5,
-      "ema50": 6170.22
+      "ema50": 6170.23
     },
     {
       "date": "2026-04-21",
       "close": 6373.5,
-      "ema50": 6178.19
+      "ema50": 6178.2
     },
     {
       "date": "2026-04-22",
@@ -105,7 +95,7 @@
     {
       "date": "2026-04-28",
       "close": 6627.0,
-      "ema50": 6227.31
+      "ema50": 6227.32
     },
     {
       "date": "2026-04-29",
@@ -120,12 +110,12 @@
     {
       "date": "2026-05-04",
       "close": 6796.5,
-      "ema50": 6291.23
+      "ema50": 6291.24
     },
     {
       "date": "2026-05-05",
       "close": 7005.0,
-      "ema50": 6319.22
+      "ema50": 6319.23
     },
     {
       "date": "2026-05-06",
@@ -135,7 +125,7 @@
     {
       "date": "2026-05-07",
       "close": 7085.0,
-      "ema50": 6376.52
+      "ema50": 6376.53
     },
     {
       "date": "2026-05-08",
@@ -145,7 +135,7 @@
     {
       "date": "2026-05-11",
       "close": 7071.5,
-      "ema50": 6428.83
+      "ema50": 6428.84
     },
     {
       "date": "2026-05-12",
@@ -205,7 +195,7 @@
     {
       "date": "2026-05-27",
       "close": 7244.5,
-      "ema50": 6690.01
+      "ema50": 6690.02
     },
     {
       "date": "2026-05-29",
@@ -220,7 +210,7 @@
     {
       "date": "2026-06-02",
       "close": 7052.0,
-      "ema50": 6731.72
+      "ema50": 6731.73
     },
     {
       "date": "2026-06-03",
@@ -624,46 +614,51 @@
     },
     {
       "date": "2026-09-25",
-      "close": 8572.0,
-      "ema50": 8211.0
+      "close": 8584.5,
+      "ema50": 8211.49
+    },
+    {
+      "date": "2026-09-28",
+      "close": 8432.5,
+      "ema50": 8220.16
+    },
+    {
+      "date": "2026-09-29",
+      "close": 8234.5,
+      "ema50": 8220.72
     }
   ],
   "flags": {
     "flags": {
-      "price_above_ema20": true,
+      "price_above_ema20": false,
       "ema20_above_ema50": true,
       "ema50_above_ema200": true,
-      "rsi_above_50": true,
+      "rsi_above_50": false,
       "macd_bullish": false,
-      "adx_trending_up": true,
-      "price_above_vwap20": true,
-      "price_above_bb_mid": true
+      "adx_trending_up": false,
+      "price_above_vwap20": false,
+      "price_above_bb_mid": false
     },
     "flags_detail": {
-      "price_above_ema20": "Close 8,572.00 vs EMA20 8,451.71",
-      "ema20_above_ema50": "EMA20 8,451.71 vs EMA50 8,211.00",
-      "ema50_above_ema200": "EMA50 8,211.00 vs EMA200 7,128.58",
-      "rsi_above_50": "RSI(14) 55.76 vs 50",
-      "macd_bullish": "MACD 62.20 vs signal 86.57",
-      "adx_trending_up": "ADX(14) 22.87 vs 20, +DI 26.64 vs -DI 17.76",
-      "price_above_vwap20": "Close 8,572.00 vs 20d VWAP 8,545.17",
-      "price_above_bb_mid": "Close 8,572.00 vs BB mid 8,529.67"
+      "price_above_ema20": "Close 8,234.50 vs EMA20 8,430.34",
+      "ema20_above_ema50": "EMA20 8,430.34 vs EMA50 8,220.72",
+      "ema50_above_ema200": "EMA50 8,220.72 vs EMA200 7,153.03",
+      "rsi_above_50": "RSI(14) 44.76 vs 50",
+      "macd_bullish": "MACD 31.84 vs signal 70.67",
+      "adx_trending_up": "ADX(14) 20.63 vs 20, +DI 22.76 vs -DI 23.15",
+      "price_above_vwap20": "Close 8,234.50 vs 20d VWAP 8,525.57",
+      "price_above_bb_mid": "Close 8,234.50 vs BB mid 8,504.00"
     },
     "flags_on": [
-      "price_above_ema20",
       "ema20_above_ema50",
-      "ema50_above_ema200",
-      "rsi_above_50",
-      "adx_trending_up",
-      "price_above_vwap20",
-      "price_above_bb_mid"
+      "ema50_above_ema200"
     ],
-    "flag_count": 7,
+    "flag_count": 2,
     "flag_total": 8
   },
   "fundamentals": null,
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-09-25T15:56:01.598320+00:00"
+  "updated_at": "2026-09-29T17:11:17.562927+00:00"
 }

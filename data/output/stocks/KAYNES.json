@@ -3,40 +3,30 @@
   "name": "Kaynes Technology India",
   "sector": "Electronics",
   "indicators": {
-    "date": "2026-09-25",
-    "close": 3650.0,
-    "prev_close": 3509.5,
-    "change_pct": 4.003419290497222,
-    "ema20": 3572.181393390422,
-    "ema50": 3583.1703737946104,
-    "ema200": 3974.617228575271,
-    "rsi14": 53.278983710851975,
-    "macd": -36.88103622365361,
-    "macd_signal": -40.283999860597405,
-    "atr14": 143.27568116964068,
-    "adx14": 17.479785995625658,
-    "adx_pos": 24.646550584112926,
-    "adx_neg": 21.960272899578325,
-    "bb_high": 3803.228422222732,
-    "bb_low": 3322.9815777772687,
-    "bb_mid": 3563.1050000000005,
-    "vwap20": 3571.2085304443217,
+    "date": "2026-09-29",
+    "close": 3511.5,
+    "prev_close": 3658.0,
+    "change_pct": -4.00492072170585,
+    "ema20": 3573.7970136370577,
+    "ema50": 3583.1791889876986,
+    "ema200": 3966.87544509191,
+    "rsi14": 46.37057755793274,
+    "macd": -27.563647475776634,
+    "macd_signal": -35.336965348253,
+    "atr14": 145.3693373331998,
+    "adx14": 15.772540417761556,
+    "adx_pos": 22.63346356680562,
+    "adx_neg": 23.035520859465382,
+    "bb_high": 3701.540509015881,
+    "bb_low": 3378.8094909841193,
+    "bb_mid": 3540.175,
+    "vwap20": 3544.296115797972,
     "high_52w": 7705.0,
     "low_52w": 2995.0,
-    "volume": 1327893.0,
-    "avg_volume20": 1123567.5
+    "volume": 1474271.0,
+    "avg_volume20": 1105519.65
   },
   "price_history": [
-    {
-      "date": "2026-04-06",
-      "close": 3706.5,
-      "ema50": 3798.94
-    },
-    {
-      "date": "2026-04-07",
-      "close": 3751.1,
-      "ema50": 3797.06
-    },
     {
       "date": "2026-04-08",
       "close": 3911.4,
@@ -626,42 +616,48 @@
       "date": "2026-09-25",
       "close": 3650.0,
       "ema50": 3583.17
+    },
+    {
+      "date": "2026-09-28",
+      "close": 3658.0,
+      "ema50": 3586.1
+    },
+    {
+      "date": "2026-09-29",
+      "close": 3511.5,
+      "ema50": 3583.18
     }
   ],
   "flags": {
     "flags": {
-      "price_above_ema20": true,
+      "price_above_ema20": false,
       "ema20_above_ema50": false,
       "ema50_above_ema200": false,
-      "rsi_above_50": true,
+      "rsi_above_50": false,
       "macd_bullish": true,
       "adx_trending_up": false,
-      "price_above_vwap20": true,
-      "price_above_bb_mid": true
+      "price_above_vwap20": false,
+      "price_above_bb_mid": false
     },
     "flags_detail": {
-      "price_above_ema20": "Close 3,650.00 vs EMA20 3,572.18",
-      "ema20_above_ema50": "EMA20 3,572.18 vs EMA50 3,583.17",
-      "ema50_above_ema200": "EMA50 3,583.17 vs EMA200 3,974.62",
-      "rsi_above_50": "RSI(14) 53.28 vs 50",
-      "macd_bullish": "MACD -36.88 vs signal -40.28",
-      "adx_trending_up": "ADX(14) 17.48 vs 20, +DI 24.65 vs -DI 21.96",
-      "price_above_vwap20": "Close 3,650.00 vs 20d VWAP 3,571.21",
-      "price_above_bb_mid": "Close 3,650.00 vs BB mid 3,563.11"
+      "price_above_ema20": "Close 3,511.50 vs EMA20 3,573.80",
+      "ema20_above_ema50": "EMA20 3,573.80 vs EMA50 3,583.18",
+      "ema50_above_ema200": "EMA50 3,583.18 vs EMA200 3,966.88",
+      "rsi_above_50": "RSI(14) 46.37 vs 50",
+      "macd_bullish": "MACD -27.56 vs signal -35.34",
+      "adx_trending_up": "ADX(14) 15.77 vs 20, +DI 22.63 vs -DI 23.04",
+      "price_above_vwap20": "Close 3,511.50 vs 20d VWAP 3,544.30",
+      "price_above_bb_mid": "Close 3,511.50 vs BB mid 3,540.18"
     },
     "flags_on": [
-      "price_above_ema20",
-      "rsi_above_50",
-      "macd_bullish",
-      "price_above_vwap20",
-      "price_above_bb_mid"
+      "macd_bullish"
     ],
-    "flag_count": 5,
+    "flag_count": 1,
     "flag_total": 8
   },
   "fundamentals": null,
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-09-25T15:47:40.437718+00:00"
+  "updated_at": "2026-09-29T17:03:10.052796+00:00"
 }

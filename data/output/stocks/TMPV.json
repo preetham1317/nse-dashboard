@@ -3,40 +3,30 @@
   "name": "Tata Motors Passenger Vehicles",
   "sector": "Auto",
   "indicators": {
-    "date": "2026-09-25",
-    "close": 290.45,
-    "prev_close": 295.0,
-    "change_pct": -1.542372881355936,
-    "ema20": 305.5927980532353,
-    "ema50": 319.04009427535266,
-    "ema200": 347.85188708538044,
-    "rsi14": 31.15438911205588,
-    "macd": -7.427102084107503,
-    "macd_signal": -7.153352960240176,
-    "atr14": 7.818326699576568,
-    "adx14": 23.170084424840418,
-    "adx_pos": 20.205063871195712,
-    "adx_neg": 28.447366981315753,
-    "bb_high": 318.72632639059714,
-    "bb_low": 291.5836736094029,
-    "bb_mid": 305.15500000000003,
-    "vwap20": 304.664451209289,
+    "date": "2026-09-29",
+    "close": 280.95,
+    "prev_close": 281.75,
+    "change_pct": -0.28393966282165445,
+    "ema20": 301.19138344040346,
+    "ema50": 316.1413513883433,
+    "ema200": 346.49132027307434,
+    "rsi14": 26.129522992281792,
+    "macd": -9.189842020009735,
+    "macd_signal": -7.765487320269925,
+    "atr14": 8.153047001296368,
+    "adx14": 24.541215787637327,
+    "adx_pos": 16.706471301900052,
+    "adx_neg": 36.87580068039716,
+    "bb_high": 319.8950879351296,
+    "bb_low": 283.8599120648704,
+    "bb_mid": 301.8775,
+    "vwap20": 300.1336394918674,
     "high_52w": 447.79,
-    "low_52w": 288.0,
-    "volume": 22634929.0,
-    "avg_volume20": 9466251.85
+    "low_52w": 272.2,
+    "volume": 18903507.0,
+    "avg_volume20": 10322631.3
   },
   "price_history": [
-    {
-      "date": "2026-04-06",
-      "close": 307.4,
-      "ema50": 340.17
-    },
-    {
-      "date": "2026-04-07",
-      "close": 308.7,
-      "ema50": 338.94
-    },
     {
       "date": "2026-04-08",
       "close": 334.75,
@@ -50,7 +40,7 @@
     {
       "date": "2026-04-10",
       "close": 342.6,
-      "ema50": 338.72
+      "ema50": 338.71
     },
     {
       "date": "2026-04-13",
@@ -626,6 +616,16 @@
       "date": "2026-09-25",
       "close": 290.45,
       "ema50": 319.04
+    },
+    {
+      "date": "2026-09-28",
+      "close": 281.75,
+      "ema50": 317.58
+    },
+    {
+      "date": "2026-09-29",
+      "close": 280.95,
+      "ema50": 316.14
     }
   ],
   "flags": {
@@ -640,14 +640,14 @@
       "price_above_bb_mid": false
     },
     "flags_detail": {
-      "price_above_ema20": "Close 290.45 vs EMA20 305.59",
-      "ema20_above_ema50": "EMA20 305.59 vs EMA50 319.04",
-      "ema50_above_ema200": "EMA50 319.04 vs EMA200 347.85",
-      "rsi_above_50": "RSI(14) 31.15 vs 50",
-      "macd_bullish": "MACD -7.43 vs signal -7.15",
-      "adx_trending_up": "ADX(14) 23.17 vs 20, +DI 20.21 vs -DI 28.45",
-      "price_above_vwap20": "Close 290.45 vs 20d VWAP 304.66",
-      "price_above_bb_mid": "Close 290.45 vs BB mid 305.16"
+      "price_above_ema20": "Close 280.95 vs EMA20 301.19",
+      "ema20_above_ema50": "EMA20 301.19 vs EMA50 316.14",
+      "ema50_above_ema200": "EMA50 316.14 vs EMA200 346.49",
+      "rsi_above_50": "RSI(14) 26.13 vs 50",
+      "macd_bullish": "MACD -9.19 vs signal -7.77",
+      "adx_trending_up": "ADX(14) 24.54 vs 20, +DI 16.71 vs -DI 36.88",
+      "price_above_vwap20": "Close 280.95 vs 20d VWAP 300.13",
+      "price_above_bb_mid": "Close 280.95 vs BB mid 301.88"
     },
     "flags_on": [],
     "flag_count": 0,
@@ -657,5 +657,5 @@
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-09-25T16:15:46.195973+00:00"
+  "updated_at": "2026-09-29T17:30:30.764973+00:00"
 }

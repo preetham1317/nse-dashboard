@@ -3,40 +3,30 @@
   "name": "Larsen & Toubro",
   "sector": "Infrastructure",
   "indicators": {
-    "date": "2026-09-25",
-    "close": 3876.2,
-    "prev_close": 3858.4,
-    "change_pct": 0.4613311217084731,
-    "ema20": 3920.5089853156487,
-    "ema50": 3956.4240259292055,
-    "ema200": 3934.9813040338604,
-    "rsi14": 43.791046857335154,
-    "macd": -35.486269721835924,
-    "macd_signal": -32.3008856132024,
-    "atr14": 61.930107136556686,
-    "adx14": 14.388684597324305,
-    "adx_pos": 14.006055241612481,
-    "adx_neg": 17.770185936982244,
-    "bb_high": 4058.593591942048,
-    "bb_low": 3797.366408057951,
-    "bb_mid": 3927.9799999999996,
-    "vwap20": 3926.5861809607864,
+    "date": "2026-09-29",
+    "close": 3749.1,
+    "prev_close": 3766.4,
+    "change_pct": -0.45932455395072697,
+    "ema20": 3890.9050877527197,
+    "ema50": 3941.13397219203,
+    "ema200": 3931.3952155362117,
+    "rsi14": 34.392170917342455,
+    "macd": -50.32050555011665,
+    "macd_signal": -37.66575384998494,
+    "atr14": 64.36728625578982,
+    "adx14": 17.20014260704385,
+    "adx_pos": 11.619383875799894,
+    "adx_neg": 25.480850647473748,
+    "bb_high": 4040.1533970356377,
+    "bb_low": 3758.286602964362,
+    "bb_mid": 3899.22,
+    "vwap20": 3897.5181374971307,
     "high_52w": 4440.0,
     "low_52w": 3288.1,
-    "volume": 1230579.0,
-    "avg_volume20": 1391295.35
+    "volume": 2546475.0,
+    "avg_volume20": 1464342.8
   },
   "price_history": [
-    {
-      "date": "2026-04-06",
-      "close": 3727.7,
-      "ema50": 3827.02
-    },
-    {
-      "date": "2026-04-07",
-      "close": 3723.3,
-      "ema50": 3822.96
-    },
     {
       "date": "2026-04-08",
       "close": 4005.9,
@@ -100,7 +90,7 @@
     {
       "date": "2026-04-27",
       "close": 4053.6,
-      "ema50": 3908.15
+      "ema50": 3908.14
     },
     {
       "date": "2026-04-28",
@@ -626,6 +616,16 @@
       "date": "2026-09-25",
       "close": 3876.2,
       "ema50": 3956.42
+    },
+    {
+      "date": "2026-09-28",
+      "close": 3766.4,
+      "ema50": 3948.97
+    },
+    {
+      "date": "2026-09-29",
+      "close": 3749.1,
+      "ema50": 3941.13
     }
   ],
   "flags": {
@@ -640,14 +640,14 @@
       "price_above_bb_mid": false
     },
     "flags_detail": {
-      "price_above_ema20": "Close 3,876.20 vs EMA20 3,920.51",
-      "ema20_above_ema50": "EMA20 3,920.51 vs EMA50 3,956.42",
-      "ema50_above_ema200": "EMA50 3,956.42 vs EMA200 3,934.98",
-      "rsi_above_50": "RSI(14) 43.79 vs 50",
-      "macd_bullish": "MACD -35.49 vs signal -32.30",
-      "adx_trending_up": "ADX(14) 14.39 vs 20, +DI 14.01 vs -DI 17.77",
-      "price_above_vwap20": "Close 3,876.20 vs 20d VWAP 3,926.59",
-      "price_above_bb_mid": "Close 3,876.20 vs BB mid 3,927.98"
+      "price_above_ema20": "Close 3,749.10 vs EMA20 3,890.91",
+      "ema20_above_ema50": "EMA20 3,890.91 vs EMA50 3,941.13",
+      "ema50_above_ema200": "EMA50 3,941.13 vs EMA200 3,931.40",
+      "rsi_above_50": "RSI(14) 34.39 vs 50",
+      "macd_bullish": "MACD -50.32 vs signal -37.67",
+      "adx_trending_up": "ADX(14) 17.20 vs 20, +DI 11.62 vs -DI 25.48",
+      "price_above_vwap20": "Close 3,749.10 vs 20d VWAP 3,897.52",
+      "price_above_bb_mid": "Close 3,749.10 vs BB mid 3,899.22"
     },
     "flags_on": [
       "ema50_above_ema200"
@@ -659,5 +659,5 @@
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-09-25T15:50:42.519259+00:00"
+  "updated_at": "2026-09-29T17:06:07.280160+00:00"
 }

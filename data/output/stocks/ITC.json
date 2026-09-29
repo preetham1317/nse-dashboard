@@ -3,40 +3,30 @@
   "name": "ITC Ltd",
   "sector": "FMCG",
   "indicators": {
-    "date": "2026-09-25",
-    "close": 269.0,
-    "prev_close": 268.0,
-    "change_pct": 0.3731343283582089,
-    "ema20": 266.39968670343393,
-    "ema50": 271.9945477975601,
-    "ema200": 306.9029633924729,
-    "rsi14": 52.185498384904854,
-    "macd": -1.24330813378117,
-    "macd_signal": -2.7194166833324886,
-    "atr14": 4.684272468030536,
-    "adx14": 30.03698048689107,
-    "adx_pos": 16.08989664057133,
-    "adx_neg": 17.54163414216519,
-    "bb_high": 271.3569901917964,
-    "bb_low": 256.5480098082036,
-    "bb_mid": 263.9525,
-    "vwap20": 263.97450220513656,
+    "date": "2026-09-29",
+    "close": 265.1,
+    "prev_close": 265.2,
+    "change_pct": -0.03770739064855426,
+    "ema20": 266.1725326529246,
+    "ema50": 271.4681833131749,
+    "ema200": 306.20784297711407,
+    "rsi14": 46.91963660103979,
+    "macd": -1.195533376416904,
+    "macd_signal": -2.174708131442923,
+    "atr14": 4.570622689276731,
+    "adx14": 27.778913217274017,
+    "adx_pos": 14.218397936526348,
+    "adx_neg": 20.044487999831684,
+    "bb_high": 270.6773448668525,
+    "bb_low": 258.1076551331476,
+    "bb_mid": 264.39250000000004,
+    "vwap20": 264.4345829704915,
     "high_52w": 426.4,
     "low_52w": 255.5,
-    "volume": 6240148.0,
-    "avg_volume20": 13177377.5
+    "volume": 14419948.0,
+    "avg_volume20": 12302709.15
   },
   "price_history": [
-    {
-      "date": "2026-04-06",
-      "close": 294.85,
-      "ema50": 316.06
-    },
-    {
-      "date": "2026-04-07",
-      "close": 298.45,
-      "ema50": 315.37
-    },
     {
       "date": "2026-04-08",
       "close": 302.45,
@@ -50,7 +40,7 @@
     {
       "date": "2026-04-10",
       "close": 304.25,
-      "ema50": 314.0
+      "ema50": 314.01
     },
     {
       "date": "2026-04-13",
@@ -150,7 +140,7 @@
     {
       "date": "2026-05-12",
       "close": 300.7,
-      "ema50": 310.1
+      "ema50": 310.11
     },
     {
       "date": "2026-05-13",
@@ -270,7 +260,7 @@
     {
       "date": "2026-06-16",
       "close": 291.65,
-      "ema50": 298.06
+      "ema50": 298.07
     },
     {
       "date": "2026-06-17",
@@ -626,42 +616,50 @@
       "date": "2026-09-25",
       "close": 269.0,
       "ema50": 271.99
+    },
+    {
+      "date": "2026-09-28",
+      "close": 265.2,
+      "ema50": 271.73
+    },
+    {
+      "date": "2026-09-29",
+      "close": 265.1,
+      "ema50": 271.47
     }
   ],
   "flags": {
     "flags": {
-      "price_above_ema20": true,
+      "price_above_ema20": false,
       "ema20_above_ema50": false,
       "ema50_above_ema200": false,
-      "rsi_above_50": true,
+      "rsi_above_50": false,
       "macd_bullish": true,
       "adx_trending_up": false,
       "price_above_vwap20": true,
       "price_above_bb_mid": true
     },
     "flags_detail": {
-      "price_above_ema20": "Close 269.00 vs EMA20 266.40",
-      "ema20_above_ema50": "EMA20 266.40 vs EMA50 271.99",
-      "ema50_above_ema200": "EMA50 271.99 vs EMA200 306.90",
-      "rsi_above_50": "RSI(14) 52.19 vs 50",
-      "macd_bullish": "MACD -1.24 vs signal -2.72",
-      "adx_trending_up": "ADX(14) 30.04 vs 20, +DI 16.09 vs -DI 17.54",
-      "price_above_vwap20": "Close 269.00 vs 20d VWAP 263.97",
-      "price_above_bb_mid": "Close 269.00 vs BB mid 263.95"
+      "price_above_ema20": "Close 265.10 vs EMA20 266.17",
+      "ema20_above_ema50": "EMA20 266.17 vs EMA50 271.47",
+      "ema50_above_ema200": "EMA50 271.47 vs EMA200 306.21",
+      "rsi_above_50": "RSI(14) 46.92 vs 50",
+      "macd_bullish": "MACD -1.20 vs signal -2.17",
+      "adx_trending_up": "ADX(14) 27.78 vs 20, +DI 14.22 vs -DI 20.04",
+      "price_above_vwap20": "Close 265.10 vs 20d VWAP 264.43",
+      "price_above_bb_mid": "Close 265.10 vs BB mid 264.39"
     },
     "flags_on": [
-      "price_above_ema20",
-      "rsi_above_50",
       "macd_bullish",
       "price_above_vwap20",
       "price_above_bb_mid"
     ],
-    "flag_count": 5,
+    "flag_count": 3,
     "flag_total": 8
   },
   "fundamentals": null,
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-09-25T15:44:15.421328+00:00"
+  "updated_at": "2026-09-29T16:59:49.180408+00:00"
 }
