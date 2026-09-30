@@ -1,8 +1,23 @@
 [
   {
+    "sector": "Aviation",
+    "avg_flag_pct": 62.5,
+    "stock_count": 1
+  },
+  {
     "sector": "Pharma",
-    "avg_flag_pct": 60.0,
+    "avg_flag_pct": 46.2,
     "stock_count": 10
+  },
+  {
+    "sector": "Railways",
+    "avg_flag_pct": 37.5,
+    "stock_count": 7
+  },
+  {
+    "sector": "Realty",
+    "avg_flag_pct": 35.7,
+    "stock_count": 7
   },
   {
     "sector": "Logistics",
@@ -10,9 +25,9 @@
     "stock_count": 5
   },
   {
-    "sector": "Realty",
-    "avg_flag_pct": 28.6,
-    "stock_count": 7
+    "sector": "Auto Ancillary",
+    "avg_flag_pct": 27.5,
+    "stock_count": 5
   },
   {
     "sector": "Electronics",
@@ -20,14 +35,9 @@
     "stock_count": 5
   },
   {
-    "sector": "Metals",
-    "avg_flag_pct": 25.0,
-    "stock_count": 7
-  },
-  {
-    "sector": "Aviation",
-    "avg_flag_pct": 25.0,
-    "stock_count": 1
+    "sector": "Banking",
+    "avg_flag_pct": 22.3,
+    "stock_count": 14
   },
   {
     "sector": "Auto",
@@ -45,28 +55,23 @@
     "stock_count": 3
   },
   {
-    "sector": "Banking",
-    "avg_flag_pct": 18.8,
-    "stock_count": 14
-  },
-  {
-    "sector": "Railways",
-    "avg_flag_pct": 17.9,
+    "sector": "Metals",
+    "avg_flag_pct": 16.1,
     "stock_count": 7
   },
   {
-    "sector": "Auto Ancillary",
-    "avg_flag_pct": 17.5,
-    "stock_count": 5
+    "sector": "Cement",
+    "avg_flag_pct": 14.3,
+    "stock_count": 7
   },
   {
     "sector": "FMCG",
-    "avg_flag_pct": 17.5,
+    "avg_flag_pct": 13.8,
     "stock_count": 10
   },
   {
     "sector": "Healthcare",
-    "avg_flag_pct": 15.0,
+    "avg_flag_pct": 12.5,
     "stock_count": 5
   },
   {
@@ -85,17 +90,12 @@
     "stock_count": 7
   },
   {
-    "sector": "Energy",
-    "avg_flag_pct": 8.8,
-    "stock_count": 10
-  },
-  {
     "sector": "Telecom",
     "avg_flag_pct": 8.3,
     "stock_count": 3
   },
   {
-    "sector": "NBFC",
+    "sector": "Energy",
     "avg_flag_pct": 7.5,
     "stock_count": 10
   },
@@ -105,9 +105,9 @@
     "stock_count": 11
   },
   {
-    "sector": "Cement",
-    "avg_flag_pct": 5.4,
-    "stock_count": 7
+    "sector": "NBFC",
+    "avg_flag_pct": 6.2,
+    "stock_count": 10
   },
   {
     "sector": "Power",
