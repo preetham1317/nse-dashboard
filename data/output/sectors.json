@@ -10,6 +10,11 @@
     "stock_count": 7
   },
   {
+    "sector": "Aviation",
+    "avg_flag_pct": 25.0,
+    "stock_count": 1
+  },
+  {
     "sector": "Electronics",
     "avg_flag_pct": 22.5,
     "stock_count": 5
@@ -58,11 +63,6 @@
     "sector": "Telecom",
     "avg_flag_pct": 12.5,
     "stock_count": 3
-  },
-  {
-    "sector": "Aviation",
-    "avg_flag_pct": 12.5,
-    "stock_count": 1
   },
   {
     "sector": "FMCG",
