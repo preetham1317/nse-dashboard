@@ -3,35 +3,30 @@
   "name": "Varun Beverages",
   "sector": "FMCG",
   "indicators": {
-    "date": "2026-10-05",
-    "close": 439.6,
-    "prev_close": 425.3,
-    "change_pct": 3.362332471196805,
-    "ema20": 426.472060454239,
-    "ema50": 434.5940432363244,
-    "ema200": 459.0953345229959,
-    "rsi14": 59.21699396910291,
-    "macd": 1.8674726935182093,
-    "macd_signal": -0.7403681211724065,
-    "atr14": 10.39415399101705,
-    "adx14": 20.452007146689766,
-    "adx_pos": 23.21656640633823,
-    "adx_neg": 19.107200830848274,
-    "bb_high": 443.6385016517135,
-    "bb_low": 398.8364983482865,
-    "bb_mid": 421.2375,
-    "vwap20": 420.3056537277754,
+    "date": "2026-10-06",
+    "close": 439.3,
+    "prev_close": 439.6,
+    "change_pct": -0.06824385805277784,
+    "ema20": 427.6937689824067,
+    "ema50": 434.77859056039017,
+    "ema200": 458.8983660202796,
+    "rsi14": 58.96013625387007,
+    "macd": 2.5818397209185946,
+    "macd_signal": -0.07592655275420634,
+    "atr14": 10.14457156308726,
+    "adx14": 19.9599664868046,
+    "adx_pos": 23.884099291898224,
+    "adx_neg": 18.178909246439005,
+    "bb_high": 445.62185251273763,
+    "bb_low": 400.02314748726246,
+    "bb_mid": 422.82250000000005,
+    "vwap20": 421.38722342637413,
     "high_52w": 555.8,
     "low_52w": 381.0,
-    "volume": 4643552.0,
-    "avg_volume20": 5948412.8
+    "volume": 4266861.0,
+    "avg_volume20": 5954513.75
   },
   "price_history": [
-    {
-      "date": "2026-04-13",
-      "close": 430.6,
-      "ema50": 430.41
-    },
     {
       "date": "2026-04-15",
       "close": 445.55,
@@ -626,6 +621,11 @@
       "date": "2026-10-05",
       "close": 439.6,
       "ema50": 434.59
+    },
+    {
+      "date": "2026-10-06",
+      "close": 439.3,
+      "ema50": 434.78
     }
   ],
   "flags": {
@@ -635,34 +635,33 @@
       "ema50_above_ema200": false,
       "rsi_above_50": true,
       "macd_bullish": true,
-      "adx_trending_up": true,
+      "adx_trending_up": false,
       "price_above_vwap20": true,
       "price_above_bb_mid": true
     },
     "flags_detail": {
-      "price_above_ema20": "Close 439.60 vs EMA20 426.47",
-      "ema20_above_ema50": "EMA20 426.47 vs EMA50 434.59",
-      "ema50_above_ema200": "EMA50 434.59 vs EMA200 459.10",
-      "rsi_above_50": "RSI(14) 59.22 vs 50",
-      "macd_bullish": "MACD 1.87 vs signal -0.74",
-      "adx_trending_up": "ADX(14) 20.45 vs 20, +DI 23.22 vs -DI 19.11",
-      "price_above_vwap20": "Close 439.60 vs 20d VWAP 420.31",
-      "price_above_bb_mid": "Close 439.60 vs BB mid 421.24"
+      "price_above_ema20": "Close 439.30 vs EMA20 427.69",
+      "ema20_above_ema50": "EMA20 427.69 vs EMA50 434.78",
+      "ema50_above_ema200": "EMA50 434.78 vs EMA200 458.90",
+      "rsi_above_50": "RSI(14) 58.96 vs 50",
+      "macd_bullish": "MACD 2.58 vs signal -0.08",
+      "adx_trending_up": "ADX(14) 19.96 vs 20, +DI 23.88 vs -DI 18.18",
+      "price_above_vwap20": "Close 439.30 vs 20d VWAP 421.39",
+      "price_above_bb_mid": "Close 439.30 vs BB mid 422.82"
     },
     "flags_on": [
       "price_above_ema20",
       "rsi_above_50",
       "macd_bullish",
-      "adx_trending_up",
       "price_above_vwap20",
       "price_above_bb_mid"
     ],
-    "flag_count": 6,
+    "flag_count": 5,
     "flag_total": 8
   },
   "fundamentals": null,
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-10-05T20:22:27.344250+00:00"
+  "updated_at": "2026-10-06T17:51:17.316737+00:00"
 }

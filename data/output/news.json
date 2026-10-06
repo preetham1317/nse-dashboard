@@ -1,71 +1,134 @@
 {
-  "updated_at": "2026-10-05T20:29:13.283883+00:00",
+  "updated_at": "2026-10-06T17:58:11.735169+00:00",
   "symbols_covered": [
-    "ADANIPORTS",
     "BAJAJHFL",
     "BEL",
     "COFORGE",
+    "DIVISLAB",
     "DLF",
     "DRREDDY",
+    "GNFC",
     "JIOFIN",
     "JSWINFRA",
     "KOTAKBANK",
     "MANKIND",
     "PERSISTENT",
-    "PHOENIXLTD",
+    "PETRONET",
     "RCOM",
     "RTNPOWER",
     "SCTL",
     "SUZLON",
     "SYMBIOX",
-    "SYRMA",
     "UJJIVANSFB",
     "YESBANK"
   ],
   "source": "google_news_rss",
   "items": [
     {
-      "symbol": "SUZLON",
-      "title": "Suzlon Energy vs Inox Wind vs NTPC vs CESC vs Tata Power: Best Expert Pick In Power Utility Segment Revealed!",
-      "publisher": "Goodreturns",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQd1pmUWN4Sk5PbG5DM3hTMW1qTUk1S2dCT0R5WnFhQ2RmTnd0ZnpQRFNqZEhlRmEzVXBFU3I4WlBSdHFDUDZlQWNiWXA5OUV4ODZydVN4NllIbmY0aTJMaFo0cE9lV013QW5CWG0tamZWcjUxU2NpZ3A5Vk1fOHZSR2hwZjlIWl9jaHhHeU1DUkdMaXNoa2FoZDVYTDRqYmcyYUlaSUVVVjJvSFdtcnd6UEY5N1U1ZEtodUhCeklnSnRsdXBHbmNCZGxVUDZQLXVxTXdaRHoxQlVvT0E?oc=5",
-      "published_at": "2026-10-05T17:05:16+00:00",
-      "sentiment": "neutral",
-      "sentiment_source": "keyword"
-    },
-    {
-      "symbol": "ADANIPORTS",
-      "title": "Adani Ports & SEZ to host investor meet in Singapore on November 18-19",
-      "publisher": "scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPc1NqYkJsUWVmOGdmcmpUaGtvNk1odkpGc3JxSGxjam04bm9SWkNLTHBuU1kza083RmczTWVuT1ZEc1QxbzdSSjcxdFkzWGF3aWt2MFRKMG81dWk2bzYyT1NjNlJLS2pfd2toZkxrV21lXzliV1h6TENXTUgxdXNSOXNsN3plalpibVNMeUhhYm15QVgza3RITDBLN2l3ZXlla2REY0diLTlpaHVDSUFTZ284MWZoTE0?oc=5",
-      "published_at": "2026-10-05T15:14:17+00:00",
+      "symbol": "PERSISTENT",
+      "title": "Persistent Systems EGM Verdict: Shareholders Approve Plan To Raise Up To Rs 11,800 Crore",
+      "publisher": "NDTV Profit",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVktDMVJWTUxRSVBfazZCejRjWDZHbWN0eDVqY0ZWY0FUYlhWeDRCVmYtTDAwdkdxQWhfLTJTWjZQRDZsQ3dIMmZmdnhNZVdKamwtcFIxbGdaSzUxRW4ycWViSzJWeWx2TktzUWUwckRYVDJNQlRjZmkzb1RnNDZxLVd0SzNvcmo0c0NiWVhzdGt1Z3QxZ3VwUDdQZ3ZDWVRTWTMyQTJGbm5uRjRBcXU3REx1cDljS21WSFdzYklpa3ZzajJxd3Q3WUVjd9IB0wFBVV95cUxPYjhPeFJCbmRQeHhrVlc4Z0Z0anFjMmVnZ1lEVVFSYVRNaXhEWUp1Qkhubk1lV0h2S2JQSFNiUUdrbkNlNHNRZnlnTV80N25mQkdRZUp0RFV1R2pyV3RwSWtYVnB2NVYzaVR2SnUxMUxGS1UtNnQtc0NvSFQ4WkRralQ2c2ozS3I3QnBsY1JFUXVLSmdGNGFsSWR5WjFJQXZZamRSaE9vRXlFcUhWN1VfU09OUVVfcV8yQTdnVHRvT2hLNmxFdHNyYUpWN21SbFMtSXdN?oc=5",
+      "published_at": "2026-10-06T17:25:26+00:00",
       "sentiment": "neutral",
       "sentiment_source": "keyword"
     },
     {
       "symbol": "JIOFIN",
-      "title": "Jio Financial Services Shares Surge Over 3.5% Today After Blockbuster Q1 FY27 Results; Should You BUY or SELL?",
-      "publisher": "Goodreturns",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQ0cxXzRVLWJIV2RVSjRyRnQ2eGNEbWZ3OFRGUUJNN2RmVXJvQndLU2pMdXFxZlV2aW1tRGprc0F6anBZaXpJNFJOMjF4RnJMZ3lIa3FzRDVTVC1TQUY5Sm1oSmpjTnh4a190LUpGZFVCaTZkSEFKTER6Vnd1bi1FeE5BUDBaN3d1YUN4Rkp6aGFGcWxPWE9TVTJKTjVPVGR4TXA2QktUOGFnYzBHUk1mN0dMYnZ5NFFSOENucUJEaG5TbnhxSUVsbQ?oc=5",
-      "published_at": "2026-10-05T14:28:37+00:00",
-      "sentiment": "positive",
-      "sentiment_source": "keyword"
-    },
-    {
-      "symbol": "COFORGE",
-      "title": "Coforge - Siemens Energy among 5 stocks showing RSI Trending Up",
-      "publisher": "The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQY2ZJQmFDVXR6OFBkVVNZQlR5aE1JQ1M3NVhWRXBCSmhhd0h0cUZBcFhLanFJYm9oQ2ozRHpsQVdFYm0yaGdLaGtfZVVfVFc4dmpMUGhxSXhUWndXcDNUUDRLQWkybG9IcUsyVFFOYVBpelZVeldTU1QzUVIybVZnQ0h1TnlNYllHUHo4bkIwb2RaQnBWdnl5Yy1jQ0xOQTRBa2c4eXNlRkNrUXFmNld5MktmaWZiLWRPM05wTWtnNENBeGZyemNTTmgwdGZKZw?oc=5",
-      "published_at": "2026-10-05T14:17:49+00:00",
+      "title": "Jio Financial, Allianz Invest Rs. 3.2 bn Each in Insurance JV",
+      "publisher": "Construction World",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUTk1MTBUTTVKcE5nUmxpanBleGhfQkdRMDFnbDhXa1BVRF9sZGkwems3QU1hVGswSHNCSHBVR2pURWNTN2F1eTdMa2FQMTJYQTFQWkhKZDllMXNLN3dKdUFjczRSUlh1bnpwdE16bUlEVmZ3Tks1VDJXZmFCU1d2a2tzc280eF9yc21IcDVWYmZNQzZYbVRTY1g2aUNocDd2S2RCTU55R3lCeWNGeGZqQUZlSG5kNVNOYXl4bnBPdm5sUlRucHllLWJPay0?oc=5",
+      "published_at": "2026-10-06T15:14:26+00:00",
       "sentiment": "neutral",
       "sentiment_source": "keyword"
     },
     {
       "symbol": "KOTAKBANK",
-      "title": "Top stocks in focus tomorrow: Investors must watch Trent, Kotak Mahindra Bank, Vedanta shares on Tue, 6 Oct | Triggers",
-      "publisher": "Livemint",
-      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPcWs3czUybmZOLXpWblYtbU1VS3g2bk9lcnNRdE9xR0o5eFhHbk9XVnlkOGQ2LTVUQUZ4akRoc2lOdkNOa3lOZXczTjl3eWtEMUliS2ROZHNWT2NWUFJHMGp1ZUdJWXEzbFJJQ09rblFCRGpDNWoxYVhuZ0tBTk13Y3Fjb2ozTTZ3VVhWZllMUVJoZjdHMWJYRURyZDZYM0xVaU93dElaZHFuS3B1NkF2QjdUSEFZZGs0ZkgtS1ZoYkJPODVhTHpPbnloVDk5Tmd6eDRYem5mN09xVnJLa1llb3Bta2RaUGZiWDcwV1RRdVhaMnFWc3lGN215ZFd5VkJqZ1Z5Sm92UzF2QU5aZHlv0gGUAkFVX3lxTE1rYnc2cHlUcm5pcGpjblBBSGt4MXlBa1dzenp1eVNsX2dHc0lPZWtNVHZTZzhwUXRIN09KZzFpNHVmbnVBVWZ5VzVTbHFQa3RIN1Z0MmU2OXVyWXNiMDdVeUwyR0JJU1V0SEN5RE5oRG1OWTZHTi1VeFl2b3J2S2ZUb0tPYmVKTS1vdmh3ZVZWMzlmZEdudGUzcGRxOWZUbElYQ1h0Nm5sR0EyN3BWdElHUjNuWjRlNnA1dUxTR3poUk9BYVRtYlNEVnprUnNQWW1vVm5pMHRfMmVoWHQzQUl5elRvaDlHMGJLMzhYZmszcjlQNFpVQ2dXdlpmSkJvN2c5WXpjbHdkNEM3ZFlKMkJKYXFmNw?oc=5",
-      "published_at": "2026-10-05T14:17:20+00:00",
+      "title": "Why is Kotak Mahindra Bank outperforming Nifty and Bank Nifty in last two months? Here are 3 key reasons",
+      "publisher": "Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOSGlueXgzZTloSDNWNDJmSHFoT2YxSlBDcC1Yb3NRNDhiMEdYcDRhXy1tZENnYWhteFc4RzdqaVBhdVZYaHpNa2JoSU02MmtDWXBBU0prSFVsUy1yU1IydnduUUl4NlQxSEprVUdUYzVBbGtrNUFWcnVTYjJpUHlSZHBIcWJ6SGpQWHdMSFBfQWFLLWU5MVI4dHVsYnBsQVJHWS0xRW9tbG13WThoZW1PNkRES09YdUNIUFltcWM1cWpHWGVGT0RfWmhQWjhPSlgwangtbTI2LXViQVMtaWlrZGFqalYwcmZnQjVoQTBUU0ljQW5ENzg5RXJ3aGw?oc=5",
+      "published_at": "2026-10-06T12:40:37+00:00",
+      "sentiment": "neutral",
+      "sentiment_source": "keyword"
+    },
+    {
+      "symbol": "SUZLON",
+      "title": "Power sector Q2 preview: NTPC, Tata Power, others profits seen jumping; likely to stay strong",
+      "publisher": "ET EnergyWorld",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPZk1QemZiV1JWWEtyWDAxV0dGb3BTa1dKTDM3VF84al9NUkJpcDJ0NWJLVDY3RUt5a05sSnUzdEpLNWRuWmZBaDZpZGFvdFdRVjMtWkt1a0FjcGtocHdYZkxUR0ZzQ2FMR2FVZEo5OXNmcWlDREZGZGlhR1Fhb29ZY3NPTjJMMzlzX2NfdUYwMDBybWVMMzVON2dnUlVrMkp4THJRbG1JRGJLQ2doN0h6MWs4aFBlQk1fdVEwcVlJbVRxZU1keUNxM1AtcVJ5NU9nS1FVRlpRanl4RTJCRjRscUZXcFllSThqMzdlU09VcEpRclI2Y2ZiUEFrQW9VTzVWVEHSAYICQVVfeXFMT2ZNUHpmYldSVlhLclgwMVdHRm9wU2tXSkwzN1RfOGpfTVJCaXAydDViS1Q2N0VLeWtObEp1M3RKSzVkblpmQWg2aWRhb3RXUVYzLVpLdWtBY3BraHB3WGZMVEdGc0NhTEdhVWRKOTlzZnFpQ0RGRmRpYUdRYW9vWWNzT04yTDM5c19jX3VGMDAwcm1lTDM1TjdnZ1JVazJKeExyUWxtSURiS0NnaDdIejFrOGhQZUJNX3VRMHFZSW1UcWVNZHlDcTNQLXFSeTVPZ0tRVUZaUWp5eEUyQkY0bHFGV3BZZUk4ajM3ZVNPVXBKUXJSNmNmYlBBa0FvVU81VlRB?oc=5",
+      "published_at": "2026-10-06T10:26:01+00:00",
+      "sentiment": "positive",
+      "sentiment_source": "keyword"
+    },
+    {
+      "symbol": "GNFC",
+      "title": "GNFC Share Price Rises 7.19% Today",
+      "publisher": "Univest",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQV3JoRnYxU3g3bHJtb1dDWXhEdmpteTJsLW9vaHpLSmJIRnpjYl9pb3RhT3hDcG10THRObFB6ZUpnS2c4cERJZnczcVllT25pbGtjMmV2NjBjZ2tLLUQ2RDFSSktmeUxKTWdyOUhUSmFielVYX0JjQnNZRURJVkttQnhVQUVLQzZaQ2ZuQ21TS2UwRDlMalhMTkpTNWpIRFdjSXhmd1BpMmplM0RJWHc?oc=5",
+      "published_at": "2026-10-06T09:28:00+00:00",
+      "sentiment": "neutral",
+      "sentiment_source": "keyword"
+    },
+    {
+      "symbol": "BEL",
+      "title": "BEL share price target: 4 'Buy' calls within week, among top defence stock picks",
+      "publisher": "Business Today",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPQlBjd2ZJSTBzYlQ5WllnazdiekM2WGFxQmVnQTd1OXR1bGIyR1ZBUXVpbFdUTEw1VjdTRVAzaWltYTNTTzQ2MHdYOW9Nclp4dmpwLVBkSDJ3R3R1UDhTVzRmSHRCaHNrZ3c3amNiZFVnTU95UFp3eG5Yam9wTnVHUmZacGxnWUJnWEZ1MUUwZTd4WFliX1h2dXhRRW0yRHFJMkpsQl9XVW5KTWg5WThveVhlQk1aNnUxbDN5SUZMSjdsM0NBNEY5LS0wT0JLUV9wcFAzY1lYdzlqQXU1QkRNdGtB0gHiAUFVX3lxTE9CUGN3ZklJMHNiVDlaWWdrN2J6QzZYYXFCZWdBN3U5dHVsYjJHVkFRdWlsV1RMTDVWN1NFUDNpaW1hM1NPNDYwd1g5b01yWnh2anAtUGRIMndHdHVQOFNXNGZIdEJoc2tndzdqY2JkVWdNT3lQWnd4blhqb3BOdUdSZlpwbGdZQmdYRnUxRTBlN3hYWWJfWHZ1eFFFbTJEcUkySmxCX1dVbkpNaDlZOG95WGVCTVo2dTFsM3lJRkxKN2wzQ0E0RjktLTBPQktRX3BwUDNjWVh3OWpBdTVCRE10a0E?oc=5",
+      "published_at": "2026-10-06T08:39:18+00:00",
+      "sentiment": "neutral",
+      "sentiment_source": "keyword"
+    },
+    {
+      "symbol": "UJJIVANSFB",
+      "title": "Ujjivan Small Finance Bank Sees Significant Open Interest Surge Amid Mixed Market Signals",
+      "publisher": "MarketsMojo",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOUFlTVVFTallKdXdrWWJCUm5TX041Vmw4ZS14bll6V2NoUm00RktIRDE5U0c4M3dtQnhHRmpVcHYxQmJWU3pFTmNrTFdndEVhbUI2d3d1R1BDSTBrNkh5SXg5X3pHYXBIR3A3aXZISnUwcTNYTmkwM19KTmpGS3RfaGJMYXJ3QlNhYmRLQlZhOVo1cFNtM0tMR2I3aHZpOE5ZWHpmUTk5MHF1c2Y3aUxlUzRHNnlrNEFfbjlFaktIR3ZnRVhUM1BDQkthQ05HalhSTGJ6eWxfdkZDUmhvZkVWaA?oc=5",
+      "published_at": "2026-10-06T07:41:17+00:00",
+      "sentiment": "positive",
+      "sentiment_source": "keyword"
+    },
+    {
+      "symbol": "KOTAKBANK",
+      "title": "Kotak Mahindra Bank shares rise as September-quarter net advances grow 24.7%",
+      "publisher": "Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQYS1zMXdneWp2OUtiWWktRnM3YXZ2Z2VBc1RUVTdOMkphVm1feHdNaXVQTEdDMm9oaFcxbHRGcllWNEtyUk55X0pqa1BEZTNORDk1X1Vld0ZBd2NBMEFzM3hpWmc3enNsWV96WUVONUhGeVJOUm9GS2Z2czF6clVaNkhZZkFfYnozTFN1b1gxNlF0ajdvMEpJaXJ3bHVmY0RwX3BVbXJvb3pvbzY0bVB0Zk5UZE1BQ2pMc3NSM29VOGxzOVlaV3JnNGJreXQ3NHZU?oc=5",
+      "published_at": "2026-10-06T06:49:40+00:00",
+      "sentiment": "neutral",
+      "sentiment_source": "keyword"
+    },
+    {
+      "symbol": "UJJIVANSFB",
+      "title": "Ujjivan Small Finance Bank among 4 stocks with sharp rise in futures open interest",
+      "publisher": "The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOOHo5RWM5YUhXWkJvSk1JZ1pTWWxTV2lXbnlJcjZTMDl5SzZwbk5HeWlLZWVVcUIxaHRxQVdmZVFCU3pRQjhXMmNaNDNNNkRSNFRWbFZWTjl0RTdUc2RzakdpS2FxaUZEbDJYemJ3VkQ0Y3dhQ0dKRHhGZExWTEVDTWNhMGdGTjdlTjVvQzlKcWtKMGphQ2oyeVA5ajBXZTRwZEJVeEUtQk53STZJd2xtMG5ISGFYSnFtZlZtU1dfZndVUU9iX1JwVEQ2Yk1ZcWkzaTJYYjVKc1d2b3B2QlEyMElnSjVtNnNMT1E?oc=5",
+      "published_at": "2026-10-06T05:58:20+00:00",
+      "sentiment": "neutral",
+      "sentiment_source": "keyword"
+    },
+    {
+      "symbol": "JIOFIN",
+      "title": "JIO Financial Services Share Price News: Sector Context",
+      "publisher": "Univest",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNckpjOWlUck54UWE4ZE5oUUZMX2FXWVpEZDNnaXMxbXJ1czdjN2YzN0h4enhuUnpfZnUzRU5tdXhpWVdTUWtuVks0LVd3SFRSTU9qZ3NwaHBERGN0cmdnS19tQ2Z4ZXlHUjVGNWNTM1FJbW1rNEN0aXFBRHpwNmRZTlc3enVabkxzOTFR?oc=5",
+      "published_at": "2026-10-06T04:46:00+00:00",
+      "sentiment": "neutral",
+      "sentiment_source": "keyword"
+    },
+    {
+      "symbol": "DIVISLAB",
+      "title": "Divi's Laboratories Emerges As Nifty Inclusion Contender With $824 Million Inflows",
+      "publisher": "Sahi",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVmNhZWpOUTFQb0pzM2V1ZWNQNkhWaTdCZGMxUzVNR21YZlFGNThMaHc1RlRub2pvdng5TU0zTHZaNW1lMUxReFdNbXFyQkRmbzBqSGhaV0N4Wnptc2NRSHlTMVlDREdoREZqSkR5YWZQSjVCcmoyMkNXeFRYSjVLWW9PYnlUOWVydUFLWngxdHBlRkNuLVZPR1FEMHd1NTBDSzBHd3Mxd2Jwd2c?oc=5",
+      "published_at": "2026-10-06T04:36:53+00:00",
+      "sentiment": "neutral",
+      "sentiment_source": "keyword"
+    },
+    {
+      "symbol": "SUZLON",
+      "title": "Suzlon Energy Independent Director Gautam Doshi Steps Down After Completing Second Term",
+      "publisher": "scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPM3lfUmVtTXREVGlwRHQtQnVzb3kzOG9VMUI4Z2tfLUZDV2gxQzdqX2ktYjg1NTFiUFZORUhUTjdVQXNQcGV3QUs3WFFqZGFuTHJBV2x6X1JfZHBSTnRuX0s5aG1vWEhjLUE5TVRfZGlUZ0JjbG1nN1U4R25iRVpubkNiNWxKam52ZnBLa0lYUzU2VE9qc1pqUXFvbkNnT0xhZ1BPR191aE1ROU5RNUJnNDlVSExEUVV4dDRQUUQ2bzFCTHdNYXNIeVVLQll1RjE0V0ltNUhpXzk5UFFv?oc=5",
+      "published_at": "2026-10-05T22:27:58+00:00",
       "sentiment": "neutral",
       "sentiment_source": "keyword"
     },
@@ -79,48 +142,12 @@
       "sentiment_source": "keyword"
     },
     {
-      "symbol": "UJJIVANSFB",
-      "title": "Ujjivan Small Finance Bank - Anand Rathi Wealth among 4 F&O stocks seeing a sharp rise in futures open interest",
-      "publisher": "The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOVTBTTGFoQk5sMEExbXpjSThwVHdYcER4Y0RsUXlodzV2Nmp4VmNtZ28wSVJsNUhtQ2RxbzNjWnlVbTN5ZGs3OW5XRVJsQ0ZRTVh2TlFHMWhFaklLUENnc0FmMzhHcDlWaFM4OWcyVjF1VExVUTRiakpVNHZRN0NCM0xRY29vdXhkU1FIb01Xell3UEk5X1dQbi0tOEZNcHdFYVRWNEh0VHFobnE0dDQyOXJyUjZMTUR6eFNBLXJnVlEtYVJvczc3aWpkMUNkM0JfbU1JZkE4cDZYdmczbFNtUlhpVjBPQko4RmVHYmU4eXBEWTY4WDFUUXAzUnQ1LXByNDc1RkRFM3d5WXpobEM1UQ?oc=5",
-      "published_at": "2026-10-05T13:38:11+00:00",
-      "sentiment": "neutral",
-      "sentiment_source": "keyword"
-    },
-    {
-      "symbol": "KOTAKBANK",
-      "title": "Kotak Mahindra Bank\u2019s net advances climb 25% YoY to Rs 5.77 lakh crore; deposits grow 23% in Q2",
-      "publisher": "The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQT0FaTHFPTEI2QjBQU1NHOUpieTkwMHZ4aV8wTUxRclZhay1ESjAtR0ktSFo0RU41SkRkV2JEVmdyVS1FODZpdnkzTDlWSDRXQmM2VG5iR0tfRmJPeWYyZlpYVzN2ak5BQlJZSTN3aEs1cEYwNWJBeFhkWGVwNElqTnJVM1JpaEQzTl95NTNWLW5PeXVCYW84Ynk1MHFQMGJBdTdta0VDMFNPYjdyQnRwRG9NOEM0bW9uUHZtSjdHUC0tbzlJamd5N0l1eTdrQ0o1cjdJLW5hSlJ3NzNSOElQaU91Mk9jeWNDUjJ3MEFPVVhBZHdzNWZtONIB_gFBVV95cUxNelExT2NNcEJwN0ZycXh4Vk1QSW1IbE11UmM0amlEa1lDWmU5eVo0WVl2TWNMTjNwQWlMVGh2OUlQeWM4ODRkZ1BjQWEyQlYzUUw2d1lYQndxaUhkdjZpbENXUjFIbjV6RGlJdXpkd0JwUVRpNVdjQ0hPUmFvRTlDckN3ZmlBZkJ0cWVjRko2TkRGSDROTDVqQ0pxNXRsMFo3VE9KelIzME0ta3JlaF82OUVaRzZKaDg3cHZTaFh5RkJ0QmpsZm5EbVdrOFpPWnkxUFZacUNaQWJtRkhoY0ZfV2NSazFxanpvY0JSUnRlbXVMUVAwTHo4eVhfeEtjUQ?oc=5",
-      "published_at": "2026-10-05T13:17:17+00:00",
-      "sentiment": "neutral",
-      "sentiment_source": "keyword"
-    },
-    {
-      "symbol": "SYRMA",
-      "title": "Syrma SGS Technology - FIIs, retail investors raise stakes in 10 stocks, shares rally up to 35% in 3 months",
-      "publisher": "The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOQ2hNaDZCWHdsam9NZWZHM2NNZFZESUlhZ2pqZXVpeGVIM2djVHh4Vi1sbXZmeWtZX0k0djMycEtsNl9YXzI0Z29NS2FLS2hfamhGZ2RPa0ZjYVd5MHRmMk9LelVTcXIxWDQ3T3NFb1hrRjdjUHhTQUV3djB0bFg4TDkzWjRyNGpHbEhhQzBLLXRaTm9Fc2lpSUhiWk5SbDB6WVpYRVhUREMtd09kTktWWTFrd05wV0tsWnNldFMwNE40RE1SbGVrQ1VuQWFDanI4VHJZcFJPWGhvbVZfNGZZdnBxQnZpOFlVc3FwNG9LY2pIUVdSdXJUcVFvNVBkWms4b05OSQ?oc=5",
-      "published_at": "2026-10-05T12:59:48+00:00",
-      "sentiment": "positive",
-      "sentiment_source": "keyword"
-    },
-    {
       "symbol": "DRREDDY",
       "title": "Healthcare, pharma shares extend decline for 3rd day; Sun Pharma, Dr. Reddy's among top losers",
       "publisher": "Moneycontrol.com",
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOTkNvMzU1WngxVklKdHpyaktXZmZqV1pYZ2tHaGRIbWlOa25nbThKOThRTkpKZTBhRndLbHJ1MEdUbGotQW1oa3pSSFVQSDRwa1JMWEdFcUs4RVlaQ1ZxSThhUFJNMjFMSm05cllPd2w3dGRuUnYtbHAyc2pNUElUaGh3UklKN0xSYmVDS1ZKSUloVVZaR3VITzI1MDVRSW9ZNlZpaGNtRzdOZnNwLXFnT2F0b1E1UU95aEItSTBaR3p1QlpULXNCazJ0NWVvOWUtTVlDMlA4aHhiNFlP0gHiAUFVX3lxTE9ucWxqUDJaNEpMOGMxTzRTS1ZlVUhNX2d5V3hQTV9DYmk1d2Z5WDNMc3lEdVpBRVZOQ2JVM3drTGcyUkFTc2VLYWFpd0FZdklRLWsybHpYWTNVTVZLMHhaQkVvR1NJakY5c2hoYjFrLWhhREVIVnFxOXZmaEdnVU1sYjVoc3FCLUdSY01fNU9WbUU2ZzJuZWZZbmY3VF9MRWJDblRiMEJJNEdYbGdWZTJhLU1rc2NlRm1MZVZJOFExMFRLVjQ4MzctZTdEcWE3Zi1zejZBbXNmQ1h1TDNfZ3Nvcnc?oc=5",
       "published_at": "2026-10-05T12:15:57+00:00",
       "sentiment": "negative",
-      "sentiment_source": "keyword"
-    },
-    {
-      "symbol": "PHOENIXLTD",
-      "title": "Phoenix Mills reschedules institutional investor meet to Oct 10",
-      "publisher": "scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPR3ZTU1ZFZnRHamduc091dkJPckNFNjhyZjlid1RaUTVGenVocmZQSkxXTXk2TzRXNVBBTEJxYl91RFNkXzFDdE9lUnY4VlptbWotd1N1X0JBT1k5ZE1oUUZoeUZ0ZmJTd08zUkdzMGFfY0d1cDlIelZlWm1mcnlGNWJWcUlkTFd6LWRoMGRNTE1TZG5tN3oyd01zMWxvRVJyTl95bXRCWlNvSHdROGZZNXN4ZEZLNXM?oc=5",
-      "published_at": "2026-10-05T11:07:11+00:00",
-      "sentiment": "neutral",
       "sentiment_source": "keyword"
     },
     {
@@ -133,57 +160,39 @@
       "sentiment_source": "keyword"
     },
     {
-      "symbol": "JIOFIN",
-      "title": "Jio Financial share price: Stock faces more pain; expert sees Rs 200-Rs 190 downside",
-      "publisher": "Business Today",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNMVV4U0NyNzRldlhKaW4zempTVjhZeTI2M3Z6cHlaZGd6ejBiTGNhOUlSMmE4c3ZYLXBJeUlpT1Nrd2ZLeGkzNGsyRVJkWG9nbUJua1g3LUVHeE0zeV8ycWRoZXEya082RDFSY3dRX2h1Mm1wWHBQYlc2cUpkcC1hVDJuUFRJbTY0V1RhMEZKUUJ2NlkwUjEtNTVvVkY0dkV3T19tY211RU1zU0kwVkVDUEl0TUxxRmowSWxGbzdnTENOX1pVamdLMWx1bG55eVdSZHlNVXFjMkNTRHJwQ3JMUE1wZkxualBHM3fSAeoBQVVfeXFMTTFVeFNDcjc0ZXZYSmluM3pqU1Y4WXkyNjN2enB5WmRnenowYkxjYTlJUjJhOHN2WC1wSXlJaU9Ta3dmS3hpMzRrMkVSZFhvZ21CbmtYNy1FR3hNM3lfMnFkaGVxMmtPNkQxUmN3UV9odTJtcFhwUGJXNnFKZHAtYVQyblBUSW02NFdUYTBGSlFCdjZZMFIxLTU1b1ZGNHZFd09fbWNtdUVNc1NJMFZFQ1BJdE1McUZqMElsRm83Z0xDTl9aVWpnSzFsdWxueXlXUmR5TVVxYzJDU0RycENyTFBNcGZMbmpQRzN3?oc=5",
-      "published_at": "2026-10-05T10:15:22+00:00",
-      "sentiment": "neutral",
-      "sentiment_source": "keyword"
-    },
-    {
-      "symbol": "BEL",
-      "title": "BEL Hits \u20b9378.65, Enters Recommended \u20b9370\u2013380 Add Zone",
-      "publisher": "hdfcsky.com",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbmhPb3ZCSXdiV0huWTB5dW5zUnlsdHNwX0lISU54MWlZbHgwWEMtSm4tZUxmR0pUTG5ieEFrTFlaZXBhbC15bUZwZ0lEd0lyOWlfaTdQVlNTS3RYWVJTQ1pfTlVTM2toYkdnTldDR1lOanJWQUlyRmk4RTlIc05NZ0ctUmhOS0hF?oc=5",
-      "published_at": "2026-10-05T10:06:37+00:00",
+      "symbol": "RTNPOWER",
+      "title": "RTNPOWER Q2 2026 Earnings: Revenue Slips 8.91% YoY to \u20b92,991.36 Crore as EPS Holds at \u20b90.1 - Analyst Coverage Count",
+      "publisher": "https://www.siam.in/",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTzJTUkhrWWJuYTg2STdVWkZ0dnB3N2pWbmxSSTFWcDUxVjc3eElpVUczb0NpVVF3RE1CX1VWNlFISXVKeXhsRERXOVY5aWlrU3FBLUlVSm9RS0NPTU15dTZUMFZURVZ6QWRoSEs1ZlV4UUlTNWFUUnJqUnN4Tk4yUEZlNUxXOFQzZEFFQXZLM0NFZkpHSl9jVHNXQnRyc25VRFAtOGVPYm5IeWMwSFVOZFlJcFR1aThleUZZVTIzdjJEcnc?oc=5",
+      "published_at": "2026-10-05T10:30:11+00:00",
       "sentiment": "neutral",
       "sentiment_source": "keyword"
     },
     {
       "symbol": "YESBANK",
       "title": "Yes Bank releases Q2 FY27 results schedule: check date and time; shares jump nearly 2%",
-      "publisher": "upstox.com",
+      "publisher": "Upstox",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRDFFQmpHbDdrc09wZXRFMjVXeVBQZjhzVktHSE45SGs5NTVvVV9QVVNNYWt0YjhzYUpzUV9xdzhmWFRhcjN1ZDh1eVdWUXNkUFo5czhpc2sxckl6WmluSE1xUnVqOUFCZDQzV0xvbl82MEtyYWhObWw1MXJyU1dOb2puMGMwdVJWWkhEdFlTcEtxVEo2U3pDSlJLSTRuRERUZjRqamZLZEVBTE1oNGRLZENsNVpmQnFzUkZxM2RpeUdQOU5Fd01iOHRQT1YxWDhRcy1IMjRn?oc=5",
       "published_at": "2026-10-05T08:44:51+00:00",
       "sentiment": "positive",
       "sentiment_source": "keyword"
     },
     {
-      "symbol": "SUZLON",
-      "title": "Suzlon, BHEL, Adani Power, Tata Power, Waaree, Inox Wind, NTPC: Q2 results preview; likely hits & misses",
-      "publisher": "Business Today",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOT2NmSGR4YWdiRGpQUW9NanNlY0xOX0o5eHUyLWRhdHU3UkRBcVM3c2VwdC0xNzE3V0lMVG5EY2RJVDRVVTNUMVVxbzhpTHZMT0dwZWhoOWVsWkpockw2OF9aLUNybnZFNVRlR2NISHRwS2tvQmwtREppTlpWeHN3MlA4VUt2cDJnU19WcmVjdzQ0QWczcm1MMl9FRUoyMmxLdlhES1R2X1kyRkduUFV2d2oxZEdOOUhCanJMQTNSa19qX1hCU0U4RjVhYldYR0FWb3NUR284cG9XSVdNb2Q2enR1SG9JMU1VQ1YzOTh1aDZEbkEx0gH6AUFVX3lxTFBYa2ZmVl9jMEdJZlduRlBGZ1dhSUxNQi02eWlsNWw2VDlRZ0kzbDhQRHFRRXhVUndiREZyMWN4ODJUdjdVWUx0YS1CcWVLRk9WSXExdHRLaUo2QjZRSnJZSHpDck1zVl9yT2w1OWFvcFJuRklneWtPRDZfQmFWZDdGV01WOFNQZTRJVmh1X0tuQ2djaF9tSFZnOEd5UWstTnpUT19NY1VsVWx2cjIyVnBVNlpBM21DVklpUlQ5MnlKREsxREZIQ2o2SGZQazlqUU9QSHFmM3lWX0Y3bWRDemtyd3BzWldfekNGTFFnd0w2clI1MmctRTdDV2c?oc=5",
-      "published_at": "2026-10-05T07:25:00+00:00",
-      "sentiment": "negative",
-      "sentiment_source": "keyword"
-    },
-    {
-      "symbol": "SUZLON",
-      "title": "Suzlon Energy 52 Week Low Streak: Second Straight Session",
-      "publisher": "Univest",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNU1p5SzZRX2tBNUFqa29YTVFEd1FFM0p2RTJkRVhWQS1hUGdmX1gzYzZuVDVxLVhxdHVWZTRPeVF5MTgzNmZIa05jcDJVaXpaZVJIMGNiMF9GU3puNlFfdktVZGt1THpNLU9YTVpMbGVKZkJ0TGt2S2RveWdmNjF4S0dzSUh3V1BDbHRUUkNKdw?oc=5",
-      "published_at": "2026-10-05T06:28:00+00:00",
+      "symbol": "YESBANK",
+      "title": "AU SFB, BoB, YES Bank, Suryoday SFB shares rise up to 5% on Q2 business updates",
+      "publisher": "Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPaklETnRNVVA2VkJhVjJhczI3SFhkajA4VDFOdWVDejNNai02OWtwdEdRV3VnVkFmZmdUTFdpLXk3b0ZQUEg2ZDkwT3pqaGx3YWxYQ1RzTzF5QWxzek45NjdzN0VWU3RCbjlPOW5scnVZREtLT0VoT0hRNkpoSWpoOXlKUkJySGxROXkzMjVjZHVUSXJJcXhKV0ZUOVVnZ0lNVy1rakNSYWszSzhIWnpiUHVFZ1RsT1dKaklJVTZNRnhjbUpsZzFfSHctdEdtQ0ZDbzNMYnA1a9IB3AFBVV95cUxONjZBQ2thbEFsVTdudll6Qk9POWhWWjFCdzdKa0tZTXF4dHZLZ3NMWnFSRDBBektJMGNQLVVfRE9BbG5xaExaWWtEbjNlN0tTbWV2Z0RYTWVvNXRjZkxzVURzcldZNHFwUGk1Y21NYThjb01IVkFEV3VVQXlGY2hrQUlFUVZVOFI1Y2VCSWs2TVlhVDZrTUNfeG5oeHM5dEFSRk0wTC05d3RrTHBkcGRMdkxTS1E4ai16bmhFZ1F6QlowX1UzWVdUUlJvb1MxaXpIYU9FY19oTElzRWVD?oc=5",
+      "published_at": "2026-10-05T07:44:37+00:00",
       "sentiment": "neutral",
       "sentiment_source": "keyword"
     },
     {
-      "symbol": "COFORGE",
-      "title": "Coforge introduces intent engineering framework for AI agents",
-      "publisher": "scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTldCTktHTW01eWNUalpNelZ3bndfSjUtVlRrclFreDc3MTRybDRHX0oyYlh4WUo4VmdnVzBHRm9aOEVWenV6VEo5dTd4NGwtc2RBVVV3VUphWWhHZ2JoangxNHBTQ2kwLUc4LVBHY3FvVGtPY2I2bUowaE84X05Qd1VBeUVNeExjcEFYRTF0VWJYUHM0dm9SMW4wRnFwV0NzOUtwQlJWUzA3bzFmUnd3cjRreWc?oc=5",
-      "published_at": "2026-10-05T05:46:18+00:00",
-      "sentiment": "neutral",
+      "symbol": "JIOFIN",
+      "title": "Jio Financial Services Shares Surge Over 3.5% Today After Blockbuster Q1 FY27 Results; Should You BUY or SELL?",
+      "publisher": "Goodreturns",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQ0cxXzRVLWJIV2RVSjRyRnQ2eGNEbWZ3OFRGUUJNN2RmVXJvQndLU2pMdXFxZlV2aW1tRGprc0F6anBZaXpJNFJOMjF4RnJMZ3lIa3FzRDVTVC1TQUY5Sm1oSmpjTnh4a190LUpGZFVCaTZkSEFKTER6Vnd1bi1FeE5BUDBaN3d1YUN4Rkp6aGFGcWxPWE9TVTJKTjVPVGR4TXA2QktUOGFnYzBHUk1mN0dMYnZ5NFFSOENucUJEaG5TbnhxSUVsbQ?oc=5",
+      "published_at": "2026-10-05T07:00:00+00:00",
+      "sentiment": "positive",
       "sentiment_source": "keyword"
     },
     {
@@ -196,21 +205,12 @@
       "sentiment_source": "keyword"
     },
     {
-      "symbol": "MANKIND",
-      "title": "Stock of the day - Mankind Pharma Ltd Target Rs. 2720 - Religare Broking Ltd",
-      "publisher": "Investment Guru India",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQ3d3MjZLV3RVblRLMnhNcEpxWWQ5aXJFNV9qVUJuU1NKemtGY2tFbk9SMzhWb2N3OWJ3UzdaNTRWajhoT2ZxMTBSRjdPa3dnRC0wRm1UbzdtTzYxb3E4cmJTRmMwM3prNVNueEZMNGhJdm10ZS05ck9hUkxvTDRJRU9WUTU2Yk1yTDZKNW93YW1rU2xTZWplS3BCQUdRSGpSNUhUQU9SQ0ZBaDE0aFkwbnRDeHNoT1BUa21oWXMtODdidw?oc=5",
-      "published_at": "2026-10-05T05:19:03+00:00",
-      "sentiment": "neutral",
-      "sentiment_source": "keyword"
-    },
-    {
-      "symbol": "YESBANK",
-      "title": "Yes Bank shares rise 3% after Q2 business update shows loans surging 24% YoY, deposits up 20%",
-      "publisher": "The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPOFNaX08zQ0JMSTFJcUl1SEoyaE1iem9LWS1FRjVmS0FxX19abi1QRmVaM0MwR3hyZDBKanFsdmFoSWdNV29NSFhXYVpqbVRGQnlMcEo1Q3VqZU0xV0FMY2MxOEI1QUxUcVRmWE5KdU1ySTMxZWdCLVI1T2ExM1loVDh4S2pIaGp0RXVQSnRueFAxekllX0pFbTBjNk9wWjRNUWNZSjVpcktWYjlURlhBMDAwTlhwTHdtVHVfWHlNc3lVNnNYR0c5WVBQRkdBU2Vfcmw2cW5lWGZzYjE3U3k3YWJlazdaZGU1UE9uQTAzVHNnM0tfWlhXakxHd0pfeTJPeVHSAfsBQVVfeXFMTmxaWWNVRWI2c3EwcnpTcS13RndkYmFmQ2ZndVRhbHBWRjNrcGJpYnBBOFFWZ2Zla0U4aGlXcmw5V1E2TnNDcWpCWGJlSWpxeEpPSThvQk02RF8xZlBzaXdfdlBaNzJHUEFNQzh4OTM4SnpQc0o5V09iLUdMeVEzVnBURkI0dHhEaW5YRUpYd2dDamRLeFMyRGxEQkptTUZ5cWVxSXBCbXlPODRqOUhLbXJXYjVjRmFRNUhncHNqY0pJYVlVOHZFNk1UV1paUTkxazdXYTdTa2lRQkpkTUpHN2R1Sk53bDA5dUpaLVJ3Q0NNYUtWQmVKRE5GbVk?oc=5",
-      "published_at": "2026-10-05T04:07:41+00:00",
-      "sentiment": "neutral",
+      "symbol": "PETRONET",
+      "title": "Price Action: Bajaj Finance gains 4% on fundraising plan; Petronet LNG rises 2% on MD & CEO...",
+      "publisher": "Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOVExRR0xHVmxfRTR0bUdOeVBNeWRTUHVOTFE5RjhEMC1hOTJjU25vTE1zbnVfY1V3YW83MlpsMXBQNnJtaXZZM2MwMkwzUUpqT012eEhIMUlua2Mxb3Jxd0h0N1Q1VTZIb1VrLURSVE94Rl8xN1BGbGhXMWkwd3lQRmVjemlsZk1XS1Nmdnd4akpIU1QyTFFiSlAxM2RTMmphTnNBeVNVd0M0clRQaXlaYTVUbndWd0dSUnN1cWdhZGNRb3lDX1BwUDZ1OWNpaXhiSWFlMGlUTkVMcWxiMjl1MWpTRXRGWl9tUHFTRTFhM3bSAfYBQVVfeXFMTW1pWkU1cER1U3QtRmRIN1p6U2RSX1E2bThCaWsta1hXaUlPdzB6YkRxemEwX1RQX1ltcVJZRDlTU0lCcTVLU1ZTOC1fX1puSFB3all5OXNmY2Q4QlpWaGQ0N0NNUW1mcTUtNThQSm5TeHdydENHWm95TkRFcVcyUU1SdWNlQWVOOEhGSFdHYmppZTA4RF9Eanc0dmhhM0xzOHI5Yks4TXBHV0I5X2RqbzJwLUpkWVJNWXlhbXd1QzdUa1ZwZmp6UUllM2lEX2tTdDFfR1Q1d29tMzNWUGkxcUNqRm9mQVhEY2t5cWNzd3JmaVJOd1RR?oc=5",
+      "published_at": "2026-10-05T04:42:15+00:00",
+      "sentiment": "positive",
       "sentiment_source": "keyword"
     },
     {
@@ -223,12 +223,12 @@
       "sentiment_source": "keyword"
     },
     {
-      "symbol": "PERSISTENT",
-      "title": "Top 5 IT stocks to buy today: TCS, Infosys, Mphasis, Coforge, Persistent Systems | Experts' view; Nifty FPI 150 heatmap",
-      "publisher": "Livemint",
-      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPLW4yMFdvQS1tQ2VUcE9abUxlY3BXRUc4TThyQXpFTFloRmxhOExwM1NaeXNHZmpzTGxyMUU2TFBoekNtWkZPc0Rvb2p1RG1oaVVVQ1VTU1ZzSUdSQlhncE5kZ1ljZm83cmVhNEtJdXk2UGtJRzdzaVYxTmhfMUpTRU1vSE0yS3VlU3Y3aFczdXA4bE5vZnlQTXBfc1pmVkF3X1ZoX3RMZGh5ZXZTaldZUE9XNDVma3kzRV9nWFJUcDBIZmo2YXBFWjh3cG8wUzVKSXN2RUJfVklYWUs1WTRXUlR6T01XRVdXaFptNnFON2xtUGN5YXlxdFgzSkRGQ1phUV9MQUxzdlDSAY4CQVVfeXFMTmhtUnh0TlJ1dlFLQ3g1WGFXdUZHbG0tSDdLSHBYcEQzeTljOGI5ckw2amhiMU9ObXc2V3d5TWhoU3dOamN6X2tVY0tyamt3S05oemxpWGo0ZG11S0JnOGhvYmhJWHB2ZU1NdWgycTNHbGVqU19MVEJRMjk5amVMVkExS2JCUk1oQzNJYVAzYk1tSTVJNXB1eVVoX2Q3WnlmbW5GbWxCaEdiZWdrazA0QmF5Mk5kNFlLR2lsdmtxOGVZcEFBX3FRbFJ2M0MzcGJVWllKTTVWcEtmM2tjbTcyYVpJNmF0N0psNURlQl9EOUctMm9jT2t0S0NkVXJfREp3ek5tOUN1X3hweS1hY2ZR?oc=5",
-      "published_at": "2026-10-05T00:30:42+00:00",
-      "sentiment": "neutral",
+      "symbol": "MANKIND",
+      "title": "Engineers India, Mankind, Galaxy Surfactants: Top stocks to buy; check price targets & stop loss",
+      "publisher": "Business Today",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPYTkteERCckhxRUpaRzVyZUozVTBYMVlUYllkd3JXc1FwdGxUc3BwZXZGNjhLSUdRZEJlOGJCY2NOZkJkMGltYnk4VDRGRFktLTlRWUtBNnlyN1ZHUHJWSW1ld2lzaHFrcUZMUGVEQzFSbFpKTHY4b2ZocnBUcXoteFZ6ZzQyemZ1bkZsYVlyN1VCLUs4T2EtM3c5THhudWpJdUVBa00wVDUxaTRreGk1N3B0dFM1UFBiUlQzS3VDVzBFcGZjZGNkSk5uenV0V0Z4NDUxOGV0ZnJaZkF0ZHVFeUI0Vk9SVjBWcEV6R1ZLMNIB9AFBVV95cUxOUkNTUmtGWlNQbW54VTM2eWp1TXN1Qk9xS2l1NGdmYlhZc19COER1S2tkYWxsbG1NOVBnOEgwZk8xSUgzenU4c052ZHkxM2JkTTdEYjdHd1BtVGdvVDFiTFVtZVh6TXNBMjBxcmRUUkwyXzBCZmpWekgxbmdzSk9fYWp1TE1jNUJFcGZXR0k5TngzVGJxaGVuZzBQYnpRSVZRVExfUTFGVGFxUWdhcGlYbjlLSmhHUUdOeXEySTlCU3QtZi12RHVqaGlyb1hfLVB5SXhJUW1yNER0ZFBPVXR6RFRhNlpONElZd1RuTExUX3VqRDdr?oc=5",
+      "published_at": "2026-10-05T03:21:28+00:00",
+      "sentiment": "negative",
       "sentiment_source": "keyword"
     },
     {
@@ -237,6 +237,24 @@
       "publisher": "The Economic Times",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUWVuY21ZSFBRNFZZVWpYQmVDbFJRY1Z5M2VnMndiT1NCbmh4US1uYksxRDVRMmdkaGZPLWNBYnAwb2dqMXdNMG9iREsyRjNpenEzVmZrY2x1Vk85VDd3REFUWTJqZ0o0WkhKenlmb3dRUGtiOURyZWtPNjBlanJlYVE1T0g2UTB5SUd2bmVndk4xcVBsMVdGa1VxWlFnbVlfbzd6WHU5Vnk2aFM5OG5BRlc0bDdiWGxjM3FRZV9WVDBNTDdsS1BHNDlVUHNONkVLUmQ0T0Vn0gHbAUFVX3lxTFA1TGxHYzBfeWVsYUxsaEw3SDMxLVVCd1ZsVVBmSGZvb3dGb2h2Y2NxcWdVZlBrN202Z3FEMzZTSW9zTUotRFRONHg2NE50OF9JckxncWtvTGF4bzNUeUtIZFk5UGpDVkFpLUxZOU9TZ2ZUdWtDLWVHLTQ0VnZDQWFiN3lUQVBtX2c0b0o2R0JNbm92YkZLZ3lEOE1yUTA3dmF3VXljWjRtMHZrbkNpS2E2NENOY1hTcHZSWmd5aWtpX0RXd1pycmxfRFpQSmNuVHJvbUt0dWU3SEFHYw?oc=5",
       "published_at": "2026-10-05T00:30:00+00:00",
+      "sentiment": "neutral",
+      "sentiment_source": "keyword"
+    },
+    {
+      "symbol": "GNFC",
+      "title": "Gujarat Narmada Valley shares fall 6% after West Asia tensions; firm issues update",
+      "publisher": "Alice Blue",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQU2t1aVBFX1hKeW1ydzUtZ3I1aTlNTjZCRnpQRnBkYzYzaG9lTVU2c3hBUThDWGVPdEZod2F3N2hMSG42cEFEVjAybHZwVERQZXcwRGdpT000THNXSG5CN09USE9vLXAyWG52RWpDQ1BLOS10Z1FuaVR4OExXbEtERzMzejdwMHV1TmtFWmlHa0lIMHItTFZUaVFwOUNXRDRIeE9KRmVNaktxSW4zM2plNTh3WXRCWGkxbnFNTU9n?oc=5",
+      "published_at": "2026-10-04T18:05:58+00:00",
+      "sentiment": "negative",
+      "sentiment_source": "keyword"
+    },
+    {
+      "symbol": "COFORGE",
+      "title": "TCS, Tech Mahindra, Coforge, Mphasis: IT stocks picks and investment ideas after Accenture results ahead of Q2 earnings",
+      "publisher": "Livemint",
+      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQVjhOa243eUJhVHlVWTg3U3AwSXhtQUJXVEEzVTdhQ2NqT1hGbXFWVzNteUlLTndnNHpyUDFXQW9zR2lxVUwtaFZ6NTg4czB3clFfR1R1cVhaRUxPbUpfVEM0UEt1ZWZ1WXhPb2Fud1BUdXhIOTQ5b2ZaNkxfSnVYRXV6Y09ZSWc5RDVBSDNKUzJSRy04Wlp1ZWZmc0Q0Tm5uY2VhZ0h4SktGbFRkSENCZklXWEhIQldPWmFDdkMwdDBUbXF1YmZhTlVSeElMaXhvRmZoS3diNHJNLVBxZ3lEdC12VWE5c2lkM3UyWGsxdmR0UVc2NlVBeVJteXZSUVA0ZVY0eTFSYkJuQ2NtcjVKRVYyQdIBmAJBVV95cUxPdUI5TjFRRE01RlRZbU90NTEyVmVPSk1FTnU2eEQ5ZUN5UUJwaVV6T1ZjMWw5bVo2aDVhTlRVd01QMnptMzFHZGxoWGcyUzBQa3dvQzI2Yld2Zi05MFpjLWxkZnZHanpIcXpHZW1sWmI5SnN0Z3lNZ3lXWUJFeGpwM2NpNU9oVHVTUmxnQXJ3NnZMU2liNmVxU1hjeHRUdC05UHJlREJyaW9BTlp0ODNSd19jUUpFc18yTjNfbHBoMFJLUEt2TlBBdi1nNW01LWhJdlNOUFdJdm80WjVLcWk3SExHajNhQk1MSnJhdW5KdVljX3hIakwtZlVZUHZBV1hqTlJaelhwNFRFMUZWNnFQc2gwMzlNcm9B?oc=5",
+      "published_at": "2026-10-04T10:37:16+00:00",
       "sentiment": "neutral",
       "sentiment_source": "keyword"
     },
@@ -277,6 +295,33 @@
       "sentiment_source": "keyword"
     },
     {
+      "symbol": "SCTL",
+      "title": "Shetland has highest share of business founders under 25 in Scotland, figures reveal",
+      "publisher": "Shetland Times",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMERKTDNLQ3R2anZkQUZ6aVZPbU53b0JURmpQLVpBb1A2SVlZdWN6WDAwZ2pscHU0d1VadTJsZWppRXRfLWFQTkw5TnZ0WHpJOVVKWFFKc3Q3c2ROVkZmTlRkekFjb25VTkNFSG5ZMHVSQWhkWW5yWXNZYXR5N0lEdk4wQ2JDc1JYYm5hdzZYdUphb29TTFZvWmtIVXU2bHF1Y0l3MVhKRQ?oc=5",
+      "published_at": "2026-10-03T14:00:00+00:00",
+      "sentiment": "neutral",
+      "sentiment_source": "keyword"
+    },
+    {
+      "symbol": "MANKIND",
+      "title": "Stocks to buy: Galaxy Surfactants, Mankind Pharma and Engineers India; check share price target by Axis, rationale",
+      "publisher": "Livemint",
+      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNbUtRMWp1eDFqa0ZEc2RrVVlBalJxbjN0V3dWTm0tdHNNWmZRUWxyRjFkRm96aFdSdW9SNWlnOFZDVlFjd2VtNGM4VU42aTZoUmxmYXZQSU1QMmMzT1dTSkVwYjF0RHZUaEoxQVdvTmFrZHF1d0VVdHRDaXNjMVBOTmVvTU9yM3BWWFBzczhydy1MUm9qc3N4SzhBUG9IQ2tMNmhCeGkzcm1zdXpzY25LaV96M2ExZDM1QlZ3SzRma3JFaHhuNnBmdDJWVWpFTzdZOHFXR2hmVmM5TnBud0VnWDdieUFTd3BuNV9UaVVvYmplWjdUSHpMcFdpM2NJMW1kZWR5cGhwRkxRQ2Z40gGSAkFVX3lxTE85UDQwcG96bzZtU0ZDRzcyYTZaMVpSR0hDb3BYVld3djJoTFRqMTNUVUk4RDdJRGNadDByWTlhdDhtZW00d2tMaW5jVWJIb2t6V19YVHNBOGZVWlZUYWpPeEVjZGl2QU5OY2lQMGJlTFlQaUhRRkNkbWpXN0IyMTVEYnpnTk1kaG16UlFuSjNJNVV1bGxjSEZGUmxVMVkxdXBVRk1YMW9YUjQ0NEtNeE1ZY2FjTjFOd2p6LTFyenk5aUFyTTlqemtHdEZrYkZEM2VpUmtXb2NNaFc0aFBuaUVlb0JHaGcxcmtweHpMVmhVX0pwNVFTYUVzU1VhU0tVbkc0YWdkWk8xaGlJeDBFTW1DaHc?oc=5",
+      "published_at": "2026-10-03T05:17:13+00:00",
+      "sentiment": "neutral",
+      "sentiment_source": "keyword"
+    },
+    {
+      "symbol": "SUZLON",
+      "title": "Where Could Suzlon Energy Share Price Potentially Be in the Next 5 Years?",
+      "publisher": "Equitymaster",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQQ3l2a0hkRzcyR1BkMlU0ZkUxaURUZE5meWthbGZuTC1MdTNGNWFjQnJ4Z2kwblI3THRWdzZsZTlEOWd4VXlUMHFMNDJIN3RBNzhWZE9DeWlXYUp5Z2pDbzVWVGRlb2N1SVI2X2QyMUgtM3R1Z3F3ZUttNHRRVDhxSW9acm9qa2lwQ3ZyRFUzQ3ZXdUtLZVZOckd1UGhGWU9PakhRMUJ5Yk8ycUd3dVY1NjNaR05vckFxanBwSjVtdGltZ2RyRXA1Q2dvMlVqN09teHNXR00yUjdTZw?oc=5",
+      "published_at": "2026-10-02T20:30:18+00:00",
+      "sentiment": "neutral",
+      "sentiment_source": "keyword"
+    },
+    {
       "symbol": "BEL",
       "title": "Bharat Electronics Stock Volatile Ahead Of Q1 Results; What To Expect In BEL's Q1? Check Timing & Dividends",
       "publisher": "Goodreturns",
@@ -286,38 +331,20 @@
       "sentiment_source": "keyword"
     },
     {
-      "symbol": "DRREDDY",
-      "title": "Citi raises target for Dr Reddy's Laboratories stock to INR 1,450",
-      "publisher": "AD HOC NEWS",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMEpXd2otUGNxZzVOTDdEMW8tOG1tQm9Uc3NRUDNFUlBYSllBVlJJSXN2VnZBNWlMdzZ1Y1N3YUVtVno5NXNSWmF3d3R2RXpFQTY5a2pMbVVaSU5yaGxSZDJJTnBzeVlTaUhFUHBJNlk2N2tZTHpBUWR3c1M2aE9PMHZiV3lPQ2lGa2VXR000YnF4bkxHV09hNmc2Tk43RW11U2FjV1llT2EzZThmVmI2a25hdWJQMkdMbzREblJGZWJIZw?oc=5",
-      "published_at": "2026-10-02T12:04:21+00:00",
+      "symbol": "PETRONET",
+      "title": "Petronet LNG\u2019s stock may have slipped, but analysts still see a resilient runway",
+      "publisher": "Indiatimes",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPdDlzbjNSVWlfb0JzZWtkUzVUeEVTTnlqY2R1QnZPcEVEd3B4aVRKbjlGelhuOU5XVkh4LUlIQ3hGcWh1RnBreENLZy16TERlUUNibWRrR3EyRU5NaTNfNGlQU21OY3NpbGs5alZuVlRuSEdZaVp4ZHQ1Vk83UDdmS3hUWHFnd1A2VlNQVmt5UXNUSkRocHE0ZFV0b1VFV1p6NUJ4YU9GMzhEazhxTEVRcmczQ0tsVlJ1a2ZQdXZTY0g3OGhHUS1kbjBQQmlhc3FXV3NGTXhuQTZ0UmNKeWF0UjJXV3Q2WG9vbXhR0gHvAUFVX3lxTE0zM3RwWkJiRWFPSkhjSWFZMk9aSDcta1FHdHVPVjNIclRqYUdzd2tBM0lPbHFEOEZtU3BQUndLbXRMQ1JBVU04RjFNVkJqR1FTZXV6dThjN0xUMEpTR2pCM2w5RGpiclM1aER3ZHFNVkJMQU1UdEVGdk1RVVpJLXlhUVgtYzA3RFdDdnozSGRTVTZLSVZWNzctRUZRN1BodVJ6ZnFRZENCZXJlQnYwUEtxM3NzZW1CRTZfaUdxMjF1ZHZOQTlFSS1kNVpFVGI5cnNOeXFyNUJpOEU5OHV6OGN1OEVUbjJJR2xDUDJZMy04?oc=5",
+      "published_at": "2026-10-02T07:03:20+00:00",
       "sentiment": "neutral",
       "sentiment_source": "keyword"
     },
     {
-      "symbol": "ADANIPORTS",
-      "title": "Adani Group's most valuable company sets new record; shares major business update",
-      "publisher": "Livemint",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNM1VGOGFJR0twcEZRUlJXanlyZWh0S194WVdTRTF5WVFmQTBKT0pfRVVmaDBTY1IySnZ6UkpvZnZsNXFacGJ5RlhQYW1CdzNFMGs2X3h0YnpSc3JwMXR5WUNpcmswZW0zU3NPaWQ4d21tbmpmUkhGOFFWODNXWGM5N2JEZTVXaVgtWms2elFaS0RacHVxSE02N2ltWGRsRXk5LVBycm9LV3A3Qy12SGZWTVhORVpsbHpDcGZRb0hhdWxvRVRJOURCTmp5M2RaaTVvUlMwb29oSVdsMjJHQVhyUy1nWdIB6AFBVV95cUxNVDRMUWNERjBPc1RicUo3UFZKbkJUUzFEazd4cS1nUUNtZFJBMmJ5QWlLSDVuRmMzRWpRcVdELXl3ZDZwTHZvSy1vR0FSVkhRZTJGTngyQW5qSkxxOFRUMXRMMnRYRllCNnVGNmFEZGdlSUtOSXladVVpM25UQUw3UVBKa0drWUpMLUhraDZUUnFhYUczd2g1bVpsanozTjd5TENmdFlJWVQ2RS1DcklTS0dBSVRPemZwa0lDYk00VjgwZW9pWkdMSmE2VjVaRWpabi1VYWxyU1dHeFUtVmU5THNMZEUxQUs0?oc=5",
-      "published_at": "2026-10-02T09:11:04+00:00",
-      "sentiment": "neutral",
-      "sentiment_source": "keyword"
-    },
-    {
-      "symbol": "RTNPOWER",
-      "title": "Rattanindia Power Stock Price Forecast. Should You Buy RTNPOWER.NS?",
-      "publisher": "StockInvest.us",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8taTk3SWxiQmI5X0pGRklwZUxyMjByTDVMMFg2cDVWdFZCVlZtSFdNLW8xLWpYTWhNdjE1UW9XOWdrakp6blBoR3ZoRWo2dUxkZnc?oc=5",
-      "published_at": "2026-10-01T12:52:48+00:00",
-      "sentiment": "neutral",
-      "sentiment_source": "keyword"
-    },
-    {
-      "symbol": "RCOM",
-      "title": "Reliance Communications Limited (RCOM.BO) Stock Price, News, Quote & History",
-      "publisher": "Yahoo! Finance Canada",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5NT0xyTEhNeWNvaWpwNTlYOEtWQUU5X1QyaDBUVk5iMDFCZ2NDUENmUl83Wld6LWtxdWktRG5CS2FlQWhiYnItZnVVMk5XNE5SZmg1ZzVR?oc=5",
-      "published_at": "2026-10-01T11:30:50+00:00",
+      "symbol": "DIVISLAB",
+      "title": "Divi's Laboratories (DIVISLAB) Share Price, News, Stock Market Cap NSE/BSE",
+      "publisher": "TechGraph",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9QRFFXOTJ4aVRDWUxlT2ZndlJTTnNEeVN1ZXpoWnhrZU5wVFdrRUJ6cElkOTRGVkVxMnU3LUFEQnpSUmxlbzhGU2hhTElpOURIMnN5YnlEd1lwbnZCLTJ4Wmd3?oc=5",
+      "published_at": "2026-10-02T07:00:00+00:00",
       "sentiment": "neutral",
       "sentiment_source": "keyword"
     },
@@ -340,29 +367,29 @@
       "sentiment_source": "keyword"
     },
     {
-      "symbol": "ADANIPORTS",
-      "title": "Adani Ports Share Price Fall Streak: valuation and sector",
-      "publisher": "Univest",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTEUtNmZYYVBVb0VrVG5LT3MySzlJcjFxY1pEakRJN2tLc0d1WHhnOVM4Y3BLd1VWczhuV2hCQlNJdDBHYU9LazhibUVMODlPRnAwUHZ2QlFORGRPUUs3bjJnRWVUSFZHZ0Y0ZktUakdnM1ZaNm5rdTBJdVZUdW1uXzk4ajNObXpTOExueHZfZGphMXo0VnJqakNsVExJY2FEa2c?oc=5",
-      "published_at": "2026-10-01T08:26:00+00:00",
-      "sentiment": "negative",
-      "sentiment_source": "keyword"
-    },
-    {
-      "symbol": "JIOFIN",
-      "title": "JIO Financial Services (JIOFIN) Share Price Hits Fresh 52-Week Low as Stock Trades at Rs 215.4",
-      "publisher": "Univest",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdWY3M0JXNTdPQ3QzcldiaU9jeDdPM2ZIMjdVSTNZc1ZZWEhKdjUyRUwxNnNMNGVYdDVlVXY3ZUdQcDV6bjgxRjlzdFpyZ3pPakRwQTRwRUNSaUZBSkJSa1BHc3VSOC1TYVkwYUNyMFNJSy1USXpsYV82bGtKdzNoS1U4bEtlcklVS1czRFhDWlhmbmlR?oc=5",
+      "symbol": "DIVISLAB",
+      "title": "DIVISLAB Outlook for the Week",
+      "publisher": "Equitypandit",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB1ZmszR2lvV2t2S2dES3Z6Uy1PenR6SkRHUmp2QmRiS0U2ZHJWWERCQ0hKRTNKV2hiMUhGQzAwTFp6dVZXbE5JT0UzSy1BdEhwanpYd0FEd3ZTRy1vZi1va1ZOUkU1UnI5YU04?oc=5",
       "published_at": "2026-10-01T07:00:00+00:00",
       "sentiment": "neutral",
       "sentiment_source": "keyword"
     },
     {
-      "symbol": "SYRMA",
-      "title": "Syrma SGS Technology Ltd. 52 Week High Streak and Valuation",
+      "symbol": "RCOM",
+      "title": "Reliance Communications Ltd. Upper Circuit: Price and Key Data",
       "publisher": "Univest",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNckpVUWNBTmtKcU1jRjd5QjllVll4YkltTDdqU0ozYi1ucW1vWkRnUWpBbG5rRlhidHBTVHlXeENXT0l0anVUSDF1ZGRrM0dMdjhJaHhHdnBjMkVjLWFTUDk5MkhHYXhPTzR1ZHhIQ0tGRGhpYUNQOTVPQmJkUHFJbUJtRDlSVllMbG1HVWg3ZTk4U1U?oc=5",
-      "published_at": "2026-10-01T05:23:00+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE51MEtfZmFWclY3ZlB2dEN4NE50MHRUcGFSZnIzRE9zZUp2aTh1MEM1N1lCRWJ2aUVBTTVodjJscFlOM2REd1BEZF9BSWxLbnNCeXp4Q2swejg1NWpVUVRfc1Rza2I4LXlBSHh1TzFpdG9wUEJhSF9YRllB?oc=5",
+      "published_at": "2026-10-01T07:00:00+00:00",
+      "sentiment": "neutral",
+      "sentiment_source": "keyword"
+    },
+    {
+      "symbol": "RTNPOWER",
+      "title": "RattanIndia Power Ltd. Share Price Near 52-Week Low Today",
+      "publisher": "Univest",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRDZoX0pkMDFtczVoOW11SjVlbnVMdjVGaHQ0VTZkcDZwd3R6RWFlOWhHbWpRTzRtUVBUdlBNeWFmZFJGLUQxYjNSYVJpWjN4VDlPenVxSzdKRFFPSU1waDZDRDk4VjB6ZUtWMHE0LWNWbWpaMmU4RndxdEtQX1RpZk1jMHFFemlKb2YxMEg5REZIaHhP?oc=5",
+      "published_at": "2026-10-01T07:00:00+00:00",
       "sentiment": "neutral",
       "sentiment_source": "keyword"
     },
@@ -394,21 +421,21 @@
       "sentiment_source": "keyword"
     },
     {
-      "symbol": "MANKIND",
-      "title": "Mankind Pharma Share Price Falls 2.73% | Large Cap View",
-      "publisher": "Univest",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5EbWhkeFQzcXMzWkhDaDR3SGktRGlVcC1TUk5sT2xscmpCeE1ESTdhM1JXTW9DYnlUc1Y4YzVjX1BZSGZDUDZqZlFtRGNfczRpVmtlaG1WRVZPWjdyWFlBU1ZfZ0c4VzV5VmVBenpEUVprdDNRVTZLdHpHNA?oc=5",
-      "published_at": "2026-09-30T04:55:00+00:00",
-      "sentiment": "negative",
-      "sentiment_source": "keyword"
-    },
-    {
       "symbol": "COFORGE",
       "title": "Coforge Share Price Today Gains as Fundamentals Stand Out",
       "publisher": "Univest",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9idGdZbnhnQUlzenliNC1ITk5YcGwxbkw0VTh2TnRLYWRyOVZielNaYkJIeWpxMUFWY0FlMVU4aWdkNDNTZVR1eWNwTDloNmx6OHNYSlA3Zm9hZG1tUmpCd2VjN3psUWtzQmxxMTMtbXROc1lURm9B?oc=5",
       "published_at": "2026-09-30T04:05:00+00:00",
       "sentiment": "positive",
+      "sentiment_source": "keyword"
+    },
+    {
+      "symbol": "GNFC",
+      "title": "Gujarat Narmada Valley Fertilizers & Chemicals Ltd. Key Financial Ratios \u2013 Valuation, Profitability & More",
+      "publisher": "Value Research",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeGU3SVVFQm4wcUZGTnQtRDZpLXlNSWlqVEpKRERrVmpWOXZlVjRpaVZNdUlUWlVqV0l0V3JxT201VXRVaEtYVU13MDhKWUtOMDJ6T2N6YTRPVHFGc2NOdzRyTFJSVm5xblpXQzFFZV9telFjbFFTSk1MTVZLNWctN1NJamUzZXFZRlk5U25zQkJNcUZDdEg4YXNwMWppQ3JVSzh1Y3RJWFF0aDJoMEE?oc=5",
+      "published_at": "2026-09-29T07:00:00+00:00",
+      "sentiment": "neutral",
       "sentiment_source": "keyword"
     },
     {
@@ -421,20 +448,20 @@
       "sentiment_source": "keyword"
     },
     {
+      "symbol": "RCOM",
+      "title": "RCOM Q2 2026 Earnings: Per-Share Loss Deepens as Revenue Slips 12.3% YoY - Earnings Recovery Stocks",
+      "publisher": "https://www.siam.in/",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcU45TllzSW5ac2dmdlRVR0FqTjNNM1hvNWhMbF9vN0loSjU0cnc5eGw0VEVRaW5YZGFEMl9GeW1xOXJJSVpHQlFHbldKR18xYzZmdktRbHFYb0NHNnhIYm9LQnBpODVSOFZNQ1I5VmtRSlhvS2llMGtkVFBVY0FLQlBadXdFVktVR09UeDBEazBndTRYTFBPSWU2TGVrc0UzdFpMY3JrUHZtTEtzaU5jNQ?oc=5",
+      "published_at": "2026-09-27T07:00:00+00:00",
+      "sentiment": "negative",
+      "sentiment_source": "keyword"
+    },
+    {
       "symbol": "JSWINFRA",
       "title": "JSW Infrastructure (NSEI:JSWINFRA) Stock Forecast & Analyst Predictions",
       "publisher": "Simply Wall Street",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNFZxS3pScjdEbVk4MjhQcXhNZzhGbzduQkgtdVFQNERuc25vUzJxcUlqUklFUF9wSDM4R3lmTmhUV2dBWi1aNzNwRGtkWENJdkpoUDNmM2dRLWwtcnlqdlg3eHE3SVA0QkIxcEZCUmdMQzVoYVpfVXJNVy1yT09USGlnMnZLeDdhcmZjMXE0YW5jdldhQjhV?oc=5",
       "published_at": "2026-09-18T07:00:00+00:00",
-      "sentiment": "neutral",
-      "sentiment_source": "keyword"
-    },
-    {
-      "symbol": "RCOM",
-      "title": "Reliance Communications (RCOM.NS) Slides 4.72% to \u20b91.01 as Penny Stock Tests Lower Support - Vol Target Rebalance",
-      "publisher": "siam.in",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNkt2T1I2U2FxWGl6WVR0YkVrcmZReDZ5N0ltcDdITWRpYmc1OG01aEVFTzNURlhLTTBGbFlNaGtHVVhrbk43NGVCMlBqUW9nMjJOa0VaS1hfYXotUWRZMmctX0ozNEpwUXF0Z2JYd09VM285ZDdSTjUwTGxZSmdCZVFmMnlDMHk0TGl5dGNlSk4xaVZ4c3NxNGp5UzZwOGFXTmV4S21pZkVRc29vUjU2NTJBR3Ftc0dVYmlpb2hfNDNhc1U?oc=5",
-      "published_at": "2026-09-16T07:00:00+00:00",
       "sentiment": "neutral",
       "sentiment_source": "keyword"
     },
@@ -448,56 +475,47 @@
       "sentiment_source": "keyword"
     },
     {
-      "symbol": "RTNPOWER",
-      "title": "RattanIndia Power Ltd (NSE: RTNPOWER) Business Overview and Financial Snapshot",
-      "publisher": "Kalkine India",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWGJHVG1ueFlsd2FfenhsN0pBOGlpaHFaTHlVTEdSYm9FdmFYamlNS183UFdNRTVtNFBzcUs2U1o5UTQzTlozRHp3czYwZzUyZHo4WkZBY2dRZ2xaa3BPSTRIUENuM0VDNlNCclA4M1ZWV1pKZmxOWllnYjNkQl9EVTdpNFpvNTN2V3NqUFUyVDZoOFg2cDlGOG1FdXdPMmhtV1hxU3YydlpDbHZLMEhiRnpNVVR1YWRGT0Z0RWZQWjNJSUxWRHpiYl83R0Z5SW5X?oc=5",
-      "published_at": "2026-09-10T07:00:00+00:00",
-      "sentiment": "neutral",
-      "sentiment_source": "keyword"
-    },
-    {
-      "symbol": "UJJIVANSFB",
-      "title": "Ujjivan Small Finance Bank Share Price: Buy or Sell",
-      "publisher": "Univest",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPd0Q3aUZWQm93WXh1cmpiZkVPYVFHTzNDNDhPVE5HQWlzMFZCRWN3dldFY0J6a3VrQVJaRlBHVEVNX25qb2hjWjhXZVFQempxUk9uOVB3OV9tQUdVOWdjU1RDcjdXb3VhUWI2ekZjWnN3cUtsblhWTWtzc3NNd2VzckZaWGVwNlU?oc=5",
-      "published_at": "2026-09-04T07:00:00+00:00",
-      "sentiment": "neutral",
-      "sentiment_source": "keyword"
-    },
-    {
-      "symbol": "SYRMA",
-      "title": "Syrma SGS Technology Ltd. Shareholding Pattern \u2013 Promoters, FIIs & DIIs",
-      "publisher": "Value Research",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcEd0RTZkR3ppVVk4ZFh5djZIVTJIUDZDZUROdlI0T1lCLUp5UTFsXzhnVlBXVmV3OHdranlhR3lqVzQ3YzFrR0tBSS1GM3lHTEU1R2pfR2VoV3JIRmRncm5QZ2RycFd3eXFTbW1OVWxEZ3d2czAyNWhpSmlNWE4xOXpYTjRmN3VNZjJtUURGMHVMQQ?oc=5",
-      "published_at": "2026-08-29T02:52:29+00:00",
-      "sentiment": "neutral",
-      "sentiment_source": "keyword"
-    },
-    {
-      "symbol": "PHOENIXLTD",
-      "title": "Here's Why Phoenix Mills (NSE:PHOENIXLTD) Has Caught The Eye Of Investors",
-      "publisher": "Simply Wall Street",
-      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNS20wMDBINXhpbUNNTkF0TEZJTzJaM1Bfa05RU1FwdlZHLTFKbWtaa3JSUDRIR3RSamtRRUN6VWpkaTFOSkxUN0JzdkY0Yk9rejM5bFdBbVRkbEhWd000Y3h6N3FXa1NxUW80bWZHR1p2ZGlWU1V3V1IzeERaLWtRMVBYQWI1bFd5Z05TT0ppZGFhSjRvdGxGQXVUb1RFblZDTTFBNTh1YTBoSFNBc3pSaVhsTGlXeE44WDU1eHp3ZktTYk1XWXFHcVRZZElEUVEzRW55X2w3RDdNMnpsNml1LXpqakZhY2ZzMkVQbHJxS0I1WURDY1dVemVpUEtNaHYw0gGGAkFVX3lxTFBkTUxIX2JJNVRVcUtzOWFWWTBvWHl5RnNvdjRpc1F5WTJibkpMTmR0YkJmQzVJTDBndU42SE9weDJMdVRncXpUSE0zZFJjMUNyZkVhQXlWdEg4YzU3WFlHZzhoZlVHNjdnM1VKenY3bEk0OFBCT3BKaTZxS1BRbDNMdm5Ncm12b2JENFBIUm4wN1Z4dDJMNzBmeHRsY2hUYkJsc29Mc2YxT3pXMnd2NVZOVTNINDhwMk8yRWlTb3pqLW5rSW1BSnIxTzNFazRUdVI3cWJpSnEyMlVSeUl0WHBNUmtVSkpJRUpxaGlWTlhEdjNsUlFucHlyRkRSU2Q1NnpBTmxLd3c?oc=5",
-      "published_at": "2026-07-30T07:00:00+00:00",
-      "sentiment": "neutral",
-      "sentiment_source": "keyword"
-    },
-    {
-      "symbol": "PHOENIXLTD",
-      "title": "Phoenix Mills shares fall 6% after Q1 miss; Nomura sees 16% downside",
-      "publisher": "Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdlJRWEdUeVh5dHg3eDF0VE5uUGlOUGJkcjdxcDJjbHllNFJzUDR5UUwyQ2xYUVN3aGd6TDdBbkE3Nk5ZSWdCelk4UkxJdWk2WlU4d2tNRkFRb19yWkZ2VV9pd0U3V2RGX24wWkExeXlQNDYwNl9pVW9takJqU0k1N0xxZ29lc2JaaXl2QjBmS200WmpLV2NybHVfYVloeERVOVpBSXVuUlYzXy1LeEVzNFdJS3lkTnZDMHlhNjNYczFORDNDRHkwY0VWS1rSAdIBQVVfeXFMTTh2eFBRZ3NGQVV3aVNmU2txTm92WFZ0S3ZnSnY2Z21qVXhVY21KUjREM0cwempkaHdQN2ZqT2RseXh6eGlfQWpUTGFocEhRLU9SYWFJMmdKa0pLYWpFdkltNGJRTUowNjFrQ3B2VzQtaE85T2tNX0xPSW05LWFNMjJYM3BVRHJITDNjQ19Fcy1pcFA0S1JhWjJWRC03WXNZU0pwOGpYSFN4QUpRNnlfMERWS2RNNVBHVG5rUGJiWUZTTXFiMERxMlpfODMza2l0bjl3?oc=5",
-      "published_at": "2026-07-29T07:00:00+00:00",
+      "symbol": "COFORGE",
+      "title": "Coforge stock plunges 7% as chairman OP Bhatt quits after internal audit flags board evaluation lapses",
+      "publisher": "Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPNmFUTzF6MFd2Sk1ZQ0lMUVdBMlE5QnJNUXhIMVpFQXpRMXpkdlA2aUlLVWZqTXQta3kwVkd0VWljV1VNNjE3b29wbGhTMjRZLWhYVjNDX05ZVXFUeDlQR1BzcllnU2hmcWhqSmtfVTVvZmFXRUpmaDdlTlM1S3hEWkpjaWdnelIyZWtTbTExS1daeFg4R2RoNjY2M3pGRF9GSmI2YnNlMlMzN0J1M0Q4TnduRGhReEptaWdBM0h4bE5KeHBoSDBPQk9rdmZZOE1MZ2owOFd5M3NKel8wN1RaeVhVRUVVYTNRa050RkZ4NkN2Z2l0TEpnemZB0gH_AUFVX3lxTFBXY3lyQ19Fd0NTUXpHcWRoZ09lUFRBSWk4ejA5YzhpTWRPWUhCMEhZeTM4YzZXZGZIcldiMzl4dzd0MzBoc1lrVHQtenU1WHAzVGtwbk9hY3JTVWRGampMSWhvdUJZMVp6M29MOV9GdzZ1eXhBLXRaWDQ3a1FUM1piZWFVNGxSeTlreEhXbXp2dkE5T0pjd1JsNy1nMFdxUjIxZVhiTlhzbV9mTVk5UDZsSlpYQjUxUU9YcWcxQWNPZXh3czRpWjZIbS04cF9DV0doWXVEbkxWWjhUQTg4ajRpVV9VNmhYVWd5dE1ETHpUZDRlRW5xRm9weENTQjlhaw?oc=5",
+      "published_at": "2026-09-09T07:00:00+00:00",
       "sentiment": "negative",
+      "sentiment_source": "keyword"
+    },
+    {
+      "symbol": "SCTL",
+      "title": "Air Canada Stock Leads a Cool Climate Tourism Shift Toward Scotland",
+      "publisher": "Simply Wall Street",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPQWM5Z2dfaG1YdG4zUV9wVHFJcnpxa25CWWVoVmF4SXBOaDlpaTRZTTFVTkRMZ0lyOV9HQUttWTA0RHJ4bUxKWV9CQmFjLVhpenEzU2ZiVXE0QVFiOThMS2c2VHhtY3FUR01zXzVRYUtYLU1ZVXFlNmpaVWl4c2djanpaVERPVllpQ0YxcHUtNnVQT08xWFJrQ1dzak9ZUHhoQ1htX3lmT2xLLWp0RU5rLVh6VUZabi1BZ29RV2JENHRpV1RvRWVuNW9YR3FOOS1NVURGQXlfSdIB3AFBVV95cUxPSk9HY3NNSGlmQlFyUXpmUFc1M21RNDZ4WTNvMHA2M2hwV1FELWJJUTlUY1UzQU1HdVpzZm5uSHpENHVuMkNfME5lV3FoVGJNY3Rid2tUXzdWeHdLanc5Y3J1aGpxeDRiWVdBdkNJNjRxZkFTbk9kUXVoajFMNk1waWZRcTVIc09BUUZEYVFVc2Zsd2x4cnFmMUxuNFNYWktkN0R6TkZkU2tQT242UkR0N1dpYnhlY1ZmQzRjSjR4ejRiS2FCTUFaekc5eXlUYmtFUjlRU2I4UEMxeEM0?oc=5",
+      "published_at": "2026-08-16T07:00:00+00:00",
+      "sentiment": "neutral",
+      "sentiment_source": "keyword"
+    },
+    {
+      "symbol": "PETRONET",
+      "title": "Petronet LNG Share Price: Buy Rs 345, Volume Recovery",
+      "publisher": "Univest",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZnRVdzZjRGxSZ3BBTFF6R0NYMldfVEhMY2NHeTZaSXdVRmRxalJtMGg3clJNQTRJLVZCZ2lXblE4dmttZjNaVXExNG5wcFBUbGdqU0Z4Z2ZlMkl5QTd3T1hjSkRfdkdydmNTUVBrUktOMGVBNWRWakNMNXdKTXdoYVhwSXVYZm5E?oc=5",
+      "published_at": "2026-08-14T07:00:00+00:00",
+      "sentiment": "neutral",
       "sentiment_source": "keyword"
     },
     {
       "symbol": "RTNPOWER",
       "title": "RattanIndia Power Reports Q1 Net Profit of Rs 44 Cr",
-      "publisher": "hdfcsky.com",
+      "publisher": "HDFC Sky",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBGazI0cG9RS1FIQ2JweU45ZGZjckQ5VDFOa01aUGVZSmRoVWtlUV9UMV9CR1BjdWNNWHRIM3c0RlZxRUVNSS1McVc3WGQzUDdGb3E2SUhEclAwNTI5MDZUSHh6WHY5QjNNTjhFa3NmNmotdDJKYndWa3JjbW1NUQ?oc=5",
       "published_at": "2026-07-24T07:00:00+00:00",
+      "sentiment": "neutral",
+      "sentiment_source": "keyword"
+    },
+    {
+      "symbol": "DRREDDY",
+      "title": "Dr Reddy's Labs shares tank 9% to 52-week low after Q1 show. Time to sell?",
+      "publisher": "Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQWdTVm8xeGlxVWFTbmtLdzY3NEY4a1MzS0g3YS1rUWZNRDhPbXZRVmJIdTIxX3BycXhMLUlTenUwaVhWZEhTOHhTZUV3SlZOejFHeWRueTNDZmYyT3I1cFJkeHB1SUdFMFBHNnZYY1BMUW96Q2p6VEluSkNSRGdfZXRMVXJfY0hUdmRTVTBmZ2dxZVk5Z3hrX3NiV3pPNFhDSnpIR2tQVTJib3dhajZxSkR2XzZYRTJRZDBiWVZLZHVNa0kxR1pOSnh5VTRWMkdHb1psQdIB2gFBVV95cUxPcXc3eWhUak9vNGhzMVFQbW54VFp4bk5MaEhuNndrcFNkNDJjTGdhTnJ5MFphdnAtcndmZTd6RmpQaElJbDVKM1FQbTV6cVhXd1RraDhkRW5jVWkyalJJcHNFSUU0VkJqclkyT3oyeEs4Z3J6c0xIRW44V29PMW5WWWQwQlhfUUgxSlNGWUFPRXlPQm9xank5bGJaemt0S1RPcmNMc2taUVVhSkpBeGhpekJqbTdTUEVHTEN6WHoycXR3eXdRY0NGQlZ1RVJDY2pUcG5waTVEa3pFUQ?oc=5",
+      "published_at": "2026-07-23T07:00:00+00:00",
       "sentiment": "neutral",
       "sentiment_source": "keyword"
     },
@@ -529,39 +547,21 @@
       "sentiment_source": "keyword"
     },
     {
+      "symbol": "SCTL",
+      "title": "What we learnt from Scotland\u2019s 2026 elections",
+      "publisher": "Electoral Reform Society",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZHlIWlZnZUt2M2JSVmhkaWtmSE1raTgyU2JyQURCN1ZxN21WZ3JSOWQ4NkY3dDBQS25sbkNLZFJGdDZpWWlZcmtQcWtNb1RjRmVlMWt1Wi03VF83dWsxbzZVVGJjREFraDdTdDJfcUpRQXJtbkw5eGF6VXpZZENqVkNzRQ?oc=5",
+      "published_at": "2026-05-14T07:00:00+00:00",
+      "sentiment": "neutral",
+      "sentiment_source": "keyword"
+    },
+    {
       "symbol": "BAJAJHFL",
       "title": "Bajaj Housing Share Price - Live NSE: BAJAJHFL Stock Price & Chart",
-      "publisher": "upstox.com",
+      "publisher": "Upstox",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB1MFZKbXcycXlUby1JeWlUR29DalQybWVCRWQ3M29XcVJfcERaSFNhTmxJelh2Z0JmM3hHOGNHRWhYSUhKRTkyd2gyMjY4WlZCTDBqVGdkT1JLLUxhZkNOMzdhSlgtTHJxLUVJQVVzUkZzdw?oc=5",
       "published_at": "2026-05-05T11:39:18+00:00",
       "sentiment": "neutral",
-      "sentiment_source": "keyword"
-    },
-    {
-      "symbol": "SCTL",
-      "title": "Politicians in Northern Ireland and Scotland share impact of living with cardiovascular disease",
-      "publisher": "British Heart Foundation",
-      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNTDF6YzVkdUhiUFMxZlZ5WExrRHRqWmRpSTdkLVRPZ1N3ZHBGR1UyUFFfdXd1N2xYcEUwZzEwQm4ybHNkTGFfeFFTaS1JQUhObmFWVFpZT2FQWm9LaHZRTHd1WFIySkFNZk9KcXFmVjFHU0FFM1ZGRDd3VnJkMHdDY19kOE5nZ0VVYlY0NHROSklnZFN5ZnhSVUdNS3hkN2szdHhVQndBa2RlNkdtd0VEOXdFUUphQlE0QlpwdjY5X3FMam9OVHlnMzluR3I4YTFuM3RXSlQwRjFWaXV5c3FmOXRRZVNIVGZseWpXdndVSDh3R0NPQnZzLTFHNDFaUFNi?oc=5",
-      "published_at": "2026-03-24T07:00:00+00:00",
-      "sentiment": "neutral",
-      "sentiment_source": "keyword"
-    },
-    {
-      "symbol": "SCTL",
-      "title": "My phone contents were shared with the police colleague I accused of rape",
-      "publisher": "BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBIeWdPekNkWUtkUjA1MS1XYk14eVNYbjJIMEFma0xfM1huOVQwTkh2ZGtRbWFLU05xQ0pFeWMwWTI1V010X1diaUpQSktyZ0RRWjNtLW9XVXRNdw?oc=5",
-      "published_at": "2026-03-12T07:00:00+00:00",
-      "sentiment": "neutral",
-      "sentiment_source": "keyword"
-    },
-    {
-      "symbol": "SCTL",
-      "title": "Hockey World Cup Qualifiers: India rally, share points with Scotland",
-      "publisher": "The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQbGJFVklJdW9JcXEyeVhucXRLX2dSblBuZ3pkZE41UW40OVFieHVNTHVyMF9jRG1rNEZiNWtzcjB0dmdlS3VmaG8xSzd4WHBEMVY5M0xyd2lBYlRVb3pIa2Y3a25sMlZYYzdYY0VnR19oYWZubmgzQUdEWVlKR3ZyMDE4OWtvZDhzbXd3VlE2ZzAyTm4xS1ZKX3RzV3lrQ0gtakVGVU90WVRjSnNGaU1SMmpBZE5UNkQzUEZRd2RjM3lFVFdwV25HblZMOGRLNEltQ0tCb1NLTXdMWWp1TDVtLWtYWEtpOUpHbFHSAe8BQVVfeXFMUEJheG9QOFd1ZnU2WTZIQjRzQWN3dEhMdjJpMnR2SEpINEI5bURhYkJ6QkdyRks0SWh2dlpmdmctR3pMTkk1QWZGUTJ1NmlQdWF0eHFvWjRmTU5RUFNWaVpoZC15WFlzR0Z3TWhyc3RvU1dLNmg5RjNMYWpVbkY1bFp3U3hvazVyNHhIVGdNMUZJZEpvdmxRSGo2ajVuc3ZzdkRnQnp6YzVLWW1icFpPNDJCeEdqU0FGVUtjWDExWkFYa1FZQXNzaGRPOHhqZUFTS3ZtMVBoZFhHZ3Z5QkkwZTRoWGFxZzJ5bTBabHBCelk?oc=5",
-      "published_at": "2026-03-10T07:00:00+00:00",
-      "sentiment": "positive",
       "sentiment_source": "keyword"
     }
   ]

@@ -3,35 +3,30 @@
   "name": "Gujarat Narmada Valley Fertilizers & Chemicals",
   "sector": "Agri & Fertilizers",
   "indicators": {
-    "date": "2026-10-05",
-    "close": 586.3,
-    "prev_close": 589.15,
-    "change_pct": -0.4837477722142108,
-    "ema20": 593.7534183311692,
-    "ema50": 573.6773695117164,
-    "ema200": 525.8821845594607,
-    "rsi14": 48.899012882236846,
-    "macd": 9.10584750606597,
-    "macd_signal": 10.734526481375216,
-    "atr14": 20.194549092145195,
-    "adx14": 24.722835492899012,
-    "adx_pos": 23.34472667702435,
-    "adx_neg": 24.484689925084606,
-    "bb_high": 640.3991712356432,
-    "bb_low": 542.0608287643566,
-    "bb_mid": 591.2299999999999,
-    "vwap20": 591.3849744947524,
+    "date": "2026-10-06",
+    "close": 629.5,
+    "prev_close": 586.3,
+    "change_pct": 7.368241514582986,
+    "ema20": 597.1578546805816,
+    "ema50": 575.8664922759629,
+    "ema200": 526.91320759867,
+    "rsi14": 62.38131434908011,
+    "macd": 10.884228217348323,
+    "macd_signal": 10.764466828569839,
+    "atr14": 22.13065272842054,
+    "adx14": 24.29583126231712,
+    "adx_pos": 30.318875205251377,
+    "adx_neg": 20.74673990467586,
+    "bb_high": 644.7716704933474,
+    "bb_low": 540.9683295066526,
+    "bb_mid": 592.87,
+    "vwap20": 593.4586008794971,
     "high_52w": 636.0,
     "low_52w": 365.0,
-    "volume": 297893.0,
-    "avg_volume20": 1280125.45
+    "volume": 2291498.0,
+    "avg_volume20": 1355104.15
   },
   "price_history": [
-    {
-      "date": "2026-04-13",
-      "close": 439.7,
-      "ema50": 432.89
-    },
     {
       "date": "2026-04-15",
       "close": 450.35,
@@ -626,39 +621,50 @@
       "date": "2026-10-05",
       "close": 586.3,
       "ema50": 573.68
+    },
+    {
+      "date": "2026-10-06",
+      "close": 629.5,
+      "ema50": 575.87
     }
   ],
   "flags": {
     "flags": {
-      "price_above_ema20": false,
+      "price_above_ema20": true,
       "ema20_above_ema50": true,
       "ema50_above_ema200": true,
-      "rsi_above_50": false,
-      "macd_bullish": false,
-      "adx_trending_up": false,
-      "price_above_vwap20": false,
-      "price_above_bb_mid": false
+      "rsi_above_50": true,
+      "macd_bullish": true,
+      "adx_trending_up": true,
+      "price_above_vwap20": true,
+      "price_above_bb_mid": true
     },
     "flags_detail": {
-      "price_above_ema20": "Close 586.30 vs EMA20 593.75",
-      "ema20_above_ema50": "EMA20 593.75 vs EMA50 573.68",
-      "ema50_above_ema200": "EMA50 573.68 vs EMA200 525.88",
-      "rsi_above_50": "RSI(14) 48.90 vs 50",
-      "macd_bullish": "MACD 9.11 vs signal 10.73",
-      "adx_trending_up": "ADX(14) 24.72 vs 20, +DI 23.34 vs -DI 24.48",
-      "price_above_vwap20": "Close 586.30 vs 20d VWAP 591.38",
-      "price_above_bb_mid": "Close 586.30 vs BB mid 591.23"
+      "price_above_ema20": "Close 629.50 vs EMA20 597.16",
+      "ema20_above_ema50": "EMA20 597.16 vs EMA50 575.87",
+      "ema50_above_ema200": "EMA50 575.87 vs EMA200 526.91",
+      "rsi_above_50": "RSI(14) 62.38 vs 50",
+      "macd_bullish": "MACD 10.88 vs signal 10.76",
+      "adx_trending_up": "ADX(14) 24.30 vs 20, +DI 30.32 vs -DI 20.75",
+      "price_above_vwap20": "Close 629.50 vs 20d VWAP 593.46",
+      "price_above_bb_mid": "Close 629.50 vs BB mid 592.87"
     },
     "flags_on": [
+      "price_above_ema20",
       "ema20_above_ema50",
-      "ema50_above_ema200"
+      "ema50_above_ema200",
+      "rsi_above_50",
+      "macd_bullish",
+      "adx_trending_up",
+      "price_above_vwap20",
+      "price_above_bb_mid"
     ],
-    "flag_count": 2,
+    "flag_count": 8,
     "flag_total": 8
   },
   "fundamentals": null,
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-10-05T19:38:30.533960+00:00"
+  "updated_at": "2026-10-06T17:07:00.814929+00:00"
 }
