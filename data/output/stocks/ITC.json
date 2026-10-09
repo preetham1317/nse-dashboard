@@ -3,35 +3,30 @@
   "name": "ITC Ltd",
   "sector": "FMCG",
   "indicators": {
-    "date": "2026-10-08",
-    "close": 255.0,
-    "prev_close": 265.7,
-    "change_pct": -4.027098231087689,
-    "ema20": 264.4480736065717,
-    "ema50": 269.54300165943073,
-    "ema200": 304.05467324648737,
-    "rsi14": 39.523263660232274,
-    "macd": -1.764131364271293,
-    "macd_signal": -1.6416383767229323,
-    "atr14": 5.97011933175436,
-    "adx14": 26.38697690111457,
-    "adx_pos": 13.779384266107622,
-    "adx_neg": 30.204210450974024,
-    "bb_high": 272.3748471157275,
-    "bb_low": 255.20515288427254,
-    "bb_mid": 263.79,
-    "vwap20": 263.3995703959294,
+    "date": "2026-10-09",
+    "close": 266.0,
+    "prev_close": 255.0,
+    "change_pct": 4.313725490196078,
+    "ema20": 264.59587612023154,
+    "ema50": 269.4040571534041,
+    "ema200": 303.6452372629049,
+    "rsi14": 50.45303901119636,
+    "macd": -1.4363729414114346,
+    "macd_signal": -1.6005852896078578,
+    "atr14": 6.475825093763115,
+    "adx14": 26.280956690529333,
+    "adx_pos": 15.546164483524544,
+    "adx_neg": 25.856557662834255,
+    "bb_high": 272.5716195644026,
+    "bb_low": 255.52838043559737,
+    "bb_mid": 264.05,
+    "vwap20": 263.41233962360826,
     "high_52w": 426.4,
     "low_52w": 253.15,
-    "volume": 53680318.0,
-    "avg_volume20": 18205507.2
+    "volume": 31030528.0,
+    "avg_volume20": 19253774.2
   },
   "price_history": [
-    {
-      "date": "2026-04-17",
-      "close": 306.8,
-      "ema50": 312.36
-    },
     {
       "date": "2026-04-20",
       "close": 305.0,
@@ -70,7 +65,7 @@
     {
       "date": "2026-04-29",
       "close": 316.25,
-      "ema50": 310.78
+      "ema50": 310.77
     },
     {
       "date": "2026-04-30",
@@ -626,36 +621,47 @@
       "date": "2026-10-08",
       "close": 255.0,
       "ema50": 269.54
+    },
+    {
+      "date": "2026-10-09",
+      "close": 266.0,
+      "ema50": 269.4
     }
   ],
   "flags": {
     "flags": {
-      "price_above_ema20": false,
+      "price_above_ema20": true,
       "ema20_above_ema50": false,
       "ema50_above_ema200": false,
-      "rsi_above_50": false,
-      "macd_bullish": false,
+      "rsi_above_50": true,
+      "macd_bullish": true,
       "adx_trending_up": false,
-      "price_above_vwap20": false,
-      "price_above_bb_mid": false
+      "price_above_vwap20": true,
+      "price_above_bb_mid": true
     },
     "flags_detail": {
-      "price_above_ema20": "Close 255.00 vs EMA20 264.45",
-      "ema20_above_ema50": "EMA20 264.45 vs EMA50 269.54",
-      "ema50_above_ema200": "EMA50 269.54 vs EMA200 304.05",
-      "rsi_above_50": "RSI(14) 39.52 vs 50",
-      "macd_bullish": "MACD -1.76 vs signal -1.64",
-      "adx_trending_up": "ADX(14) 26.39 vs 20, +DI 13.78 vs -DI 30.20",
-      "price_above_vwap20": "Close 255.00 vs 20d VWAP 263.40",
-      "price_above_bb_mid": "Close 255.00 vs BB mid 263.79"
+      "price_above_ema20": "Close 266.00 vs EMA20 264.60",
+      "ema20_above_ema50": "EMA20 264.60 vs EMA50 269.40",
+      "ema50_above_ema200": "EMA50 269.40 vs EMA200 303.65",
+      "rsi_above_50": "RSI(14) 50.45 vs 50",
+      "macd_bullish": "MACD -1.44 vs signal -1.60",
+      "adx_trending_up": "ADX(14) 26.28 vs 20, +DI 15.55 vs -DI 25.86",
+      "price_above_vwap20": "Close 266.00 vs 20d VWAP 263.41",
+      "price_above_bb_mid": "Close 266.00 vs BB mid 264.05"
     },
-    "flags_on": [],
-    "flag_count": 0,
+    "flags_on": [
+      "price_above_ema20",
+      "rsi_above_50",
+      "macd_bullish",
+      "price_above_vwap20",
+      "price_above_bb_mid"
+    ],
+    "flag_count": 5,
     "flag_total": 8
   },
   "fundamentals": null,
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-10-08T17:54:43.769587+00:00"
+  "updated_at": "2026-10-09T17:29:20.397813+00:00"
 }

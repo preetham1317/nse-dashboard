@@ -1,5 +1,5 @@
 {
-  "run_at": "2026-10-08T17:23:13.343335+00:00",
+  "run_at": "2026-10-09T16:58:44.894558+00:00",
   "symbols": {
     "AARTIIND": {
       "status": "ok",
@@ -1249,17 +1249,23 @@
       "shareholding_available": false
     },
     "YESBANK": {
-      "status": "skipped",
-      "reason": "ohlcv fetch failed"
+      "status": "ok",
+      "fundamentals_available": false,
+      "analyst_available": false,
+      "events_available": false,
+      "shareholding_available": false
     },
     "ZYDUSLIFE": {
-      "status": "skipped",
-      "reason": "ohlcv fetch failed"
+      "status": "ok",
+      "fundamentals_available": false,
+      "analyst_available": false,
+      "events_available": false,
+      "shareholding_available": false
     }
   },
   "summary": {
     "total": 184,
-    "ok": 173,
-    "skipped": 11
+    "ok": 175,
+    "skipped": 9
   }
 }
