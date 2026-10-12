@@ -3,39 +3,34 @@
   "name": "ITC Ltd",
   "sector": "FMCG",
   "indicators": {
-    "date": "2026-10-09",
-    "close": 266.0,
-    "prev_close": 255.0,
-    "change_pct": 4.313725490196078,
-    "ema20": 264.59587612023154,
-    "ema50": 269.4040571534041,
-    "ema200": 303.6452372629049,
-    "rsi14": 50.45303901119636,
-    "macd": -1.4363729414114346,
-    "macd_signal": -1.6005852896078578,
-    "atr14": 6.475825093763115,
-    "adx14": 26.280956690529333,
-    "adx_pos": 15.546164483524544,
-    "adx_neg": 25.856557662834255,
-    "bb_high": 272.5716195644026,
-    "bb_low": 255.52838043559737,
-    "bb_mid": 264.05,
-    "vwap20": 263.41233962360826,
+    "date": "2026-10-12",
+    "close": 257.9,
+    "prev_close": 266.0,
+    "change_pct": -3.045112781954896,
+    "ema20": 263.9581736325902,
+    "ema50": 268.9528977781982,
+    "ema200": 303.00647226207104,
+    "rsi14": 44.12862487447539,
+    "macd": -1.809367077790455,
+    "macd_signal": -1.6423416469143097,
+    "atr14": 6.759694729978398,
+    "adx14": 26.182509283261602,
+    "adx_pos": 13.829503923610972,
+    "adx_neg": 23.001388283917855,
+    "bb_high": 272.67772384020145,
+    "bb_low": 255.28227615979847,
+    "bb_mid": 263.97999999999996,
+    "vwap20": 263.42999473947646,
     "high_52w": 426.4,
     "low_52w": 253.15,
-    "volume": 31030528.0,
-    "avg_volume20": 19253774.2
+    "volume": 14895734.0,
+    "avg_volume20": 19121480.8
   },
   "price_history": [
     {
-      "date": "2026-04-20",
-      "close": 305.0,
-      "ema50": 312.07
-    },
-    {
       "date": "2026-04-21",
       "close": 309.65,
-      "ema50": 311.98
+      "ema50": 311.97
     },
     {
       "date": "2026-04-22",
@@ -70,7 +65,7 @@
     {
       "date": "2026-04-30",
       "close": 314.9,
-      "ema50": 310.94
+      "ema50": 310.93
     },
     {
       "date": "2026-05-04",
@@ -110,7 +105,7 @@
     {
       "date": "2026-05-13",
       "close": 304.45,
-      "ema50": 309.89
+      "ema50": 309.88
     },
     {
       "date": "2026-05-14",
@@ -626,42 +621,41 @@
       "date": "2026-10-09",
       "close": 266.0,
       "ema50": 269.4
+    },
+    {
+      "date": "2026-10-12",
+      "close": 257.9,
+      "ema50": 268.95
     }
   ],
   "flags": {
     "flags": {
-      "price_above_ema20": true,
+      "price_above_ema20": false,
       "ema20_above_ema50": false,
       "ema50_above_ema200": false,
-      "rsi_above_50": true,
-      "macd_bullish": true,
+      "rsi_above_50": false,
+      "macd_bullish": false,
       "adx_trending_up": false,
-      "price_above_vwap20": true,
-      "price_above_bb_mid": true
+      "price_above_vwap20": false,
+      "price_above_bb_mid": false
     },
     "flags_detail": {
-      "price_above_ema20": "Close 266.00 vs EMA20 264.60",
-      "ema20_above_ema50": "EMA20 264.60 vs EMA50 269.40",
-      "ema50_above_ema200": "EMA50 269.40 vs EMA200 303.65",
-      "rsi_above_50": "RSI(14) 50.45 vs 50",
-      "macd_bullish": "MACD -1.44 vs signal -1.60",
-      "adx_trending_up": "ADX(14) 26.28 vs 20, +DI 15.55 vs -DI 25.86",
-      "price_above_vwap20": "Close 266.00 vs 20d VWAP 263.41",
-      "price_above_bb_mid": "Close 266.00 vs BB mid 264.05"
+      "price_above_ema20": "Close 257.90 vs EMA20 263.96",
+      "ema20_above_ema50": "EMA20 263.96 vs EMA50 268.95",
+      "ema50_above_ema200": "EMA50 268.95 vs EMA200 303.01",
+      "rsi_above_50": "RSI(14) 44.13 vs 50",
+      "macd_bullish": "MACD -1.81 vs signal -1.64",
+      "adx_trending_up": "ADX(14) 26.18 vs 20, +DI 13.83 vs -DI 23.00",
+      "price_above_vwap20": "Close 257.90 vs 20d VWAP 263.43",
+      "price_above_bb_mid": "Close 257.90 vs BB mid 263.98"
     },
-    "flags_on": [
-      "price_above_ema20",
-      "rsi_above_50",
-      "macd_bullish",
-      "price_above_vwap20",
-      "price_above_bb_mid"
-    ],
-    "flag_count": 5,
+    "flags_on": [],
+    "flag_count": 0,
     "flag_total": 8
   },
   "fundamentals": null,
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-10-09T17:29:20.397813+00:00"
+  "updated_at": "2026-10-12T20:17:36.798616+00:00"
 }
