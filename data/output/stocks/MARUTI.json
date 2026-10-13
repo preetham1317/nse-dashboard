@@ -3,35 +3,30 @@
   "name": "Maruti Suzuki",
   "sector": "Auto",
   "indicators": {
-    "date": "2026-10-12",
-    "close": 11315.0,
-    "prev_close": 11420.0,
-    "change_pct": -0.9194395796847635,
-    "ema20": 11890.436818318229,
-    "ema50": 12544.092605640888,
-    "ema200": 13479.56917888023,
-    "rsi14": 30.163452663156974,
-    "macd": -424.6620099221782,
-    "macd_signal": -408.956806608335,
-    "atr14": 238.45985356996465,
-    "adx14": 58.74590661525896,
-    "adx_pos": 7.199120353181736,
-    "adx_neg": 31.329910225155665,
-    "bb_high": 12614.319764309535,
-    "bb_low": 11153.080235690466,
-    "bb_mid": 11883.7,
-    "vwap20": 11851.322050302373,
+    "date": "2026-10-13",
+    "close": 11245.0,
+    "prev_close": 11315.0,
+    "change_pct": -0.6186478126380911,
+    "ema20": 11828.966645145065,
+    "ema50": 12493.147797576541,
+    "ema200": 13457.334659687393,
+    "rsi14": 29.117846667437405,
+    "macd": -424.49133666411035,
+    "macd_signal": -412.0637126194901,
+    "atr14": 237.42700688639573,
+    "adx14": 59.321176008695595,
+    "adx_pos": 6.7139778786167,
+    "adx_neg": 33.73127987259261,
+    "bb_high": 12566.719458063519,
+    "bb_low": 11085.180541936483,
+    "bb_mid": 11825.95,
+    "vwap20": 11762.384790268832,
     "high_52w": 17370.0,
-    "low_52w": 11225.0,
-    "volume": 323997.0,
-    "avg_volume20": 420127.95
+    "low_52w": 11125.0,
+    "volume": 761548.0,
+    "avg_volume20": 432461.95
   },
   "price_history": [
-    {
-      "date": "2026-04-21",
-      "close": 13461.0,
-      "ema50": 13777.59
-    },
     {
       "date": "2026-04-22",
       "close": 13337.0,
@@ -626,6 +621,11 @@
       "date": "2026-10-12",
       "close": 11315.0,
       "ema50": 12544.09
+    },
+    {
+      "date": "2026-10-13",
+      "close": 11245.0,
+      "ema50": 12493.15
     }
   ],
   "flags": {
@@ -640,14 +640,14 @@
       "price_above_bb_mid": false
     },
     "flags_detail": {
-      "price_above_ema20": "Close 11,315.00 vs EMA20 11,890.44",
-      "ema20_above_ema50": "EMA20 11,890.44 vs EMA50 12,544.09",
-      "ema50_above_ema200": "EMA50 12,544.09 vs EMA200 13,479.57",
-      "rsi_above_50": "RSI(14) 30.16 vs 50",
-      "macd_bullish": "MACD -424.66 vs signal -408.96",
-      "adx_trending_up": "ADX(14) 58.75 vs 20, +DI 7.20 vs -DI 31.33",
-      "price_above_vwap20": "Close 11,315.00 vs 20d VWAP 11,851.32",
-      "price_above_bb_mid": "Close 11,315.00 vs BB mid 11,883.70"
+      "price_above_ema20": "Close 11,245.00 vs EMA20 11,828.97",
+      "ema20_above_ema50": "EMA20 11,828.97 vs EMA50 12,493.15",
+      "ema50_above_ema200": "EMA50 12,493.15 vs EMA200 13,457.33",
+      "rsi_above_50": "RSI(14) 29.12 vs 50",
+      "macd_bullish": "MACD -424.49 vs signal -412.06",
+      "adx_trending_up": "ADX(14) 59.32 vs 20, +DI 6.71 vs -DI 33.73",
+      "price_above_vwap20": "Close 11,245.00 vs 20d VWAP 11,762.38",
+      "price_above_bb_mid": "Close 11,245.00 vs BB mid 11,825.95"
     },
     "flags_on": [],
     "flag_count": 0,
@@ -657,5 +657,5 @@
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-10-12T20:26:09.690632+00:00"
+  "updated_at": "2026-10-13T18:12:44.846854+00:00"
 }
