@@ -3,40 +3,30 @@
   "name": "Wipro",
   "sector": "IT",
   "indicators": {
-    "date": "2026-10-12",
-    "close": 161.8,
-    "prev_close": 162.57,
-    "change_pct": -0.4736421233929888,
-    "ema20": 163.82005244236663,
-    "ema50": 170.3665199642205,
-    "ema200": 194.9002836972071,
-    "rsi14": 42.28754136159447,
-    "macd": -3.5461959373695606,
-    "macd_signal": -4.058075815619813,
-    "atr14": 3.7759061687379507,
-    "adx14": 25.284559005126994,
-    "adx_pos": 14.957325448461761,
-    "adx_neg": 22.534646358812353,
-    "bb_high": 170.03562924269303,
-    "bb_low": 156.28037075730694,
-    "bb_mid": 163.158,
-    "vwap20": 161.45264111901326,
+    "date": "2026-10-14",
+    "close": 170.92,
+    "prev_close": 169.0,
+    "change_pct": 1.1360946745562057,
+    "ema20": 164.9425826115518,
+    "ema50": 170.33673431110344,
+    "ema200": 194.37574144613896,
+    "rsi14": 58.024838231297444,
+    "macd": -1.8722249148266599,
+    "macd_signal": -3.405340791827655,
+    "atr14": 3.9797354209179234,
+    "adx14": 23.489911199030413,
+    "adx_pos": 26.79479004185871,
+    "adx_neg": 18.435222064667915,
+    "bb_high": 170.57456211824203,
+    "bb_low": 155.993437881758,
+    "bb_mid": 163.28400000000002,
+    "vwap20": 161.60235841429144,
     "high_52w": 273.1,
     "low_52w": 156.79,
-    "volume": 6207783.0,
-    "avg_volume20": 21725831.0
+    "volume": 12718944.0,
+    "avg_volume20": 22323941.85
   },
   "price_history": [
-    {
-      "date": "2026-04-21",
-      "close": 205.01,
-      "ema50": 208.19
-    },
-    {
-      "date": "2026-04-22",
-      "close": 204.0,
-      "ema50": 208.03
-    },
     {
       "date": "2026-04-23",
       "close": 202.76,
@@ -65,7 +55,7 @@
     {
       "date": "2026-04-30",
       "close": 200.65,
-      "ema50": 206.67
+      "ema50": 206.66
     },
     {
       "date": "2026-05-04",
@@ -325,7 +315,7 @@
     {
       "date": "2026-07-16",
       "close": 177.74,
-      "ema50": 184.92
+      "ema50": 184.91
     },
     {
       "date": "2026-07-17",
@@ -626,39 +616,53 @@
       "date": "2026-10-12",
       "close": 161.8,
       "ema50": 170.37
+    },
+    {
+      "date": "2026-10-13",
+      "close": 169.0,
+      "ema50": 170.31
+    },
+    {
+      "date": "2026-10-14",
+      "close": 170.92,
+      "ema50": 170.34
     }
   ],
   "flags": {
     "flags": {
-      "price_above_ema20": false,
+      "price_above_ema20": true,
       "ema20_above_ema50": false,
       "ema50_above_ema200": false,
-      "rsi_above_50": false,
+      "rsi_above_50": true,
       "macd_bullish": true,
-      "adx_trending_up": false,
+      "adx_trending_up": true,
       "price_above_vwap20": true,
-      "price_above_bb_mid": false
+      "price_above_bb_mid": true
     },
     "flags_detail": {
-      "price_above_ema20": "Close 161.80 vs EMA20 163.82",
-      "ema20_above_ema50": "EMA20 163.82 vs EMA50 170.37",
-      "ema50_above_ema200": "EMA50 170.37 vs EMA200 194.90",
-      "rsi_above_50": "RSI(14) 42.29 vs 50",
-      "macd_bullish": "MACD -3.55 vs signal -4.06",
-      "adx_trending_up": "ADX(14) 25.28 vs 20, +DI 14.96 vs -DI 22.53",
-      "price_above_vwap20": "Close 161.80 vs 20d VWAP 161.45",
-      "price_above_bb_mid": "Close 161.80 vs BB mid 163.16"
+      "price_above_ema20": "Close 170.92 vs EMA20 164.94",
+      "ema20_above_ema50": "EMA20 164.94 vs EMA50 170.34",
+      "ema50_above_ema200": "EMA50 170.34 vs EMA200 194.38",
+      "rsi_above_50": "RSI(14) 58.02 vs 50",
+      "macd_bullish": "MACD -1.87 vs signal -3.41",
+      "adx_trending_up": "ADX(14) 23.49 vs 20, +DI 26.79 vs -DI 18.44",
+      "price_above_vwap20": "Close 170.92 vs 20d VWAP 161.60",
+      "price_above_bb_mid": "Close 170.92 vs BB mid 163.28"
     },
     "flags_on": [
+      "price_above_ema20",
+      "rsi_above_50",
       "macd_bullish",
-      "price_above_vwap20"
+      "adx_trending_up",
+      "price_above_vwap20",
+      "price_above_bb_mid"
     ],
-    "flag_count": 2,
+    "flag_count": 6,
     "flag_total": 8
   },
   "fundamentals": null,
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-10-12T20:52:19.902151+00:00"
+  "updated_at": "2026-10-14T16:13:29.680869+00:00"
 }

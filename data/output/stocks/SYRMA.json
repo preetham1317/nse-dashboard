@@ -3,44 +3,34 @@
   "name": "Syrma SGS Technology",
   "sector": "Electronics",
   "indicators": {
-    "date": "2026-10-12",
-    "close": 1737.2,
-    "prev_close": 1719.9,
-    "change_pct": 1.0058724344438603,
-    "ema20": 1680.5555692335681,
-    "ema50": 1576.8092135426527,
-    "ema200": 1235.2034104749848,
-    "rsi14": 58.08445339204131,
-    "macd": 49.29294424032901,
-    "macd_signal": 56.792939448396766,
-    "atr14": 74.92840274330372,
-    "adx14": 25.41753941843433,
-    "adx_pos": 26.265902218368648,
-    "adx_neg": 16.049863810946444,
-    "bb_high": 1834.9269654922578,
-    "bb_low": 1542.1230345077424,
-    "bb_mid": 1688.525,
-    "vwap20": 1684.4442775984592,
+    "date": "2026-10-14",
+    "close": 1692.2,
+    "prev_close": 1694.0,
+    "change_pct": -0.10625737898464903,
+    "ema20": 1682.8230396673878,
+    "ema50": 1585.7498428720962,
+    "ema200": 1244.3413927162649,
+    "rsi14": 53.35860720045422,
+    "macd": 40.176376554190256,
+    "macd_signal": 51.51018236775955,
+    "atr14": 71.78775542630451,
+    "adx14": 24.279869983676303,
+    "adx_pos": 23.638453303894238,
+    "adx_neg": 18.248082521821175,
+    "bb_high": 1812.9723133593109,
+    "bb_low": 1592.997686640689,
+    "bb_mid": 1702.985,
+    "vwap20": 1689.7743810783163,
     "high_52w": 1822.6,
     "low_52w": 634.5,
-    "volume": 844353.0,
-    "avg_volume20": 2356497.95
+    "volume": 740382.0,
+    "avg_volume20": 2338344.45
   },
   "price_history": [
     {
-      "date": "2026-04-21",
-      "close": 985.95,
-      "ema50": 825.35
-    },
-    {
-      "date": "2026-04-22",
-      "close": 997.75,
-      "ema50": 832.11
-    },
-    {
       "date": "2026-04-23",
       "close": 983.5,
-      "ema50": 838.04
+      "ema50": 838.05
     },
     {
       "date": "2026-04-24",
@@ -50,7 +40,7 @@
     {
       "date": "2026-04-27",
       "close": 979.4,
-      "ema50": 848.54
+      "ema50": 848.55
     },
     {
       "date": "2026-04-28",
@@ -85,7 +75,7 @@
     {
       "date": "2026-05-07",
       "close": 1093.4,
-      "ema50": 891.17
+      "ema50": 891.18
     },
     {
       "date": "2026-05-08",
@@ -626,6 +616,16 @@
       "date": "2026-10-12",
       "close": 1737.2,
       "ema50": 1576.81
+    },
+    {
+      "date": "2026-10-13",
+      "close": 1694.0,
+      "ema50": 1581.4
+    },
+    {
+      "date": "2026-10-14",
+      "close": 1692.2,
+      "ema50": 1585.75
     }
   ],
   "flags": {
@@ -637,17 +637,17 @@
       "macd_bullish": false,
       "adx_trending_up": true,
       "price_above_vwap20": true,
-      "price_above_bb_mid": true
+      "price_above_bb_mid": false
     },
     "flags_detail": {
-      "price_above_ema20": "Close 1,737.20 vs EMA20 1,680.56",
-      "ema20_above_ema50": "EMA20 1,680.56 vs EMA50 1,576.81",
-      "ema50_above_ema200": "EMA50 1,576.81 vs EMA200 1,235.20",
-      "rsi_above_50": "RSI(14) 58.08 vs 50",
-      "macd_bullish": "MACD 49.29 vs signal 56.79",
-      "adx_trending_up": "ADX(14) 25.42 vs 20, +DI 26.27 vs -DI 16.05",
-      "price_above_vwap20": "Close 1,737.20 vs 20d VWAP 1,684.44",
-      "price_above_bb_mid": "Close 1,737.20 vs BB mid 1,688.53"
+      "price_above_ema20": "Close 1,692.20 vs EMA20 1,682.82",
+      "ema20_above_ema50": "EMA20 1,682.82 vs EMA50 1,585.75",
+      "ema50_above_ema200": "EMA50 1,585.75 vs EMA200 1,244.34",
+      "rsi_above_50": "RSI(14) 53.36 vs 50",
+      "macd_bullish": "MACD 40.18 vs signal 51.51",
+      "adx_trending_up": "ADX(14) 24.28 vs 20, +DI 23.64 vs -DI 18.25",
+      "price_above_vwap20": "Close 1,692.20 vs 20d VWAP 1,689.77",
+      "price_above_bb_mid": "Close 1,692.20 vs BB mid 1,702.98"
     },
     "flags_on": [
       "price_above_ema20",
@@ -655,15 +655,14 @@
       "ema50_above_ema200",
       "rsi_above_50",
       "adx_trending_up",
-      "price_above_vwap20",
-      "price_above_bb_mid"
+      "price_above_vwap20"
     ],
-    "flag_count": 7,
+    "flag_count": 6,
     "flag_total": 8
   },
   "fundamentals": null,
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-10-12T20:44:31.626950+00:00"
+  "updated_at": "2026-10-14T16:05:19.106558+00:00"
 }
