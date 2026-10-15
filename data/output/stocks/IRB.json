@@ -3,35 +3,30 @@
   "name": "IRB Infrastructure Developers",
   "sector": "Infrastructure",
   "indicators": {
-    "date": "2026-10-14",
-    "close": 17.77,
-    "prev_close": 17.87,
-    "change_pct": -0.5595970900951395,
-    "ema20": 17.885861997348982,
-    "ema50": 18.603300682178762,
-    "ema200": 20.206728645249232,
-    "rsi14": 45.569210313857944,
-    "macd": -0.34626530784525755,
-    "macd_signal": -0.44310959653382903,
-    "atr14": 0.5721348261121882,
-    "adx14": 17.941476819390896,
-    "adx_pos": 22.649838116670903,
-    "adx_neg": 16.746085697229113,
-    "bb_high": 18.892115105222828,
-    "bb_low": 16.641884894777178,
-    "bb_mid": 17.767000000000003,
-    "vwap20": 17.815336201378077,
+    "date": "2026-10-15",
+    "close": 17.57,
+    "prev_close": 17.77,
+    "change_pct": -1.1254924029262763,
+    "ema20": 17.855779902363366,
+    "ema50": 18.562779689472492,
+    "ema200": 20.18617546580824,
+    "rsi14": 43.03964056032683,
+    "macd": -0.3309156536347295,
+    "macd_signal": -0.42067080796375333,
+    "atr14": 0.5569823385377791,
+    "adx14": 17.205568978914474,
+    "adx_pos": 21.6041597014529,
+    "adx_neg": 18.537808213231173,
+    "bb_high": 18.653481129434972,
+    "bb_low": 16.73251887056503,
+    "bb_mid": 17.693,
+    "vwap20": 17.770396206536205,
     "high_52w": 23.95,
     "low_52w": 16.75,
-    "volume": 6595356.0,
-    "avg_volume20": 14146873.65
+    "volume": 6312296.0,
+    "avg_volume20": 13965943.25
   },
   "price_history": [
-    {
-      "date": "2026-04-23",
-      "close": 22.15,
-      "ema50": 21.19
-    },
     {
       "date": "2026-04-24",
       "close": 21.63,
@@ -626,6 +621,11 @@
       "date": "2026-10-14",
       "close": 17.77,
       "ema50": 18.6
+    },
+    {
+      "date": "2026-10-15",
+      "close": 17.57,
+      "ema50": 18.56
     }
   ],
   "flags": {
@@ -637,28 +637,27 @@
       "macd_bullish": true,
       "adx_trending_up": false,
       "price_above_vwap20": false,
-      "price_above_bb_mid": true
+      "price_above_bb_mid": false
     },
     "flags_detail": {
-      "price_above_ema20": "Close 17.77 vs EMA20 17.89",
-      "ema20_above_ema50": "EMA20 17.89 vs EMA50 18.60",
-      "ema50_above_ema200": "EMA50 18.60 vs EMA200 20.21",
-      "rsi_above_50": "RSI(14) 45.57 vs 50",
-      "macd_bullish": "MACD -0.35 vs signal -0.44",
-      "adx_trending_up": "ADX(14) 17.94 vs 20, +DI 22.65 vs -DI 16.75",
-      "price_above_vwap20": "Close 17.77 vs 20d VWAP 17.82",
-      "price_above_bb_mid": "Close 17.77 vs BB mid 17.77"
+      "price_above_ema20": "Close 17.57 vs EMA20 17.86",
+      "ema20_above_ema50": "EMA20 17.86 vs EMA50 18.56",
+      "ema50_above_ema200": "EMA50 18.56 vs EMA200 20.19",
+      "rsi_above_50": "RSI(14) 43.04 vs 50",
+      "macd_bullish": "MACD -0.33 vs signal -0.42",
+      "adx_trending_up": "ADX(14) 17.21 vs 20, +DI 21.60 vs -DI 18.54",
+      "price_above_vwap20": "Close 17.57 vs 20d VWAP 17.77",
+      "price_above_bb_mid": "Close 17.57 vs BB mid 17.69"
     },
     "flags_on": [
-      "macd_bullish",
-      "price_above_bb_mid"
+      "macd_bullish"
     ],
-    "flag_count": 2,
+    "flag_count": 1,
     "flag_total": 8
   },
   "fundamentals": null,
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-10-14T15:35:52.216925+00:00"
+  "updated_at": "2026-10-15T15:26:40.331843+00:00"
 }
