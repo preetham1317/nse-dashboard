@@ -3,35 +3,30 @@
   "name": "TVS Motor Company",
   "sector": "Auto",
   "indicators": {
-    "date": "2026-10-15",
-    "close": 4020.0,
-    "prev_close": 3969.7,
-    "change_pct": 1.2670982693906385,
-    "ema20": 4028.4142979713424,
-    "ema50": 4057.5206362392705,
-    "ema200": 3791.2651899810367,
-    "rsi14": 47.42686771885569,
-    "macd": -54.77165430394507,
-    "macd_signal": -55.82758800850113,
-    "atr14": 110.83210571361751,
-    "adx14": 30.80253352586082,
-    "adx_pos": 14.295968505226483,
-    "adx_neg": 26.7722081442957,
-    "bb_high": 4233.698937926949,
-    "bb_low": 3851.311062073051,
-    "bb_mid": 4042.505,
-    "vwap20": 4031.2066884695373,
+    "date": "2026-10-16",
+    "close": 4095.1,
+    "prev_close": 4020.0,
+    "change_pct": 1.8681592039800972,
+    "ema20": 4034.765317212167,
+    "ema50": 4058.9943121697474,
+    "ema200": 3794.0563690901804,
+    "rsi14": 53.24673451077151,
+    "macd": -42.62728588821028,
+    "macd_signal": -53.18752758404489,
+    "atr14": 109.90124102061499,
+    "adx14": 30.100551149782852,
+    "adx_pos": 16.376962996959428,
+    "adx_neg": 25.07047124678909,
+    "bb_high": 4232.981508012736,
+    "bb_low": 3851.3684919872644,
+    "bb_mid": 4042.175,
+    "vwap20": 4027.36592787109,
     "high_52w": 4484.5,
     "low_52w": 3228.0,
-    "volume": 586537.0,
-    "avg_volume20": 755298.1
+    "volume": 471482.0,
+    "avg_volume20": 727578.35
   },
   "price_history": [
-    {
-      "date": "2026-04-24",
-      "close": 3488.2,
-      "ema50": 3637.45
-    },
     {
       "date": "2026-04-27",
       "close": 3552.6,
@@ -65,7 +60,7 @@
     {
       "date": "2026-05-06",
       "close": 3617.9,
-      "ema50": 3612.68
+      "ema50": 3612.67
     },
     {
       "date": "2026-05-07",
@@ -75,7 +70,7 @@
     {
       "date": "2026-05-08",
       "close": 3695.2,
-      "ema50": 3619.46
+      "ema50": 3619.45
     },
     {
       "date": "2026-05-11",
@@ -85,7 +80,7 @@
     {
       "date": "2026-05-12",
       "close": 3561.0,
-      "ema50": 3616.95
+      "ema50": 3616.94
     },
     {
       "date": "2026-05-13",
@@ -100,7 +95,7 @@
     {
       "date": "2026-05-15",
       "close": 3466.8,
-      "ema50": 3601.93
+      "ema50": 3601.92
     },
     {
       "date": "2026-05-18",
@@ -140,7 +135,7 @@
     {
       "date": "2026-05-27",
       "close": 3384.6,
-      "ema50": 3542.52
+      "ema50": 3542.51
     },
     {
       "date": "2026-05-29",
@@ -165,7 +160,7 @@
     {
       "date": "2026-06-04",
       "close": 3362.5,
-      "ema50": 3507.47
+      "ema50": 3507.46
     },
     {
       "date": "2026-06-05",
@@ -185,7 +180,7 @@
     {
       "date": "2026-06-10",
       "close": 3334.9,
-      "ema50": 3483.9
+      "ema50": 3483.89
     },
     {
       "date": "2026-06-11",
@@ -310,7 +305,7 @@
     {
       "date": "2026-07-16",
       "close": 3563.5,
-      "ema50": 3528.71
+      "ema50": 3528.7
     },
     {
       "date": "2026-07-17",
@@ -415,7 +410,7 @@
     {
       "date": "2026-08-14",
       "close": 4307.0,
-      "ema50": 3912.58
+      "ema50": 3912.57
     },
     {
       "date": "2026-08-17",
@@ -626,39 +621,48 @@
       "date": "2026-10-15",
       "close": 4020.0,
       "ema50": 4057.52
+    },
+    {
+      "date": "2026-10-16",
+      "close": 4095.1,
+      "ema50": 4058.99
     }
   ],
   "flags": {
     "flags": {
-      "price_above_ema20": false,
+      "price_above_ema20": true,
       "ema20_above_ema50": false,
       "ema50_above_ema200": true,
-      "rsi_above_50": false,
+      "rsi_above_50": true,
       "macd_bullish": true,
       "adx_trending_up": false,
-      "price_above_vwap20": false,
-      "price_above_bb_mid": false
+      "price_above_vwap20": true,
+      "price_above_bb_mid": true
     },
     "flags_detail": {
-      "price_above_ema20": "Close 4,020.00 vs EMA20 4,028.41",
-      "ema20_above_ema50": "EMA20 4,028.41 vs EMA50 4,057.52",
-      "ema50_above_ema200": "EMA50 4,057.52 vs EMA200 3,791.27",
-      "rsi_above_50": "RSI(14) 47.43 vs 50",
-      "macd_bullish": "MACD -54.77 vs signal -55.83",
-      "adx_trending_up": "ADX(14) 30.80 vs 20, +DI 14.30 vs -DI 26.77",
-      "price_above_vwap20": "Close 4,020.00 vs 20d VWAP 4,031.21",
-      "price_above_bb_mid": "Close 4,020.00 vs BB mid 4,042.51"
+      "price_above_ema20": "Close 4,095.10 vs EMA20 4,034.77",
+      "ema20_above_ema50": "EMA20 4,034.77 vs EMA50 4,058.99",
+      "ema50_above_ema200": "EMA50 4,058.99 vs EMA200 3,794.06",
+      "rsi_above_50": "RSI(14) 53.25 vs 50",
+      "macd_bullish": "MACD -42.63 vs signal -53.19",
+      "adx_trending_up": "ADX(14) 30.10 vs 20, +DI 16.38 vs -DI 25.07",
+      "price_above_vwap20": "Close 4,095.10 vs 20d VWAP 4,027.37",
+      "price_above_bb_mid": "Close 4,095.10 vs BB mid 4,042.18"
     },
     "flags_on": [
+      "price_above_ema20",
       "ema50_above_ema200",
-      "macd_bullish"
+      "rsi_above_50",
+      "macd_bullish",
+      "price_above_vwap20",
+      "price_above_bb_mid"
     ],
-    "flag_count": 2,
+    "flag_count": 6,
     "flag_total": 8
   },
   "fundamentals": null,
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-10-15T16:00:05.724777+00:00"
+  "updated_at": "2026-10-16T15:50:23.969699+00:00"
 }
