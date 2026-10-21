@@ -3,35 +3,30 @@
   "name": "Indian Railway Finance Corporation",
   "sector": "NBFC",
   "indicators": {
-    "date": "2026-10-19",
-    "close": 78.44,
-    "prev_close": 80.25,
-    "change_pct": -2.2554517133956415,
-    "ema20": 78.8664033097098,
-    "ema50": 81.76974323719395,
-    "ema200": 95.30071655777029,
-    "rsi14": 46.49901445587369,
-    "macd": -0.8937986555152264,
-    "macd_signal": -1.3940633313473243,
-    "atr14": 2.0091718197505486,
-    "adx14": 32.57677294597947,
-    "adx_pos": 19.1625089508778,
-    "adx_neg": 24.072406604515116,
-    "bb_high": 82.25841791940421,
-    "bb_low": 74.68058208059581,
-    "bb_mid": 78.46950000000001,
-    "vwap20": 78.54219368492531,
+    "date": "2026-10-21",
+    "close": 76.8,
+    "prev_close": 78.44,
+    "change_pct": -2.0907700152983177,
+    "ema20": 78.66960299449941,
+    "ema50": 81.57485814098816,
+    "ema200": 95.1788136068286,
+    "rsi14": 41.797386791646915,
+    "macd": -0.9612260373339154,
+    "macd_signal": -1.3074958726587,
+    "atr14": 2.039230975450203,
+    "adx14": 31.902164507249896,
+    "adx_pos": 17.53147053830462,
+    "adx_neg": 28.083164068237192,
+    "bb_high": 82.06460289290955,
+    "bb_low": 74.53239710709043,
+    "bb_mid": 78.29849999999999,
+    "vwap20": 78.43974831038199,
     "high_52w": 137.17,
     "low_52w": 74.06,
-    "volume": 8414248.0,
-    "avg_volume20": 10773982.35
+    "volume": 8727986.0,
+    "avg_volume20": 10949708.7
   },
   "price_history": [
-    {
-      "date": "2026-04-28",
-      "close": 105.14,
-      "ema50": 103.0
-    },
     {
       "date": "2026-04-29",
       "close": 105.08,
@@ -225,7 +220,7 @@
     {
       "date": "2026-06-24",
       "close": 92.5,
-      "ema50": 99.26
+      "ema50": 99.27
     },
     {
       "date": "2026-06-25",
@@ -240,7 +235,7 @@
     {
       "date": "2026-06-30",
       "close": 90.53,
-      "ema50": 98.32
+      "ema50": 98.33
     },
     {
       "date": "2026-07-01",
@@ -626,6 +621,11 @@
       "date": "2026-10-19",
       "close": 78.44,
       "ema50": 81.77
+    },
+    {
+      "date": "2026-10-21",
+      "close": 76.8,
+      "ema50": 81.57
     }
   ],
   "flags": {
@@ -640,14 +640,14 @@
       "price_above_bb_mid": false
     },
     "flags_detail": {
-      "price_above_ema20": "Close 78.44 vs EMA20 78.87",
-      "ema20_above_ema50": "EMA20 78.87 vs EMA50 81.77",
-      "ema50_above_ema200": "EMA50 81.77 vs EMA200 95.30",
-      "rsi_above_50": "RSI(14) 46.50 vs 50",
-      "macd_bullish": "MACD -0.89 vs signal -1.39",
-      "adx_trending_up": "ADX(14) 32.58 vs 20, +DI 19.16 vs -DI 24.07",
-      "price_above_vwap20": "Close 78.44 vs 20d VWAP 78.54",
-      "price_above_bb_mid": "Close 78.44 vs BB mid 78.47"
+      "price_above_ema20": "Close 76.80 vs EMA20 78.67",
+      "ema20_above_ema50": "EMA20 78.67 vs EMA50 81.57",
+      "ema50_above_ema200": "EMA50 81.57 vs EMA200 95.18",
+      "rsi_above_50": "RSI(14) 41.80 vs 50",
+      "macd_bullish": "MACD -0.96 vs signal -1.31",
+      "adx_trending_up": "ADX(14) 31.90 vs 20, +DI 17.53 vs -DI 28.08",
+      "price_above_vwap20": "Close 76.80 vs 20d VWAP 78.44",
+      "price_above_bb_mid": "Close 76.80 vs BB mid 78.30"
     },
     "flags_on": [
       "macd_bullish"
@@ -659,5 +659,5 @@
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-10-20T15:31:06.824855+00:00"
+  "updated_at": "2026-10-21T15:42:11.778247+00:00"
 }
