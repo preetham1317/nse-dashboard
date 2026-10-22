@@ -3,35 +3,30 @@
   "name": "ITC Ltd",
   "sector": "FMCG",
   "indicators": {
-    "date": "2026-10-21",
-    "close": 262.0,
-    "prev_close": 260.8,
-    "change_pct": 0.4601226993864987,
-    "ema20": 263.1320403110703,
-    "ema50": 267.49547055885404,
-    "ema200": 300.08695539598307,
-    "rsi14": 47.91335078391978,
-    "macd": -1.3665076950183561,
-    "macd_signal": -1.5335609110634632,
-    "atr14": 5.7760528020089525,
-    "adx14": 22.381566163317547,
-    "adx_pos": 15.033044499826332,
-    "adx_neg": 19.113857978527964,
-    "bb_high": 271.94588812989844,
-    "bb_low": 255.53411187010158,
-    "bb_mid": 263.74,
-    "vwap20": 263.1832942606411,
+    "date": "2026-10-22",
+    "close": 258.9,
+    "prev_close": 262.0,
+    "change_pct": -1.1832061068702378,
+    "ema20": 262.72898885287304,
+    "ema50": 267.15838883885823,
+    "ema200": 299.63647631825853,
+    "rsi14": 44.909305491340135,
+    "macd": -1.5477936122545088,
+    "macd_signal": -1.536407451227069,
+    "atr14": 5.767049030488957,
+    "adx14": 22.448285063561105,
+    "adx_pos": 13.981049413845756,
+    "adx_neg": 22.482834046787065,
+    "bb_high": 271.8031448608125,
+    "bb_low": 254.98685513918744,
+    "bb_mid": 263.395,
+    "vwap20": 262.96734516303457,
     "high_52w": 426.4,
     "low_52w": 253.15,
-    "volume": 21000241.0,
-    "avg_volume20": 20429784.1
+    "volume": 15306749.0,
+    "avg_volume20": 20836229.2
   },
   "price_history": [
-    {
-      "date": "2026-04-29",
-      "close": 316.25,
-      "ema50": 310.77
-    },
     {
       "date": "2026-04-30",
       "close": 314.9,
@@ -40,7 +35,7 @@
     {
       "date": "2026-05-04",
       "close": 311.1,
-      "ema50": 310.94
+      "ema50": 310.93
     },
     {
       "date": "2026-05-05",
@@ -80,7 +75,7 @@
     {
       "date": "2026-05-14",
       "close": 307.2,
-      "ema50": 309.78
+      "ema50": 309.77
     },
     {
       "date": "2026-05-15",
@@ -230,7 +225,7 @@
     {
       "date": "2026-06-29",
       "close": 290.7,
-      "ema50": 296.08
+      "ema50": 296.07
     },
     {
       "date": "2026-06-30",
@@ -270,7 +265,7 @@
     {
       "date": "2026-07-09",
       "close": 282.05,
-      "ema50": 293.56
+      "ema50": 293.55
     },
     {
       "date": "2026-07-10",
@@ -626,6 +621,11 @@
       "date": "2026-10-21",
       "close": 262.0,
       "ema50": 267.5
+    },
+    {
+      "date": "2026-10-22",
+      "close": 258.9,
+      "ema50": 267.16
     }
   ],
   "flags": {
@@ -634,30 +634,28 @@
       "ema20_above_ema50": false,
       "ema50_above_ema200": false,
       "rsi_above_50": false,
-      "macd_bullish": true,
+      "macd_bullish": false,
       "adx_trending_up": false,
       "price_above_vwap20": false,
       "price_above_bb_mid": false
     },
     "flags_detail": {
-      "price_above_ema20": "Close 262.00 vs EMA20 263.13",
-      "ema20_above_ema50": "EMA20 263.13 vs EMA50 267.50",
-      "ema50_above_ema200": "EMA50 267.50 vs EMA200 300.09",
-      "rsi_above_50": "RSI(14) 47.91 vs 50",
-      "macd_bullish": "MACD -1.37 vs signal -1.53",
-      "adx_trending_up": "ADX(14) 22.38 vs 20, +DI 15.03 vs -DI 19.11",
-      "price_above_vwap20": "Close 262.00 vs 20d VWAP 263.18",
-      "price_above_bb_mid": "Close 262.00 vs BB mid 263.74"
+      "price_above_ema20": "Close 258.90 vs EMA20 262.73",
+      "ema20_above_ema50": "EMA20 262.73 vs EMA50 267.16",
+      "ema50_above_ema200": "EMA50 267.16 vs EMA200 299.64",
+      "rsi_above_50": "RSI(14) 44.91 vs 50",
+      "macd_bullish": "MACD -1.55 vs signal -1.54",
+      "adx_trending_up": "ADX(14) 22.45 vs 20, +DI 13.98 vs -DI 22.48",
+      "price_above_vwap20": "Close 258.90 vs 20d VWAP 262.97",
+      "price_above_bb_mid": "Close 258.90 vs BB mid 263.39"
     },
-    "flags_on": [
-      "macd_bullish"
-    ],
-    "flag_count": 1,
+    "flags_on": [],
+    "flag_count": 0,
     "flag_total": 8
   },
   "fundamentals": null,
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-10-21T15:42:34.118426+00:00"
+  "updated_at": "2026-10-22T15:44:58.549651+00:00"
 }
