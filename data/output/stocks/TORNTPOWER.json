@@ -3,35 +3,30 @@
   "name": "Torrent Power",
   "sector": "Power",
   "indicators": {
-    "date": "2026-10-23",
-    "close": 1169.0,
-    "prev_close": 1204.0,
-    "change_pct": -2.9069767441860463,
-    "ema20": 1218.9041305100675,
-    "ema50": 1259.5712280875264,
-    "ema200": 1348.6603274301465,
-    "rsi14": 37.18251763766546,
-    "macd": -19.772284274566573,
-    "macd_signal": -18.00591187347539,
-    "atr14": 35.42302488166164,
-    "adx14": 20.003027101943037,
-    "adx_pos": 15.235148316177025,
-    "adx_neg": 28.444691915157893,
-    "bb_high": 1270.7715012429323,
-    "bb_low": 1167.9884987570674,
-    "bb_mid": 1219.3799999999999,
-    "vwap20": 1212.8393756930798,
+    "date": "2026-10-26",
+    "close": 1157.6,
+    "prev_close": 1169.0,
+    "change_pct": -0.975192472198468,
+    "ema20": 1213.0656418900612,
+    "ema50": 1255.5723724743368,
+    "ema200": 1346.8711700653398,
+    "rsi14": 35.43840408432766,
+    "macd": -22.269119963397543,
+    "macd_signal": -18.858553491812213,
+    "atr14": 35.85709453351527,
+    "adx14": 20.795532922291763,
+    "adx_pos": 13.975667227367245,
+    "adx_neg": 26.59119396892482,
+    "bb_high": 1271.6736523018644,
+    "bb_low": 1158.4263476981355,
+    "bb_mid": 1215.05,
+    "vwap20": 1210.6998474801235,
     "high_52w": 1824.1,
-    "low_52w": 1150.0,
-    "volume": 244368.0,
-    "avg_volume20": 239766.15
+    "low_52w": 1147.5,
+    "volume": 173293.0,
+    "avg_volume20": 245039.1
   },
   "price_history": [
-    {
-      "date": "2026-05-04",
-      "close": 1724.0,
-      "ema50": 1521.99
-    },
     {
       "date": "2026-05-05",
       "close": 1734.7,
@@ -115,7 +110,7 @@
     {
       "date": "2026-05-27",
       "close": 1440.5,
-      "ema50": 1530.33
+      "ema50": 1530.34
     },
     {
       "date": "2026-05-29",
@@ -145,7 +140,7 @@
     {
       "date": "2026-06-05",
       "close": 1460.1,
-      "ema50": 1509.6
+      "ema50": 1509.61
     },
     {
       "date": "2026-06-08",
@@ -626,6 +621,11 @@
       "date": "2026-10-23",
       "close": 1169.0,
       "ema50": 1259.57
+    },
+    {
+      "date": "2026-10-26",
+      "close": 1157.6,
+      "ema50": 1255.57
     }
   ],
   "flags": {
@@ -640,14 +640,14 @@
       "price_above_bb_mid": false
     },
     "flags_detail": {
-      "price_above_ema20": "Close 1,169.00 vs EMA20 1,218.90",
-      "ema20_above_ema50": "EMA20 1,218.90 vs EMA50 1,259.57",
-      "ema50_above_ema200": "EMA50 1,259.57 vs EMA200 1,348.66",
-      "rsi_above_50": "RSI(14) 37.18 vs 50",
-      "macd_bullish": "MACD -19.77 vs signal -18.01",
-      "adx_trending_up": "ADX(14) 20.00 vs 20, +DI 15.24 vs -DI 28.44",
-      "price_above_vwap20": "Close 1,169.00 vs 20d VWAP 1,212.84",
-      "price_above_bb_mid": "Close 1,169.00 vs BB mid 1,219.38"
+      "price_above_ema20": "Close 1,157.60 vs EMA20 1,213.07",
+      "ema20_above_ema50": "EMA20 1,213.07 vs EMA50 1,255.57",
+      "ema50_above_ema200": "EMA50 1,255.57 vs EMA200 1,346.87",
+      "rsi_above_50": "RSI(14) 35.44 vs 50",
+      "macd_bullish": "MACD -22.27 vs signal -18.86",
+      "adx_trending_up": "ADX(14) 20.80 vs 20, +DI 13.98 vs -DI 26.59",
+      "price_above_vwap20": "Close 1,157.60 vs 20d VWAP 1,210.70",
+      "price_above_bb_mid": "Close 1,157.60 vs BB mid 1,215.05"
     },
     "flags_on": [],
     "flag_count": 0,
@@ -657,5 +657,5 @@
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-10-23T16:04:09.017735+00:00"
+  "updated_at": "2026-10-26T17:49:54.630311+00:00"
 }
