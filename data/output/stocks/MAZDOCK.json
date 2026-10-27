@@ -3,35 +3,30 @@
   "name": "Mazagon Dock Shipbuilders",
   "sector": "Defence",
   "indicators": {
-    "date": "2026-10-26",
-    "close": 1875.0,
-    "prev_close": 1860.0,
-    "change_pct": 0.8064516129032258,
-    "ema20": 2057.340862221916,
-    "ema50": 2201.872691959829,
-    "ema200": 2404.468611106629,
-    "rsi14": 26.57627885766607,
-    "macd": -93.82647030217186,
-    "macd_signal": -83.92754039074578,
-    "atr14": 63.33948235101773,
-    "adx14": 45.078686416852015,
-    "adx_pos": 10.510393380434973,
-    "adx_neg": 41.60704029752141,
-    "bb_high": 2221.567771866161,
-    "bb_low": 1880.062228133839,
-    "bb_mid": 2050.815,
-    "vwap20": 2032.8129997161066,
+    "date": "2026-10-27",
+    "close": 1754.0,
+    "prev_close": 1875.0,
+    "change_pct": -6.453333333333333,
+    "ema20": 2028.451256296019,
+    "ema50": 2184.3090569810124,
+    "ema200": 2397.996286618006,
+    "rsi14": 21.239352087834718,
+    "macd": -106.57686785747387,
+    "macd_signal": -88.4574058840914,
+    "atr14": 76.53666218308788,
+    "adx14": 46.86869537873075,
+    "adx_pos": 8.076799071037032,
+    "adx_neg": 46.01883194962307,
+    "bb_high": 2229.441319213648,
+    "bb_low": 1827.6286807863528,
+    "bb_mid": 2028.5350000000003,
+    "vwap20": 1966.1419813542518,
     "high_52w": 2881.8,
-    "low_52w": 1838.0,
-    "volume": 686169.0,
-    "avg_volume20": 614608.55
+    "low_52w": 1687.5,
+    "volume": 4140251.0,
+    "avg_volume20": 800295.05
   },
   "price_history": [
-    {
-      "date": "2026-05-05",
-      "close": 2633.4,
-      "ema50": 2493.72
-    },
     {
       "date": "2026-05-06",
       "close": 2644.5,
@@ -626,6 +621,11 @@
       "date": "2026-10-26",
       "close": 1875.0,
       "ema50": 2201.87
+    },
+    {
+      "date": "2026-10-27",
+      "close": 1754.0,
+      "ema50": 2184.31
     }
   ],
   "flags": {
@@ -640,14 +640,14 @@
       "price_above_bb_mid": false
     },
     "flags_detail": {
-      "price_above_ema20": "Close 1,875.00 vs EMA20 2,057.34",
-      "ema20_above_ema50": "EMA20 2,057.34 vs EMA50 2,201.87",
-      "ema50_above_ema200": "EMA50 2,201.87 vs EMA200 2,404.47",
-      "rsi_above_50": "RSI(14) 26.58 vs 50",
-      "macd_bullish": "MACD -93.83 vs signal -83.93",
-      "adx_trending_up": "ADX(14) 45.08 vs 20, +DI 10.51 vs -DI 41.61",
-      "price_above_vwap20": "Close 1,875.00 vs 20d VWAP 2,032.81",
-      "price_above_bb_mid": "Close 1,875.00 vs BB mid 2,050.82"
+      "price_above_ema20": "Close 1,754.00 vs EMA20 2,028.45",
+      "ema20_above_ema50": "EMA20 2,028.45 vs EMA50 2,184.31",
+      "ema50_above_ema200": "EMA50 2,184.31 vs EMA200 2,398.00",
+      "rsi_above_50": "RSI(14) 21.24 vs 50",
+      "macd_bullish": "MACD -106.58 vs signal -88.46",
+      "adx_trending_up": "ADX(14) 46.87 vs 20, +DI 8.08 vs -DI 46.02",
+      "price_above_vwap20": "Close 1,754.00 vs 20d VWAP 1,966.14",
+      "price_above_bb_mid": "Close 1,754.00 vs BB mid 2,028.54"
     },
     "flags_on": [],
     "flag_count": 0,
@@ -657,5 +657,5 @@
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-10-26T17:27:00.249972+00:00"
+  "updated_at": "2026-10-27T16:31:50.454868+00:00"
 }

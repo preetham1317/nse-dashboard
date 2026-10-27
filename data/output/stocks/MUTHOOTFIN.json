@@ -3,35 +3,30 @@
   "name": "Muthoot Finance",
   "sector": "NBFC",
   "indicators": {
-    "date": "2026-10-26",
-    "close": 2395.8,
-    "prev_close": 2373.0,
-    "change_pct": 0.9608091024020304,
-    "ema20": 2593.146939821275,
-    "ema50": 2747.0960243720733,
-    "ema200": 3043.522134550349,
-    "rsi14": 25.612970371637985,
-    "macd": -106.74126138993279,
-    "macd_signal": -87.48686649811124,
-    "atr14": 69.85278653669852,
-    "adx14": 46.90342335621885,
-    "adx_pos": 7.375445357211182,
-    "adx_neg": 42.80183984906611,
-    "bb_high": 2856.263226926343,
-    "bb_low": 2372.246773073657,
-    "bb_mid": 2614.255,
-    "vwap20": 2615.987412855165,
+    "date": "2026-10-27",
+    "close": 2407.5,
+    "prev_close": 2395.8,
+    "change_pct": 0.488354620586018,
+    "ema20": 2575.4662788859155,
+    "ema50": 2733.7785332202275,
+    "ema200": 3037.193556097112,
+    "rsi14": 27.319273328483334,
+    "macd": -108.29899795268966,
+    "macd_signal": -91.64929278902693,
+    "atr14": 66.6418732126486,
+    "adx14": 48.286060121086585,
+    "adx_pos": 8.454080157688807,
+    "adx_neg": 41.6595230776794,
+    "bb_high": 2828.5583282358252,
+    "bb_low": 2357.201671764175,
+    "bb_mid": 2592.88,
+    "vwap20": 2605.551874370362,
     "high_52w": 4149.5,
     "low_52w": 2331.9,
-    "volume": 390994.0,
-    "avg_volume20": 584943.35
+    "volume": 255601.0,
+    "avg_volume20": 582097.25
   },
   "price_history": [
-    {
-      "date": "2026-05-05",
-      "close": 3446.4,
-      "ema50": 3472.8
-    },
     {
       "date": "2026-05-06",
       "close": 3533.6,
@@ -626,6 +621,11 @@
       "date": "2026-10-26",
       "close": 2395.8,
       "ema50": 2747.1
+    },
+    {
+      "date": "2026-10-27",
+      "close": 2407.5,
+      "ema50": 2733.78
     }
   ],
   "flags": {
@@ -640,14 +640,14 @@
       "price_above_bb_mid": false
     },
     "flags_detail": {
-      "price_above_ema20": "Close 2,395.80 vs EMA20 2,593.15",
-      "ema20_above_ema50": "EMA20 2,593.15 vs EMA50 2,747.10",
-      "ema50_above_ema200": "EMA50 2,747.10 vs EMA200 3,043.52",
-      "rsi_above_50": "RSI(14) 25.61 vs 50",
-      "macd_bullish": "MACD -106.74 vs signal -87.49",
-      "adx_trending_up": "ADX(14) 46.90 vs 20, +DI 7.38 vs -DI 42.80",
-      "price_above_vwap20": "Close 2,395.80 vs 20d VWAP 2,615.99",
-      "price_above_bb_mid": "Close 2,395.80 vs BB mid 2,614.26"
+      "price_above_ema20": "Close 2,407.50 vs EMA20 2,575.47",
+      "ema20_above_ema50": "EMA20 2,575.47 vs EMA50 2,733.78",
+      "ema50_above_ema200": "EMA50 2,733.78 vs EMA200 3,037.19",
+      "rsi_above_50": "RSI(14) 27.32 vs 50",
+      "macd_bullish": "MACD -108.30 vs signal -91.65",
+      "adx_trending_up": "ADX(14) 48.29 vs 20, +DI 8.45 vs -DI 41.66",
+      "price_above_vwap20": "Close 2,407.50 vs 20d VWAP 2,605.55",
+      "price_above_bb_mid": "Close 2,407.50 vs BB mid 2,592.88"
     },
     "flags_on": [],
     "flag_count": 0,
@@ -657,5 +657,5 @@
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-10-26T17:28:54.167701+00:00"
+  "updated_at": "2026-10-27T16:33:44.610169+00:00"
 }
