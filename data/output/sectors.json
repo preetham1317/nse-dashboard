@@ -5,33 +5,38 @@
     "stock_count": 11
   },
   {
-    "sector": "Telecom",
-    "avg_flag_pct": 54.2,
-    "stock_count": 3
-  },
-  {
     "sector": "Pharma",
-    "avg_flag_pct": 51.2,
-    "stock_count": 10
-  },
-  {
-    "sector": "Energy",
-    "avg_flag_pct": 48.8,
+    "avg_flag_pct": 57.5,
     "stock_count": 10
   },
   {
     "sector": "Auto",
-    "avg_flag_pct": 45.8,
+    "avg_flag_pct": 55.6,
     "stock_count": 9
   },
   {
     "sector": "Auto Ancillary",
-    "avg_flag_pct": 45.0,
+    "avg_flag_pct": 50.0,
     "stock_count": 5
   },
   {
+    "sector": "Healthcare",
+    "avg_flag_pct": 37.5,
+    "stock_count": 5
+  },
+  {
+    "sector": "Telecom",
+    "avg_flag_pct": 37.5,
+    "stock_count": 3
+  },
+  {
+    "sector": "Cement",
+    "avg_flag_pct": 35.7,
+    "stock_count": 7
+  },
+  {
     "sector": "Banking",
-    "avg_flag_pct": 34.8,
+    "avg_flag_pct": 32.1,
     "stock_count": 14
   },
   {
@@ -40,39 +45,44 @@
     "stock_count": 7
   },
   {
-    "sector": "Cement",
-    "avg_flag_pct": 28.6,
-    "stock_count": 7
+    "sector": "Energy",
+    "avg_flag_pct": 28.7,
+    "stock_count": 10
   },
   {
     "sector": "Defence",
-    "avg_flag_pct": 25.0,
+    "avg_flag_pct": 27.8,
     "stock_count": 9
   },
   {
-    "sector": "Metals",
-    "avg_flag_pct": 21.4,
-    "stock_count": 7
-  },
-  {
     "sector": "Electronics",
-    "avg_flag_pct": 15.0,
+    "avg_flag_pct": 22.5,
     "stock_count": 5
-  },
-  {
-    "sector": "Chemicals",
-    "avg_flag_pct": 14.3,
-    "stock_count": 7
   },
   {
     "sector": "Logistics",
-    "avg_flag_pct": 12.5,
+    "avg_flag_pct": 17.5,
     "stock_count": 5
   },
   {
-    "sector": "Healthcare",
+    "sector": "Metals",
+    "avg_flag_pct": 16.1,
+    "stock_count": 7
+  },
+  {
+    "sector": "Agri & Fertilizers",
+    "avg_flag_pct": 14.6,
+    "stock_count": 6
+  },
+  {
+    "sector": "Power",
+    "avg_flag_pct": 13.8,
+    "stock_count": 10
+  },
+  {
+    "sector": "Chemicals",
     "avg_flag_pct": 12.5,
-    "stock_count": 5
+    "stock_count": 7
   },
   {
     "sector": "Consumer Durables",
@@ -85,29 +95,19 @@
     "stock_count": 3
   },
   {
-    "sector": "Power",
-    "avg_flag_pct": 8.8,
-    "stock_count": 10
-  },
-  {
     "sector": "FMCG",
-    "avg_flag_pct": 8.8,
-    "stock_count": 10
-  },
-  {
-    "sector": "Agri & Fertilizers",
-    "avg_flag_pct": 8.3,
-    "stock_count": 6
-  },
-  {
-    "sector": "NBFC",
-    "avg_flag_pct": 3.8,
+    "avg_flag_pct": 10.0,
     "stock_count": 10
   },
   {
     "sector": "Infrastructure",
-    "avg_flag_pct": 2.8,
+    "avg_flag_pct": 9.7,
     "stock_count": 9
+  },
+  {
+    "sector": "NBFC",
+    "avg_flag_pct": 5.0,
+    "stock_count": 10
   },
   {
     "sector": "Aviation",

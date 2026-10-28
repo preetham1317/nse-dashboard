@@ -3,39 +3,34 @@
   "name": "Oberoi Realty",
   "sector": "Realty",
   "indicators": {
-    "date": "2026-10-27",
-    "close": 1619.0,
-    "prev_close": 1582.0,
-    "change_pct": 2.338811630847029,
-    "ema20": 1690.1505827358026,
-    "ema50": 1745.8640189456503,
-    "ema200": 1719.7523146292824,
-    "rsi14": 34.706771969991976,
-    "macd": -48.4177803037428,
-    "macd_signal": -39.356048747615176,
-    "atr14": 47.037403613092394,
-    "adx14": 31.427192816400655,
-    "adx_pos": 12.284603435026895,
-    "adx_neg": 31.715072912595822,
-    "bb_high": 1822.048522858756,
-    "bb_low": 1579.351477141244,
-    "bb_mid": 1700.7,
-    "vwap20": 1710.4212490331704,
+    "date": "2026-10-28",
+    "close": 1601.0,
+    "prev_close": 1619.0,
+    "change_pct": -1.1117974058060531,
+    "ema20": 1681.6600510466787,
+    "ema50": 1740.1830717989446,
+    "ema200": 1718.5228658806707,
+    "rsi14": 32.73080294497683,
+    "macd": -49.47766235004087,
+    "macd_signal": -41.38037146801278,
+    "atr14": 45.30616049787694,
+    "adx14": 32.336713513717676,
+    "adx_pos": 11.8430221152635,
+    "adx_neg": 30.575045573634863,
+    "bb_high": 1802.587434239522,
+    "bb_low": 1575.912565760478,
+    "bb_mid": 1689.25,
+    "vwap20": 1700.3504392740106,
     "high_52w": 1986.1,
     "low_52w": 1391.2,
-    "volume": 324697.0,
-    "avg_volume20": 339123.9
+    "volume": 199688.0,
+    "avg_volume20": 330896.35
   },
   "price_history": [
     {
-      "date": "2026-05-06",
-      "close": 1673.4,
-      "ema50": 1608.41
-    },
-    {
       "date": "2026-05-07",
       "close": 1675.0,
-      "ema50": 1611.03
+      "ema50": 1611.02
     },
     {
       "date": "2026-05-08",
@@ -626,6 +621,11 @@
       "date": "2026-10-27",
       "close": 1619.0,
       "ema50": 1745.86
+    },
+    {
+      "date": "2026-10-28",
+      "close": 1601.0,
+      "ema50": 1740.18
     }
   ],
   "flags": {
@@ -640,14 +640,14 @@
       "price_above_bb_mid": false
     },
     "flags_detail": {
-      "price_above_ema20": "Close 1,619.00 vs EMA20 1,690.15",
-      "ema20_above_ema50": "EMA20 1,690.15 vs EMA50 1,745.86",
-      "ema50_above_ema200": "EMA50 1,745.86 vs EMA200 1,719.75",
-      "rsi_above_50": "RSI(14) 34.71 vs 50",
-      "macd_bullish": "MACD -48.42 vs signal -39.36",
-      "adx_trending_up": "ADX(14) 31.43 vs 20, +DI 12.28 vs -DI 31.72",
-      "price_above_vwap20": "Close 1,619.00 vs 20d VWAP 1,710.42",
-      "price_above_bb_mid": "Close 1,619.00 vs BB mid 1,700.70"
+      "price_above_ema20": "Close 1,601.00 vs EMA20 1,681.66",
+      "ema20_above_ema50": "EMA20 1,681.66 vs EMA50 1,740.18",
+      "ema50_above_ema200": "EMA50 1,740.18 vs EMA200 1,718.52",
+      "rsi_above_50": "RSI(14) 32.73 vs 50",
+      "macd_bullish": "MACD -49.48 vs signal -41.38",
+      "adx_trending_up": "ADX(14) 32.34 vs 20, +DI 11.84 vs -DI 30.58",
+      "price_above_vwap20": "Close 1,601.00 vs 20d VWAP 1,700.35",
+      "price_above_bb_mid": "Close 1,601.00 vs BB mid 1,689.25"
     },
     "flags_on": [
       "ema50_above_ema200"
@@ -659,5 +659,5 @@
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-10-27T16:37:10.611482+00:00"
+  "updated_at": "2026-10-28T17:21:38.897234+00:00"
 }
