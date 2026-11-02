@@ -3,35 +3,30 @@
   "name": "Vedanta Ltd",
   "sector": "Metals",
   "indicators": {
-    "date": "2026-10-30",
-    "close": 237.9,
-    "prev_close": 234.55,
-    "change_pct": 1.4282668940524383,
-    "ema20": 243.29702090763834,
-    "ema50": 255.3189486646494,
-    "ema200": 258.1540884531435,
-    "rsi14": 41.973285489500114,
-    "macd": -8.43720040768946,
-    "macd_signal": -7.863862527325564,
-    "atr14": 7.707046636356764,
-    "adx14": 24.861147368274768,
-    "adx_pos": 18.023440562666828,
-    "adx_neg": 29.090973576468254,
-    "bb_high": 271.4530410173393,
-    "bb_low": 219.98695898266064,
-    "bb_mid": 245.71999999999997,
-    "vwap20": 246.46839395969448,
+    "date": "2026-11-02",
+    "close": 246.0,
+    "prev_close": 237.9,
+    "change_pct": 3.4047919293820907,
+    "ema20": 243.55444748786306,
+    "ema50": 254.95348448179016,
+    "ema200": 257.89466774350706,
+    "rsi14": 49.246464536344476,
+    "macd": -7.178675810590505,
+    "macd_signal": -7.7268251837214565,
+    "atr14": 7.852257590933552,
+    "adx14": 23.602948625806327,
+    "adx_pos": 22.9305979058941,
+    "adx_neg": 26.513497523527,
+    "bb_high": 270.9875073328082,
+    "bb_low": 219.84749266719174,
+    "bb_mid": 245.41749999999996,
+    "vwap20": 245.98701585854968,
     "high_52w": 360.0,
-    "low_52w": 182.34,
-    "volume": 11978699.0,
-    "avg_volume20": 11193164.5
+    "low_52w": 183.82,
+    "volume": 13962997.0,
+    "avg_volume20": 11384724.35
   },
   "price_history": [
-    {
-      "date": "2026-05-11",
-      "close": 298.4,
-      "ema50": 273.59
-    },
     {
       "date": "2026-05-12",
       "close": 305.05,
@@ -40,7 +35,7 @@
     {
       "date": "2026-05-13",
       "close": 323.35,
-      "ema50": 276.73
+      "ema50": 276.72
     },
     {
       "date": "2026-05-14",
@@ -55,7 +50,7 @@
     {
       "date": "2026-05-18",
       "close": 327.0,
-      "ema50": 283.0
+      "ema50": 282.99
     },
     {
       "date": "2026-05-19",
@@ -145,7 +140,7 @@
     {
       "date": "2026-06-12",
       "close": 309.65,
-      "ema50": 304.15
+      "ema50": 304.14
     },
     {
       "date": "2026-06-15",
@@ -626,36 +621,46 @@
       "date": "2026-10-30",
       "close": 237.9,
       "ema50": 255.32
+    },
+    {
+      "date": "2026-11-02",
+      "close": 246.0,
+      "ema50": 254.95
     }
   ],
   "flags": {
     "flags": {
-      "price_above_ema20": false,
+      "price_above_ema20": true,
       "ema20_above_ema50": false,
       "ema50_above_ema200": false,
       "rsi_above_50": false,
-      "macd_bullish": false,
+      "macd_bullish": true,
       "adx_trending_up": false,
-      "price_above_vwap20": false,
-      "price_above_bb_mid": false
+      "price_above_vwap20": true,
+      "price_above_bb_mid": true
     },
     "flags_detail": {
-      "price_above_ema20": "Close 237.90 vs EMA20 243.30",
-      "ema20_above_ema50": "EMA20 243.30 vs EMA50 255.32",
-      "ema50_above_ema200": "EMA50 255.32 vs EMA200 258.15",
-      "rsi_above_50": "RSI(14) 41.97 vs 50",
-      "macd_bullish": "MACD -8.44 vs signal -7.86",
-      "adx_trending_up": "ADX(14) 24.86 vs 20, +DI 18.02 vs -DI 29.09",
-      "price_above_vwap20": "Close 237.90 vs 20d VWAP 246.47",
-      "price_above_bb_mid": "Close 237.90 vs BB mid 245.72"
+      "price_above_ema20": "Close 246.00 vs EMA20 243.55",
+      "ema20_above_ema50": "EMA20 243.55 vs EMA50 254.95",
+      "ema50_above_ema200": "EMA50 254.95 vs EMA200 257.89",
+      "rsi_above_50": "RSI(14) 49.25 vs 50",
+      "macd_bullish": "MACD -7.18 vs signal -7.73",
+      "adx_trending_up": "ADX(14) 23.60 vs 20, +DI 22.93 vs -DI 26.51",
+      "price_above_vwap20": "Close 246.00 vs 20d VWAP 245.99",
+      "price_above_bb_mid": "Close 246.00 vs BB mid 245.42"
     },
-    "flags_on": [],
-    "flag_count": 0,
+    "flags_on": [
+      "price_above_ema20",
+      "macd_bullish",
+      "price_above_vwap20",
+      "price_above_bb_mid"
+    ],
+    "flag_count": 4,
     "flag_total": 8
   },
   "fundamentals": null,
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-10-30T17:47:20.276750+00:00"
+  "updated_at": "2026-11-02T21:26:43.892481+00:00"
 }
