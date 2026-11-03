@@ -3,35 +3,30 @@
   "name": "Global Health Ltd",
   "sector": "Healthcare",
   "indicators": {
-    "date": "2026-11-02",
-    "close": 1298.4,
-    "prev_close": 1270.3,
-    "change_pct": 2.2120758875856206,
-    "ema20": 1287.6368265104397,
-    "ema50": 1334.3897830090514,
-    "ema200": 1302.5213567909393,
-    "rsi14": 49.07019056815745,
-    "macd": -30.878987517689666,
-    "macd_signal": -41.867536232721996,
-    "atr14": 46.421564292637264,
-    "adx14": 26.008484491482562,
-    "adx_pos": 22.893935463375893,
-    "adx_neg": 22.555796846901817,
-    "bb_high": 1346.5650734630428,
-    "bb_low": 1191.384926536957,
-    "bb_mid": 1268.975,
-    "vwap20": 1267.9963919287848,
+    "date": "2026-11-03",
+    "close": 1325.8,
+    "prev_close": 1298.4,
+    "change_pct": 2.110289587184216,
+    "ema20": 1291.2714144618265,
+    "ema50": 1334.0529287734023,
+    "ema200": 1302.7529850815768,
+    "rsi14": 53.36180878796181,
+    "macd": -24.210815981390397,
+    "macd_signal": -38.336192182455676,
+    "atr14": 46.72002398602033,
+    "adx14": 24.41211778286848,
+    "adx_pos": 22.391805806707875,
+    "adx_neg": 20.81086849790429,
+    "bb_high": 1345.1591471693766,
+    "bb_low": 1192.1108528306233,
+    "bb_mid": 1268.635,
+    "vwap20": 1269.1491852308998,
     "high_52w": 1544.0,
     "low_52w": 956.0,
-    "volume": 263736.0,
-    "avg_volume20": 204041.15
+    "volume": 408948.0,
+    "avg_volume20": 213239.35
   },
   "price_history": [
-    {
-      "date": "2026-05-12",
-      "close": 1193.1,
-      "ema50": 1116.97
-    },
     {
       "date": "2026-05-13",
       "close": 1196.0,
@@ -626,6 +621,11 @@
       "date": "2026-11-02",
       "close": 1298.4,
       "ema50": 1334.39
+    },
+    {
+      "date": "2026-11-03",
+      "close": 1325.8,
+      "ema50": 1334.05
     }
   ],
   "flags": {
@@ -633,36 +633,37 @@
       "price_above_ema20": true,
       "ema20_above_ema50": false,
       "ema50_above_ema200": true,
-      "rsi_above_50": false,
+      "rsi_above_50": true,
       "macd_bullish": true,
       "adx_trending_up": true,
       "price_above_vwap20": true,
       "price_above_bb_mid": true
     },
     "flags_detail": {
-      "price_above_ema20": "Close 1,298.40 vs EMA20 1,287.64",
-      "ema20_above_ema50": "EMA20 1,287.64 vs EMA50 1,334.39",
-      "ema50_above_ema200": "EMA50 1,334.39 vs EMA200 1,302.52",
-      "rsi_above_50": "RSI(14) 49.07 vs 50",
-      "macd_bullish": "MACD -30.88 vs signal -41.87",
-      "adx_trending_up": "ADX(14) 26.01 vs 20, +DI 22.89 vs -DI 22.56",
-      "price_above_vwap20": "Close 1,298.40 vs 20d VWAP 1,268.00",
-      "price_above_bb_mid": "Close 1,298.40 vs BB mid 1,268.97"
+      "price_above_ema20": "Close 1,325.80 vs EMA20 1,291.27",
+      "ema20_above_ema50": "EMA20 1,291.27 vs EMA50 1,334.05",
+      "ema50_above_ema200": "EMA50 1,334.05 vs EMA200 1,302.75",
+      "rsi_above_50": "RSI(14) 53.36 vs 50",
+      "macd_bullish": "MACD -24.21 vs signal -38.34",
+      "adx_trending_up": "ADX(14) 24.41 vs 20, +DI 22.39 vs -DI 20.81",
+      "price_above_vwap20": "Close 1,325.80 vs 20d VWAP 1,269.15",
+      "price_above_bb_mid": "Close 1,325.80 vs BB mid 1,268.63"
     },
     "flags_on": [
       "price_above_ema20",
       "ema50_above_ema200",
+      "rsi_above_50",
       "macd_bullish",
       "adx_trending_up",
       "price_above_vwap20",
       "price_above_bb_mid"
     ],
-    "flag_count": 6,
+    "flag_count": 7,
     "flag_total": 8
   },
   "fundamentals": null,
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-11-02T20:59:58.593407+00:00"
+  "updated_at": "2026-11-03T18:27:43.026892+00:00"
 }

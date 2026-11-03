@@ -3,35 +3,30 @@
   "name": "AU Small Finance Bank",
   "sector": "Banking",
   "indicators": {
-    "date": "2026-11-02",
-    "close": 890.0,
-    "prev_close": 864.0,
-    "change_pct": 3.009259259259259,
-    "ema20": 937.1211055301962,
-    "ema50": 986.2437123391023,
-    "ema200": 983.4339430556299,
-    "rsi14": 36.47783809431271,
-    "macd": -40.66854174983416,
-    "macd_signal": -33.75281925866025,
-    "atr14": 29.611680317902625,
-    "adx14": 36.70287437977625,
-    "adx_pos": 13.122811392600836,
-    "adx_neg": 33.16586377375745,
-    "bb_high": 1063.4402267892858,
-    "bb_low": 837.6797732107142,
-    "bb_mid": 950.5600000000001,
-    "vwap20": 927.343475856324,
+    "date": "2026-11-03",
+    "close": 880.0,
+    "prev_close": 890.0,
+    "change_pct": -1.1235955056179776,
+    "ema20": 931.6810002416062,
+    "ema50": 982.0772922473728,
+    "ema200": 982.4047495923899,
+    "rsi14": 34.99972436178369,
+    "macd": -40.14661327495969,
+    "macd_signal": -35.03157806192014,
+    "atr14": 29.575131723766724,
+    "adx14": 36.478123134956185,
+    "adx_pos": 15.340229818545042,
+    "adx_neg": 30.83493191222038,
+    "bb_high": 1053.9071838826376,
+    "bb_low": 832.2928161173626,
+    "bb_mid": 943.1,
+    "vwap20": 918.6491615424356,
     "high_52w": 1144.1,
     "low_52w": 831.65,
-    "volume": 4420077.0,
-    "avg_volume20": 2388652.05
+    "volume": 2373118.0,
+    "avg_volume20": 2339359.1
   },
   "price_history": [
-    {
-      "date": "2026-05-12",
-      "close": 999.6,
-      "ema50": 982.35
-    },
     {
       "date": "2026-05-13",
       "close": 994.8,
@@ -626,13 +621,18 @@
       "date": "2026-11-02",
       "close": 890.0,
       "ema50": 986.24
+    },
+    {
+      "date": "2026-11-03",
+      "close": 880.0,
+      "ema50": 982.08
     }
   ],
   "flags": {
     "flags": {
       "price_above_ema20": false,
       "ema20_above_ema50": false,
-      "ema50_above_ema200": true,
+      "ema50_above_ema200": false,
       "rsi_above_50": false,
       "macd_bullish": false,
       "adx_trending_up": false,
@@ -640,24 +640,22 @@
       "price_above_bb_mid": false
     },
     "flags_detail": {
-      "price_above_ema20": "Close 890.00 vs EMA20 937.12",
-      "ema20_above_ema50": "EMA20 937.12 vs EMA50 986.24",
-      "ema50_above_ema200": "EMA50 986.24 vs EMA200 983.43",
-      "rsi_above_50": "RSI(14) 36.48 vs 50",
-      "macd_bullish": "MACD -40.67 vs signal -33.75",
-      "adx_trending_up": "ADX(14) 36.70 vs 20, +DI 13.12 vs -DI 33.17",
-      "price_above_vwap20": "Close 890.00 vs 20d VWAP 927.34",
-      "price_above_bb_mid": "Close 890.00 vs BB mid 950.56"
+      "price_above_ema20": "Close 880.00 vs EMA20 931.68",
+      "ema20_above_ema50": "EMA20 931.68 vs EMA50 982.08",
+      "ema50_above_ema200": "EMA50 982.08 vs EMA200 982.40",
+      "rsi_above_50": "RSI(14) 35.00 vs 50",
+      "macd_bullish": "MACD -40.15 vs signal -35.03",
+      "adx_trending_up": "ADX(14) 36.48 vs 20, +DI 15.34 vs -DI 30.83",
+      "price_above_vwap20": "Close 880.00 vs 20d VWAP 918.65",
+      "price_above_bb_mid": "Close 880.00 vs BB mid 943.10"
     },
-    "flags_on": [
-      "ema50_above_ema200"
-    ],
-    "flag_count": 1,
+    "flags_on": [],
+    "flag_count": 0,
     "flag_total": 8
   },
   "fundamentals": null,
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-11-02T20:24:41.584188+00:00"
+  "updated_at": "2026-11-03T17:53:09.839092+00:00"
 }

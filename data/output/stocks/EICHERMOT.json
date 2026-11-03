@@ -3,35 +3,30 @@
   "name": "Eicher Motors",
   "sector": "Auto",
   "indicators": {
-    "date": "2026-11-02",
-    "close": 7213.0,
-    "prev_close": 7220.0,
-    "change_pct": -0.09695290858725762,
-    "ema20": 7205.031698225656,
-    "ema50": 7343.726398192292,
-    "ema200": 7297.195881881305,
-    "rsi14": 48.71034812266808,
-    "macd": -42.036666338840405,
-    "macd_signal": -74.83742691699301,
-    "atr14": 157.54231046818572,
-    "adx14": 29.411724524889628,
-    "adx_pos": 19.904486671959106,
-    "adx_neg": 24.742695100869582,
-    "bb_high": 7390.130460990127,
-    "bb_low": 6872.819539009874,
-    "bb_mid": 7131.475,
-    "vwap20": 7127.598270954412,
+    "date": "2026-11-03",
+    "close": 7440.0,
+    "prev_close": 7213.0,
+    "change_pct": 3.147095521974213,
+    "ema20": 7227.409631727975,
+    "ema50": 7347.501833557301,
+    "ema200": 7298.616818379998,
+    "rsi14": 58.34067873895044,
+    "macd": -19.0632963293383,
+    "macd_signal": -63.68260079946207,
+    "atr14": 167.00357400617244,
+    "adx14": 27.65253649295857,
+    "adx_pos": 23.851236622805615,
+    "adx_neg": 21.673735297442597,
+    "bb_high": 7438.354297047647,
+    "bb_low": 6866.445702952352,
+    "bb_mid": 7152.4,
+    "vwap20": 7145.506624371885,
     "high_52w": 8230.0,
     "low_52w": 6442.0,
-    "volume": 355990.0,
-    "avg_volume20": 384931.05
+    "volume": 409128.0,
+    "avg_volume20": 386304.55
   },
   "price_history": [
-    {
-      "date": "2026-05-12",
-      "close": 7126.0,
-      "ema50": 7190.32
-    },
     {
       "date": "2026-05-13",
       "close": 6971.5,
@@ -626,6 +621,11 @@
       "date": "2026-11-02",
       "close": 7213.0,
       "ema50": 7343.73
+    },
+    {
+      "date": "2026-11-03",
+      "close": 7440.0,
+      "ema50": 7347.5
     }
   ],
   "flags": {
@@ -633,35 +633,37 @@
       "price_above_ema20": true,
       "ema20_above_ema50": false,
       "ema50_above_ema200": true,
-      "rsi_above_50": false,
+      "rsi_above_50": true,
       "macd_bullish": true,
-      "adx_trending_up": false,
+      "adx_trending_up": true,
       "price_above_vwap20": true,
       "price_above_bb_mid": true
     },
     "flags_detail": {
-      "price_above_ema20": "Close 7,213.00 vs EMA20 7,205.03",
-      "ema20_above_ema50": "EMA20 7,205.03 vs EMA50 7,343.73",
-      "ema50_above_ema200": "EMA50 7,343.73 vs EMA200 7,297.20",
-      "rsi_above_50": "RSI(14) 48.71 vs 50",
-      "macd_bullish": "MACD -42.04 vs signal -74.84",
-      "adx_trending_up": "ADX(14) 29.41 vs 20, +DI 19.90 vs -DI 24.74",
-      "price_above_vwap20": "Close 7,213.00 vs 20d VWAP 7,127.60",
-      "price_above_bb_mid": "Close 7,213.00 vs BB mid 7,131.48"
+      "price_above_ema20": "Close 7,440.00 vs EMA20 7,227.41",
+      "ema20_above_ema50": "EMA20 7,227.41 vs EMA50 7,347.50",
+      "ema50_above_ema200": "EMA50 7,347.50 vs EMA200 7,298.62",
+      "rsi_above_50": "RSI(14) 58.34 vs 50",
+      "macd_bullish": "MACD -19.06 vs signal -63.68",
+      "adx_trending_up": "ADX(14) 27.65 vs 20, +DI 23.85 vs -DI 21.67",
+      "price_above_vwap20": "Close 7,440.00 vs 20d VWAP 7,145.51",
+      "price_above_bb_mid": "Close 7,440.00 vs BB mid 7,152.40"
     },
     "flags_on": [
       "price_above_ema20",
       "ema50_above_ema200",
+      "rsi_above_50",
       "macd_bullish",
+      "adx_trending_up",
       "price_above_vwap20",
       "price_above_bb_mid"
     ],
-    "flag_count": 5,
+    "flag_count": 7,
     "flag_total": 8
   },
   "fundamentals": null,
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-11-02T20:38:19.674706+00:00"
+  "updated_at": "2026-11-03T18:06:32.224900+00:00"
 }
