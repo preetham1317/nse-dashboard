@@ -3,39 +3,34 @@
   "name": "Ambuja Cements",
   "sector": "Cement",
   "indicators": {
-    "date": "2026-11-03",
-    "close": 368.9,
-    "prev_close": 360.2,
-    "change_pct": 2.4153248195446944,
-    "ema20": 360.59368851985096,
-    "ema50": 376.091783477894,
-    "ema200": 433.6522388558291,
-    "rsi14": 52.98559598993094,
-    "macd": -5.048590640778002,
-    "macd_signal": -7.4907149674173175,
-    "atr14": 12.867874935187235,
-    "adx14": 27.929454913940248,
-    "adx_pos": 22.964249076967207,
-    "adx_neg": 10.511818788850153,
-    "bb_high": 370.0370102205165,
-    "bb_low": 341.1979897794835,
-    "bb_mid": 355.6175,
-    "vwap20": 356.15843455307976,
+    "date": "2026-11-04",
+    "close": 375.95,
+    "prev_close": 368.9,
+    "change_pct": 1.9110870154513449,
+    "ema20": 362.056194375103,
+    "ema50": 376.0862144551498,
+    "ema200": 432.99676997337684,
+    "rsi14": 56.66219810969049,
+    "macd": -3.2724780913018208,
+    "macd_signal": -6.647067592045095,
+    "atr14": 12.588026725516206,
+    "adx14": 28.666324880486602,
+    "adx_pos": 22.337065622475365,
+    "adx_neg": 9.977973753489842,
+    "bb_high": 373.11521960074515,
+    "bb_low": 339.5597803992548,
+    "bb_mid": 356.3375,
+    "vwap20": 356.53872554642436,
     "high_52w": 588.75,
     "low_52w": 341.0,
-    "volume": 3709141.0,
-    "avg_volume20": 4138746.95
+    "volume": 2960123.0,
+    "avg_volume20": 4168930.2
   },
   "price_history": [
     {
-      "date": "2026-05-13",
-      "close": 438.4,
-      "ema50": 456.04
-    },
-    {
       "date": "2026-05-14",
       "close": 443.9,
-      "ema50": 455.57
+      "ema50": 455.56
     },
     {
       "date": "2026-05-15",
@@ -60,12 +55,12 @@
     {
       "date": "2026-05-21",
       "close": 436.45,
-      "ema50": 451.39
+      "ema50": 451.38
     },
     {
       "date": "2026-05-22",
       "close": 436.35,
-      "ema50": 450.8
+      "ema50": 450.79
     },
     {
       "date": "2026-05-25",
@@ -80,7 +75,7 @@
     {
       "date": "2026-05-27",
       "close": 459.75,
-      "ema50": 450.79
+      "ema50": 450.78
     },
     {
       "date": "2026-05-29",
@@ -115,7 +110,7 @@
     {
       "date": "2026-06-08",
       "close": 415.3,
-      "ema50": 445.45
+      "ema50": 445.44
     },
     {
       "date": "2026-06-09",
@@ -626,6 +621,11 @@
       "date": "2026-11-03",
       "close": 368.9,
       "ema50": 376.09
+    },
+    {
+      "date": "2026-11-04",
+      "close": 375.95,
+      "ema50": 376.09
     }
   ],
   "flags": {
@@ -640,14 +640,14 @@
       "price_above_bb_mid": true
     },
     "flags_detail": {
-      "price_above_ema20": "Close 368.90 vs EMA20 360.59",
-      "ema20_above_ema50": "EMA20 360.59 vs EMA50 376.09",
-      "ema50_above_ema200": "EMA50 376.09 vs EMA200 433.65",
-      "rsi_above_50": "RSI(14) 52.99 vs 50",
-      "macd_bullish": "MACD -5.05 vs signal -7.49",
-      "adx_trending_up": "ADX(14) 27.93 vs 20, +DI 22.96 vs -DI 10.51",
-      "price_above_vwap20": "Close 368.90 vs 20d VWAP 356.16",
-      "price_above_bb_mid": "Close 368.90 vs BB mid 355.62"
+      "price_above_ema20": "Close 375.95 vs EMA20 362.06",
+      "ema20_above_ema50": "EMA20 362.06 vs EMA50 376.09",
+      "ema50_above_ema200": "EMA50 376.09 vs EMA200 433.00",
+      "rsi_above_50": "RSI(14) 56.66 vs 50",
+      "macd_bullish": "MACD -3.27 vs signal -6.65",
+      "adx_trending_up": "ADX(14) 28.67 vs 20, +DI 22.34 vs -DI 9.98",
+      "price_above_vwap20": "Close 375.95 vs 20d VWAP 356.54",
+      "price_above_bb_mid": "Close 375.95 vs BB mid 356.34"
     },
     "flags_on": [
       "price_above_ema20",
@@ -664,5 +664,5 @@
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-11-03T17:50:56.252157+00:00"
+  "updated_at": "2026-11-04T18:01:08.273305+00:00"
 }

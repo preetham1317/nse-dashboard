@@ -3,35 +3,30 @@
   "name": "Godrej Consumer Products",
   "sector": "FMCG",
   "indicators": {
-    "date": "2026-11-03",
-    "close": 830.0,
-    "prev_close": 821.5,
-    "change_pct": 1.0346926354230066,
-    "ema20": 845.0767038429916,
-    "ema50": 879.2061567239181,
-    "ema200": 999.8110253657278,
-    "rsi14": 40.851022119394344,
-    "macd": -14.319718137852533,
-    "macd_signal": -13.1567119880838,
-    "atr14": 22.68010273942388,
-    "adx14": 35.65399730821774,
-    "adx_pos": 14.152331137540353,
-    "adx_neg": 24.550156437391216,
-    "bb_high": 885.5653873108486,
-    "bb_low": 813.7396126891513,
-    "bb_mid": 849.6524999999999,
-    "vwap20": 833.9397851297579,
+    "date": "2026-11-04",
+    "close": 849.0,
+    "prev_close": 830.0,
+    "change_pct": 2.289156626506024,
+    "ema20": 845.4503510960401,
+    "ema50": 878.0216041719084,
+    "ema200": 998.3343349869949,
+    "rsi14": 48.82592925476063,
+    "macd": -12.294887221091585,
+    "macd_signal": -12.9843470347293,
+    "atr14": 22.981523971868672,
+    "adx14": 34.10911484467,
+    "adx_pos": 16.962981160890337,
+    "adx_neg": 22.49757837212972,
+    "bb_high": 882.8271211769803,
+    "bb_low": 814.1278788230196,
+    "bb_mid": 848.4775,
+    "vwap20": 833.1069832671453,
     "high_52w": 1273.9,
     "low_52w": 777.2,
-    "volume": 1019894.0,
-    "avg_volume20": 1391827.6
+    "volume": 1898029.0,
+    "avg_volume20": 1416784.55
   },
   "price_history": [
-    {
-      "date": "2026-05-13",
-      "close": 1030.5,
-      "ema50": 1085.7
-    },
     {
       "date": "2026-05-14",
       "close": 1033.3,
@@ -45,7 +40,7 @@
     {
       "date": "2026-05-18",
       "close": 1014.4,
-      "ema50": 1079.25
+      "ema50": 1079.26
     },
     {
       "date": "2026-05-19",
@@ -135,7 +130,7 @@
     {
       "date": "2026-06-12",
       "close": 1033.3,
-      "ema50": 1046.22
+      "ema50": 1046.23
     },
     {
       "date": "2026-06-15",
@@ -185,7 +180,7 @@
     {
       "date": "2026-06-29",
       "close": 1021.9,
-      "ema50": 1038.14
+      "ema50": 1038.15
     },
     {
       "date": "2026-06-30",
@@ -626,36 +621,46 @@
       "date": "2026-11-03",
       "close": 830.0,
       "ema50": 879.21
+    },
+    {
+      "date": "2026-11-04",
+      "close": 849.0,
+      "ema50": 878.02
     }
   ],
   "flags": {
     "flags": {
-      "price_above_ema20": false,
+      "price_above_ema20": true,
       "ema20_above_ema50": false,
       "ema50_above_ema200": false,
       "rsi_above_50": false,
-      "macd_bullish": false,
+      "macd_bullish": true,
       "adx_trending_up": false,
-      "price_above_vwap20": false,
-      "price_above_bb_mid": false
+      "price_above_vwap20": true,
+      "price_above_bb_mid": true
     },
     "flags_detail": {
-      "price_above_ema20": "Close 830.00 vs EMA20 845.08",
-      "ema20_above_ema50": "EMA20 845.08 vs EMA50 879.21",
-      "ema50_above_ema200": "EMA50 879.21 vs EMA200 999.81",
-      "rsi_above_50": "RSI(14) 40.85 vs 50",
-      "macd_bullish": "MACD -14.32 vs signal -13.16",
-      "adx_trending_up": "ADX(14) 35.65 vs 20, +DI 14.15 vs -DI 24.55",
-      "price_above_vwap20": "Close 830.00 vs 20d VWAP 833.94",
-      "price_above_bb_mid": "Close 830.00 vs BB mid 849.65"
+      "price_above_ema20": "Close 849.00 vs EMA20 845.45",
+      "ema20_above_ema50": "EMA20 845.45 vs EMA50 878.02",
+      "ema50_above_ema200": "EMA50 878.02 vs EMA200 998.33",
+      "rsi_above_50": "RSI(14) 48.83 vs 50",
+      "macd_bullish": "MACD -12.29 vs signal -12.98",
+      "adx_trending_up": "ADX(14) 34.11 vs 20, +DI 16.96 vs -DI 22.50",
+      "price_above_vwap20": "Close 849.00 vs 20d VWAP 833.11",
+      "price_above_bb_mid": "Close 849.00 vs BB mid 848.48"
     },
-    "flags_on": [],
-    "flag_count": 0,
+    "flags_on": [
+      "price_above_ema20",
+      "macd_bullish",
+      "price_above_vwap20",
+      "price_above_bb_mid"
+    ],
+    "flag_count": 4,
     "flag_total": 8
   },
   "fundamentals": null,
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-11-03T18:09:08.220219+00:00"
+  "updated_at": "2026-11-04T18:19:42.462681+00:00"
 }
