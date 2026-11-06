@@ -3,40 +3,30 @@
   "name": "JSW Energy",
   "sector": "Power",
   "indicators": {
-    "date": "2026-11-04",
-    "close": 511.0,
-    "prev_close": 502.6,
-    "change_pct": 1.6713091922005523,
-    "ema20": 489.59189157005136,
-    "ema50": 502.3254185830968,
-    "ema200": 522.0196429276853,
-    "rsi14": 57.81962226879401,
-    "macd": 0.22922306314541174,
-    "macd_signal": -6.3599379253897625,
-    "atr14": 15.606569923615314,
-    "adx14": 22.603893852086554,
-    "adx_pos": 28.541149467084146,
-    "adx_neg": 20.014589471628444,
-    "bb_high": 516.9879468458613,
-    "bb_low": 442.57705315413887,
-    "bb_mid": 479.7825000000001,
-    "vwap20": 487.05349210777814,
+    "date": "2026-11-06",
+    "close": 524.95,
+    "prev_close": 523.35,
+    "change_pct": 0.3057227476831991,
+    "ema20": 495.86819241902134,
+    "ema50": 504.0047960965513,
+    "ema200": 521.8696911469104,
+    "rsi14": 62.109987619638595,
+    "macd": 4.8392419383139895,
+    "macd_signal": -2.660888665545136,
+    "atr14": 15.249542434365262,
+    "adx14": 23.25714106523382,
+    "adx_pos": 31.274801270584273,
+    "adx_neg": 18.012814207056273,
+    "bb_high": 529.7472791426043,
+    "bb_low": 439.41772085739575,
+    "bb_mid": 484.5825,
+    "vwap20": 489.61169247045746,
     "high_52w": 617.35,
     "low_52w": 427.75,
-    "volume": 3299630.0,
-    "avg_volume20": 2953558.85
+    "volume": 1468556.0,
+    "avg_volume20": 2942481.1
   },
   "price_history": [
-    {
-      "date": "2026-05-14",
-      "close": 512.8,
-      "ema50": 524.25
-    },
-    {
-      "date": "2026-05-15",
-      "close": 515.05,
-      "ema50": 523.89
-    },
     {
       "date": "2026-05-18",
       "close": 529.05,
@@ -90,7 +80,7 @@
     {
       "date": "2026-06-02",
       "close": 588.55,
-      "ema50": 539.11
+      "ema50": 539.1
     },
     {
       "date": "2026-06-03",
@@ -155,7 +145,7 @@
     {
       "date": "2026-06-19",
       "close": 570.1,
-      "ema50": 551.52
+      "ema50": 551.51
     },
     {
       "date": "2026-06-22",
@@ -626,6 +616,16 @@
       "date": "2026-11-04",
       "close": 511.0,
       "ema50": 502.33
+    },
+    {
+      "date": "2026-11-05",
+      "close": 523.35,
+      "ema50": 503.15
+    },
+    {
+      "date": "2026-11-06",
+      "close": 524.95,
+      "ema50": 504.0
     }
   ],
   "flags": {
@@ -640,14 +640,14 @@
       "price_above_bb_mid": true
     },
     "flags_detail": {
-      "price_above_ema20": "Close 511.00 vs EMA20 489.59",
-      "ema20_above_ema50": "EMA20 489.59 vs EMA50 502.33",
-      "ema50_above_ema200": "EMA50 502.33 vs EMA200 522.02",
-      "rsi_above_50": "RSI(14) 57.82 vs 50",
-      "macd_bullish": "MACD 0.23 vs signal -6.36",
-      "adx_trending_up": "ADX(14) 22.60 vs 20, +DI 28.54 vs -DI 20.01",
-      "price_above_vwap20": "Close 511.00 vs 20d VWAP 487.05",
-      "price_above_bb_mid": "Close 511.00 vs BB mid 479.78"
+      "price_above_ema20": "Close 524.95 vs EMA20 495.87",
+      "ema20_above_ema50": "EMA20 495.87 vs EMA50 504.00",
+      "ema50_above_ema200": "EMA50 504.00 vs EMA200 521.87",
+      "rsi_above_50": "RSI(14) 62.11 vs 50",
+      "macd_bullish": "MACD 4.84 vs signal -2.66",
+      "adx_trending_up": "ADX(14) 23.26 vs 20, +DI 31.27 vs -DI 18.01",
+      "price_above_vwap20": "Close 524.95 vs 20d VWAP 489.61",
+      "price_above_bb_mid": "Close 524.95 vs BB mid 484.58"
     },
     "flags_on": [
       "price_above_ema20",
@@ -664,5 +664,5 @@
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-11-04T18:30:17.444981+00:00"
+  "updated_at": "2026-11-06T18:00:47.330823+00:00"
 }

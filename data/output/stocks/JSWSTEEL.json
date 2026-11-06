@@ -3,54 +3,39 @@
   "name": "JSW Steel",
   "sector": "Metals",
   "indicators": {
-    "date": "2026-11-03",
-    "close": 1320.0,
-    "prev_close": 1309.9,
-    "change_pct": 0.7710512252843659,
-    "ema20": 1248.1340408360056,
-    "ema50": 1252.6472762342548,
-    "ema200": 1234.6321032260123,
-    "rsi14": 63.460364601309934,
-    "macd": 9.34174094739842,
-    "macd_signal": -4.24362524360628,
-    "atr14": 33.44134853158148,
-    "adx14": 19.485207281057733,
-    "adx_pos": 30.03116790934916,
-    "adx_neg": 13.732473452005815,
-    "bb_high": 1312.2102893810795,
-    "bb_low": 1140.80971061892,
-    "bb_mid": 1226.5099999999998,
-    "vwap20": 1228.9014428447827,
-    "high_52w": 1351.0,
+    "date": "2026-11-06",
+    "close": 1357.1,
+    "prev_close": 1355.6,
+    "change_pct": 0.1106521097668929,
+    "ema20": 1275.1677341641466,
+    "ema50": 1263.8932499533441,
+    "ema200": 1237.7565510939407,
+    "rsi14": 68.01148685720793,
+    "macd": 25.528856619026783,
+    "macd_signal": 8.313385828517106,
+    "atr14": 33.12333918547562,
+    "adx14": 24.040386105996742,
+    "adx_pos": 33.53090948615292,
+    "adx_neg": 16.491653091023977,
+    "bb_high": 1366.5793622675503,
+    "bb_low": 1125.5306377324498,
+    "bb_mid": 1246.055,
+    "vwap20": 1254.9997441058345,
+    "high_52w": 1370.0,
     "low_52w": 1073.2,
-    "volume": 2616273.0,
-    "avg_volume20": 2092143.5
+    "volume": 2985592.0,
+    "avg_volume20": 2174284.3
   },
   "price_history": [
     {
-      "date": "2026-05-13",
-      "close": 1274.9,
-      "ema50": 1228.0
-    },
-    {
-      "date": "2026-05-14",
-      "close": 1296.9,
-      "ema50": 1230.7
-    },
-    {
-      "date": "2026-05-15",
-      "close": 1278.8,
-      "ema50": 1232.58
-    },
-    {
       "date": "2026-05-18",
       "close": 1292.8,
-      "ema50": 1234.95
+      "ema50": 1234.94
     },
     {
       "date": "2026-05-19",
       "close": 1285.2,
-      "ema50": 1236.92
+      "ema50": 1236.91
     },
     {
       "date": "2026-05-20",
@@ -75,7 +60,7 @@
     {
       "date": "2026-05-26",
       "close": 1293.6,
-      "ema50": 1245.97
+      "ema50": 1245.96
     },
     {
       "date": "2026-05-27",
@@ -145,7 +130,7 @@
     {
       "date": "2026-06-16",
       "close": 1274.3,
-      "ema50": 1263.71
+      "ema50": 1263.7
     },
     {
       "date": "2026-06-17",
@@ -155,12 +140,12 @@
     {
       "date": "2026-06-18",
       "close": 1293.9,
-      "ema50": 1265.78
+      "ema50": 1265.77
     },
     {
       "date": "2026-06-19",
       "close": 1287.7,
-      "ema50": 1266.64
+      "ema50": 1266.63
     },
     {
       "date": "2026-06-22",
@@ -175,12 +160,12 @@
     {
       "date": "2026-06-24",
       "close": 1231.2,
-      "ema50": 1264.9
+      "ema50": 1264.89
     },
     {
       "date": "2026-06-25",
       "close": 1231.0,
-      "ema50": 1263.57
+      "ema50": 1263.56
     },
     {
       "date": "2026-06-29",
@@ -230,12 +215,12 @@
     {
       "date": "2026-07-10",
       "close": 1245.4,
-      "ema50": 1252.95
+      "ema50": 1252.94
     },
     {
       "date": "2026-07-13",
       "close": 1237.4,
-      "ema50": 1252.34
+      "ema50": 1252.33
     },
     {
       "date": "2026-07-14",
@@ -375,7 +360,7 @@
     {
       "date": "2026-08-20",
       "close": 1299.7,
-      "ema50": 1268.07
+      "ema50": 1268.06
     },
     {
       "date": "2026-08-21",
@@ -626,43 +611,60 @@
       "date": "2026-11-03",
       "close": 1320.0,
       "ema50": 1252.65
+    },
+    {
+      "date": "2026-11-04",
+      "close": 1343.0,
+      "ema50": 1256.19
+    },
+    {
+      "date": "2026-11-05",
+      "close": 1355.6,
+      "ema50": 1260.09
+    },
+    {
+      "date": "2026-11-06",
+      "close": 1357.1,
+      "ema50": 1263.89
     }
   ],
   "flags": {
     "flags": {
       "price_above_ema20": true,
-      "ema20_above_ema50": false,
+      "ema20_above_ema50": true,
       "ema50_above_ema200": true,
       "rsi_above_50": true,
       "macd_bullish": true,
-      "adx_trending_up": false,
+      "adx_trending_up": true,
       "price_above_vwap20": true,
       "price_above_bb_mid": true
     },
     "flags_detail": {
-      "price_above_ema20": "Close 1,320.00 vs EMA20 1,248.13",
-      "ema20_above_ema50": "EMA20 1,248.13 vs EMA50 1,252.65",
-      "ema50_above_ema200": "EMA50 1,252.65 vs EMA200 1,234.63",
-      "rsi_above_50": "RSI(14) 63.46 vs 50",
-      "macd_bullish": "MACD 9.34 vs signal -4.24",
-      "adx_trending_up": "ADX(14) 19.49 vs 20, +DI 30.03 vs -DI 13.73",
-      "price_above_vwap20": "Close 1,320.00 vs 20d VWAP 1,228.90",
-      "price_above_bb_mid": "Close 1,320.00 vs BB mid 1,226.51"
+      "price_above_ema20": "Close 1,357.10 vs EMA20 1,275.17",
+      "ema20_above_ema50": "EMA20 1,275.17 vs EMA50 1,263.89",
+      "ema50_above_ema200": "EMA50 1,263.89 vs EMA200 1,237.76",
+      "rsi_above_50": "RSI(14) 68.01 vs 50",
+      "macd_bullish": "MACD 25.53 vs signal 8.31",
+      "adx_trending_up": "ADX(14) 24.04 vs 20, +DI 33.53 vs -DI 16.49",
+      "price_above_vwap20": "Close 1,357.10 vs 20d VWAP 1,255.00",
+      "price_above_bb_mid": "Close 1,357.10 vs BB mid 1,246.06"
     },
     "flags_on": [
       "price_above_ema20",
+      "ema20_above_ema50",
       "ema50_above_ema200",
       "rsi_above_50",
       "macd_bullish",
+      "adx_trending_up",
       "price_above_vwap20",
       "price_above_bb_mid"
     ],
-    "flag_count": 6,
+    "flag_count": 8,
     "flag_total": 8
   },
   "fundamentals": null,
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-11-03T18:20:16.796409+00:00"
+  "updated_at": "2026-11-06T18:01:32.899391+00:00"
 }

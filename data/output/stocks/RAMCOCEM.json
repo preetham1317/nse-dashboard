@@ -3,54 +3,34 @@
   "name": "The Ramco Cements",
   "sector": "Cement",
   "indicators": {
-    "date": "2026-11-02",
-    "close": 737.8,
-    "prev_close": 719.65,
-    "change_pct": 2.522059334398663,
-    "ema20": 774.7285541673629,
-    "ema50": 823.5952800319493,
-    "ema200": 916.8819357455452,
-    "rsi14": 31.185389804094157,
-    "macd": -33.93097890934996,
-    "macd_signal": -30.72082644518384,
-    "atr14": 22.49555538947548,
-    "adx14": 45.69382821002846,
-    "adx_pos": 13.357985976469026,
-    "adx_neg": 29.233963059204726,
-    "bb_high": 862.47766453842,
-    "bb_low": 700.3573354615801,
-    "bb_mid": 781.4175,
-    "vwap20": 781.0363857164567,
+    "date": "2026-11-06",
+    "close": 814.05,
+    "prev_close": 811.65,
+    "change_pct": 0.295693956754756,
+    "ema20": 779.2711617466224,
+    "ema50": 818.1351205986226,
+    "ema200": 911.5704026151244,
+    "rsi14": 57.49993152459346,
+    "macd": -16.0629212922521,
+    "macd_signal": -26.167100749177777,
+    "atr14": 27.059959585448215,
+    "adx14": 37.68866870820677,
+    "adx_pos": 27.715315362918837,
+    "adx_neg": 18.06835174644961,
+    "bb_high": 836.1976631976718,
+    "bb_low": 705.9873368023282,
+    "bb_mid": 771.0925,
+    "vwap20": 770.7950851558755,
     "high_52w": 1214.5,
     "low_52w": 711.3,
-    "volume": 141705.0,
-    "avg_volume20": 142254.15
+    "volume": 215274.0,
+    "avg_volume20": 215470.55
   },
   "price_history": [
     {
-      "date": "2026-05-12",
-      "close": 943.25,
-      "ema50": 986.3
-    },
-    {
-      "date": "2026-05-13",
-      "close": 929.85,
-      "ema50": 984.08
-    },
-    {
-      "date": "2026-05-14",
-      "close": 933.4,
-      "ema50": 982.1
-    },
-    {
-      "date": "2026-05-15",
-      "close": 916.25,
-      "ema50": 979.51
-    },
-    {
       "date": "2026-05-18",
       "close": 891.85,
-      "ema50": 976.08
+      "ema50": 976.07
     },
     {
       "date": "2026-05-19",
@@ -80,7 +60,7 @@
     {
       "date": "2026-05-26",
       "close": 891.6,
-      "ema50": 960.06
+      "ema50": 960.05
     },
     {
       "date": "2026-05-27",
@@ -626,36 +606,63 @@
       "date": "2026-11-02",
       "close": 737.8,
       "ema50": 823.6
+    },
+    {
+      "date": "2026-11-03",
+      "close": 745.0,
+      "ema50": 820.51
+    },
+    {
+      "date": "2026-11-04",
+      "close": 771.05,
+      "ema50": 818.57
+    },
+    {
+      "date": "2026-11-05",
+      "close": 811.65,
+      "ema50": 818.3
+    },
+    {
+      "date": "2026-11-06",
+      "close": 814.05,
+      "ema50": 818.14
     }
   ],
   "flags": {
     "flags": {
-      "price_above_ema20": false,
+      "price_above_ema20": true,
       "ema20_above_ema50": false,
       "ema50_above_ema200": false,
-      "rsi_above_50": false,
-      "macd_bullish": false,
-      "adx_trending_up": false,
-      "price_above_vwap20": false,
-      "price_above_bb_mid": false
+      "rsi_above_50": true,
+      "macd_bullish": true,
+      "adx_trending_up": true,
+      "price_above_vwap20": true,
+      "price_above_bb_mid": true
     },
     "flags_detail": {
-      "price_above_ema20": "Close 737.80 vs EMA20 774.73",
-      "ema20_above_ema50": "EMA20 774.73 vs EMA50 823.60",
-      "ema50_above_ema200": "EMA50 823.60 vs EMA200 916.88",
-      "rsi_above_50": "RSI(14) 31.19 vs 50",
-      "macd_bullish": "MACD -33.93 vs signal -30.72",
-      "adx_trending_up": "ADX(14) 45.69 vs 20, +DI 13.36 vs -DI 29.23",
-      "price_above_vwap20": "Close 737.80 vs 20d VWAP 781.04",
-      "price_above_bb_mid": "Close 737.80 vs BB mid 781.42"
+      "price_above_ema20": "Close 814.05 vs EMA20 779.27",
+      "ema20_above_ema50": "EMA20 779.27 vs EMA50 818.14",
+      "ema50_above_ema200": "EMA50 818.14 vs EMA200 911.57",
+      "rsi_above_50": "RSI(14) 57.50 vs 50",
+      "macd_bullish": "MACD -16.06 vs signal -26.17",
+      "adx_trending_up": "ADX(14) 37.69 vs 20, +DI 27.72 vs -DI 18.07",
+      "price_above_vwap20": "Close 814.05 vs 20d VWAP 770.80",
+      "price_above_bb_mid": "Close 814.05 vs BB mid 771.09"
     },
-    "flags_on": [],
-    "flag_count": 0,
+    "flags_on": [
+      "price_above_ema20",
+      "rsi_above_50",
+      "macd_bullish",
+      "adx_trending_up",
+      "price_above_vwap20",
+      "price_above_bb_mid"
+    ],
+    "flag_count": 6,
     "flag_total": 8
   },
   "fundamentals": null,
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-11-02T21:13:01.300032+00:00"
+  "updated_at": "2026-11-06T18:20:28.783801+00:00"
 }

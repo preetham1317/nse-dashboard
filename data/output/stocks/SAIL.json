@@ -3,50 +3,30 @@
   "name": "Steel Authority of India",
   "sector": "Metals",
   "indicators": {
-    "date": "2026-11-02",
-    "close": 165.3,
-    "prev_close": 161.0,
-    "change_pct": 2.670807453416156,
-    "ema20": 169.12102436650792,
-    "ema50": 173.53652271738585,
-    "ema200": 168.1047504594109,
-    "rsi14": 42.77489120935171,
-    "macd": -3.8854222277954875,
-    "macd_signal": -3.4287308662777716,
-    "atr14": 6.084835834139234,
-    "adx14": 26.049805978142153,
-    "adx_pos": 14.366794169035208,
-    "adx_neg": 23.478167994870397,
-    "bb_high": 178.5292912780991,
-    "bb_low": 159.97370872190095,
-    "bb_mid": 169.25150000000002,
-    "vwap20": 169.65258020767433,
+    "date": "2026-11-06",
+    "close": 171.6,
+    "prev_close": 172.3,
+    "change_pct": -0.40626813697041037,
+    "ema20": 169.623428491563,
+    "ema50": 173.09374478477105,
+    "ema200": 168.1347201704446,
+    "rsi14": 51.28974673112578,
+    "macd": -1.9082072340765706,
+    "macd_signal": -2.906066958497929,
+    "atr14": 5.902926027198096,
+    "adx14": 21.243758613436686,
+    "adx_pos": 19.072772640081727,
+    "adx_neg": 21.115079974737643,
+    "bb_high": 175.8897787358191,
+    "bb_low": 161.24122126418092,
+    "bb_mid": 168.56550000000001,
+    "vwap20": 168.68205529041074,
     "high_52w": 209.7,
     "low_52w": 124.0,
-    "volume": 14808765.0,
-    "avg_volume20": 14865438.5
+    "volume": 17863675.0,
+    "avg_volume20": 15864108.95
   },
   "price_history": [
-    {
-      "date": "2026-05-12",
-      "close": 176.09,
-      "ema50": 168.59
-    },
-    {
-      "date": "2026-05-13",
-      "close": 201.31,
-      "ema50": 169.88
-    },
-    {
-      "date": "2026-05-14",
-      "close": 199.08,
-      "ema50": 171.02
-    },
-    {
-      "date": "2026-05-15",
-      "close": 192.4,
-      "ema50": 171.86
-    },
     {
       "date": "2026-05-18",
       "close": 192.73,
@@ -205,17 +185,17 @@
     {
       "date": "2026-07-02",
       "close": 168.12,
-      "ema50": 180.09
+      "ema50": 180.08
     },
     {
       "date": "2026-07-03",
       "close": 169.88,
-      "ema50": 179.69
+      "ema50": 179.68
     },
     {
       "date": "2026-07-06",
       "close": 169.23,
-      "ema50": 179.28
+      "ema50": 179.27
     },
     {
       "date": "2026-07-07",
@@ -626,38 +606,63 @@
       "date": "2026-11-02",
       "close": 165.3,
       "ema50": 173.54
+    },
+    {
+      "date": "2026-11-03",
+      "close": 167.5,
+      "ema50": 173.3
+    },
+    {
+      "date": "2026-11-04",
+      "close": 170.49,
+      "ema50": 173.19
+    },
+    {
+      "date": "2026-11-05",
+      "close": 172.3,
+      "ema50": 173.15
+    },
+    {
+      "date": "2026-11-06",
+      "close": 171.6,
+      "ema50": 173.09
     }
   ],
   "flags": {
     "flags": {
-      "price_above_ema20": false,
+      "price_above_ema20": true,
       "ema20_above_ema50": false,
       "ema50_above_ema200": true,
-      "rsi_above_50": false,
-      "macd_bullish": false,
+      "rsi_above_50": true,
+      "macd_bullish": true,
       "adx_trending_up": false,
-      "price_above_vwap20": false,
-      "price_above_bb_mid": false
+      "price_above_vwap20": true,
+      "price_above_bb_mid": true
     },
     "flags_detail": {
-      "price_above_ema20": "Close 165.30 vs EMA20 169.12",
-      "ema20_above_ema50": "EMA20 169.12 vs EMA50 173.54",
-      "ema50_above_ema200": "EMA50 173.54 vs EMA200 168.10",
-      "rsi_above_50": "RSI(14) 42.77 vs 50",
-      "macd_bullish": "MACD -3.89 vs signal -3.43",
-      "adx_trending_up": "ADX(14) 26.05 vs 20, +DI 14.37 vs -DI 23.48",
-      "price_above_vwap20": "Close 165.30 vs 20d VWAP 169.65",
-      "price_above_bb_mid": "Close 165.30 vs BB mid 169.25"
+      "price_above_ema20": "Close 171.60 vs EMA20 169.62",
+      "ema20_above_ema50": "EMA20 169.62 vs EMA50 173.09",
+      "ema50_above_ema200": "EMA50 173.09 vs EMA200 168.13",
+      "rsi_above_50": "RSI(14) 51.29 vs 50",
+      "macd_bullish": "MACD -1.91 vs signal -2.91",
+      "adx_trending_up": "ADX(14) 21.24 vs 20, +DI 19.07 vs -DI 21.12",
+      "price_above_vwap20": "Close 171.60 vs 20d VWAP 168.68",
+      "price_above_bb_mid": "Close 171.60 vs BB mid 168.57"
     },
     "flags_on": [
-      "ema50_above_ema200"
+      "price_above_ema20",
+      "ema50_above_ema200",
+      "rsi_above_50",
+      "macd_bullish",
+      "price_above_vwap20",
+      "price_above_bb_mid"
     ],
-    "flag_count": 1,
+    "flag_count": 6,
     "flag_total": 8
   },
   "fundamentals": null,
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-11-02T21:15:19.045428+00:00"
+  "updated_at": "2026-11-06T18:22:45.233390+00:00"
 }
