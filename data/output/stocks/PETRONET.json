@@ -3,40 +3,30 @@
   "name": "Petronet LNG",
   "sector": "Energy",
   "indicators": {
-    "date": "2026-11-06",
-    "close": 317.0,
-    "prev_close": 317.0,
-    "change_pct": 0.0,
-    "ema20": 298.35785837868025,
-    "ema50": 292.38473668949894,
-    "ema200": 283.93360099884586,
-    "rsi14": 69.40466217880783,
-    "macd": 5.650666646846503,
-    "macd_signal": 2.8728204931564143,
-    "atr14": 7.855899821116049,
-    "adx14": 21.340455107087735,
-    "adx_pos": 32.131185646641846,
-    "adx_neg": 15.47310296065092,
-    "bb_high": 314.09395546355375,
-    "bb_low": 277.78104453644625,
-    "bb_mid": 295.9375,
-    "vwap20": 297.32315268130907,
+    "date": "2026-11-09",
+    "close": 320.45,
+    "prev_close": 314.5,
+    "change_pct": 1.8918918918918881,
+    "ema20": 301.85280470454336,
+    "ema50": 294.3185993686785,
+    "ema200": 284.685677008264,
+    "rsi14": 69.76733102096215,
+    "macd": 7.052275167424625,
+    "macd_signal": 4.24267607479143,
+    "atr14": 7.595903417201526,
+    "adx14": 23.655574160389484,
+    "adx_pos": 32.31728181734404,
+    "adx_neg": 13.798267220545874,
+    "bb_high": 320.5133857134997,
+    "bb_low": 276.65661428650037,
+    "bb_mid": 298.58500000000004,
+    "vwap20": 298.75083057836207,
     "high_52w": 326.4,
     "low_52w": 235.35,
-    "volume": 2665155.0,
-    "avg_volume20": 2622087.05
+    "volume": 2393414.0,
+    "avg_volume20": 2582588.95
   },
   "price_history": [
-    {
-      "date": "2026-05-18",
-      "close": 265.15,
-      "ema50": 275.69
-    },
-    {
-      "date": "2026-05-19",
-      "close": 265.15,
-      "ema50": 275.27
-    },
     {
       "date": "2026-05-20",
       "close": 264.65,
@@ -70,7 +60,7 @@
     {
       "date": "2026-05-29",
       "close": 271.05,
-      "ema50": 275.06
+      "ema50": 275.07
     },
     {
       "date": "2026-06-01",
@@ -180,7 +170,7 @@
     {
       "date": "2026-07-01",
       "close": 279.1,
-      "ema50": 277.69
+      "ema50": 277.7
     },
     {
       "date": "2026-07-02",
@@ -320,7 +310,7 @@
     {
       "date": "2026-08-10",
       "close": 280.0,
-      "ema50": 277.87
+      "ema50": 277.88
     },
     {
       "date": "2026-08-11",
@@ -626,6 +616,16 @@
       "date": "2026-11-06",
       "close": 317.0,
       "ema50": 292.38
+    },
+    {
+      "date": "2026-11-08",
+      "close": 314.5,
+      "ema50": 293.25
+    },
+    {
+      "date": "2026-11-09",
+      "close": 320.45,
+      "ema50": 294.32
     }
   ],
   "flags": {
@@ -640,14 +640,14 @@
       "price_above_bb_mid": true
     },
     "flags_detail": {
-      "price_above_ema20": "Close 317.00 vs EMA20 298.36",
-      "ema20_above_ema50": "EMA20 298.36 vs EMA50 292.38",
-      "ema50_above_ema200": "EMA50 292.38 vs EMA200 283.93",
-      "rsi_above_50": "RSI(14) 69.40 vs 50",
-      "macd_bullish": "MACD 5.65 vs signal 2.87",
-      "adx_trending_up": "ADX(14) 21.34 vs 20, +DI 32.13 vs -DI 15.47",
-      "price_above_vwap20": "Close 317.00 vs 20d VWAP 297.32",
-      "price_above_bb_mid": "Close 317.00 vs BB mid 295.94"
+      "price_above_ema20": "Close 320.45 vs EMA20 301.85",
+      "ema20_above_ema50": "EMA20 301.85 vs EMA50 294.32",
+      "ema50_above_ema200": "EMA50 294.32 vs EMA200 284.69",
+      "rsi_above_50": "RSI(14) 69.77 vs 50",
+      "macd_bullish": "MACD 7.05 vs signal 4.24",
+      "adx_trending_up": "ADX(14) 23.66 vs 20, +DI 32.32 vs -DI 13.80",
+      "price_above_vwap20": "Close 320.45 vs 20d VWAP 298.75",
+      "price_above_bb_mid": "Close 320.45 vs BB mid 298.59"
     },
     "flags_on": [
       "price_above_ema20",
@@ -666,5 +666,5 @@
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-11-06T18:16:18.517546+00:00"
+  "updated_at": "2026-11-09T21:29:46.987599+00:00"
 }

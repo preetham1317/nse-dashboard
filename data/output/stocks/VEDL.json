@@ -3,64 +3,34 @@
   "name": "Vedanta Ltd",
   "sector": "Metals",
   "indicators": {
-    "date": "2026-11-02",
-    "close": 246.0,
-    "prev_close": 237.9,
-    "change_pct": 3.4047919293820907,
-    "ema20": 243.55444748786306,
-    "ema50": 254.95348448179016,
-    "ema200": 257.89466774350706,
-    "rsi14": 49.246464536344476,
-    "macd": -7.178675810590505,
-    "macd_signal": -7.7268251837214565,
-    "atr14": 7.852257590933552,
-    "adx14": 23.602948625806327,
-    "adx_pos": 22.9305979058941,
-    "adx_neg": 26.513497523527,
-    "bb_high": 270.9875073328082,
-    "bb_low": 219.84749266719174,
-    "bb_mid": 245.41749999999996,
-    "vwap20": 245.98701585854968,
+    "date": "2026-11-09",
+    "close": 262.0,
+    "prev_close": 261.0,
+    "change_pct": 0.38314176245210724,
+    "ema20": 250.73459964844125,
+    "ema50": 255.8328919707985,
+    "ema200": 258.093353805573,
+    "rsi14": 59.80949002019891,
+    "macd": 1.0836079124626963,
+    "macd_signal": -2.8671652184431546,
+    "atr14": 7.685578331834099,
+    "adx14": 20.663380646189808,
+    "adx_pos": 31.60835071616168,
+    "adx_neg": 23.43761644038909,
+    "bb_high": 269.31061080815584,
+    "bb_low": 220.39938919184416,
+    "bb_mid": 244.85500000000002,
+    "vwap20": 244.58220782922572,
     "high_52w": 360.0,
-    "low_52w": 183.82,
-    "volume": 13962997.0,
-    "avg_volume20": 11384724.35
+    "low_52w": 184.79,
+    "volume": 9723588.0,
+    "avg_volume20": 11229724.75
   },
   "price_history": [
     {
-      "date": "2026-05-12",
-      "close": 305.05,
-      "ema50": 274.82
-    },
-    {
-      "date": "2026-05-13",
-      "close": 323.35,
-      "ema50": 276.72
-    },
-    {
-      "date": "2026-05-14",
-      "close": 338.9,
-      "ema50": 279.16
-    },
-    {
-      "date": "2026-05-15",
-      "close": 331.05,
-      "ema50": 281.2
-    },
-    {
-      "date": "2026-05-18",
-      "close": 327.0,
-      "ema50": 282.99
-    },
-    {
-      "date": "2026-05-19",
-      "close": 337.65,
-      "ema50": 285.14
-    },
-    {
       "date": "2026-05-20",
       "close": 333.75,
-      "ema50": 287.04
+      "ema50": 287.05
     },
     {
       "date": "2026-05-21",
@@ -80,7 +50,7 @@
     {
       "date": "2026-05-26",
       "close": 344.9,
-      "ema50": 294.06
+      "ema50": 294.07
     },
     {
       "date": "2026-05-27",
@@ -90,12 +60,12 @@
     {
       "date": "2026-05-29",
       "close": 352.6,
-      "ema50": 298.64
+      "ema50": 298.65
     },
     {
       "date": "2026-06-01",
       "close": 337.15,
-      "ema50": 300.15
+      "ema50": 300.16
     },
     {
       "date": "2026-06-02",
@@ -140,7 +110,7 @@
     {
       "date": "2026-06-12",
       "close": 309.65,
-      "ema50": 304.14
+      "ema50": 304.15
     },
     {
       "date": "2026-06-15",
@@ -626,6 +596,36 @@
       "date": "2026-11-02",
       "close": 246.0,
       "ema50": 254.95
+    },
+    {
+      "date": "2026-11-03",
+      "close": 246.9,
+      "ema50": 254.64
+    },
+    {
+      "date": "2026-11-04",
+      "close": 257.35,
+      "ema50": 254.74
+    },
+    {
+      "date": "2026-11-05",
+      "close": 263.8,
+      "ema50": 255.1
+    },
+    {
+      "date": "2026-11-06",
+      "close": 261.75,
+      "ema50": 255.36
+    },
+    {
+      "date": "2026-11-08",
+      "close": 261.0,
+      "ema50": 255.58
+    },
+    {
+      "date": "2026-11-09",
+      "close": 262.0,
+      "ema50": 255.83
     }
   ],
   "flags": {
@@ -633,34 +633,36 @@
       "price_above_ema20": true,
       "ema20_above_ema50": false,
       "ema50_above_ema200": false,
-      "rsi_above_50": false,
+      "rsi_above_50": true,
       "macd_bullish": true,
-      "adx_trending_up": false,
+      "adx_trending_up": true,
       "price_above_vwap20": true,
       "price_above_bb_mid": true
     },
     "flags_detail": {
-      "price_above_ema20": "Close 246.00 vs EMA20 243.55",
-      "ema20_above_ema50": "EMA20 243.55 vs EMA50 254.95",
-      "ema50_above_ema200": "EMA50 254.95 vs EMA200 257.89",
-      "rsi_above_50": "RSI(14) 49.25 vs 50",
-      "macd_bullish": "MACD -7.18 vs signal -7.73",
-      "adx_trending_up": "ADX(14) 23.60 vs 20, +DI 22.93 vs -DI 26.51",
-      "price_above_vwap20": "Close 246.00 vs 20d VWAP 245.99",
-      "price_above_bb_mid": "Close 246.00 vs BB mid 245.42"
+      "price_above_ema20": "Close 262.00 vs EMA20 250.73",
+      "ema20_above_ema50": "EMA20 250.73 vs EMA50 255.83",
+      "ema50_above_ema200": "EMA50 255.83 vs EMA200 258.09",
+      "rsi_above_50": "RSI(14) 59.81 vs 50",
+      "macd_bullish": "MACD 1.08 vs signal -2.87",
+      "adx_trending_up": "ADX(14) 20.66 vs 20, +DI 31.61 vs -DI 23.44",
+      "price_above_vwap20": "Close 262.00 vs 20d VWAP 244.58",
+      "price_above_bb_mid": "Close 262.00 vs BB mid 244.86"
     },
     "flags_on": [
       "price_above_ema20",
+      "rsi_above_50",
       "macd_bullish",
+      "adx_trending_up",
       "price_above_vwap20",
       "price_above_bb_mid"
     ],
-    "flag_count": 4,
+    "flag_count": 6,
     "flag_total": 8
   },
   "fundamentals": null,
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-11-02T21:26:43.892481+00:00"
+  "updated_at": "2026-11-09T21:47:56.104253+00:00"
 }

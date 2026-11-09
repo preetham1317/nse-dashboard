@@ -3,40 +3,30 @@
   "name": "NLC India",
   "sector": "Power",
   "indicators": {
-    "date": "2026-11-06",
-    "close": 237.61,
-    "prev_close": 241.47,
-    "change_pct": -1.5985422619787075,
-    "ema20": 240.70724833620778,
-    "ema50": 253.41321279618492,
-    "ema200": 272.80713357676524,
-    "rsi14": 46.17783953510351,
-    "macd": -5.07584676370945,
-    "macd_signal": -6.7059896997001625,
-    "atr14": 9.863658863241906,
-    "adx14": 24.39703244242379,
-    "adx_pos": 22.025888764158324,
-    "adx_neg": 19.534192227903663,
-    "bb_high": 257.0022520254246,
-    "bb_low": 221.97874797457533,
-    "bb_mid": 239.49049999999997,
-    "vwap20": 239.8572534503395,
+    "date": "2026-11-09",
+    "close": 243.13,
+    "prev_close": 241.56,
+    "change_pct": 0.6499420433846635,
+    "ema20": 241.0114663251042,
+    "ema50": 252.56333904334588,
+    "ema200": 272.13487339012573,
+    "rsi14": 49.77659171387181,
+    "macd": -3.7403992235069836,
+    "macd_signal": -5.748002766861328,
+    "atr14": 9.206777285147423,
+    "adx14": 22.13421481827037,
+    "adx_pos": 21.968199719460493,
+    "adx_neg": 18.04498379952137,
+    "bb_high": 256.68212481598624,
+    "bb_low": 221.9528751840138,
+    "bb_mid": 239.31750000000002,
+    "vwap20": 239.78575473350097,
     "high_52w": 387.8,
     "low_52w": 222.3,
-    "volume": 1674242.0,
-    "avg_volume20": 1908218.0
+    "volume": 1130825.0,
+    "avg_volume20": 1910038.0
   },
   "price_history": [
-    {
-      "date": "2026-05-18",
-      "close": 348.15,
-      "ema50": 298.0
-    },
-    {
-      "date": "2026-05-19",
-      "close": 358.35,
-      "ema50": 300.36
-    },
     {
       "date": "2026-05-20",
       "close": 354.65,
@@ -75,7 +65,7 @@
     {
       "date": "2026-06-01",
       "close": 336.35,
-      "ema50": 312.81
+      "ema50": 312.8
     },
     {
       "date": "2026-06-02",
@@ -175,7 +165,7 @@
     {
       "date": "2026-06-30",
       "close": 322.0,
-      "ema50": 319.17
+      "ema50": 319.16
     },
     {
       "date": "2026-07-01",
@@ -295,7 +285,7 @@
     {
       "date": "2026-08-03",
       "close": 298.05,
-      "ema50": 306.95
+      "ema50": 306.94
     },
     {
       "date": "2026-08-04",
@@ -626,39 +616,52 @@
       "date": "2026-11-06",
       "close": 237.61,
       "ema50": 253.41
+    },
+    {
+      "date": "2026-11-08",
+      "close": 241.56,
+      "ema50": 252.95
+    },
+    {
+      "date": "2026-11-09",
+      "close": 243.13,
+      "ema50": 252.56
     }
   ],
   "flags": {
     "flags": {
-      "price_above_ema20": false,
+      "price_above_ema20": true,
       "ema20_above_ema50": false,
       "ema50_above_ema200": false,
       "rsi_above_50": false,
       "macd_bullish": true,
       "adx_trending_up": true,
-      "price_above_vwap20": false,
-      "price_above_bb_mid": false
+      "price_above_vwap20": true,
+      "price_above_bb_mid": true
     },
     "flags_detail": {
-      "price_above_ema20": "Close 237.61 vs EMA20 240.71",
-      "ema20_above_ema50": "EMA20 240.71 vs EMA50 253.41",
-      "ema50_above_ema200": "EMA50 253.41 vs EMA200 272.81",
-      "rsi_above_50": "RSI(14) 46.18 vs 50",
-      "macd_bullish": "MACD -5.08 vs signal -6.71",
-      "adx_trending_up": "ADX(14) 24.40 vs 20, +DI 22.03 vs -DI 19.53",
-      "price_above_vwap20": "Close 237.61 vs 20d VWAP 239.86",
-      "price_above_bb_mid": "Close 237.61 vs BB mid 239.49"
+      "price_above_ema20": "Close 243.13 vs EMA20 241.01",
+      "ema20_above_ema50": "EMA20 241.01 vs EMA50 252.56",
+      "ema50_above_ema200": "EMA50 252.56 vs EMA200 272.13",
+      "rsi_above_50": "RSI(14) 49.78 vs 50",
+      "macd_bullish": "MACD -3.74 vs signal -5.75",
+      "adx_trending_up": "ADX(14) 22.13 vs 20, +DI 21.97 vs -DI 18.04",
+      "price_above_vwap20": "Close 243.13 vs 20d VWAP 239.79",
+      "price_above_bb_mid": "Close 243.13 vs BB mid 239.32"
     },
     "flags_on": [
+      "price_above_ema20",
       "macd_bullish",
-      "adx_trending_up"
+      "adx_trending_up",
+      "price_above_vwap20",
+      "price_above_bb_mid"
     ],
-    "flag_count": 2,
+    "flag_count": 5,
     "flag_total": 8
   },
   "fundamentals": null,
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-11-06T18:12:54.057834+00:00"
+  "updated_at": "2026-11-09T21:26:18.670815+00:00"
 }
