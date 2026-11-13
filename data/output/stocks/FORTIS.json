@@ -3,40 +3,30 @@
   "name": "Fortis Healthcare",
   "sector": "Healthcare",
   "indicators": {
-    "date": "2026-11-11",
-    "close": 772.0,
-    "prev_close": 774.55,
-    "change_pct": -0.32922342005034594,
-    "ema20": 773.0313050784797,
-    "ema50": 807.364691418466,
-    "ema200": 882.5532721580634,
-    "rsi14": 47.889033503852154,
-    "macd": -6.303879424755223,
-    "macd_signal": -13.269227641333789,
-    "atr14": 23.02314544806497,
-    "adx14": 23.173751358324374,
-    "adx_pos": 22.953540318047814,
-    "adx_neg": 21.41970185078137,
-    "bb_high": 806.8231403862682,
-    "bb_low": 706.921859613732,
-    "bb_mid": 756.8725000000001,
-    "vwap20": 755.2506443377308,
-    "high_52w": 1029.9,
+    "date": "2026-11-13",
+    "close": 764.0,
+    "prev_close": 760.0,
+    "change_pct": 0.5263157894736842,
+    "ema20": 771.0483018896398,
+    "ema50": 803.8795074014091,
+    "ema200": 880.0953109518734,
+    "rsi14": 46.03962586927144,
+    "macd": -6.771928185091156,
+    "macd_signal": -10.932868468063896,
+    "atr14": 22.85005908535658,
+    "adx14": 20.968987821472442,
+    "adx_pos": 19.941491738515875,
+    "adx_neg": 24.174270092874988,
+    "bb_high": 807.9336207659387,
+    "bb_low": 708.5863792340613,
+    "bb_mid": 758.26,
+    "vwap20": 757.3417265988858,
+    "high_52w": 1020.3,
     "low_52w": 704.95,
-    "volume": 1201733.0,
-    "avg_volume20": 1322263.35
+    "volume": 1568490.0,
+    "avg_volume20": 1278638.9
   },
   "price_history": [
-    {
-      "date": "2026-05-21",
-      "close": 967.3,
-      "ema50": 916.03
-    },
-    {
-      "date": "2026-05-22",
-      "close": 960.4,
-      "ema50": 917.77
-    },
     {
       "date": "2026-05-25",
       "close": 970.35,
@@ -110,7 +100,7 @@
     {
       "date": "2026-06-15",
       "close": 980.15,
-      "ema50": 939.56
+      "ema50": 939.55
     },
     {
       "date": "2026-06-16",
@@ -520,7 +510,7 @@
     {
       "date": "2026-10-12",
       "close": 757.25,
-      "ema50": 868.59
+      "ema50": 868.58
     },
     {
       "date": "2026-10-13",
@@ -626,6 +616,16 @@
       "date": "2026-11-11",
       "close": 772.0,
       "ema50": 807.36
+    },
+    {
+      "date": "2026-11-12",
+      "close": 760.0,
+      "ema50": 805.51
+    },
+    {
+      "date": "2026-11-13",
+      "close": 764.0,
+      "ema50": 803.88
     }
   ],
   "flags": {
@@ -635,32 +635,31 @@
       "ema50_above_ema200": false,
       "rsi_above_50": false,
       "macd_bullish": true,
-      "adx_trending_up": true,
+      "adx_trending_up": false,
       "price_above_vwap20": true,
       "price_above_bb_mid": true
     },
     "flags_detail": {
-      "price_above_ema20": "Close 772.00 vs EMA20 773.03",
-      "ema20_above_ema50": "EMA20 773.03 vs EMA50 807.36",
-      "ema50_above_ema200": "EMA50 807.36 vs EMA200 882.55",
-      "rsi_above_50": "RSI(14) 47.89 vs 50",
-      "macd_bullish": "MACD -6.30 vs signal -13.27",
-      "adx_trending_up": "ADX(14) 23.17 vs 20, +DI 22.95 vs -DI 21.42",
-      "price_above_vwap20": "Close 772.00 vs 20d VWAP 755.25",
-      "price_above_bb_mid": "Close 772.00 vs BB mid 756.87"
+      "price_above_ema20": "Close 764.00 vs EMA20 771.05",
+      "ema20_above_ema50": "EMA20 771.05 vs EMA50 803.88",
+      "ema50_above_ema200": "EMA50 803.88 vs EMA200 880.10",
+      "rsi_above_50": "RSI(14) 46.04 vs 50",
+      "macd_bullish": "MACD -6.77 vs signal -10.93",
+      "adx_trending_up": "ADX(14) 20.97 vs 20, +DI 19.94 vs -DI 24.17",
+      "price_above_vwap20": "Close 764.00 vs 20d VWAP 757.34",
+      "price_above_bb_mid": "Close 764.00 vs BB mid 758.26"
     },
     "flags_on": [
       "macd_bullish",
-      "adx_trending_up",
       "price_above_vwap20",
       "price_above_bb_mid"
     ],
-    "flag_count": 4,
+    "flag_count": 3,
     "flag_total": 8
   },
   "fundamentals": null,
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-11-11T18:11:57.063304+00:00"
+  "updated_at": "2026-11-13T18:02:00.140445+00:00"
 }

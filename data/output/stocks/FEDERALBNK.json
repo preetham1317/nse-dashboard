@@ -3,40 +3,30 @@
   "name": "Federal Bank",
   "sector": "Banking",
   "indicators": {
-    "date": "2026-11-11",
-    "close": 361.6,
-    "prev_close": 344.1,
-    "change_pct": 5.0857308921825055,
-    "ema20": 340.7405170470332,
-    "ema50": 338.5439270267249,
-    "ema200": 312.982286308894,
-    "rsi14": 66.9358654438949,
-    "macd": 2.9464335245585858,
-    "macd_signal": 1.6508896189154392,
-    "atr14": 9.296386750980105,
-    "adx14": 19.65071062659967,
-    "adx_pos": 29.48366668703289,
-    "adx_neg": 12.287950980584155,
-    "bb_high": 355.1258197040357,
-    "bb_low": 328.0191802959643,
-    "bb_mid": 341.5725,
-    "vwap20": 341.40600656551,
+    "date": "2026-11-13",
+    "close": 360.95,
+    "prev_close": 362.5,
+    "change_pct": -0.42758620689655485,
+    "ema20": 344.5401964942833,
+    "ema50": 340.3252060231887,
+    "ema200": 313.91818636722707,
+    "rsi14": 65.71202838792027,
+    "macd": 5.183168874339913,
+    "macd_signal": 2.7807816504134557,
+    "atr14": 8.704282453612956,
+    "adx14": 22.816965662610706,
+    "adx_pos": 30.008964755143076,
+    "adx_neg": 12.793063017164966,
+    "bb_high": 361.13212415051953,
+    "bb_low": 327.8578758494805,
+    "bb_mid": 344.495,
+    "vwap20": 343.63066892763817,
     "high_52w": 371.7,
-    "low_52w": 232.42,
-    "volume": 14455891.0,
-    "avg_volume20": 8813750.4
+    "low_52w": 233.48,
+    "volume": 3833460.0,
+    "avg_volume20": 8970671.85
   },
   "price_history": [
-    {
-      "date": "2026-05-21",
-      "close": 283.75,
-      "ema50": 283.96
-    },
-    {
-      "date": "2026-05-22",
-      "close": 287.2,
-      "ema50": 284.09
-    },
     {
       "date": "2026-05-25",
       "close": 289.25,
@@ -626,6 +616,16 @@
       "date": "2026-11-11",
       "close": 361.6,
       "ema50": 338.54
+    },
+    {
+      "date": "2026-11-12",
+      "close": 362.5,
+      "ema50": 339.48
+    },
+    {
+      "date": "2026-11-13",
+      "close": 360.95,
+      "ema50": 340.33
     }
   ],
   "flags": {
@@ -635,19 +635,19 @@
       "ema50_above_ema200": true,
       "rsi_above_50": true,
       "macd_bullish": true,
-      "adx_trending_up": false,
+      "adx_trending_up": true,
       "price_above_vwap20": true,
       "price_above_bb_mid": true
     },
     "flags_detail": {
-      "price_above_ema20": "Close 361.60 vs EMA20 340.74",
-      "ema20_above_ema50": "EMA20 340.74 vs EMA50 338.54",
-      "ema50_above_ema200": "EMA50 338.54 vs EMA200 312.98",
-      "rsi_above_50": "RSI(14) 66.94 vs 50",
-      "macd_bullish": "MACD 2.95 vs signal 1.65",
-      "adx_trending_up": "ADX(14) 19.65 vs 20, +DI 29.48 vs -DI 12.29",
-      "price_above_vwap20": "Close 361.60 vs 20d VWAP 341.41",
-      "price_above_bb_mid": "Close 361.60 vs BB mid 341.57"
+      "price_above_ema20": "Close 360.95 vs EMA20 344.54",
+      "ema20_above_ema50": "EMA20 344.54 vs EMA50 340.33",
+      "ema50_above_ema200": "EMA50 340.33 vs EMA200 313.92",
+      "rsi_above_50": "RSI(14) 65.71 vs 50",
+      "macd_bullish": "MACD 5.18 vs signal 2.78",
+      "adx_trending_up": "ADX(14) 22.82 vs 20, +DI 30.01 vs -DI 12.79",
+      "price_above_vwap20": "Close 360.95 vs 20d VWAP 343.63",
+      "price_above_bb_mid": "Close 360.95 vs BB mid 344.50"
     },
     "flags_on": [
       "price_above_ema20",
@@ -655,15 +655,16 @@
       "ema50_above_ema200",
       "rsi_above_50",
       "macd_bullish",
+      "adx_trending_up",
       "price_above_vwap20",
       "price_above_bb_mid"
     ],
-    "flag_count": 7,
+    "flag_count": 8,
     "flag_total": 8
   },
   "fundamentals": null,
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-11-11T18:11:34.906874+00:00"
+  "updated_at": "2026-11-13T18:01:37.921486+00:00"
 }

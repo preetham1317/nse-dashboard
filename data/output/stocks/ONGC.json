@@ -3,45 +3,30 @@
   "name": "Oil & Natural Gas Corporation",
   "sector": "Energy",
   "indicators": {
-    "date": "2026-11-09",
-    "close": 233.5,
-    "prev_close": 234.8,
-    "change_pct": -0.5536626916524751,
-    "ema20": 229.8054700180861,
-    "ema50": 231.3359700325692,
-    "ema200": 244.5140197126371,
-    "rsi14": 55.8527426807667,
-    "macd": 1.2825011036741216,
-    "macd_signal": 0.24294698369609466,
-    "atr14": 4.628257045451903,
-    "adx14": 20.638351935765535,
-    "adx_pos": 24.679819590264774,
-    "adx_neg": 13.676407390475253,
-    "bb_high": 236.43585344171439,
-    "bb_low": 219.9971465582856,
-    "bb_mid": 228.2165,
-    "vwap20": 228.5230440930456,
+    "date": "2026-11-13",
+    "close": 225.0,
+    "prev_close": 224.5,
+    "change_pct": 0.22271714922048996,
+    "ema20": 229.2800257913889,
+    "ema50": 230.95533570421864,
+    "ema200": 244.03431198455777,
+    "rsi14": 44.19733086042605,
+    "macd": 0.33396695946092336,
+    "macd_signal": 0.5154669418398238,
+    "atr14": 4.739562947936706,
+    "adx14": 19.89825814354848,
+    "adx_pos": 19.29599179553583,
+    "adx_neg": 24.393291069771404,
+    "bb_high": 237.12877299677905,
+    "bb_low": 220.4552270032209,
+    "bb_mid": 228.79199999999997,
+    "vwap20": 229.19356105386981,
     "high_52w": 307.5,
     "low_52w": 218.53,
-    "volume": 19692705.0,
-    "avg_volume20": 10854512.55
+    "volume": 8935063.0,
+    "avg_volume20": 12738100.15
   },
   "price_history": [
-    {
-      "date": "2026-05-20",
-      "close": 298.3,
-      "ema50": 284.08
-    },
-    {
-      "date": "2026-05-21",
-      "close": 295.85,
-      "ema50": 284.55
-    },
-    {
-      "date": "2026-05-22",
-      "close": 290.0,
-      "ema50": 284.76
-    },
     {
       "date": "2026-05-25",
       "close": 284.95,
@@ -626,43 +611,51 @@
       "date": "2026-11-09",
       "close": 233.5,
       "ema50": 231.34
+    },
+    {
+      "date": "2026-11-11",
+      "close": 234.8,
+      "ema50": 231.47
+    },
+    {
+      "date": "2026-11-12",
+      "close": 224.5,
+      "ema50": 231.2
+    },
+    {
+      "date": "2026-11-13",
+      "close": 225.0,
+      "ema50": 230.96
     }
   ],
   "flags": {
     "flags": {
-      "price_above_ema20": true,
+      "price_above_ema20": false,
       "ema20_above_ema50": false,
       "ema50_above_ema200": false,
-      "rsi_above_50": true,
-      "macd_bullish": true,
-      "adx_trending_up": true,
-      "price_above_vwap20": true,
-      "price_above_bb_mid": true
+      "rsi_above_50": false,
+      "macd_bullish": false,
+      "adx_trending_up": false,
+      "price_above_vwap20": false,
+      "price_above_bb_mid": false
     },
     "flags_detail": {
-      "price_above_ema20": "Close 233.50 vs EMA20 229.81",
-      "ema20_above_ema50": "EMA20 229.81 vs EMA50 231.34",
-      "ema50_above_ema200": "EMA50 231.34 vs EMA200 244.51",
-      "rsi_above_50": "RSI(14) 55.85 vs 50",
-      "macd_bullish": "MACD 1.28 vs signal 0.24",
-      "adx_trending_up": "ADX(14) 20.64 vs 20, +DI 24.68 vs -DI 13.68",
-      "price_above_vwap20": "Close 233.50 vs 20d VWAP 228.52",
-      "price_above_bb_mid": "Close 233.50 vs BB mid 228.22"
+      "price_above_ema20": "Close 225.00 vs EMA20 229.28",
+      "ema20_above_ema50": "EMA20 229.28 vs EMA50 230.96",
+      "ema50_above_ema200": "EMA50 230.96 vs EMA200 244.03",
+      "rsi_above_50": "RSI(14) 44.20 vs 50",
+      "macd_bullish": "MACD 0.33 vs signal 0.52",
+      "adx_trending_up": "ADX(14) 19.90 vs 20, +DI 19.30 vs -DI 24.39",
+      "price_above_vwap20": "Close 225.00 vs 20d VWAP 229.19",
+      "price_above_bb_mid": "Close 225.00 vs BB mid 228.79"
     },
-    "flags_on": [
-      "price_above_ema20",
-      "rsi_above_50",
-      "macd_bullish",
-      "adx_trending_up",
-      "price_above_vwap20",
-      "price_above_bb_mid"
-    ],
-    "flag_count": 6,
+    "flags_on": [],
+    "flag_count": 0,
     "flag_total": 8
   },
   "fundamentals": null,
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-11-09T21:28:37.709062+00:00"
+  "updated_at": "2026-11-13T18:27:40.720925+00:00"
 }
