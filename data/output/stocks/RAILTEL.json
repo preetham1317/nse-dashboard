@@ -3,50 +3,30 @@
   "name": "RailTel Corporation of India",
   "sector": "Railways",
   "indicators": {
-    "date": "2026-11-09",
-    "close": 248.76,
-    "prev_close": 243.46,
-    "change_pct": 2.176948985459617,
-    "ema20": 240.81020035891672,
-    "ema50": 252.55780362109078,
-    "ema200": 289.92627790442657,
-    "rsi14": 54.840365983021115,
-    "macd": -3.728669127950667,
-    "macd_signal": -6.447302042462126,
-    "atr14": 9.196241310421586,
-    "adx14": 15.022621181054017,
-    "adx_pos": 23.29370016374237,
-    "adx_neg": 19.516682554656832,
-    "bb_high": 259.7098715459007,
-    "bb_low": 218.45012845409934,
-    "bb_mid": 239.08,
-    "vwap20": 237.74865859310734,
+    "date": "2026-11-16",
+    "close": 246.31,
+    "prev_close": 254.2,
+    "change_pct": -3.103855232100703,
+    "ema20": 244.97603396205477,
+    "ema50": 252.73161344352445,
+    "ema200": 288.5347156020325,
+    "rsi14": 50.29388496485696,
+    "macd": 0.22864340788331106,
+    "macd_signal": -2.8369461514012055,
+    "atr14": 9.409342151091996,
+    "adx14": 16.87532520212437,
+    "adx_pos": 26.729631817968073,
+    "adx_neg": 22.045899991316663,
+    "bb_high": 260.2390202843468,
+    "bb_low": 218.00197971565322,
+    "bb_mid": 239.1205,
+    "vwap20": 240.6593122597565,
     "high_52w": 391.0,
     "low_52w": 220.06,
-    "volume": 943772.0,
-    "avg_volume20": 676116.5
+    "volume": 507615.0,
+    "avg_volume20": 781854.3
   },
   "price_history": [
-    {
-      "date": "2026-05-20",
-      "close": 320.3,
-      "ema50": 316.28
-    },
-    {
-      "date": "2026-05-21",
-      "close": 321.1,
-      "ema50": 316.46
-    },
-    {
-      "date": "2026-05-22",
-      "close": 320.1,
-      "ema50": 316.61
-    },
-    {
-      "date": "2026-05-25",
-      "close": 328.55,
-      "ema50": 317.08
-    },
     {
       "date": "2026-05-26",
       "close": 324.05,
@@ -626,6 +606,26 @@
       "date": "2026-11-09",
       "close": 248.76,
       "ema50": 252.56
+    },
+    {
+      "date": "2026-11-11",
+      "close": 258.27,
+      "ema50": 252.78
+    },
+    {
+      "date": "2026-11-12",
+      "close": 256.93,
+      "ema50": 252.94
+    },
+    {
+      "date": "2026-11-13",
+      "close": 254.2,
+      "ema50": 252.99
+    },
+    {
+      "date": "2026-11-16",
+      "close": 246.31,
+      "ema50": 252.73
     }
   ],
   "flags": {
@@ -640,14 +640,14 @@
       "price_above_bb_mid": true
     },
     "flags_detail": {
-      "price_above_ema20": "Close 248.76 vs EMA20 240.81",
-      "ema20_above_ema50": "EMA20 240.81 vs EMA50 252.56",
-      "ema50_above_ema200": "EMA50 252.56 vs EMA200 289.93",
-      "rsi_above_50": "RSI(14) 54.84 vs 50",
-      "macd_bullish": "MACD -3.73 vs signal -6.45",
-      "adx_trending_up": "ADX(14) 15.02 vs 20, +DI 23.29 vs -DI 19.52",
-      "price_above_vwap20": "Close 248.76 vs 20d VWAP 237.75",
-      "price_above_bb_mid": "Close 248.76 vs BB mid 239.08"
+      "price_above_ema20": "Close 246.31 vs EMA20 244.98",
+      "ema20_above_ema50": "EMA20 244.98 vs EMA50 252.73",
+      "ema50_above_ema200": "EMA50 252.73 vs EMA200 288.53",
+      "rsi_above_50": "RSI(14) 50.29 vs 50",
+      "macd_bullish": "MACD 0.23 vs signal -2.84",
+      "adx_trending_up": "ADX(14) 16.88 vs 20, +DI 26.73 vs -DI 22.05",
+      "price_above_vwap20": "Close 246.31 vs 20d VWAP 240.66",
+      "price_above_bb_mid": "Close 246.31 vs BB mid 239.12"
     },
     "flags_on": [
       "price_above_ema20",
@@ -663,5 +663,5 @@
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-11-09T21:33:38.163470+00:00"
+  "updated_at": "2026-11-16T21:16:14.382945+00:00"
 }

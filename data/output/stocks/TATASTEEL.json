@@ -3,50 +3,30 @@
   "name": "Tata Steel",
   "sector": "Metals",
   "indicators": {
-    "date": "2026-11-09",
-    "close": 184.85,
-    "prev_close": 190.2,
-    "change_pct": -2.8128286014721318,
-    "ema20": 178.47406254146787,
-    "ema50": 180.0997463080041,
-    "ema200": 185.8056400711725,
-    "rsi14": 58.753400981657464,
-    "macd": 1.5026026897342035,
-    "macd_signal": -0.7601195357134274,
-    "atr14": 5.268153513422204,
-    "adx14": 24.45453122918128,
-    "adx_pos": 30.83851568673867,
-    "adx_neg": 17.738281077284483,
-    "bb_high": 187.93470627342802,
-    "bb_low": 163.33729372657197,
-    "bb_mid": 175.636,
-    "vwap20": 176.28673922498862,
+    "date": "2026-11-16",
+    "close": 182.26,
+    "prev_close": 186.68,
+    "change_pct": -2.3676880222841308,
+    "ema20": 181.04658297965685,
+    "ema50": 181.03768492516014,
+    "ema200": 185.90941921486169,
+    "rsi14": 52.45076078851451,
+    "macd": 2.4116088412010015,
+    "macd_signal": 1.1390331046324755,
+    "atr14": 4.96924491093884,
+    "adx14": 23.346514206324308,
+    "adx_pos": 25.397192004562573,
+    "adx_neg": 22.72671443132114,
+    "bb_high": 193.09826854170157,
+    "bb_low": 162.65673145829842,
+    "bb_mid": 177.8775,
+    "vwap20": 178.57828199016856,
     "high_52w": 224.4,
     "low_52w": 160.06,
-    "volume": 49905496.0,
-    "avg_volume20": 23617550.5
+    "volume": 19082593.0,
+    "avg_volume20": 22885152.7
   },
   "price_history": [
-    {
-      "date": "2026-05-20",
-      "close": 207.01,
-      "ema50": 206.78
-    },
-    {
-      "date": "2026-05-21",
-      "close": 208.58,
-      "ema50": 206.85
-    },
-    {
-      "date": "2026-05-22",
-      "close": 209.19,
-      "ema50": 206.95
-    },
-    {
-      "date": "2026-05-25",
-      "close": 210.22,
-      "ema50": 207.07
-    },
     {
       "date": "2026-05-26",
       "close": 210.47,
@@ -626,12 +606,32 @@
       "date": "2026-11-09",
       "close": 184.85,
       "ema50": 180.1
+    },
+    {
+      "date": "2026-11-11",
+      "close": 189.28,
+      "ema50": 180.46
+    },
+    {
+      "date": "2026-11-12",
+      "close": 188.0,
+      "ema50": 180.76
+    },
+    {
+      "date": "2026-11-13",
+      "close": 186.68,
+      "ema50": 180.99
+    },
+    {
+      "date": "2026-11-16",
+      "close": 182.26,
+      "ema50": 181.04
     }
   ],
   "flags": {
     "flags": {
       "price_above_ema20": true,
-      "ema20_above_ema50": false,
+      "ema20_above_ema50": true,
       "ema50_above_ema200": false,
       "rsi_above_50": true,
       "macd_bullish": true,
@@ -640,29 +640,30 @@
       "price_above_bb_mid": true
     },
     "flags_detail": {
-      "price_above_ema20": "Close 184.85 vs EMA20 178.47",
-      "ema20_above_ema50": "EMA20 178.47 vs EMA50 180.10",
-      "ema50_above_ema200": "EMA50 180.10 vs EMA200 185.81",
-      "rsi_above_50": "RSI(14) 58.75 vs 50",
-      "macd_bullish": "MACD 1.50 vs signal -0.76",
-      "adx_trending_up": "ADX(14) 24.45 vs 20, +DI 30.84 vs -DI 17.74",
-      "price_above_vwap20": "Close 184.85 vs 20d VWAP 176.29",
-      "price_above_bb_mid": "Close 184.85 vs BB mid 175.64"
+      "price_above_ema20": "Close 182.26 vs EMA20 181.05",
+      "ema20_above_ema50": "EMA20 181.05 vs EMA50 181.04",
+      "ema50_above_ema200": "EMA50 181.04 vs EMA200 185.91",
+      "rsi_above_50": "RSI(14) 52.45 vs 50",
+      "macd_bullish": "MACD 2.41 vs signal 1.14",
+      "adx_trending_up": "ADX(14) 23.35 vs 20, +DI 25.40 vs -DI 22.73",
+      "price_above_vwap20": "Close 182.26 vs 20d VWAP 178.58",
+      "price_above_bb_mid": "Close 182.26 vs BB mid 177.88"
     },
     "flags_on": [
       "price_above_ema20",
+      "ema20_above_ema50",
       "rsi_above_50",
       "macd_bullish",
       "adx_trending_up",
       "price_above_vwap20",
       "price_above_bb_mid"
     ],
-    "flag_count": 6,
+    "flag_count": 7,
     "flag_total": 8
   },
   "fundamentals": null,
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-11-09T21:41:44.065968+00:00"
+  "updated_at": "2026-11-16T21:24:04.658092+00:00"
 }

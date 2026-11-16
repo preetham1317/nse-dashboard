@@ -3,50 +3,30 @@
   "name": "Senco Gold Ltd",
   "sector": "Jewellery",
   "indicators": {
-    "date": "2026-11-09",
-    "close": 321.85,
-    "prev_close": 322.3,
-    "change_pct": -0.13962147067948763,
-    "ema20": 317.0227915931333,
-    "ema50": 328.11308826469286,
-    "ema200": 339.1685723951434,
-    "rsi14": 51.48538583945014,
-    "macd": -4.230352366936643,
-    "macd_signal": -6.8222574016633715,
-    "atr14": 11.397321489878053,
-    "adx14": 14.227746404916058,
-    "adx_pos": 25.21794348106534,
-    "adx_neg": 23.239508700118897,
-    "bb_high": 343.1310898906724,
-    "bb_low": 290.18891010932754,
-    "bb_mid": 316.65999999999997,
-    "vwap20": 324.59557065307587,
+    "date": "2026-11-16",
+    "close": 311.7,
+    "prev_close": 339.3,
+    "change_pct": -8.1343943412909,
+    "ema20": 321.2098895172725,
+    "ema50": 328.4221695669478,
+    "ema200": 338.67306713489995,
+    "rsi14": 44.21976296854263,
+    "macd": -0.18926915319474347,
+    "macd_signal": -3.0480957105498847,
+    "atr14": 12.6947625746814,
+    "adx14": 15.38039430514121,
+    "adx_pos": 25.934322413701043,
+    "adx_neg": 29.240897375702318,
+    "bb_high": 344.1983195857334,
+    "bb_low": 288.9866804142667,
+    "bb_mid": 316.59250000000003,
+    "vwap20": 321.81024448930293,
     "high_52w": 430.0,
     "low_52w": 276.0,
-    "volume": 420353.0,
-    "avg_volume20": 1238842.15
+    "volume": 3073715.0,
+    "avg_volume20": 1139611.55
   },
   "price_history": [
-    {
-      "date": "2026-05-20",
-      "close": 338.7,
-      "ema50": 324.09
-    },
-    {
-      "date": "2026-05-21",
-      "close": 345.7,
-      "ema50": 324.93
-    },
-    {
-      "date": "2026-05-22",
-      "close": 347.95,
-      "ema50": 325.84
-    },
-    {
-      "date": "2026-05-25",
-      "close": 353.8,
-      "ema50": 326.93
-    },
     {
       "date": "2026-05-26",
       "close": 349.1,
@@ -55,7 +35,7 @@
     {
       "date": "2026-05-27",
       "close": 340.15,
-      "ema50": 328.29
+      "ema50": 328.28
     },
     {
       "date": "2026-05-29",
@@ -110,7 +90,7 @@
     {
       "date": "2026-06-12",
       "close": 338.35,
-      "ema50": 332.78
+      "ema50": 332.77
     },
     {
       "date": "2026-06-15",
@@ -395,7 +375,7 @@
     {
       "date": "2026-09-02",
       "close": 348.6,
-      "ema50": 360.23
+      "ema50": 360.22
     },
     {
       "date": "2026-09-03",
@@ -626,41 +606,58 @@
       "date": "2026-11-09",
       "close": 321.85,
       "ema50": 328.11
+    },
+    {
+      "date": "2026-11-11",
+      "close": 331.9,
+      "ema50": 328.26
+    },
+    {
+      "date": "2026-11-12",
+      "close": 339.15,
+      "ema50": 328.69
+    },
+    {
+      "date": "2026-11-13",
+      "close": 339.3,
+      "ema50": 329.1
+    },
+    {
+      "date": "2026-11-16",
+      "close": 311.7,
+      "ema50": 328.42
     }
   ],
   "flags": {
     "flags": {
-      "price_above_ema20": true,
+      "price_above_ema20": false,
       "ema20_above_ema50": false,
       "ema50_above_ema200": false,
-      "rsi_above_50": true,
+      "rsi_above_50": false,
       "macd_bullish": true,
       "adx_trending_up": false,
       "price_above_vwap20": false,
-      "price_above_bb_mid": true
+      "price_above_bb_mid": false
     },
     "flags_detail": {
-      "price_above_ema20": "Close 321.85 vs EMA20 317.02",
-      "ema20_above_ema50": "EMA20 317.02 vs EMA50 328.11",
-      "ema50_above_ema200": "EMA50 328.11 vs EMA200 339.17",
-      "rsi_above_50": "RSI(14) 51.49 vs 50",
-      "macd_bullish": "MACD -4.23 vs signal -6.82",
-      "adx_trending_up": "ADX(14) 14.23 vs 20, +DI 25.22 vs -DI 23.24",
-      "price_above_vwap20": "Close 321.85 vs 20d VWAP 324.60",
-      "price_above_bb_mid": "Close 321.85 vs BB mid 316.66"
+      "price_above_ema20": "Close 311.70 vs EMA20 321.21",
+      "ema20_above_ema50": "EMA20 321.21 vs EMA50 328.42",
+      "ema50_above_ema200": "EMA50 328.42 vs EMA200 338.67",
+      "rsi_above_50": "RSI(14) 44.22 vs 50",
+      "macd_bullish": "MACD -0.19 vs signal -3.05",
+      "adx_trending_up": "ADX(14) 15.38 vs 20, +DI 25.93 vs -DI 29.24",
+      "price_above_vwap20": "Close 311.70 vs 20d VWAP 321.81",
+      "price_above_bb_mid": "Close 311.70 vs BB mid 316.59"
     },
     "flags_on": [
-      "price_above_ema20",
-      "rsi_above_50",
-      "macd_bullish",
-      "price_above_bb_mid"
+      "macd_bullish"
     ],
-    "flag_count": 4,
+    "flag_count": 1,
     "flag_total": 8
   },
   "fundamentals": null,
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-11-09T21:37:06.457601+00:00"
+  "updated_at": "2026-11-16T21:19:35.924636+00:00"
 }
