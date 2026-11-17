@@ -3,35 +3,30 @@
   "name": "InterGlobe Aviation",
   "sector": "Aviation",
   "indicators": {
-    "date": "2026-11-16",
-    "close": 5544.0,
-    "prev_close": 5587.3,
-    "change_pct": -0.7749718110715405,
-    "ema20": 5218.8426936229125,
-    "ema50": 5064.389932785968,
-    "ema200": 5031.885176118008,
-    "rsi14": 69.40593455607271,
-    "macd": 205.30598274878957,
-    "macd_signal": 133.44096631147704,
-    "atr14": 139.27559873710874,
-    "adx14": 34.617459549404444,
-    "adx_pos": 35.526475513004165,
-    "adx_neg": 18.309766444509478,
-    "bb_high": 5879.423103030985,
-    "bb_low": 4242.866896969014,
-    "bb_mid": 5061.1449999999995,
-    "vwap20": 5167.760328706393,
+    "date": "2026-11-17",
+    "close": 5611.0,
+    "prev_close": 5544.0,
+    "change_pct": 1.2085137085137085,
+    "ema20": 5256.191008515969,
+    "ema50": 5085.825621696323,
+    "ema200": 5037.647512674048,
+    "rsi14": 71.29706303387971,
+    "macd": 209.93281497924545,
+    "macd_signal": 148.73933604503074,
+    "atr14": 137.99877025588665,
+    "adx14": 34.673320265398736,
+    "adx_pos": 35.96492966483224,
+    "adx_neg": 17.15923567101888,
+    "bb_high": 5940.759029856213,
+    "bb_low": 4272.630970143787,
+    "bb_mid": 5106.695,
+    "vwap20": 5201.361425209808,
     "high_52w": 5970.0,
     "low_52w": 3895.2,
-    "volume": 626753.0,
-    "avg_volume20": 829940.25
+    "volume": 639791.0,
+    "avg_volume20": 833115.7
   },
   "price_history": [
-    {
-      "date": "2026-05-26",
-      "close": 4480.8,
-      "ema50": 4444.69
-    },
     {
       "date": "2026-05-27",
       "close": 4570.0,
@@ -626,6 +621,11 @@
       "date": "2026-11-16",
       "close": 5544.0,
       "ema50": 5064.39
+    },
+    {
+      "date": "2026-11-17",
+      "close": 5611.0,
+      "ema50": 5085.83
     }
   ],
   "flags": {
@@ -640,14 +640,14 @@
       "price_above_bb_mid": true
     },
     "flags_detail": {
-      "price_above_ema20": "Close 5,544.00 vs EMA20 5,218.84",
-      "ema20_above_ema50": "EMA20 5,218.84 vs EMA50 5,064.39",
-      "ema50_above_ema200": "EMA50 5,064.39 vs EMA200 5,031.89",
-      "rsi_above_50": "RSI(14) 69.41 vs 50",
-      "macd_bullish": "MACD 205.31 vs signal 133.44",
-      "adx_trending_up": "ADX(14) 34.62 vs 20, +DI 35.53 vs -DI 18.31",
-      "price_above_vwap20": "Close 5,544.00 vs 20d VWAP 5,167.76",
-      "price_above_bb_mid": "Close 5,544.00 vs BB mid 5,061.14"
+      "price_above_ema20": "Close 5,611.00 vs EMA20 5,256.19",
+      "ema20_above_ema50": "EMA20 5,256.19 vs EMA50 5,085.83",
+      "ema50_above_ema200": "EMA50 5,085.83 vs EMA200 5,037.65",
+      "rsi_above_50": "RSI(14) 71.30 vs 50",
+      "macd_bullish": "MACD 209.93 vs signal 148.74",
+      "adx_trending_up": "ADX(14) 34.67 vs 20, +DI 35.96 vs -DI 17.16",
+      "price_above_vwap20": "Close 5,611.00 vs 20d VWAP 5,201.36",
+      "price_above_bb_mid": "Close 5,611.00 vs BB mid 5,106.69"
     },
     "flags_on": [
       "price_above_ema20",
@@ -666,5 +666,5 @@
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-11-16T20:50:59.306566+00:00"
+  "updated_at": "2026-11-17T19:38:03.176494+00:00"
 }

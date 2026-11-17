@@ -3,35 +3,30 @@
   "name": "Infosys",
   "sector": "IT",
   "indicators": {
-    "date": "2026-11-16",
-    "close": 1145.1,
-    "prev_close": 1141.5,
-    "change_pct": 0.3153745072273245,
-    "ema20": 1141.0257329543417,
-    "ema50": 1117.920175162516,
-    "ema200": 1196.4796186239612,
-    "rsi14": 52.92647220424146,
-    "macd": 16.51092900585172,
-    "macd_signal": 21.341525508862592,
-    "atr14": 33.812467109496716,
-    "adx14": 12.01660251113484,
-    "adx_pos": 23.384990942462455,
-    "adx_neg": 23.117723900047558,
-    "bb_high": 1186.8211158920892,
-    "bb_low": 1122.5888841079106,
-    "bb_mid": 1154.705,
-    "vwap20": 1149.3645222999714,
+    "date": "2026-11-17",
+    "close": 1130.0,
+    "prev_close": 1145.1,
+    "change_pct": -1.3186621255785442,
+    "ema20": 1139.9756631491664,
+    "ema50": 1118.3938937835937,
+    "ema200": 1195.8181298814343,
+    "rsi14": 49.42951379552169,
+    "macd": 13.67512885033716,
+    "macd_signal": 19.808246177157507,
+    "atr14": 32.81157660167552,
+    "adx14": 11.543677342195762,
+    "adx_pos": 22.377021742442153,
+    "adx_neg": 24.92951707310497,
+    "bb_high": 1186.892032834601,
+    "bb_low": 1122.4479671653992,
+    "bb_mid": 1154.67,
+    "vwap20": 1149.5265659985903,
     "high_52w": 1728.0,
     "low_52w": 980.4,
-    "volume": 4852092.0,
-    "avg_volume20": 13376633.95
+    "volume": 7145680.0,
+    "avg_volume20": 13070994.1
   },
   "price_history": [
-    {
-      "date": "2026-05-26",
-      "close": 1167.7,
-      "ema50": 1236.61
-    },
     {
       "date": "2026-05-27",
       "close": 1159.9,
@@ -626,40 +621,43 @@
       "date": "2026-11-16",
       "close": 1145.1,
       "ema50": 1117.92
+    },
+    {
+      "date": "2026-11-17",
+      "close": 1130.0,
+      "ema50": 1118.39
     }
   ],
   "flags": {
     "flags": {
-      "price_above_ema20": true,
+      "price_above_ema20": false,
       "ema20_above_ema50": true,
       "ema50_above_ema200": false,
-      "rsi_above_50": true,
+      "rsi_above_50": false,
       "macd_bullish": false,
       "adx_trending_up": false,
       "price_above_vwap20": false,
       "price_above_bb_mid": false
     },
     "flags_detail": {
-      "price_above_ema20": "Close 1,145.10 vs EMA20 1,141.03",
-      "ema20_above_ema50": "EMA20 1,141.03 vs EMA50 1,117.92",
-      "ema50_above_ema200": "EMA50 1,117.92 vs EMA200 1,196.48",
-      "rsi_above_50": "RSI(14) 52.93 vs 50",
-      "macd_bullish": "MACD 16.51 vs signal 21.34",
-      "adx_trending_up": "ADX(14) 12.02 vs 20, +DI 23.38 vs -DI 23.12",
-      "price_above_vwap20": "Close 1,145.10 vs 20d VWAP 1,149.36",
-      "price_above_bb_mid": "Close 1,145.10 vs BB mid 1,154.70"
+      "price_above_ema20": "Close 1,130.00 vs EMA20 1,139.98",
+      "ema20_above_ema50": "EMA20 1,139.98 vs EMA50 1,118.39",
+      "ema50_above_ema200": "EMA50 1,118.39 vs EMA200 1,195.82",
+      "rsi_above_50": "RSI(14) 49.43 vs 50",
+      "macd_bullish": "MACD 13.68 vs signal 19.81",
+      "adx_trending_up": "ADX(14) 11.54 vs 20, +DI 22.38 vs -DI 24.93",
+      "price_above_vwap20": "Close 1,130.00 vs 20d VWAP 1,149.53",
+      "price_above_bb_mid": "Close 1,130.00 vs BB mid 1,154.67"
     },
     "flags_on": [
-      "price_above_ema20",
-      "ema20_above_ema50",
-      "rsi_above_50"
+      "ema20_above_ema50"
     ],
-    "flag_count": 3,
+    "flag_count": 1,
     "flag_total": 8
   },
   "fundamentals": null,
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-11-16T20:52:06.431207+00:00"
+  "updated_at": "2026-11-17T19:39:11.741622+00:00"
 }

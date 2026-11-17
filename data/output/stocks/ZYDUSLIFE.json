@@ -3,35 +3,30 @@
   "name": "Zydus Lifesciences",
   "sector": "Pharma",
   "indicators": {
-    "date": "2026-11-16",
-    "close": 1192.0,
-    "prev_close": 1189.9,
-    "change_pct": 0.17648541894276062,
-    "ema20": 1187.9185440584024,
-    "ema50": 1166.8313941168253,
-    "ema200": 1086.8908524784,
-    "rsi14": 52.86840496387488,
-    "macd": 13.00720990760692,
-    "macd_signal": 14.61572621480174,
-    "atr14": 32.07240499627871,
-    "adx14": 8.204980289326267,
-    "adx_pos": 18.0547201997196,
-    "adx_neg": 18.812759015349528,
-    "bb_high": 1259.737029855611,
-    "bb_low": 1109.9829701443894,
-    "bb_mid": 1184.8600000000001,
-    "vwap20": 1192.4898192435553,
+    "date": "2026-11-17",
+    "close": 1204.2,
+    "prev_close": 1192.0,
+    "change_pct": 1.02348993288591,
+    "ema20": 1189.4691589099832,
+    "ema50": 1168.2968296416557,
+    "ema200": 1088.05810767762,
+    "rsi14": 55.91200647483333,
+    "macd": 12.724443179141417,
+    "macd_signal": 14.237469607669677,
+    "atr14": 31.28151892511595,
+    "adx14": 7.737099387688278,
+    "adx_pos": 18.513345343964712,
+    "adx_neg": 17.910656448301516,
+    "bb_high": 1257.1449896709303,
+    "bb_low": 1121.6050103290697,
+    "bb_mid": 1189.375,
+    "vwap20": 1193.2559635522418,
     "high_52w": 1266.6,
     "low_52w": 835.5,
-    "volume": 1427545.0,
-    "avg_volume20": 1638058.7
+    "volume": 610653.0,
+    "avg_volume20": 1655918.95
   },
   "price_history": [
-    {
-      "date": "2026-05-26",
-      "close": 1079.05,
-      "ema50": 951.92
-    },
     {
       "date": "2026-05-27",
       "close": 1085.8,
@@ -626,6 +621,11 @@
       "date": "2026-11-16",
       "close": 1192.0,
       "ema50": 1166.83
+    },
+    {
+      "date": "2026-11-17",
+      "close": 1204.2,
+      "ema50": 1168.3
     }
   ],
   "flags": {
@@ -636,32 +636,33 @@
       "rsi_above_50": true,
       "macd_bullish": false,
       "adx_trending_up": false,
-      "price_above_vwap20": false,
+      "price_above_vwap20": true,
       "price_above_bb_mid": true
     },
     "flags_detail": {
-      "price_above_ema20": "Close 1,192.00 vs EMA20 1,187.92",
-      "ema20_above_ema50": "EMA20 1,187.92 vs EMA50 1,166.83",
-      "ema50_above_ema200": "EMA50 1,166.83 vs EMA200 1,086.89",
-      "rsi_above_50": "RSI(14) 52.87 vs 50",
-      "macd_bullish": "MACD 13.01 vs signal 14.62",
-      "adx_trending_up": "ADX(14) 8.20 vs 20, +DI 18.05 vs -DI 18.81",
-      "price_above_vwap20": "Close 1,192.00 vs 20d VWAP 1,192.49",
-      "price_above_bb_mid": "Close 1,192.00 vs BB mid 1,184.86"
+      "price_above_ema20": "Close 1,204.20 vs EMA20 1,189.47",
+      "ema20_above_ema50": "EMA20 1,189.47 vs EMA50 1,168.30",
+      "ema50_above_ema200": "EMA50 1,168.30 vs EMA200 1,088.06",
+      "rsi_above_50": "RSI(14) 55.91 vs 50",
+      "macd_bullish": "MACD 12.72 vs signal 14.24",
+      "adx_trending_up": "ADX(14) 7.74 vs 20, +DI 18.51 vs -DI 17.91",
+      "price_above_vwap20": "Close 1,204.20 vs 20d VWAP 1,193.26",
+      "price_above_bb_mid": "Close 1,204.20 vs BB mid 1,189.38"
     },
     "flags_on": [
       "price_above_ema20",
       "ema20_above_ema50",
       "ema50_above_ema200",
       "rsi_above_50",
+      "price_above_vwap20",
       "price_above_bb_mid"
     ],
-    "flag_count": 5,
+    "flag_count": 6,
     "flag_total": 8
   },
   "fundamentals": null,
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-11-16T21:31:11.592324+00:00"
+  "updated_at": "2026-11-17T20:18:11.096634+00:00"
 }

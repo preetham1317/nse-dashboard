@@ -3,35 +3,30 @@
   "name": "Tech Mahindra",
   "sector": "IT",
   "indicators": {
-    "date": "2026-11-16",
-    "close": 1776.4,
-    "prev_close": 1764.0,
-    "change_pct": 0.7029478458049938,
-    "ema20": 1762.6040367342994,
-    "ema50": 1689.5758190318986,
-    "ema200": 1575.0983956573705,
-    "rsi14": 56.787990060880624,
-    "macd": 38.209768937463195,
-    "macd_signal": 49.889175794931845,
-    "atr14": 44.36487947320323,
-    "adx14": 29.391038256534678,
-    "adx_pos": 21.98787495428472,
-    "adx_neg": 17.404777382333428,
-    "bb_high": 1840.310553783203,
-    "bb_low": 1752.3694462167973,
-    "bb_mid": 1796.3400000000001,
-    "vwap20": 1796.7717565586747,
+    "date": "2026-11-17",
+    "close": 1762.0,
+    "prev_close": 1776.4,
+    "change_pct": -0.8106282368835899,
+    "ema20": 1762.5465094262709,
+    "ema50": 1692.415982991432,
+    "ema200": 1576.958113113516,
+    "rsi14": 53.73969176801772,
+    "macd": 33.70391310797254,
+    "macd_signal": 46.652123257539984,
+    "atr14": 43.33881665368871,
+    "adx14": 27.815622372189885,
+    "adx_pos": 20.90070002565722,
+    "adx_neg": 18.044020689042593,
+    "bb_high": 1841.3858616477025,
+    "bb_low": 1749.5841383522977,
+    "bb_mid": 1795.4850000000001,
+    "vwap20": 1797.1168427448044,
     "high_52w": 1860.0,
     "low_52w": 1304.1,
-    "volume": 1535420.0,
-    "avg_volume20": 2654680.75
+    "volume": 1754083.0,
+    "avg_volume20": 2545053.8
   },
   "price_history": [
-    {
-      "date": "2026-05-26",
-      "close": 1458.7,
-      "ema50": 1440.78
-    },
     {
       "date": "2026-05-27",
       "close": 1455.6,
@@ -626,11 +621,16 @@
       "date": "2026-11-16",
       "close": 1776.4,
       "ema50": 1689.58
+    },
+    {
+      "date": "2026-11-17",
+      "close": 1762.0,
+      "ema50": 1692.42
     }
   ],
   "flags": {
     "flags": {
-      "price_above_ema20": true,
+      "price_above_ema20": false,
       "ema20_above_ema50": true,
       "ema50_above_ema200": true,
       "rsi_above_50": true,
@@ -640,28 +640,27 @@
       "price_above_bb_mid": false
     },
     "flags_detail": {
-      "price_above_ema20": "Close 1,776.40 vs EMA20 1,762.60",
-      "ema20_above_ema50": "EMA20 1,762.60 vs EMA50 1,689.58",
-      "ema50_above_ema200": "EMA50 1,689.58 vs EMA200 1,575.10",
-      "rsi_above_50": "RSI(14) 56.79 vs 50",
-      "macd_bullish": "MACD 38.21 vs signal 49.89",
-      "adx_trending_up": "ADX(14) 29.39 vs 20, +DI 21.99 vs -DI 17.40",
-      "price_above_vwap20": "Close 1,776.40 vs 20d VWAP 1,796.77",
-      "price_above_bb_mid": "Close 1,776.40 vs BB mid 1,796.34"
+      "price_above_ema20": "Close 1,762.00 vs EMA20 1,762.55",
+      "ema20_above_ema50": "EMA20 1,762.55 vs EMA50 1,692.42",
+      "ema50_above_ema200": "EMA50 1,692.42 vs EMA200 1,576.96",
+      "rsi_above_50": "RSI(14) 53.74 vs 50",
+      "macd_bullish": "MACD 33.70 vs signal 46.65",
+      "adx_trending_up": "ADX(14) 27.82 vs 20, +DI 20.90 vs -DI 18.04",
+      "price_above_vwap20": "Close 1,762.00 vs 20d VWAP 1,797.12",
+      "price_above_bb_mid": "Close 1,762.00 vs BB mid 1,795.49"
     },
     "flags_on": [
-      "price_above_ema20",
       "ema20_above_ema50",
       "ema50_above_ema200",
       "rsi_above_50",
       "adx_trending_up"
     ],
-    "flag_count": 5,
+    "flag_count": 4,
     "flag_total": 8
   },
   "fundamentals": null,
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-11-16T21:25:11.845262+00:00"
+  "updated_at": "2026-11-17T20:12:05.048674+00:00"
 }

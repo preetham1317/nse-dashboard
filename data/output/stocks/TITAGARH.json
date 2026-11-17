@@ -3,35 +3,30 @@
   "name": "Titagarh Rail Systems",
   "sector": "Railways",
   "indicators": {
-    "date": "2026-11-16",
-    "close": 732.15,
-    "prev_close": 737.15,
-    "change_pct": -0.6782880010852609,
-    "ema20": 715.4809274452631,
-    "ema50": 750.3715827449689,
-    "ema200": 794.8213162876897,
-    "rsi14": 52.63760511444759,
-    "macd": -9.715714324897021,
-    "macd_signal": -21.13875074138397,
-    "atr14": 26.695151980993142,
-    "adx14": 22.763089409276763,
-    "adx_pos": 29.555983854225264,
-    "adx_neg": 19.41542147624506,
-    "bb_high": 751.1460296520398,
-    "bb_low": 637.7389703479599,
-    "bb_mid": 694.4424999999999,
-    "vwap20": 692.8488163642132,
+    "date": "2026-11-17",
+    "close": 731.9,
+    "prev_close": 732.15,
+    "change_pct": -0.03414600833162603,
+    "ema20": 717.0446486409523,
+    "ema50": 749.6472069510486,
+    "ema200": 794.1952335385585,
+    "rsi14": 52.55713854177457,
+    "macd": -7.453491095749655,
+    "macd_signal": -18.401698812257106,
+    "atr14": 26.249069696636493,
+    "adx14": 22.408295897535858,
+    "adx_pos": 27.911245646635358,
+    "adx_neg": 19.477885270406794,
+    "bb_high": 749.3517602014406,
+    "bb_low": 638.6382397985597,
+    "bb_mid": 693.9950000000001,
+    "vwap20": 693.4076192578426,
     "high_52w": 971.0,
     "low_52w": 568.7,
-    "volume": 861525.0,
-    "avg_volume20": 961618.3
+    "volume": 457859.0,
+    "avg_volume20": 977191.85
   },
   "price_history": [
-    {
-      "date": "2026-05-26",
-      "close": 816.55,
-      "ema50": 752.89
-    },
     {
       "date": "2026-05-27",
       "close": 847.2,
@@ -626,6 +621,11 @@
       "date": "2026-11-16",
       "close": 732.15,
       "ema50": 750.37
+    },
+    {
+      "date": "2026-11-17",
+      "close": 731.9,
+      "ema50": 749.65
     }
   ],
   "flags": {
@@ -640,14 +640,14 @@
       "price_above_bb_mid": true
     },
     "flags_detail": {
-      "price_above_ema20": "Close 732.15 vs EMA20 715.48",
-      "ema20_above_ema50": "EMA20 715.48 vs EMA50 750.37",
-      "ema50_above_ema200": "EMA50 750.37 vs EMA200 794.82",
-      "rsi_above_50": "RSI(14) 52.64 vs 50",
-      "macd_bullish": "MACD -9.72 vs signal -21.14",
-      "adx_trending_up": "ADX(14) 22.76 vs 20, +DI 29.56 vs -DI 19.42",
-      "price_above_vwap20": "Close 732.15 vs 20d VWAP 692.85",
-      "price_above_bb_mid": "Close 732.15 vs BB mid 694.44"
+      "price_above_ema20": "Close 731.90 vs EMA20 717.04",
+      "ema20_above_ema50": "EMA20 717.04 vs EMA50 749.65",
+      "ema50_above_ema200": "EMA50 749.65 vs EMA200 794.20",
+      "rsi_above_50": "RSI(14) 52.56 vs 50",
+      "macd_bullish": "MACD -7.45 vs signal -18.40",
+      "adx_trending_up": "ADX(14) 22.41 vs 20, +DI 27.91 vs -DI 19.48",
+      "price_above_vwap20": "Close 731.90 vs 20d VWAP 693.41",
+      "price_above_bb_mid": "Close 731.90 vs BB mid 694.00"
     },
     "flags_on": [
       "price_above_ema20",
@@ -664,5 +664,5 @@
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-11-16T21:25:56.631862+00:00"
+  "updated_at": "2026-11-17T20:12:50.735493+00:00"
 }

@@ -3,35 +3,30 @@
   "name": "Hindustan Unilever",
   "sector": "FMCG",
   "indicators": {
-    "date": "2026-11-16",
-    "close": 2000.3,
-    "prev_close": 1992.9,
-    "change_pct": 0.37131817953735075,
-    "ema20": 1944.676331270876,
-    "ema50": 1942.0842673258132,
-    "ema200": 2107.1317476813742,
-    "rsi14": 62.31686903044919,
-    "macd": 30.369404473206032,
-    "macd_signal": 18.87622440447769,
-    "atr14": 39.89592018470466,
-    "adx14": 24.197373599114922,
-    "adx_pos": 27.548780465385363,
-    "adx_neg": 22.175413842918463,
-    "bb_high": 2069.8086875167587,
-    "bb_low": 1761.9013124832416,
-    "bb_mid": 1915.855,
-    "vwap20": 1896.0688586098136,
+    "date": "2026-11-17",
+    "close": 2009.9,
+    "prev_close": 2000.3,
+    "change_pct": 0.47992801079838704,
+    "ema20": 1950.8881092450783,
+    "ema50": 1944.7437078228402,
+    "ema200": 2106.164267604943,
+    "rsi14": 63.651098740322446,
+    "macd": 31.540474503178075,
+    "macd_signal": 21.409074424217767,
+    "atr14": 38.83192588579718,
+    "adx14": 23.787420178160875,
+    "adx_pos": 30.733348039682863,
+    "adx_neg": 21.15566134837232,
+    "bb_high": 2080.022823169057,
+    "bb_low": 1767.3571768309428,
+    "bb_mid": 1923.69,
+    "vwap20": 1901.5897351392264,
     "high_52w": 2488.0,
     "low_52w": 1758.2,
-    "volume": 1093817.0,
-    "avg_volume20": 1520683.45
+    "volume": 1103967.0,
+    "avg_volume20": 1514563.65
   },
   "price_history": [
-    {
-      "date": "2026-05-26",
-      "close": 2209.4,
-      "ema50": 2243.22
-    },
     {
       "date": "2026-05-27",
       "close": 2198.4,
@@ -626,6 +621,11 @@
       "date": "2026-11-16",
       "close": 2000.3,
       "ema50": 1942.08
+    },
+    {
+      "date": "2026-11-17",
+      "close": 2009.9,
+      "ema50": 1944.74
     }
   ],
   "flags": {
@@ -640,14 +640,14 @@
       "price_above_bb_mid": true
     },
     "flags_detail": {
-      "price_above_ema20": "Close 2,000.30 vs EMA20 1,944.68",
-      "ema20_above_ema50": "EMA20 1,944.68 vs EMA50 1,942.08",
-      "ema50_above_ema200": "EMA50 1,942.08 vs EMA200 2,107.13",
-      "rsi_above_50": "RSI(14) 62.32 vs 50",
-      "macd_bullish": "MACD 30.37 vs signal 18.88",
-      "adx_trending_up": "ADX(14) 24.20 vs 20, +DI 27.55 vs -DI 22.18",
-      "price_above_vwap20": "Close 2,000.30 vs 20d VWAP 1,896.07",
-      "price_above_bb_mid": "Close 2,000.30 vs BB mid 1,915.86"
+      "price_above_ema20": "Close 2,009.90 vs EMA20 1,950.89",
+      "ema20_above_ema50": "EMA20 1,950.89 vs EMA50 1,944.74",
+      "ema50_above_ema200": "EMA50 1,944.74 vs EMA200 2,106.16",
+      "rsi_above_50": "RSI(14) 63.65 vs 50",
+      "macd_bullish": "MACD 31.54 vs signal 21.41",
+      "adx_trending_up": "ADX(14) 23.79 vs 20, +DI 30.73 vs -DI 21.16",
+      "price_above_vwap20": "Close 2,009.90 vs 20d VWAP 1,901.59",
+      "price_above_bb_mid": "Close 2,009.90 vs BB mid 1,923.69"
     },
     "flags_on": [
       "price_above_ema20",
@@ -665,5 +665,5 @@
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-11-16T20:49:07.342378+00:00"
+  "updated_at": "2026-11-17T19:36:08.930802+00:00"
 }

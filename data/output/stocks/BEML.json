@@ -3,35 +3,30 @@
   "name": "BEML Ltd",
   "sector": "Defence",
   "indicators": {
-    "date": "2026-11-16",
-    "close": 2061.9,
-    "prev_close": 2098.2,
-    "change_pct": -1.7300543322848028,
-    "ema20": 2021.2022575632782,
-    "ema50": 1986.133698286697,
-    "ema200": 1895.4005224439438,
-    "rsi14": 54.48214925453122,
-    "macd": 29.27050332963472,
-    "macd_signal": 17.539023222586877,
-    "atr14": 82.45158105211632,
-    "adx14": 21.030587194377567,
-    "adx_pos": 32.77098389421379,
-    "adx_neg": 17.54021148057224,
-    "bb_high": 2158.6834540230525,
-    "bb_low": 1829.556545976947,
-    "bb_mid": 1994.1199999999997,
-    "vwap20": 2057.527713016335,
+    "date": "2026-11-17",
+    "close": 2062.5,
+    "prev_close": 2061.9,
+    "change_pct": 0.029099374363446773,
+    "ema20": 2025.135375890585,
+    "ema50": 1989.1284552166303,
+    "ema200": 1897.063203812661,
+    "rsi14": 54.53014881113947,
+    "macd": 28.779593293946164,
+    "macd_signal": 19.787137236858737,
+    "atr14": 79.790753834108,
+    "adx14": 21.652961470044517,
+    "adx_pos": 31.444972330193355,
+    "adx_neg": 17.02742600159765,
+    "bb_high": 2165.3745183270685,
+    "bb_low": 1835.2754816729316,
+    "bb_mid": 2000.325,
+    "vwap20": 2059.5959610893924,
     "high_52w": 2236.0,
     "low_52w": 1355.0,
-    "volume": 124621.0,
-    "avg_volume20": 473249.7
+    "volume": 183749.0,
+    "avg_volume20": 473622.35
   },
   "price_history": [
-    {
-      "date": "2026-05-26",
-      "close": 1844.7,
-      "ema50": 1764.0
-    },
     {
       "date": "2026-05-27",
       "close": 1832.6,
@@ -626,6 +621,11 @@
       "date": "2026-11-16",
       "close": 2061.9,
       "ema50": 1986.13
+    },
+    {
+      "date": "2026-11-17",
+      "close": 2062.5,
+      "ema50": 1989.13
     }
   ],
   "flags": {
@@ -640,14 +640,14 @@
       "price_above_bb_mid": true
     },
     "flags_detail": {
-      "price_above_ema20": "Close 2,061.90 vs EMA20 2,021.20",
-      "ema20_above_ema50": "EMA20 2,021.20 vs EMA50 1,986.13",
-      "ema50_above_ema200": "EMA50 1,986.13 vs EMA200 1,895.40",
-      "rsi_above_50": "RSI(14) 54.48 vs 50",
-      "macd_bullish": "MACD 29.27 vs signal 17.54",
-      "adx_trending_up": "ADX(14) 21.03 vs 20, +DI 32.77 vs -DI 17.54",
-      "price_above_vwap20": "Close 2,061.90 vs 20d VWAP 2,057.53",
-      "price_above_bb_mid": "Close 2,061.90 vs BB mid 1,994.12"
+      "price_above_ema20": "Close 2,062.50 vs EMA20 2,025.14",
+      "ema20_above_ema50": "EMA20 2,025.14 vs EMA50 1,989.13",
+      "ema50_above_ema200": "EMA50 1,989.13 vs EMA200 1,897.06",
+      "rsi_above_50": "RSI(14) 54.53 vs 50",
+      "macd_bullish": "MACD 28.78 vs signal 19.79",
+      "adx_trending_up": "ADX(14) 21.65 vs 20, +DI 31.44 vs -DI 17.03",
+      "price_above_vwap20": "Close 2,062.50 vs 20d VWAP 2,059.60",
+      "price_above_bb_mid": "Close 2,062.50 vs BB mid 2,000.33"
     },
     "flags_on": [
       "price_above_ema20",
@@ -666,5 +666,5 @@
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-11-16T20:33:27.237643+00:00"
+  "updated_at": "2026-11-17T19:18:48.775043+00:00"
 }

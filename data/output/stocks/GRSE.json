@@ -3,35 +3,30 @@
   "name": "Garden Reach Shipbuilders & Engineers",
   "sector": "Defence",
   "indicators": {
-    "date": "2026-11-16",
-    "close": 2130.3,
-    "prev_close": 2184.8,
-    "change_pct": -2.494507506407909,
-    "ema20": 2122.006604745384,
-    "ema50": 2200.203095274241,
-    "ema200": 2428.4752919630514,
-    "rsi14": 50.00473662444179,
-    "macd": 8.367460817197752,
-    "macd_signal": -18.187116661386046,
-    "atr14": 81.16012024631993,
-    "adx14": 33.13868669293044,
-    "adx_pos": 28.890202836446566,
-    "adx_neg": 19.697913224725507,
-    "bb_high": 2299.250292080256,
-    "bb_low": 1819.9297079197443,
-    "bb_mid": 2059.59,
-    "vwap20": 2068.240815181384,
+    "date": "2026-11-17",
+    "close": 2107.3,
+    "prev_close": 2130.3,
+    "change_pct": -1.0796601417640705,
+    "ema20": 2120.605975722014,
+    "ema50": 2196.5598366360355,
+    "ema200": 2425.279517913668,
+    "rsi14": 47.663592213060845,
+    "macd": 5.4050282139101,
+    "macd_signal": -13.468687686326817,
+    "atr14": 79.29154022872565,
+    "adx14": 31.847238798957402,
+    "adx_pos": 27.45881147866341,
+    "adx_neg": 20.271397907060614,
+    "bb_high": 2300.977898322153,
+    "bb_low": 1820.3521016778468,
+    "bb_mid": 2060.665,
+    "vwap20": 2068.5894549851855,
     "high_52w": 3339.0,
     "low_52w": 1842.0,
-    "volume": 265558.0,
-    "avg_volume20": 870666.35
+    "volume": 214330.0,
+    "avg_volume20": 871027.7
   },
   "price_history": [
-    {
-      "date": "2026-05-26",
-      "close": 2662.5,
-      "ema50": 2657.07
-    },
     {
       "date": "2026-05-27",
       "close": 2651.5,
@@ -626,43 +621,46 @@
       "date": "2026-11-16",
       "close": 2130.3,
       "ema50": 2200.2
+    },
+    {
+      "date": "2026-11-17",
+      "close": 2107.3,
+      "ema50": 2196.56
     }
   ],
   "flags": {
     "flags": {
-      "price_above_ema20": true,
+      "price_above_ema20": false,
       "ema20_above_ema50": false,
       "ema50_above_ema200": false,
-      "rsi_above_50": true,
+      "rsi_above_50": false,
       "macd_bullish": true,
       "adx_trending_up": true,
       "price_above_vwap20": true,
       "price_above_bb_mid": true
     },
     "flags_detail": {
-      "price_above_ema20": "Close 2,130.30 vs EMA20 2,122.01",
-      "ema20_above_ema50": "EMA20 2,122.01 vs EMA50 2,200.20",
-      "ema50_above_ema200": "EMA50 2,200.20 vs EMA200 2,428.48",
-      "rsi_above_50": "RSI(14) 50.00 vs 50",
-      "macd_bullish": "MACD 8.37 vs signal -18.19",
-      "adx_trending_up": "ADX(14) 33.14 vs 20, +DI 28.89 vs -DI 19.70",
-      "price_above_vwap20": "Close 2,130.30 vs 20d VWAP 2,068.24",
-      "price_above_bb_mid": "Close 2,130.30 vs BB mid 2,059.59"
+      "price_above_ema20": "Close 2,107.30 vs EMA20 2,120.61",
+      "ema20_above_ema50": "EMA20 2,120.61 vs EMA50 2,196.56",
+      "ema50_above_ema200": "EMA50 2,196.56 vs EMA200 2,425.28",
+      "rsi_above_50": "RSI(14) 47.66 vs 50",
+      "macd_bullish": "MACD 5.41 vs signal -13.47",
+      "adx_trending_up": "ADX(14) 31.85 vs 20, +DI 27.46 vs -DI 20.27",
+      "price_above_vwap20": "Close 2,107.30 vs 20d VWAP 2,068.59",
+      "price_above_bb_mid": "Close 2,107.30 vs BB mid 2,060.66"
     },
     "flags_on": [
-      "price_above_ema20",
-      "rsi_above_50",
       "macd_bullish",
       "adx_trending_up",
       "price_above_vwap20",
       "price_above_bb_mid"
     ],
-    "flag_count": 6,
+    "flag_count": 4,
     "flag_total": 8
   },
   "fundamentals": null,
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-11-16T20:46:08.196262+00:00"
+  "updated_at": "2026-11-17T19:33:05.895464+00:00"
 }

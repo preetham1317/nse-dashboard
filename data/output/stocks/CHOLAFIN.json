@@ -3,35 +3,30 @@
   "name": "Cholamandalam Investment and Finance",
   "sector": "NBFC",
   "indicators": {
-    "date": "2026-11-16",
-    "close": 1849.8,
-    "prev_close": 1850.0,
-    "change_pct": -0.01081081081081327,
-    "ema20": 1716.6712963133953,
-    "ema50": 1696.7128963303148,
-    "ema200": 1683.8352958710182,
-    "rsi14": 70.08151276517184,
-    "macd": 59.17518104609212,
-    "macd_signal": 28.369404547458693,
-    "atr14": 50.5061655020126,
-    "adx14": 37.70968190877862,
-    "adx_pos": 34.475878963373255,
-    "adx_neg": 11.70477267873144,
-    "bb_high": 1932.7864114857166,
-    "bb_low": 1381.6635885142832,
-    "bb_mid": 1657.225,
-    "vwap20": 1637.7803723960687,
+    "date": "2026-11-17",
+    "close": 1884.7,
+    "prev_close": 1849.8,
+    "change_pct": 1.8866904530219533,
+    "ema20": 1732.674029997834,
+    "ema50": 1704.084939611479,
+    "ema200": 1685.833949643446,
+    "rsi14": 72.65010213863175,
+    "macd": 64.64493471386254,
+    "macd_signal": 35.62451058073947,
+    "atr14": 49.78429653758314,
+    "adx14": 38.85127261921116,
+    "adx_pos": 36.59527144052885,
+    "adx_neg": 11.026313162800285,
+    "bb_high": 1961.924990238274,
+    "bb_low": 1385.6950097617264,
+    "bb_mid": 1673.8100000000002,
+    "vwap20": 1645.933967545109,
     "high_52w": 1952.5,
     "low_52w": 1299.4,
-    "volume": 1633292.0,
-    "avg_volume20": 1989912.7
+    "volume": 1231175.0,
+    "avg_volume20": 2022789.1
   },
   "price_history": [
-    {
-      "date": "2026-05-26",
-      "close": 1567.3,
-      "ema50": 1570.66
-    },
     {
       "date": "2026-05-27",
       "close": 1579.2,
@@ -626,6 +621,11 @@
       "date": "2026-11-16",
       "close": 1849.8,
       "ema50": 1696.71
+    },
+    {
+      "date": "2026-11-17",
+      "close": 1884.7,
+      "ema50": 1704.08
     }
   ],
   "flags": {
@@ -640,14 +640,14 @@
       "price_above_bb_mid": true
     },
     "flags_detail": {
-      "price_above_ema20": "Close 1,849.80 vs EMA20 1,716.67",
-      "ema20_above_ema50": "EMA20 1,716.67 vs EMA50 1,696.71",
-      "ema50_above_ema200": "EMA50 1,696.71 vs EMA200 1,683.84",
-      "rsi_above_50": "RSI(14) 70.08 vs 50",
-      "macd_bullish": "MACD 59.18 vs signal 28.37",
-      "adx_trending_up": "ADX(14) 37.71 vs 20, +DI 34.48 vs -DI 11.70",
-      "price_above_vwap20": "Close 1,849.80 vs 20d VWAP 1,637.78",
-      "price_above_bb_mid": "Close 1,849.80 vs BB mid 1,657.22"
+      "price_above_ema20": "Close 1,884.70 vs EMA20 1,732.67",
+      "ema20_above_ema50": "EMA20 1,732.67 vs EMA50 1,704.08",
+      "ema50_above_ema200": "EMA50 1,704.08 vs EMA200 1,685.83",
+      "rsi_above_50": "RSI(14) 72.65 vs 50",
+      "macd_bullish": "MACD 64.64 vs signal 35.62",
+      "adx_trending_up": "ADX(14) 38.85 vs 20, +DI 36.60 vs -DI 11.03",
+      "price_above_vwap20": "Close 1,884.70 vs 20d VWAP 1,645.93",
+      "price_above_bb_mid": "Close 1,884.70 vs BB mid 1,673.81"
     },
     "flags_on": [
       "price_above_ema20",
@@ -666,5 +666,5 @@
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-11-16T20:37:11.053407+00:00"
+  "updated_at": "2026-11-17T19:22:37.333227+00:00"
 }

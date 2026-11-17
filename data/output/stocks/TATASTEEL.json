@@ -3,35 +3,30 @@
   "name": "Tata Steel",
   "sector": "Metals",
   "indicators": {
-    "date": "2026-11-16",
-    "close": 182.26,
-    "prev_close": 186.68,
-    "change_pct": -2.3676880222841308,
-    "ema20": 181.04658297965685,
-    "ema50": 181.03768492516014,
-    "ema200": 185.90941921486169,
-    "rsi14": 52.45076078851451,
-    "macd": 2.4116088412010015,
-    "macd_signal": 1.1390331046324755,
-    "atr14": 4.96924491093884,
-    "adx14": 23.346514206324308,
-    "adx_pos": 25.397192004562573,
-    "adx_neg": 22.72671443132114,
-    "bb_high": 193.09826854170157,
-    "bb_low": 162.65673145829842,
-    "bb_mid": 177.8775,
-    "vwap20": 178.57828199016856,
+    "date": "2026-11-17",
+    "close": 181.5,
+    "prev_close": 182.26,
+    "change_pct": -0.4169867222648913,
+    "ema20": 181.08976555302286,
+    "ema50": 181.05581492809503,
+    "ema200": 185.8655443968034,
+    "rsi14": 51.39142306404277,
+    "macd": 2.1204689985331413,
+    "macd_signal": 1.3353202834126088,
+    "atr14": 4.869298845871779,
+    "adx14": 21.68438133598458,
+    "adx_pos": 24.067168079950562,
+    "adx_neg": 24.030299436826542,
+    "bb_high": 193.4424221627828,
+    "bb_low": 163.05857783721723,
+    "bb_mid": 178.25050000000002,
+    "vwap20": 178.80923320218625,
     "high_52w": 224.4,
     "low_52w": 160.06,
-    "volume": 19082593.0,
-    "avg_volume20": 22885152.7
+    "volume": 20645185.0,
+    "avg_volume20": 23285481.1
   },
   "price_history": [
-    {
-      "date": "2026-05-26",
-      "close": 210.47,
-      "ema50": 207.21
-    },
     {
       "date": "2026-05-27",
       "close": 214.7,
@@ -626,6 +621,11 @@
       "date": "2026-11-16",
       "close": 182.26,
       "ema50": 181.04
+    },
+    {
+      "date": "2026-11-17",
+      "close": 181.5,
+      "ema50": 181.06
     }
   ],
   "flags": {
@@ -640,14 +640,14 @@
       "price_above_bb_mid": true
     },
     "flags_detail": {
-      "price_above_ema20": "Close 182.26 vs EMA20 181.05",
-      "ema20_above_ema50": "EMA20 181.05 vs EMA50 181.04",
-      "ema50_above_ema200": "EMA50 181.04 vs EMA200 185.91",
-      "rsi_above_50": "RSI(14) 52.45 vs 50",
-      "macd_bullish": "MACD 2.41 vs signal 1.14",
-      "adx_trending_up": "ADX(14) 23.35 vs 20, +DI 25.40 vs -DI 22.73",
-      "price_above_vwap20": "Close 182.26 vs 20d VWAP 178.58",
-      "price_above_bb_mid": "Close 182.26 vs BB mid 177.88"
+      "price_above_ema20": "Close 181.50 vs EMA20 181.09",
+      "ema20_above_ema50": "EMA20 181.09 vs EMA50 181.06",
+      "ema50_above_ema200": "EMA50 181.06 vs EMA200 185.87",
+      "rsi_above_50": "RSI(14) 51.39 vs 50",
+      "macd_bullish": "MACD 2.12 vs signal 1.34",
+      "adx_trending_up": "ADX(14) 21.68 vs 20, +DI 24.07 vs -DI 24.03",
+      "price_above_vwap20": "Close 181.50 vs 20d VWAP 178.81",
+      "price_above_bb_mid": "Close 181.50 vs BB mid 178.25"
     },
     "flags_on": [
       "price_above_ema20",
@@ -665,5 +665,5 @@
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-11-16T21:24:04.658092+00:00"
+  "updated_at": "2026-11-17T20:10:56.384860+00:00"
 }

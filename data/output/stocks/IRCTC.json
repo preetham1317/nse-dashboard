@@ -3,35 +3,30 @@
   "name": "Indian Railway Catering and Tourism Corporation",
   "sector": "Railways",
   "indicators": {
-    "date": "2026-11-16",
-    "close": 451.65,
-    "prev_close": 457.7,
-    "change_pct": -1.3218265239239702,
-    "ema20": 456.8072466391188,
-    "ema50": 462.83443181167235,
-    "ema200": 521.0776195958732,
-    "rsi14": 46.272721638809436,
-    "macd": 0.4866732199467947,
-    "macd_signal": -1.0719199104405532,
-    "atr14": 11.984004666640745,
-    "adx14": 17.98784640433325,
-    "adx_pos": 24.84399166773892,
-    "adx_neg": 22.669154357375227,
-    "bb_high": 471.4279040179214,
-    "bb_low": 433.2020959820785,
-    "bb_mid": 452.31499999999994,
-    "vwap20": 459.43316500128424,
+    "date": "2026-11-17",
+    "close": 449.35,
+    "prev_close": 451.65,
+    "change_pct": -0.5092438835381279,
+    "ema20": 456.09703267348846,
+    "ema50": 462.3056305641558,
+    "ema200": 520.3639119382028,
+    "rsi14": 44.91575497158022,
+    "macd": -0.21424539672170795,
+    "macd_signal": -0.9003850076967842,
+    "atr14": 11.635147190452118,
+    "adx14": 16.98481615306535,
+    "adx_pos": 23.761112980355207,
+    "adx_neg": 21.957327178922466,
+    "bb_high": 471.09470979871816,
+    "bb_low": 432.9102902012817,
+    "bb_mid": 452.00249999999994,
+    "vwap20": 459.15533258696007,
     "high_52w": 720.8,
     "low_52w": 435.0,
-    "volume": 776632.0,
-    "avg_volume20": 1105656.95
+    "volume": 726457.0,
+    "avg_volume20": 1113919.95
   },
   "price_history": [
-    {
-      "date": "2026-05-26",
-      "close": 537.2,
-      "ema50": 550.83
-    },
     {
       "date": "2026-05-27",
       "close": 523.2,
@@ -626,6 +621,11 @@
       "date": "2026-11-16",
       "close": 451.65,
       "ema50": 462.83
+    },
+    {
+      "date": "2026-11-17",
+      "close": 449.35,
+      "ema50": 462.31
     }
   ],
   "flags": {
@@ -640,14 +640,14 @@
       "price_above_bb_mid": false
     },
     "flags_detail": {
-      "price_above_ema20": "Close 451.65 vs EMA20 456.81",
-      "ema20_above_ema50": "EMA20 456.81 vs EMA50 462.83",
-      "ema50_above_ema200": "EMA50 462.83 vs EMA200 521.08",
-      "rsi_above_50": "RSI(14) 46.27 vs 50",
-      "macd_bullish": "MACD 0.49 vs signal -1.07",
-      "adx_trending_up": "ADX(14) 17.99 vs 20, +DI 24.84 vs -DI 22.67",
-      "price_above_vwap20": "Close 451.65 vs 20d VWAP 459.43",
-      "price_above_bb_mid": "Close 451.65 vs BB mid 452.31"
+      "price_above_ema20": "Close 449.35 vs EMA20 456.10",
+      "ema20_above_ema50": "EMA20 456.10 vs EMA50 462.31",
+      "ema50_above_ema200": "EMA50 462.31 vs EMA200 520.36",
+      "rsi_above_50": "RSI(14) 44.92 vs 50",
+      "macd_bullish": "MACD -0.21 vs signal -0.90",
+      "adx_trending_up": "ADX(14) 16.98 vs 20, +DI 23.76 vs -DI 21.96",
+      "price_above_vwap20": "Close 449.35 vs 20d VWAP 459.16",
+      "price_above_bb_mid": "Close 449.35 vs BB mid 452.00"
     },
     "flags_on": [
       "macd_bullish"
@@ -659,5 +659,5 @@
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-11-16T20:53:35.959324+00:00"
+  "updated_at": "2026-11-17T19:40:43.262150+00:00"
 }

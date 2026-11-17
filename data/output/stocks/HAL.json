@@ -3,35 +3,30 @@
   "name": "Hindustan Aeronautics",
   "sector": "Defence",
   "indicators": {
-    "date": "2026-11-16",
-    "close": 4789.0,
-    "prev_close": 4809.8,
-    "change_pct": -0.43245041373862075,
-    "ema20": 4887.256271762146,
-    "ema50": 4841.252666546007,
-    "ema200": 4623.113199592334,
-    "rsi14": 43.64436805029387,
-    "macd": 13.771952347564365,
-    "macd_signal": 32.982970851959315,
-    "atr14": 130.72985151182988,
-    "adx14": 14.475778209357642,
-    "adx_pos": 18.590309931212,
-    "adx_neg": 31.66872732820535,
-    "bb_high": 5078.183571579263,
-    "bb_low": 4712.606428420736,
-    "bb_mid": 4895.3949999999995,
-    "vwap20": 4891.4938109232635,
+    "date": "2026-11-17",
+    "close": 4727.0,
+    "prev_close": 4789.0,
+    "change_pct": -1.2946335351847984,
+    "ema20": 4871.99376968956,
+    "ema50": 4836.772169818712,
+    "ema200": 4624.146899098879,
+    "rsi14": 40.073399142026396,
+    "macd": -0.46239423645602074,
+    "macd_signal": 26.29389783427625,
+    "atr14": 126.82057640384203,
+    "adx14": 15.477495695054227,
+    "adx_pos": 17.79454927310857,
+    "adx_neg": 31.980290516101356,
+    "bb_high": 5078.051731929649,
+    "bb_low": 4689.5382680703515,
+    "bb_mid": 4883.795,
+    "vwap20": 4885.213638694454,
     "high_52w": 5149.9,
     "low_52w": 3479.1,
-    "volume": 446223.0,
-    "avg_volume20": 844139.1
+    "volume": 449126.0,
+    "avg_volume20": 837429.25
   },
   "price_history": [
-    {
-      "date": "2026-05-26",
-      "close": 4427.7,
-      "ema50": 4310.95
-    },
     {
       "date": "2026-05-27",
       "close": 4413.0,
@@ -626,6 +621,11 @@
       "date": "2026-11-16",
       "close": 4789.0,
       "ema50": 4841.25
+    },
+    {
+      "date": "2026-11-17",
+      "close": 4727.0,
+      "ema50": 4836.77
     }
   ],
   "flags": {
@@ -640,14 +640,14 @@
       "price_above_bb_mid": false
     },
     "flags_detail": {
-      "price_above_ema20": "Close 4,789.00 vs EMA20 4,887.26",
-      "ema20_above_ema50": "EMA20 4,887.26 vs EMA50 4,841.25",
-      "ema50_above_ema200": "EMA50 4,841.25 vs EMA200 4,623.11",
-      "rsi_above_50": "RSI(14) 43.64 vs 50",
-      "macd_bullish": "MACD 13.77 vs signal 32.98",
-      "adx_trending_up": "ADX(14) 14.48 vs 20, +DI 18.59 vs -DI 31.67",
-      "price_above_vwap20": "Close 4,789.00 vs 20d VWAP 4,891.49",
-      "price_above_bb_mid": "Close 4,789.00 vs BB mid 4,895.39"
+      "price_above_ema20": "Close 4,727.00 vs EMA20 4,871.99",
+      "ema20_above_ema50": "EMA20 4,871.99 vs EMA50 4,836.77",
+      "ema50_above_ema200": "EMA50 4,836.77 vs EMA200 4,624.15",
+      "rsi_above_50": "RSI(14) 40.07 vs 50",
+      "macd_bullish": "MACD -0.46 vs signal 26.29",
+      "adx_trending_up": "ADX(14) 15.48 vs 20, +DI 17.79 vs -DI 31.98",
+      "price_above_vwap20": "Close 4,727.00 vs 20d VWAP 4,885.21",
+      "price_above_bb_mid": "Close 4,727.00 vs BB mid 4,883.80"
     },
     "flags_on": [
       "ema20_above_ema50",
@@ -660,5 +660,5 @@
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-11-16T20:46:30.616256+00:00"
+  "updated_at": "2026-11-17T19:33:28.806748+00:00"
 }

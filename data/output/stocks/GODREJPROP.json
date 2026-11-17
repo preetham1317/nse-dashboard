@@ -3,35 +3,30 @@
   "name": "Godrej Properties",
   "sector": "Realty",
   "indicators": {
-    "date": "2026-11-16",
-    "close": 1841.7,
-    "prev_close": 1854.9,
-    "change_pct": -0.7116286592269149,
-    "ema20": 1735.4975773553188,
-    "ema50": 1734.6017975768077,
-    "ema200": 1829.5685501174041,
-    "rsi14": 64.4825180790181,
-    "macd": 54.06365024816159,
-    "macd_signal": 27.484196283687993,
-    "atr14": 58.214267508333,
-    "adx14": 31.649780504670908,
-    "adx_pos": 27.80669044949631,
-    "adx_neg": 14.623132475528935,
-    "bb_high": 1935.884921217221,
-    "bb_low": 1437.0450787827783,
-    "bb_mid": 1686.4649999999997,
-    "vwap20": 1680.489884239106,
+    "date": "2026-11-17",
+    "close": 1892.4,
+    "prev_close": 1841.7,
+    "change_pct": 2.752891350382801,
+    "ema20": 1750.440665226241,
+    "ema50": 1740.7899623777173,
+    "ema200": 1830.19373867345,
+    "rsi14": 68.35494454798454,
+    "macd": 59.28060430869573,
+    "macd_signal": 33.84347788868954,
+    "atr14": 59.656105543452085,
+    "adx14": 32.18156129293503,
+    "adx_pos": 30.261181725632465,
+    "adx_neg": 13.250439083689159,
+    "bb_high": 1962.157054920509,
+    "bb_low": 1441.1129450794906,
+    "bb_mid": 1701.6349999999998,
+    "vwap20": 1691.645903801747,
     "high_52w": 2233.4,
     "low_52w": 1434.0,
-    "volume": 430996.0,
-    "avg_volume20": 765136.05
+    "volume": 777545.0,
+    "avg_volume20": 790812.35
   },
   "price_history": [
-    {
-      "date": "2026-05-26",
-      "close": 1760.2,
-      "ema50": 1746.67
-    },
     {
       "date": "2026-05-27",
       "close": 1788.6,
@@ -626,6 +621,11 @@
       "date": "2026-11-16",
       "close": 1841.7,
       "ema50": 1734.6
+    },
+    {
+      "date": "2026-11-17",
+      "close": 1892.4,
+      "ema50": 1740.79
     }
   ],
   "flags": {
@@ -640,14 +640,14 @@
       "price_above_bb_mid": true
     },
     "flags_detail": {
-      "price_above_ema20": "Close 1,841.70 vs EMA20 1,735.50",
-      "ema20_above_ema50": "EMA20 1,735.50 vs EMA50 1,734.60",
-      "ema50_above_ema200": "EMA50 1,734.60 vs EMA200 1,829.57",
-      "rsi_above_50": "RSI(14) 64.48 vs 50",
-      "macd_bullish": "MACD 54.06 vs signal 27.48",
-      "adx_trending_up": "ADX(14) 31.65 vs 20, +DI 27.81 vs -DI 14.62",
-      "price_above_vwap20": "Close 1,841.70 vs 20d VWAP 1,680.49",
-      "price_above_bb_mid": "Close 1,841.70 vs BB mid 1,686.46"
+      "price_above_ema20": "Close 1,892.40 vs EMA20 1,750.44",
+      "ema20_above_ema50": "EMA20 1,750.44 vs EMA50 1,740.79",
+      "ema50_above_ema200": "EMA50 1,740.79 vs EMA200 1,830.19",
+      "rsi_above_50": "RSI(14) 68.35 vs 50",
+      "macd_bullish": "MACD 59.28 vs signal 33.84",
+      "adx_trending_up": "ADX(14) 32.18 vs 20, +DI 30.26 vs -DI 13.25",
+      "price_above_vwap20": "Close 1,892.40 vs 20d VWAP 1,691.65",
+      "price_above_bb_mid": "Close 1,892.40 vs BB mid 1,701.63"
     },
     "flags_on": [
       "price_above_ema20",
@@ -665,5 +665,5 @@
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-11-16T20:45:45.795475+00:00"
+  "updated_at": "2026-11-17T19:32:22.125373+00:00"
 }
