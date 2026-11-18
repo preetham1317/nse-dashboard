@@ -3,39 +3,34 @@
   "name": "Ircon International",
   "sector": "Railways",
   "indicators": {
-    "date": "2026-11-17",
-    "close": 108.84,
-    "prev_close": 109.08,
-    "change_pct": -0.22002200220021534,
-    "ema20": 107.12583440244414,
-    "ema50": 109.27902308024123,
-    "ema200": 127.93490042495448,
-    "rsi14": 53.767596928365556,
-    "macd": 1.24150270373039,
-    "macd_signal": 0.1753025048342578,
-    "atr14": 4.113173008664276,
-    "adx14": 20.68016763858022,
-    "adx_pos": 28.9150538660819,
-    "adx_neg": 20.129246094472606,
-    "bb_high": 115.4555586704156,
-    "bb_low": 93.4384413295844,
-    "bb_mid": 104.447,
-    "vwap20": 106.53186850677815,
+    "date": "2026-11-18",
+    "close": 105.8,
+    "prev_close": 108.84,
+    "change_pct": -2.7930907754502075,
+    "ema20": 106.99956445935403,
+    "ema50": 109.14257216993548,
+    "ema200": 127.53895551580038,
+    "rsi14": 47.71111352053726,
+    "macd": 0.9538737607265233,
+    "macd_signal": 0.3310167563140989,
+    "atr14": 4.07008922237929,
+    "adx14": 19.871932447133734,
+    "adx_pos": 27.13390935731007,
+    "adx_neg": 22.486975139299744,
+    "bb_high": 115.60016947956218,
+    "bb_low": 93.71683052043782,
+    "bb_mid": 104.6585,
+    "vwap20": 106.67388293459244,
     "high_52w": 186.44,
     "low_52w": 95.76,
-    "volume": 2061191.0,
-    "avg_volume20": 3099381.05
+    "volume": 1765451.0,
+    "avg_volume20": 3079727.6
   },
   "price_history": [
     {
-      "date": "2026-05-27",
-      "close": 139.66,
-      "ema50": 144.69
-    },
-    {
       "date": "2026-05-29",
       "close": 136.9,
-      "ema50": 144.39
+      "ema50": 144.38
     },
     {
       "date": "2026-06-01",
@@ -45,7 +40,7 @@
     {
       "date": "2026-06-02",
       "close": 135.97,
-      "ema50": 143.68
+      "ema50": 143.67
     },
     {
       "date": "2026-06-03",
@@ -55,7 +50,7 @@
     {
       "date": "2026-06-04",
       "close": 135.89,
-      "ema50": 143.06
+      "ema50": 143.05
     },
     {
       "date": "2026-06-05",
@@ -230,7 +225,7 @@
     {
       "date": "2026-07-24",
       "close": 126.07,
-      "ema50": 134.59
+      "ema50": 134.58
     },
     {
       "date": "2026-07-27",
@@ -240,7 +235,7 @@
     {
       "date": "2026-07-28",
       "close": 124.52,
-      "ema50": 133.89
+      "ema50": 133.88
     },
     {
       "date": "2026-07-29",
@@ -626,43 +621,44 @@
       "date": "2026-11-17",
       "close": 108.84,
       "ema50": 109.28
+    },
+    {
+      "date": "2026-11-18",
+      "close": 105.8,
+      "ema50": 109.14
     }
   ],
   "flags": {
     "flags": {
-      "price_above_ema20": true,
+      "price_above_ema20": false,
       "ema20_above_ema50": false,
       "ema50_above_ema200": false,
-      "rsi_above_50": true,
+      "rsi_above_50": false,
       "macd_bullish": true,
-      "adx_trending_up": true,
-      "price_above_vwap20": true,
+      "adx_trending_up": false,
+      "price_above_vwap20": false,
       "price_above_bb_mid": true
     },
     "flags_detail": {
-      "price_above_ema20": "Close 108.84 vs EMA20 107.13",
-      "ema20_above_ema50": "EMA20 107.13 vs EMA50 109.28",
-      "ema50_above_ema200": "EMA50 109.28 vs EMA200 127.93",
-      "rsi_above_50": "RSI(14) 53.77 vs 50",
-      "macd_bullish": "MACD 1.24 vs signal 0.18",
-      "adx_trending_up": "ADX(14) 20.68 vs 20, +DI 28.92 vs -DI 20.13",
-      "price_above_vwap20": "Close 108.84 vs 20d VWAP 106.53",
-      "price_above_bb_mid": "Close 108.84 vs BB mid 104.45"
+      "price_above_ema20": "Close 105.80 vs EMA20 107.00",
+      "ema20_above_ema50": "EMA20 107.00 vs EMA50 109.14",
+      "ema50_above_ema200": "EMA50 109.14 vs EMA200 127.54",
+      "rsi_above_50": "RSI(14) 47.71 vs 50",
+      "macd_bullish": "MACD 0.95 vs signal 0.33",
+      "adx_trending_up": "ADX(14) 19.87 vs 20, +DI 27.13 vs -DI 22.49",
+      "price_above_vwap20": "Close 105.80 vs 20d VWAP 106.67",
+      "price_above_bb_mid": "Close 105.80 vs BB mid 104.66"
     },
     "flags_on": [
-      "price_above_ema20",
-      "rsi_above_50",
       "macd_bullish",
-      "adx_trending_up",
-      "price_above_vwap20",
       "price_above_bb_mid"
     ],
-    "flag_count": 6,
+    "flag_count": 2,
     "flag_total": 8
   },
   "fundamentals": null,
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-11-17T19:40:20.411184+00:00"
+  "updated_at": "2026-11-18T19:18:53.372233+00:00"
 }

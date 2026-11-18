@@ -3,35 +3,30 @@
   "name": "Pidilite Industries",
   "sector": "Chemicals",
   "indicators": {
-    "date": "2026-11-17",
-    "close": 1534.6,
-    "prev_close": 1545.8,
-    "change_pct": -0.724543925475485,
-    "ema20": 1528.4634592601083,
-    "ema50": 1531.4558998087107,
-    "ema200": 1526.3425649521118,
-    "rsi14": 51.75434954415297,
-    "macd": 13.139037265125353,
-    "macd_signal": 8.042819812519586,
-    "atr14": 37.563805940780306,
-    "adx14": 20.29025700533976,
-    "adx_pos": 22.342806971327846,
-    "adx_neg": 21.467222255427227,
-    "bb_high": 1620.7483944418022,
-    "bb_low": 1401.511605558198,
-    "bb_mid": 1511.13,
-    "vwap20": 1491.5298369623029,
+    "date": "2026-11-18",
+    "close": 1530.2,
+    "prev_close": 1534.6,
+    "change_pct": -0.2867196663625612,
+    "ema20": 1528.6288440924789,
+    "ema50": 1531.4066322623046,
+    "ema200": 1526.2246669121487,
+    "rsi14": 50.8862757673184,
+    "macd": 11.477091559892642,
+    "macd_signal": 8.729674162262544,
+    "atr14": 37.16639123075729,
+    "adx14": 19.23451252005167,
+    "adx_pos": 20.968735629839536,
+    "adx_neg": 23.414159594500028,
+    "bb_high": 1622.623210183993,
+    "bb_low": 1404.166789816007,
+    "bb_mid": 1513.395,
+    "vwap20": 1493.3135710517085,
     "high_52w": 1707.5,
     "low_52w": 1259.0,
-    "volume": 799424.0,
-    "avg_volume20": 852661.7
+    "volume": 593850.0,
+    "avg_volume20": 856317.2
   },
   "price_history": [
-    {
-      "date": "2026-05-27",
-      "close": 1480.7,
-      "ema50": 1423.09
-    },
     {
       "date": "2026-05-29",
       "close": 1482.8,
@@ -80,12 +75,12 @@
     {
       "date": "2026-06-11",
       "close": 1498.8,
-      "ema50": 1440.9
+      "ema50": 1440.89
     },
     {
       "date": "2026-06-12",
       "close": 1535.5,
-      "ema50": 1444.61
+      "ema50": 1444.6
     },
     {
       "date": "2026-06-15",
@@ -200,7 +195,7 @@
     {
       "date": "2026-07-16",
       "close": 1559.6,
-      "ema50": 1528.52
+      "ema50": 1528.51
     },
     {
       "date": "2026-07-17",
@@ -280,7 +275,7 @@
     {
       "date": "2026-08-07",
       "close": 1660.0,
-      "ema50": 1572.26
+      "ema50": 1572.25
     },
     {
       "date": "2026-08-10",
@@ -626,6 +621,11 @@
       "date": "2026-11-17",
       "close": 1534.6,
       "ema50": 1531.46
+    },
+    {
+      "date": "2026-11-18",
+      "close": 1530.2,
+      "ema50": 1531.41
     }
   ],
   "flags": {
@@ -635,35 +635,34 @@
       "ema50_above_ema200": true,
       "rsi_above_50": true,
       "macd_bullish": true,
-      "adx_trending_up": true,
+      "adx_trending_up": false,
       "price_above_vwap20": true,
       "price_above_bb_mid": true
     },
     "flags_detail": {
-      "price_above_ema20": "Close 1,534.60 vs EMA20 1,528.46",
-      "ema20_above_ema50": "EMA20 1,528.46 vs EMA50 1,531.46",
-      "ema50_above_ema200": "EMA50 1,531.46 vs EMA200 1,526.34",
-      "rsi_above_50": "RSI(14) 51.75 vs 50",
-      "macd_bullish": "MACD 13.14 vs signal 8.04",
-      "adx_trending_up": "ADX(14) 20.29 vs 20, +DI 22.34 vs -DI 21.47",
-      "price_above_vwap20": "Close 1,534.60 vs 20d VWAP 1,491.53",
-      "price_above_bb_mid": "Close 1,534.60 vs BB mid 1,511.13"
+      "price_above_ema20": "Close 1,530.20 vs EMA20 1,528.63",
+      "ema20_above_ema50": "EMA20 1,528.63 vs EMA50 1,531.41",
+      "ema50_above_ema200": "EMA50 1,531.41 vs EMA200 1,526.22",
+      "rsi_above_50": "RSI(14) 50.89 vs 50",
+      "macd_bullish": "MACD 11.48 vs signal 8.73",
+      "adx_trending_up": "ADX(14) 19.23 vs 20, +DI 20.97 vs -DI 23.41",
+      "price_above_vwap20": "Close 1,530.20 vs 20d VWAP 1,493.31",
+      "price_above_bb_mid": "Close 1,530.20 vs BB mid 1,513.39"
     },
     "flags_on": [
       "price_above_ema20",
       "ema50_above_ema200",
       "rsi_above_50",
       "macd_bullish",
-      "adx_trending_up",
       "price_above_vwap20",
       "price_above_bb_mid"
     ],
-    "flag_count": 7,
+    "flag_count": 6,
     "flag_total": 8
   },
   "fundamentals": null,
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-11-17T20:00:09.083383+00:00"
+  "updated_at": "2026-11-18T19:39:10.406258+00:00"
 }

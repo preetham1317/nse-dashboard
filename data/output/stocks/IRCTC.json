@@ -3,35 +3,30 @@
   "name": "Indian Railway Catering and Tourism Corporation",
   "sector": "Railways",
   "indicators": {
-    "date": "2026-11-17",
-    "close": 449.35,
-    "prev_close": 451.65,
-    "change_pct": -0.5092438835381279,
-    "ema20": 456.09703267348846,
-    "ema50": 462.3056305641558,
-    "ema200": 520.3639119382028,
-    "rsi14": 44.91575497158022,
-    "macd": -0.21424539672170795,
-    "macd_signal": -0.9003850076967842,
-    "atr14": 11.635147190452118,
-    "adx14": 16.98481615306535,
-    "adx_pos": 23.761112980355207,
-    "adx_neg": 21.957327178922466,
-    "bb_high": 471.09470979871816,
-    "bb_low": 432.9102902012817,
-    "bb_mid": 452.00249999999994,
-    "vwap20": 459.15533258696007,
+    "date": "2026-11-18",
+    "close": 444.35,
+    "prev_close": 449.35,
+    "change_pct": -1.1127183709803048,
+    "ema20": 454.97826765696544,
+    "ema50": 461.60146508661467,
+    "ema200": 519.3897090903457,
+    "rsi14": 42.030180779998965,
+    "macd": -1.1598170146525604,
+    "macd_signal": -0.9522714087143022,
+    "atr14": 11.30049381978895,
+    "adx14": 16.096178111178993,
+    "adx_pos": 22.71729174984223,
+    "adx_neg": 24.880060236461475,
+    "bb_high": 471.06433862239317,
+    "bb_low": 432.31066137760683,
+    "bb_mid": 451.6875,
+    "vwap20": 458.9468203624906,
     "high_52w": 720.8,
     "low_52w": 435.0,
-    "volume": 726457.0,
-    "avg_volume20": 1113919.95
+    "volume": 639266.0,
+    "avg_volume20": 1115648.4
   },
   "price_history": [
-    {
-      "date": "2026-05-27",
-      "close": 523.2,
-      "ema50": 549.75
-    },
     {
       "date": "2026-05-29",
       "close": 509.85,
@@ -45,7 +40,7 @@
     {
       "date": "2026-06-02",
       "close": 516.9,
-      "ema50": 545.62
+      "ema50": 545.61
     },
     {
       "date": "2026-06-03",
@@ -60,7 +55,7 @@
     {
       "date": "2026-06-05",
       "close": 528.6,
-      "ema50": 543.01
+      "ema50": 543.0
     },
     {
       "date": "2026-06-08",
@@ -70,7 +65,7 @@
     {
       "date": "2026-06-09",
       "close": 517.85,
-      "ema50": 541.01
+      "ema50": 541.0
     },
     {
       "date": "2026-06-10",
@@ -85,7 +80,7 @@
     {
       "date": "2026-06-12",
       "close": 521.35,
-      "ema50": 538.45
+      "ema50": 538.44
     },
     {
       "date": "2026-06-15",
@@ -626,6 +621,11 @@
       "date": "2026-11-17",
       "close": 449.35,
       "ema50": 462.31
+    },
+    {
+      "date": "2026-11-18",
+      "close": 444.35,
+      "ema50": 461.6
     }
   ],
   "flags": {
@@ -634,30 +634,28 @@
       "ema20_above_ema50": false,
       "ema50_above_ema200": false,
       "rsi_above_50": false,
-      "macd_bullish": true,
+      "macd_bullish": false,
       "adx_trending_up": false,
       "price_above_vwap20": false,
       "price_above_bb_mid": false
     },
     "flags_detail": {
-      "price_above_ema20": "Close 449.35 vs EMA20 456.10",
-      "ema20_above_ema50": "EMA20 456.10 vs EMA50 462.31",
-      "ema50_above_ema200": "EMA50 462.31 vs EMA200 520.36",
-      "rsi_above_50": "RSI(14) 44.92 vs 50",
-      "macd_bullish": "MACD -0.21 vs signal -0.90",
-      "adx_trending_up": "ADX(14) 16.98 vs 20, +DI 23.76 vs -DI 21.96",
-      "price_above_vwap20": "Close 449.35 vs 20d VWAP 459.16",
-      "price_above_bb_mid": "Close 449.35 vs BB mid 452.00"
+      "price_above_ema20": "Close 444.35 vs EMA20 454.98",
+      "ema20_above_ema50": "EMA20 454.98 vs EMA50 461.60",
+      "ema50_above_ema200": "EMA50 461.60 vs EMA200 519.39",
+      "rsi_above_50": "RSI(14) 42.03 vs 50",
+      "macd_bullish": "MACD -1.16 vs signal -0.95",
+      "adx_trending_up": "ADX(14) 16.10 vs 20, +DI 22.72 vs -DI 24.88",
+      "price_above_vwap20": "Close 444.35 vs 20d VWAP 458.95",
+      "price_above_bb_mid": "Close 444.35 vs BB mid 451.69"
     },
-    "flags_on": [
-      "macd_bullish"
-    ],
-    "flag_count": 1,
+    "flags_on": [],
+    "flag_count": 0,
     "flag_total": 8
   },
   "fundamentals": null,
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-11-17T19:40:43.262150+00:00"
+  "updated_at": "2026-11-18T19:19:15.695938+00:00"
 }
