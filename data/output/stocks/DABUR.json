@@ -3,35 +3,30 @@
   "name": "Dabur India",
   "sector": "FMCG",
   "indicators": {
-    "date": "2026-11-18",
-    "close": 379.25,
-    "prev_close": 384.3,
-    "change_pct": -1.3140775435857432,
-    "ema20": 379.4208512402222,
-    "ema50": 383.13089173595523,
-    "ema200": 422.8541020335312,
-    "rsi14": 49.81997146517143,
-    "macd": 0.8759635985641125,
-    "macd_signal": 0.06176524354250815,
-    "atr14": 8.463496451189053,
-    "adx14": 18.01663374657439,
-    "adx_pos": 29.8133558222537,
-    "adx_neg": 20.262900971914345,
-    "bb_high": 395.540878998934,
-    "bb_low": 355.40912100106607,
-    "bb_mid": 375.475,
-    "vwap20": 378.70289728994135,
+    "date": "2026-11-19",
+    "close": 390.65,
+    "prev_close": 379.25,
+    "change_pct": 3.005932762030317,
+    "ema20": 380.4902939792481,
+    "ema50": 383.42571578623006,
+    "ema200": 422.1287546954924,
+    "rsi14": 57.26333886217412,
+    "macd": 1.6358405270306662,
+    "macd_signal": 0.37658030093478667,
+    "atr14": 8.95538956189511,
+    "adx14": 19.090203785237872,
+    "adx_pos": 35.335688679219224,
+    "adx_neg": 17.78206823769385,
+    "bb_high": 397.4014961286878,
+    "bb_low": 355.8135038713121,
+    "bb_mid": 376.60749999999996,
+    "vwap20": 379.8659925295266,
     "high_52w": 534.0,
     "low_52w": 354.3,
-    "volume": 797359.0,
-    "avg_volume20": 1580999.0
+    "volume": 3062334.0,
+    "avg_volume20": 1674811.3
   },
   "price_history": [
-    {
-      "date": "2026-05-29",
-      "close": 443.4,
-      "ema50": 457.01
-    },
     {
       "date": "2026-06-01",
       "close": 424.6,
@@ -40,12 +35,12 @@
     {
       "date": "2026-06-02",
       "close": 425.5,
-      "ema50": 454.56
+      "ema50": 454.55
     },
     {
       "date": "2026-06-03",
       "close": 417.85,
-      "ema50": 453.12
+      "ema50": 453.11
     },
     {
       "date": "2026-06-04",
@@ -55,12 +50,12 @@
     {
       "date": "2026-06-05",
       "close": 424.15,
-      "ema50": 450.91
+      "ema50": 450.9
     },
     {
       "date": "2026-06-08",
       "close": 419.75,
-      "ema50": 449.69
+      "ema50": 449.68
     },
     {
       "date": "2026-06-09",
@@ -75,7 +70,7 @@
     {
       "date": "2026-06-11",
       "close": 421.7,
-      "ema50": 446.92
+      "ema50": 446.91
     },
     {
       "date": "2026-06-12",
@@ -85,7 +80,7 @@
     {
       "date": "2026-06-15",
       "close": 429.15,
-      "ema50": 445.45
+      "ema50": 445.44
     },
     {
       "date": "2026-06-16",
@@ -100,7 +95,7 @@
     {
       "date": "2026-06-18",
       "close": 428.7,
-      "ema50": 443.81
+      "ema50": 443.8
     },
     {
       "date": "2026-06-19",
@@ -110,7 +105,7 @@
     {
       "date": "2026-06-22",
       "close": 422.25,
-      "ema50": 442.2
+      "ema50": 442.19
     },
     {
       "date": "2026-06-23",
@@ -125,7 +120,7 @@
     {
       "date": "2026-06-25",
       "close": 423.9,
-      "ema50": 439.99
+      "ema50": 439.98
     },
     {
       "date": "2026-06-29",
@@ -210,7 +205,7 @@
     {
       "date": "2026-07-21",
       "close": 426.1,
-      "ema50": 438.02
+      "ema50": 438.01
     },
     {
       "date": "2026-07-22",
@@ -390,7 +385,7 @@
     {
       "date": "2026-09-09",
       "close": 371.55,
-      "ema50": 406.33
+      "ema50": 406.32
     },
     {
       "date": "2026-09-10",
@@ -626,40 +621,47 @@
       "date": "2026-11-18",
       "close": 379.25,
       "ema50": 383.13
+    },
+    {
+      "date": "2026-11-19",
+      "close": 390.65,
+      "ema50": 383.43
     }
   ],
   "flags": {
     "flags": {
-      "price_above_ema20": false,
+      "price_above_ema20": true,
       "ema20_above_ema50": false,
       "ema50_above_ema200": false,
-      "rsi_above_50": false,
+      "rsi_above_50": true,
       "macd_bullish": true,
       "adx_trending_up": false,
       "price_above_vwap20": true,
       "price_above_bb_mid": true
     },
     "flags_detail": {
-      "price_above_ema20": "Close 379.25 vs EMA20 379.42",
-      "ema20_above_ema50": "EMA20 379.42 vs EMA50 383.13",
-      "ema50_above_ema200": "EMA50 383.13 vs EMA200 422.85",
-      "rsi_above_50": "RSI(14) 49.82 vs 50",
-      "macd_bullish": "MACD 0.88 vs signal 0.06",
-      "adx_trending_up": "ADX(14) 18.02 vs 20, +DI 29.81 vs -DI 20.26",
-      "price_above_vwap20": "Close 379.25 vs 20d VWAP 378.70",
-      "price_above_bb_mid": "Close 379.25 vs BB mid 375.48"
+      "price_above_ema20": "Close 390.65 vs EMA20 380.49",
+      "ema20_above_ema50": "EMA20 380.49 vs EMA50 383.43",
+      "ema50_above_ema200": "EMA50 383.43 vs EMA200 422.13",
+      "rsi_above_50": "RSI(14) 57.26 vs 50",
+      "macd_bullish": "MACD 1.64 vs signal 0.38",
+      "adx_trending_up": "ADX(14) 19.09 vs 20, +DI 35.34 vs -DI 17.78",
+      "price_above_vwap20": "Close 390.65 vs 20d VWAP 379.87",
+      "price_above_bb_mid": "Close 390.65 vs BB mid 376.61"
     },
     "flags_on": [
+      "price_above_ema20",
+      "rsi_above_50",
       "macd_bullish",
       "price_above_vwap20",
       "price_above_bb_mid"
     ],
-    "flag_count": 3,
+    "flag_count": 5,
     "flag_total": 8
   },
   "fundamentals": null,
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-11-18T19:05:24.180525+00:00"
+  "updated_at": "2026-11-19T19:13:24.532283+00:00"
 }
