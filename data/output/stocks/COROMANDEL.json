@@ -3,35 +3,30 @@
   "name": "Coromandel International",
   "sector": "Agri & Fertilizers",
   "indicators": {
-    "date": "2026-11-19",
-    "close": 1972.0,
-    "prev_close": 1959.0,
-    "change_pct": 0.6636038795303726,
-    "ema20": 1885.6946056787413,
-    "ema50": 1869.6190223785425,
-    "ema200": 1978.1595137027505,
-    "rsi14": 62.716647103971084,
-    "macd": 47.528757913020854,
-    "macd_signal": 29.69868920956759,
-    "atr14": 60.4578026103106,
-    "adx14": 19.874410707361534,
-    "adx_pos": 29.915080787231595,
-    "adx_neg": 19.618668457378554,
-    "bb_high": 2061.9856562119753,
-    "bb_low": 1631.6743437880245,
-    "bb_mid": 1846.83,
-    "vwap20": 1879.2099449381544,
+    "date": "2026-11-20",
+    "close": 1996.0,
+    "prev_close": 1972.0,
+    "change_pct": 1.2170385395537524,
+    "ema20": 1896.199881328385,
+    "ema50": 1874.5751391480114,
+    "ema200": 1978.33703097934,
+    "rsi14": 64.84920212913731,
+    "macd": 50.04830343625122,
+    "macd_signal": 33.76861205490432,
+    "atr14": 61.36795956671699,
+    "adx14": 20.539794811418975,
+    "adx_pos": 32.74370446221856,
+    "adx_neg": 17.947151103873193,
+    "bb_high": 2076.716157889818,
+    "bb_low": 1644.743842110182,
+    "bb_mid": 1860.73,
+    "vwap20": 1889.4849077006706,
     "high_52w": 2499.0,
     "low_52w": 1651.1,
-    "volume": 345937.0,
-    "avg_volume20": 232947.15
+    "volume": 354904.0,
+    "avg_volume20": 246665.75
   },
   "price_history": [
-    {
-      "date": "2026-06-01",
-      "close": 1787.7,
-      "ema50": 1960.52
-    },
     {
       "date": "2026-06-02",
       "close": 1758.3,
@@ -626,6 +621,11 @@
       "date": "2026-11-19",
       "close": 1972.0,
       "ema50": 1869.62
+    },
+    {
+      "date": "2026-11-20",
+      "close": 1996.0,
+      "ema50": 1874.58
     }
   ],
   "flags": {
@@ -635,34 +635,35 @@
       "ema50_above_ema200": false,
       "rsi_above_50": true,
       "macd_bullish": true,
-      "adx_trending_up": false,
+      "adx_trending_up": true,
       "price_above_vwap20": true,
       "price_above_bb_mid": true
     },
     "flags_detail": {
-      "price_above_ema20": "Close 1,972.00 vs EMA20 1,885.69",
-      "ema20_above_ema50": "EMA20 1,885.69 vs EMA50 1,869.62",
-      "ema50_above_ema200": "EMA50 1,869.62 vs EMA200 1,978.16",
-      "rsi_above_50": "RSI(14) 62.72 vs 50",
-      "macd_bullish": "MACD 47.53 vs signal 29.70",
-      "adx_trending_up": "ADX(14) 19.87 vs 20, +DI 29.92 vs -DI 19.62",
-      "price_above_vwap20": "Close 1,972.00 vs 20d VWAP 1,879.21",
-      "price_above_bb_mid": "Close 1,972.00 vs BB mid 1,846.83"
+      "price_above_ema20": "Close 1,996.00 vs EMA20 1,896.20",
+      "ema20_above_ema50": "EMA20 1,896.20 vs EMA50 1,874.58",
+      "ema50_above_ema200": "EMA50 1,874.58 vs EMA200 1,978.34",
+      "rsi_above_50": "RSI(14) 64.85 vs 50",
+      "macd_bullish": "MACD 50.05 vs signal 33.77",
+      "adx_trending_up": "ADX(14) 20.54 vs 20, +DI 32.74 vs -DI 17.95",
+      "price_above_vwap20": "Close 1,996.00 vs 20d VWAP 1,889.48",
+      "price_above_bb_mid": "Close 1,996.00 vs BB mid 1,860.73"
     },
     "flags_on": [
       "price_above_ema20",
       "ema20_above_ema50",
       "rsi_above_50",
       "macd_bullish",
+      "adx_trending_up",
       "price_above_vwap20",
       "price_above_bb_mid"
     ],
-    "flag_count": 6,
+    "flag_count": 7,
     "flag_total": 8
   },
   "fundamentals": null,
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-11-19T19:13:02.317668+00:00"
+  "updated_at": "2026-11-20T18:49:44.864557+00:00"
 }

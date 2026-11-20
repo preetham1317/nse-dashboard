@@ -3,35 +3,30 @@
   "name": "Container Corporation of India",
   "sector": "Logistics",
   "indicators": {
-    "date": "2026-11-19",
-    "close": 444.0,
-    "prev_close": 436.95,
-    "change_pct": 1.6134569172674245,
-    "ema20": 438.9181813873086,
-    "ema50": 449.86399251626347,
-    "ema200": 479.21829653573036,
-    "rsi14": 52.784861316416105,
-    "macd": -0.4804424219881298,
-    "macd_signal": -3.014235775304945,
-    "atr14": 11.040073311750104,
-    "adx14": 24.64982215312592,
-    "adx_pos": 22.881879747202195,
-    "adx_neg": 17.838562315144905,
-    "bb_high": 458.05753895114066,
-    "bb_low": 405.42746104885936,
-    "bb_mid": 431.7425,
-    "vwap20": 428.6425437275018,
+    "date": "2026-11-20",
+    "close": 438.35,
+    "prev_close": 444.0,
+    "change_pct": -1.2725225225225174,
+    "ema20": 438.8640688742316,
+    "ema50": 449.4124633979786,
+    "ema200": 478.81164681895694,
+    "rsi14": 48.42982441750875,
+    "macd": -0.5531053995848083,
+    "macd_signal": -2.522009700160918,
+    "atr14": 10.844353789482241,
+    "adx14": 23.773779334731707,
+    "adx_pos": 21.6309351438216,
+    "adx_neg": 16.86333416489088,
+    "bb_high": 457.64767248357407,
+    "bb_low": 408.6573275164259,
+    "bb_mid": 433.1525,
+    "vwap20": 429.54205271734975,
     "high_52w": 543.7,
     "low_52w": 404.25,
-    "volume": 1313958.0,
-    "avg_volume20": 1161648.8
+    "volume": 509150.0,
+    "avg_volume20": 1135348.55
   },
   "price_history": [
-    {
-      "date": "2026-06-01",
-      "close": 464.1,
-      "ema50": 495.73
-    },
     {
       "date": "2026-06-02",
       "close": 459.45,
@@ -626,43 +621,46 @@
       "date": "2026-11-19",
       "close": 444.0,
       "ema50": 449.86
+    },
+    {
+      "date": "2026-11-20",
+      "close": 438.35,
+      "ema50": 449.41
     }
   ],
   "flags": {
     "flags": {
-      "price_above_ema20": true,
+      "price_above_ema20": false,
       "ema20_above_ema50": false,
       "ema50_above_ema200": false,
-      "rsi_above_50": true,
+      "rsi_above_50": false,
       "macd_bullish": true,
       "adx_trending_up": true,
       "price_above_vwap20": true,
       "price_above_bb_mid": true
     },
     "flags_detail": {
-      "price_above_ema20": "Close 444.00 vs EMA20 438.92",
-      "ema20_above_ema50": "EMA20 438.92 vs EMA50 449.86",
-      "ema50_above_ema200": "EMA50 449.86 vs EMA200 479.22",
-      "rsi_above_50": "RSI(14) 52.78 vs 50",
-      "macd_bullish": "MACD -0.48 vs signal -3.01",
-      "adx_trending_up": "ADX(14) 24.65 vs 20, +DI 22.88 vs -DI 17.84",
-      "price_above_vwap20": "Close 444.00 vs 20d VWAP 428.64",
-      "price_above_bb_mid": "Close 444.00 vs BB mid 431.74"
+      "price_above_ema20": "Close 438.35 vs EMA20 438.86",
+      "ema20_above_ema50": "EMA20 438.86 vs EMA50 449.41",
+      "ema50_above_ema200": "EMA50 449.41 vs EMA200 478.81",
+      "rsi_above_50": "RSI(14) 48.43 vs 50",
+      "macd_bullish": "MACD -0.55 vs signal -2.52",
+      "adx_trending_up": "ADX(14) 23.77 vs 20, +DI 21.63 vs -DI 16.86",
+      "price_above_vwap20": "Close 438.35 vs 20d VWAP 429.54",
+      "price_above_bb_mid": "Close 438.35 vs BB mid 433.15"
     },
     "flags_on": [
-      "price_above_ema20",
-      "rsi_above_50",
       "macd_bullish",
       "adx_trending_up",
       "price_above_vwap20",
       "price_above_bb_mid"
     ],
-    "flag_count": 6,
+    "flag_count": 4,
     "flag_total": 8
   },
   "fundamentals": null,
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-11-19T19:12:40.120145+00:00"
+  "updated_at": "2026-11-20T18:49:21.381693+00:00"
 }

@@ -3,35 +3,30 @@
   "name": "Texmaco Rail & Engineering",
   "sector": "Railways",
   "indicators": {
-    "date": "2026-11-19",
-    "close": 110.96,
-    "prev_close": 108.79,
-    "change_pct": 1.9946686276312044,
-    "ema20": 108.83766944229778,
-    "ema50": 109.92792557340374,
-    "ema200": 112.98892679147627,
-    "rsi14": 52.90345542921674,
-    "macd": 0.2353165247868958,
-    "macd_signal": -0.6666174599582597,
-    "atr14": 4.741220334994044,
-    "adx14": 17.717869191049033,
-    "adx_pos": 23.97309234784196,
-    "adx_neg": 17.655182975023116,
-    "bb_high": 115.77373467552253,
-    "bb_low": 96.09526532447747,
-    "bb_mid": 105.9345,
-    "vwap20": 106.2518496727741,
+    "date": "2026-11-20",
+    "close": 111.37,
+    "prev_close": 110.96,
+    "change_pct": 0.36950252343187706,
+    "ema20": 109.07884378112657,
+    "ema50": 109.98447751170164,
+    "ema200": 112.97281806718297,
+    "rsi14": 53.48004080115099,
+    "macd": 0.38831219543226325,
+    "macd_signal": -0.4556315288801551,
+    "atr14": 4.635418882494469,
+    "adx14": 17.783276542644,
+    "adx_pos": 24.44843417821439,
+    "adx_neg": 16.768286759512954,
+    "bb_high": 116.06529381857678,
+    "bb_low": 97.09070618142323,
+    "bb_mid": 106.578,
+    "vwap20": 106.75546185337053,
     "high_52w": 142.95,
     "low_52w": 78.05,
-    "volume": 1082765.0,
-    "avg_volume20": 2307942.1
+    "volume": 1324004.0,
+    "avg_volume20": 2246061.7
   },
   "price_history": [
-    {
-      "date": "2026-06-01",
-      "close": 103.58,
-      "ema50": 107.22
-    },
     {
       "date": "2026-06-02",
       "close": 104.19,
@@ -626,6 +621,11 @@
       "date": "2026-11-19",
       "close": 110.96,
       "ema50": 109.93
+    },
+    {
+      "date": "2026-11-20",
+      "close": 111.37,
+      "ema50": 109.98
     }
   ],
   "flags": {
@@ -640,14 +640,14 @@
       "price_above_bb_mid": true
     },
     "flags_detail": {
-      "price_above_ema20": "Close 110.96 vs EMA20 108.84",
-      "ema20_above_ema50": "EMA20 108.84 vs EMA50 109.93",
-      "ema50_above_ema200": "EMA50 109.93 vs EMA200 112.99",
-      "rsi_above_50": "RSI(14) 52.90 vs 50",
-      "macd_bullish": "MACD 0.24 vs signal -0.67",
-      "adx_trending_up": "ADX(14) 17.72 vs 20, +DI 23.97 vs -DI 17.66",
-      "price_above_vwap20": "Close 110.96 vs 20d VWAP 106.25",
-      "price_above_bb_mid": "Close 110.96 vs BB mid 105.93"
+      "price_above_ema20": "Close 111.37 vs EMA20 109.08",
+      "ema20_above_ema50": "EMA20 109.08 vs EMA50 109.98",
+      "ema50_above_ema200": "EMA50 109.98 vs EMA200 112.97",
+      "rsi_above_50": "RSI(14) 53.48 vs 50",
+      "macd_bullish": "MACD 0.39 vs signal -0.46",
+      "adx_trending_up": "ADX(14) 17.78 vs 20, +DI 24.45 vs -DI 16.77",
+      "price_above_vwap20": "Close 111.37 vs 20d VWAP 106.76",
+      "price_above_bb_mid": "Close 111.37 vs BB mid 106.58"
     },
     "flags_on": [
       "price_above_ema20",
@@ -663,5 +663,5 @@
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-11-19T19:58:15.904156+00:00"
+  "updated_at": "2026-11-20T19:35:36.907673+00:00"
 }

@@ -3,35 +3,30 @@
   "name": "Ircon International",
   "sector": "Railways",
   "indicators": {
-    "date": "2026-11-19",
-    "close": 109.2,
-    "prev_close": 105.8,
-    "change_pct": 3.213610586011348,
-    "ema20": 107.20912974893912,
-    "ema50": 109.14480214368201,
-    "ema200": 127.14810437548645,
-    "rsi14": 53.957752883181804,
-    "macd": 0.9888781643143432,
-    "macd_signal": 0.46258903827159004,
-    "atr14": 4.111511420804749,
-    "adx14": 19.36353355798486,
-    "adx_pos": 26.71396162789171,
-    "adx_neg": 20.670395439616378,
-    "bb_high": 116.02459297708003,
-    "bb_low": 94.18040702291995,
-    "bb_mid": 105.10249999999999,
-    "vwap20": 106.89769462423305,
+    "date": "2026-11-20",
+    "close": 108.95,
+    "prev_close": 109.2,
+    "change_pct": -0.22893772893772896,
+    "ema20": 107.37492691570682,
+    "ema50": 109.13716284392977,
+    "ema200": 126.96702871005874,
+    "rsi14": 53.45210565230014,
+    "macd": 0.9850909798295646,
+    "macd_signal": 0.567089426583185,
+    "atr14": 4.005689176461552,
+    "adx14": 18.925707555582395,
+    "adx_pos": 25.710786311800543,
+    "adx_neg": 19.701003842339674,
+    "bb_high": 116.14619027220473,
+    "bb_low": 95.19180972779529,
+    "bb_mid": 105.66900000000001,
+    "vwap20": 107.30308906589062,
     "high_52w": 186.44,
     "low_52w": 95.76,
-    "volume": 2575748.0,
-    "avg_volume20": 3120678.75
+    "volume": 1607771.0,
+    "avg_volume20": 3076291.4
   },
   "price_history": [
-    {
-      "date": "2026-06-01",
-      "close": 134.31,
-      "ema50": 143.99
-    },
     {
       "date": "2026-06-02",
       "close": 135.97,
@@ -626,6 +621,11 @@
       "date": "2026-11-19",
       "close": 109.2,
       "ema50": 109.14
+    },
+    {
+      "date": "2026-11-20",
+      "close": 108.95,
+      "ema50": 109.14
     }
   ],
   "flags": {
@@ -640,14 +640,14 @@
       "price_above_bb_mid": true
     },
     "flags_detail": {
-      "price_above_ema20": "Close 109.20 vs EMA20 107.21",
-      "ema20_above_ema50": "EMA20 107.21 vs EMA50 109.14",
-      "ema50_above_ema200": "EMA50 109.14 vs EMA200 127.15",
-      "rsi_above_50": "RSI(14) 53.96 vs 50",
-      "macd_bullish": "MACD 0.99 vs signal 0.46",
-      "adx_trending_up": "ADX(14) 19.36 vs 20, +DI 26.71 vs -DI 20.67",
-      "price_above_vwap20": "Close 109.20 vs 20d VWAP 106.90",
-      "price_above_bb_mid": "Close 109.20 vs BB mid 105.10"
+      "price_above_ema20": "Close 108.95 vs EMA20 107.37",
+      "ema20_above_ema50": "EMA20 107.37 vs EMA50 109.14",
+      "ema50_above_ema200": "EMA50 109.14 vs EMA200 126.97",
+      "rsi_above_50": "RSI(14) 53.45 vs 50",
+      "macd_bullish": "MACD 0.99 vs signal 0.57",
+      "adx_trending_up": "ADX(14) 18.93 vs 20, +DI 25.71 vs -DI 19.70",
+      "price_above_vwap20": "Close 108.95 vs 20d VWAP 107.30",
+      "price_above_bb_mid": "Close 108.95 vs BB mid 105.67"
     },
     "flags_on": [
       "price_above_ema20",
@@ -663,5 +663,5 @@
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-11-19T19:27:25.058181+00:00"
+  "updated_at": "2026-11-20T19:03:44.602485+00:00"
 }

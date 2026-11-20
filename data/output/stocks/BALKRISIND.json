@@ -3,35 +3,30 @@
   "name": "Balkrishna Industries",
   "sector": "Auto Ancillary",
   "indicators": {
-    "date": "2026-11-19",
-    "close": 2327.3,
-    "prev_close": 2286.4,
-    "change_pct": 1.7888383484954553,
-    "ema20": 2253.9312350927994,
-    "ema50": 2212.9726257494412,
-    "ema200": 2238.733369979366,
-    "rsi14": 60.303558708266024,
-    "macd": 50.215133645594506,
-    "macd_signal": 46.81546883540735,
-    "atr14": 66.84563573720908,
-    "adx14": 30.76207237786981,
-    "adx_pos": 26.36873491850484,
-    "adx_neg": 13.898088825616274,
-    "bb_high": 2461.847835124615,
-    "bb_low": 2021.5821648753854,
-    "bb_mid": 2241.715,
-    "vwap20": 2241.143207212451,
+    "date": "2026-11-20",
+    "close": 2363.8,
+    "prev_close": 2327.3,
+    "change_pct": 1.568340996003953,
+    "ema20": 2264.3949269887235,
+    "ema50": 2218.8874247396593,
+    "ema200": 2239.977814059174,
+    "rsi14": 63.282615095981534,
+    "macd": 52.621264590971805,
+    "macd_signal": 47.97662798652025,
+    "atr14": 67.27809032740844,
+    "adx14": 31.19006109279945,
+    "adx_pos": 27.725278459557263,
+    "adx_neg": 12.822414209949562,
+    "bb_high": 2471.9326799710784,
+    "bb_low": 2036.8973200289215,
+    "bb_mid": 2254.415,
+    "vwap20": 2278.6626026692497,
     "high_52w": 2775.0,
     "low_52w": 1964.7,
-    "volume": 93796.0,
-    "avg_volume20": 215462.6
+    "volume": 71743.0,
+    "avg_volume20": 175580.0
   },
   "price_history": [
-    {
-      "date": "2026-06-01",
-      "close": 2167.7,
-      "ema50": 2220.94
-    },
     {
       "date": "2026-06-02",
       "close": 2150.3,
@@ -626,6 +621,11 @@
       "date": "2026-11-19",
       "close": 2327.3,
       "ema50": 2212.97
+    },
+    {
+      "date": "2026-11-20",
+      "close": 2363.8,
+      "ema50": 2218.89
     }
   ],
   "flags": {
@@ -640,14 +640,14 @@
       "price_above_bb_mid": true
     },
     "flags_detail": {
-      "price_above_ema20": "Close 2,327.30 vs EMA20 2,253.93",
-      "ema20_above_ema50": "EMA20 2,253.93 vs EMA50 2,212.97",
-      "ema50_above_ema200": "EMA50 2,212.97 vs EMA200 2,238.73",
-      "rsi_above_50": "RSI(14) 60.30 vs 50",
-      "macd_bullish": "MACD 50.22 vs signal 46.82",
-      "adx_trending_up": "ADX(14) 30.76 vs 20, +DI 26.37 vs -DI 13.90",
-      "price_above_vwap20": "Close 2,327.30 vs 20d VWAP 2,241.14",
-      "price_above_bb_mid": "Close 2,327.30 vs BB mid 2,241.72"
+      "price_above_ema20": "Close 2,363.80 vs EMA20 2,264.39",
+      "ema20_above_ema50": "EMA20 2,264.39 vs EMA50 2,218.89",
+      "ema50_above_ema200": "EMA50 2,218.89 vs EMA200 2,239.98",
+      "rsi_above_50": "RSI(14) 63.28 vs 50",
+      "macd_bullish": "MACD 52.62 vs signal 47.98",
+      "adx_trending_up": "ADX(14) 31.19 vs 20, +DI 27.73 vs -DI 12.82",
+      "price_above_vwap20": "Close 2,363.80 vs 20d VWAP 2,278.66",
+      "price_above_bb_mid": "Close 2,363.80 vs BB mid 2,254.41"
     },
     "flags_on": [
       "price_above_ema20",
@@ -665,5 +665,5 @@
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-11-19T19:05:37.079432+00:00"
+  "updated_at": "2026-11-20T18:42:12.310988+00:00"
 }

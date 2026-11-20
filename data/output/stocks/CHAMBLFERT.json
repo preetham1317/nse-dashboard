@@ -3,35 +3,30 @@
   "name": "Chambal Fertilisers and Chemicals",
   "sector": "Agri & Fertilizers",
   "indicators": {
-    "date": "2026-11-19",
-    "close": 372.5,
-    "prev_close": 371.65,
-    "change_pct": 0.22870980761469736,
-    "ema20": 379.73572881680764,
-    "ema50": 391.59979718461545,
-    "ema200": 431.1036930174313,
-    "rsi14": 42.78792085965628,
-    "macd": -3.5205168091545715,
-    "macd_signal": -3.59379919841507,
-    "atr14": 10.498571918317625,
-    "adx14": 20.48729299528187,
-    "adx_pos": 21.614322121067303,
-    "adx_neg": 23.636587486132782,
-    "bb_high": 400.43179987447525,
-    "bb_low": 350.71820012552473,
-    "bb_mid": 375.575,
-    "vwap20": 376.8840830804176,
+    "date": "2026-11-20",
+    "close": 371.55,
+    "prev_close": 372.5,
+    "change_pct": -0.25503355704697683,
+    "ema20": 378.9561355961593,
+    "ema50": 390.81353062835603,
+    "ema200": 430.5111189575564,
+    "rsi14": 42.176948762245075,
+    "macd": -3.7807183442656083,
+    "macd_signal": -3.6311830275851777,
+    "atr14": 10.012959638437794,
+    "adx14": 19.343129559498152,
+    "adx_pos": 21.043825807608098,
+    "adx_neg": 23.012714761924073,
+    "bb_high": 400.3167507580986,
+    "bb_low": 351.5932492419015,
+    "bb_mid": 375.95500000000004,
+    "vwap20": 377.2551459305226,
     "high_52w": 497.8,
     "low_52w": 350.0,
-    "volume": 170816.0,
-    "avg_volume20": 475471.45
+    "volume": 158971.0,
+    "avg_volume20": 460891.7
   },
   "price_history": [
-    {
-      "date": "2026-06-01",
-      "close": 469.45,
-      "ema50": 450.21
-    },
     {
       "date": "2026-06-02",
       "close": 469.55,
@@ -626,6 +621,11 @@
       "date": "2026-11-19",
       "close": 372.5,
       "ema50": 391.6
+    },
+    {
+      "date": "2026-11-20",
+      "close": 371.55,
+      "ema50": 390.81
     }
   ],
   "flags": {
@@ -634,30 +634,28 @@
       "ema20_above_ema50": false,
       "ema50_above_ema200": false,
       "rsi_above_50": false,
-      "macd_bullish": true,
+      "macd_bullish": false,
       "adx_trending_up": false,
       "price_above_vwap20": false,
       "price_above_bb_mid": false
     },
     "flags_detail": {
-      "price_above_ema20": "Close 372.50 vs EMA20 379.74",
-      "ema20_above_ema50": "EMA20 379.74 vs EMA50 391.60",
-      "ema50_above_ema200": "EMA50 391.60 vs EMA200 431.10",
-      "rsi_above_50": "RSI(14) 42.79 vs 50",
-      "macd_bullish": "MACD -3.52 vs signal -3.59",
-      "adx_trending_up": "ADX(14) 20.49 vs 20, +DI 21.61 vs -DI 23.64",
-      "price_above_vwap20": "Close 372.50 vs 20d VWAP 376.88",
-      "price_above_bb_mid": "Close 372.50 vs BB mid 375.57"
+      "price_above_ema20": "Close 371.55 vs EMA20 378.96",
+      "ema20_above_ema50": "EMA20 378.96 vs EMA50 390.81",
+      "ema50_above_ema200": "EMA50 390.81 vs EMA200 430.51",
+      "rsi_above_50": "RSI(14) 42.18 vs 50",
+      "macd_bullish": "MACD -3.78 vs signal -3.63",
+      "adx_trending_up": "ADX(14) 19.34 vs 20, +DI 21.04 vs -DI 23.01",
+      "price_above_vwap20": "Close 371.55 vs 20d VWAP 377.26",
+      "price_above_bb_mid": "Close 371.55 vs BB mid 375.96"
     },
-    "flags_on": [
-      "macd_bullish"
-    ],
-    "flag_count": 1,
+    "flags_on": [],
+    "flag_count": 0,
     "flag_total": 8
   },
   "fundamentals": null,
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-11-19T19:10:26.645537+00:00"
+  "updated_at": "2026-11-20T18:47:06.099503+00:00"
 }

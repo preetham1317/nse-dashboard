@@ -3,35 +3,30 @@
   "name": "Syrma SGS Technology",
   "sector": "Electronics",
   "indicators": {
-    "date": "2026-11-19",
-    "close": 1517.0,
-    "prev_close": 1475.0,
-    "change_pct": 2.847457627118644,
-    "ema20": 1515.128178453073,
-    "ema50": 1538.288830096609,
-    "ema200": 1305.8412661452423,
-    "rsi14": 48.85185190604904,
-    "macd": -31.51165786580418,
-    "macd_signal": -32.91313966972859,
-    "atr14": 65.49488026370221,
-    "adx14": 20.857939676680605,
-    "adx_pos": 22.61661121928856,
-    "adx_neg": 29.776517392814966,
-    "bb_high": 1620.6638712637932,
-    "bb_low": 1396.1661287362067,
-    "bb_mid": 1508.415,
-    "vwap20": 1520.2530796584872,
+    "date": "2026-11-20",
+    "close": 1515.6,
+    "prev_close": 1517.0,
+    "change_pct": -0.09228740936058609,
+    "ema20": 1515.1731138384946,
+    "ema50": 1537.3990720536049,
+    "ema200": 1307.9284177258867,
+    "rsi14": 48.71851518412184,
+    "macd": -27.583648993773068,
+    "macd_signal": -31.847241534537485,
+    "atr14": 64.05238881629491,
+    "adx14": 20.21348840006225,
+    "adx_pos": 22.288160785783123,
+    "adx_neg": 28.272306472863768,
+    "bb_high": 1619.3463743415891,
+    "bb_low": 1405.7336256584108,
+    "bb_mid": 1512.54,
+    "vwap20": 1523.043466230138,
     "high_52w": 1822.6,
     "low_52w": 634.5,
-    "volume": 1584471.0,
-    "avg_volume20": 1639312.45
+    "volume": 1006909.0,
+    "avg_volume20": 1624818.35
   },
   "price_history": [
-    {
-      "date": "2026-06-01",
-      "close": 1107.3,
-      "ema50": 965.25
-    },
     {
       "date": "2026-06-02",
       "close": 1166.8,
@@ -626,6 +621,11 @@
       "date": "2026-11-19",
       "close": 1517.0,
       "ema50": 1538.29
+    },
+    {
+      "date": "2026-11-20",
+      "close": 1515.6,
+      "ema50": 1537.4
     }
   ],
   "flags": {
@@ -640,14 +640,14 @@
       "price_above_bb_mid": true
     },
     "flags_detail": {
-      "price_above_ema20": "Close 1,517.00 vs EMA20 1,515.13",
-      "ema20_above_ema50": "EMA20 1,515.13 vs EMA50 1,538.29",
-      "ema50_above_ema200": "EMA50 1,538.29 vs EMA200 1,305.84",
-      "rsi_above_50": "RSI(14) 48.85 vs 50",
-      "macd_bullish": "MACD -31.51 vs signal -32.91",
-      "adx_trending_up": "ADX(14) 20.86 vs 20, +DI 22.62 vs -DI 29.78",
-      "price_above_vwap20": "Close 1,517.00 vs 20d VWAP 1,520.25",
-      "price_above_bb_mid": "Close 1,517.00 vs BB mid 1,508.41"
+      "price_above_ema20": "Close 1,515.60 vs EMA20 1,515.17",
+      "ema20_above_ema50": "EMA20 1,515.17 vs EMA50 1,537.40",
+      "ema50_above_ema200": "EMA50 1,537.40 vs EMA200 1,307.93",
+      "rsi_above_50": "RSI(14) 48.72 vs 50",
+      "macd_bullish": "MACD -27.58 vs signal -31.85",
+      "adx_trending_up": "ADX(14) 20.21 vs 20, +DI 22.29 vs -DI 28.27",
+      "price_above_vwap20": "Close 1,515.60 vs 20d VWAP 1,523.04",
+      "price_above_bb_mid": "Close 1,515.60 vs BB mid 1,512.54"
     },
     "flags_on": [
       "price_above_ema20",
@@ -662,5 +662,5 @@
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-11-19T19:55:17.926456+00:00"
+  "updated_at": "2026-11-20T19:32:34.603510+00:00"
 }

@@ -3,35 +3,30 @@
   "name": "Brigade Enterprises",
   "sector": "Realty",
   "indicators": {
-    "date": "2026-11-19",
-    "close": 566.2,
-    "prev_close": 565.95,
-    "change_pct": 0.04417351356126866,
-    "ema20": 555.7853843645977,
-    "ema50": 567.8019959701218,
-    "ema200": 582.9304176561251,
-    "rsi14": 53.581449444993304,
-    "macd": -3.0226654558437076,
-    "macd_signal": -7.255207105499308,
-    "atr14": 20.093200135831154,
-    "adx14": 16.008865288379603,
-    "adx_pos": 28.8987863517578,
-    "adx_neg": 16.863397584674995,
-    "bb_high": 572.8714789415701,
-    "bb_low": 522.4285210584299,
-    "bb_mid": 547.65,
-    "vwap20": 547.4417052200121,
+    "date": "2026-11-20",
+    "close": 578.35,
+    "prev_close": 566.2,
+    "change_pct": 2.145884846344044,
+    "ema20": 557.9343953774932,
+    "ema50": 568.2156431869797,
+    "ema200": 582.8848413610393,
+    "rsi14": 58.413732469666996,
+    "macd": -0.9533040670175978,
+    "macd_signal": -5.994826497802967,
+    "atr14": 20.343685840414643,
+    "adx14": 16.743936098658313,
+    "adx_pos": 26.504181098027047,
+    "adx_neg": 15.466066224094968,
+    "bb_high": 577.7385923608898,
+    "bb_low": 520.6364076391102,
+    "bb_mid": 549.1875,
+    "vwap20": 549.3545339803187,
     "high_52w": 735.0,
     "low_52w": 450.75,
-    "volume": 186957.0,
-    "avg_volume20": 362906.25
+    "volume": 575091.0,
+    "avg_volume20": 381533.6
   },
   "price_history": [
-    {
-      "date": "2026-06-01",
-      "close": 495.0,
-      "ema50": 537.8
-    },
     {
       "date": "2026-06-02",
       "close": 487.88,
@@ -626,6 +621,11 @@
       "date": "2026-11-19",
       "close": 566.2,
       "ema50": 567.8
+    },
+    {
+      "date": "2026-11-20",
+      "close": 578.35,
+      "ema50": 568.22
     }
   ],
   "flags": {
@@ -640,14 +640,14 @@
       "price_above_bb_mid": true
     },
     "flags_detail": {
-      "price_above_ema20": "Close 566.20 vs EMA20 555.79",
-      "ema20_above_ema50": "EMA20 555.79 vs EMA50 567.80",
-      "ema50_above_ema200": "EMA50 567.80 vs EMA200 582.93",
-      "rsi_above_50": "RSI(14) 53.58 vs 50",
-      "macd_bullish": "MACD -3.02 vs signal -7.26",
-      "adx_trending_up": "ADX(14) 16.01 vs 20, +DI 28.90 vs -DI 16.86",
-      "price_above_vwap20": "Close 566.20 vs 20d VWAP 547.44",
-      "price_above_bb_mid": "Close 566.20 vs BB mid 547.65"
+      "price_above_ema20": "Close 578.35 vs EMA20 557.93",
+      "ema20_above_ema50": "EMA20 557.93 vs EMA50 568.22",
+      "ema50_above_ema200": "EMA50 568.22 vs EMA200 582.88",
+      "rsi_above_50": "RSI(14) 58.41 vs 50",
+      "macd_bullish": "MACD -0.95 vs signal -5.99",
+      "adx_trending_up": "ADX(14) 16.74 vs 20, +DI 26.50 vs -DI 15.47",
+      "price_above_vwap20": "Close 578.35 vs 20d VWAP 549.35",
+      "price_above_bb_mid": "Close 578.35 vs BB mid 549.19"
     },
     "flags_on": [
       "price_above_ema20",
@@ -663,5 +663,5 @@
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-11-19T19:08:57.676138+00:00"
+  "updated_at": "2026-11-20T18:45:36.185978+00:00"
 }

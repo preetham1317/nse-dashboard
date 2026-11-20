@@ -3,35 +3,30 @@
   "name": "Tata Power",
   "sector": "Power",
   "indicators": {
-    "date": "2026-11-19",
-    "close": 340.0,
-    "prev_close": 338.0,
-    "change_pct": 0.591715976331361,
-    "ema20": 349.48085283467015,
-    "ema50": 354.8266777854098,
-    "ema200": 373.3318118281914,
-    "rsi14": 40.22456297111157,
-    "macd": -2.4878778320567108,
-    "macd_signal": -1.063891739635212,
-    "atr14": 8.49057901979195,
-    "adx14": 14.16250315694928,
-    "adx_pos": 20.590576622166257,
-    "adx_neg": 27.49785408669337,
-    "bb_high": 366.50929068305373,
-    "bb_low": 332.1107093169464,
-    "bb_mid": 349.31000000000006,
-    "vwap20": 349.76385503654535,
+    "date": "2026-11-20",
+    "close": 339.7,
+    "prev_close": 340.0,
+    "change_pct": -0.0882352941176504,
+    "ema20": 348.54934304089204,
+    "ema50": 354.23347473500155,
+    "ema200": 372.9971669343786,
+    "rsi14": 40.00223965676611,
+    "macd": -2.9583352769600424,
+    "macd_signal": -1.4427804471001782,
+    "atr14": 8.394823375521097,
+    "adx14": 14.169186529109608,
+    "adx_pos": 19.380454822037077,
+    "adx_neg": 25.824972326060415,
+    "bb_high": 366.58993220326505,
+    "bb_low": 331.1900677967349,
+    "bb_mid": 348.89,
+    "vwap20": 349.19263894881004,
     "high_52w": 464.9,
     "low_52w": 333.2,
-    "volume": 18924224.0,
-    "avg_volume20": 7153972.95
+    "volume": 9567088.0,
+    "avg_volume20": 7423294.05
   },
   "price_history": [
-    {
-      "date": "2026-06-01",
-      "close": 419.5,
-      "ema50": 413.33
-    },
     {
       "date": "2026-06-02",
       "close": 414.9,
@@ -626,6 +621,11 @@
       "date": "2026-11-19",
       "close": 340.0,
       "ema50": 354.83
+    },
+    {
+      "date": "2026-11-20",
+      "close": 339.7,
+      "ema50": 354.23
     }
   ],
   "flags": {
@@ -640,14 +640,14 @@
       "price_above_bb_mid": false
     },
     "flags_detail": {
-      "price_above_ema20": "Close 340.00 vs EMA20 349.48",
-      "ema20_above_ema50": "EMA20 349.48 vs EMA50 354.83",
-      "ema50_above_ema200": "EMA50 354.83 vs EMA200 373.33",
-      "rsi_above_50": "RSI(14) 40.22 vs 50",
-      "macd_bullish": "MACD -2.49 vs signal -1.06",
-      "adx_trending_up": "ADX(14) 14.16 vs 20, +DI 20.59 vs -DI 27.50",
-      "price_above_vwap20": "Close 340.00 vs 20d VWAP 349.76",
-      "price_above_bb_mid": "Close 340.00 vs BB mid 349.31"
+      "price_above_ema20": "Close 339.70 vs EMA20 348.55",
+      "ema20_above_ema50": "EMA20 348.55 vs EMA50 354.23",
+      "ema50_above_ema200": "EMA50 354.23 vs EMA200 373.00",
+      "rsi_above_50": "RSI(14) 40.00 vs 50",
+      "macd_bullish": "MACD -2.96 vs signal -1.44",
+      "adx_trending_up": "ADX(14) 14.17 vs 20, +DI 19.38 vs -DI 25.82",
+      "price_above_vwap20": "Close 339.70 vs 20d VWAP 349.19",
+      "price_above_bb_mid": "Close 339.70 vs BB mid 348.89"
     },
     "flags_on": [],
     "flag_count": 0,
@@ -657,5 +657,5 @@
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-11-19T19:56:24.872599+00:00"
+  "updated_at": "2026-11-20T19:33:42.938548+00:00"
 }

@@ -3,35 +3,30 @@
   "name": "Titan Company",
   "sector": "Jewellery",
   "indicators": {
-    "date": "2026-11-19",
-    "close": 4700.0,
-    "prev_close": 4648.1,
-    "change_pct": 1.1165852714012099,
-    "ema20": 4739.430259927144,
-    "ema50": 4704.334052666288,
-    "ema200": 4498.39472811286,
-    "rsi14": 48.99769628570596,
-    "macd": 64.19462776360888,
-    "macd_signal": 65.86019645892327,
-    "atr14": 122.20143128086777,
-    "adx14": 33.46505432346492,
-    "adx_pos": 22.10447333651302,
-    "adx_neg": 31.840029808999233,
-    "bb_high": 5190.559917207704,
-    "bb_low": 4181.710082792297,
-    "bb_mid": 4686.135,
-    "vwap20": 4726.331727243229,
+    "date": "2026-11-20",
+    "close": 4620.0,
+    "prev_close": 4700.0,
+    "change_pct": -1.702127659574468,
+    "ema20": 4728.055949457892,
+    "ema50": 4701.026834914669,
+    "ema200": 4499.604730818205,
+    "rsi14": 44.94231932494139,
+    "macd": 46.35011735439912,
+    "macd_signal": 61.95818063801845,
+    "atr14": 126.04418618937721,
+    "adx14": 32.48552437752405,
+    "adx_pos": 19.899811494797245,
+    "adx_neg": 29.695744787771417,
+    "bb_high": 5175.887207742856,
+    "bb_low": 4228.412792257143,
+    "bb_mid": 4702.15,
+    "vwap20": 4729.819806271417,
     "high_52w": 5186.7,
     "low_52w": 3751.0,
-    "volume": 1144865.0,
-    "avg_volume20": 1019818.25
+    "volume": 1478945.0,
+    "avg_volume20": 1062104.5
   },
   "price_history": [
-    {
-      "date": "2026-06-01",
-      "close": 4024.6,
-      "ema50": 4210.16
-    },
     {
       "date": "2026-06-02",
       "close": 4078.1,
@@ -626,6 +621,11 @@
       "date": "2026-11-19",
       "close": 4700.0,
       "ema50": 4704.33
+    },
+    {
+      "date": "2026-11-20",
+      "close": 4620.0,
+      "ema50": 4701.03
     }
   ],
   "flags": {
@@ -637,29 +637,28 @@
       "macd_bullish": false,
       "adx_trending_up": false,
       "price_above_vwap20": false,
-      "price_above_bb_mid": true
+      "price_above_bb_mid": false
     },
     "flags_detail": {
-      "price_above_ema20": "Close 4,700.00 vs EMA20 4,739.43",
-      "ema20_above_ema50": "EMA20 4,739.43 vs EMA50 4,704.33",
-      "ema50_above_ema200": "EMA50 4,704.33 vs EMA200 4,498.39",
-      "rsi_above_50": "RSI(14) 49.00 vs 50",
-      "macd_bullish": "MACD 64.19 vs signal 65.86",
-      "adx_trending_up": "ADX(14) 33.47 vs 20, +DI 22.10 vs -DI 31.84",
-      "price_above_vwap20": "Close 4,700.00 vs 20d VWAP 4,726.33",
-      "price_above_bb_mid": "Close 4,700.00 vs BB mid 4,686.14"
+      "price_above_ema20": "Close 4,620.00 vs EMA20 4,728.06",
+      "ema20_above_ema50": "EMA20 4,728.06 vs EMA50 4,701.03",
+      "ema50_above_ema200": "EMA50 4,701.03 vs EMA200 4,499.60",
+      "rsi_above_50": "RSI(14) 44.94 vs 50",
+      "macd_bullish": "MACD 46.35 vs signal 61.96",
+      "adx_trending_up": "ADX(14) 32.49 vs 20, +DI 19.90 vs -DI 29.70",
+      "price_above_vwap20": "Close 4,620.00 vs 20d VWAP 4,729.82",
+      "price_above_bb_mid": "Close 4,620.00 vs BB mid 4,702.15"
     },
     "flags_on": [
       "ema20_above_ema50",
-      "ema50_above_ema200",
-      "price_above_bb_mid"
+      "ema50_above_ema200"
     ],
-    "flag_count": 3,
+    "flag_count": 2,
     "flag_total": 8
   },
   "fundamentals": null,
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-11-19T19:59:00.578194+00:00"
+  "updated_at": "2026-11-20T19:36:22.423520+00:00"
 }

@@ -3,35 +3,30 @@
   "name": "Divi's Laboratories",
   "sector": "Pharma",
   "indicators": {
-    "date": "2026-11-19",
-    "close": 11178.0,
-    "prev_close": 11049.0,
-    "change_pct": 1.1675264729839805,
-    "ema20": 10596.05962918578,
-    "ema50": 9865.737560795384,
-    "ema200": 8161.91258722288,
-    "rsi14": 67.75979836916255,
-    "macd": 504.2968345895224,
-    "macd_signal": 464.27524474517395,
-    "atr14": 317.1421161080122,
-    "adx14": 43.72610954313677,
-    "adx_pos": 36.41682972374497,
-    "adx_neg": 13.653265025438563,
-    "bb_high": 12092.900752912772,
-    "bb_low": 8750.049247087229,
-    "bb_mid": 10421.475,
-    "vwap20": 10565.648827289948,
+    "date": "2026-11-20",
+    "close": 11180.5,
+    "prev_close": 11178.0,
+    "change_pct": 0.022365360529611737,
+    "ema20": 10651.720616882372,
+    "ema50": 9917.296872136742,
+    "ema200": 8191.948282872403,
+    "rsi14": 67.79563375643446,
+    "macd": 488.33490236541,
+    "macd_signal": 469.0871762692212,
+    "atr14": 306.8462506717256,
+    "adx14": 43.88758026587233,
+    "adx_pos": 35.41583712965946,
+    "adx_neg": 13.1034282716328,
+    "bb_high": 12090.590703618902,
+    "bb_low": 8975.409296381098,
+    "bb_mid": 10533.0,
+    "vwap20": 10639.110740391381,
     "high_52w": 11824.0,
     "low_52w": 5647.5,
-    "volume": 619182.0,
-    "avg_volume20": 839377.7
+    "volume": 404825.0,
+    "avg_volume20": 828605.9
   },
   "price_history": [
-    {
-      "date": "2026-06-01",
-      "close": 6553.5,
-      "ema50": 6517.37
-    },
     {
       "date": "2026-06-02",
       "close": 6533.0,
@@ -626,6 +621,11 @@
       "date": "2026-11-19",
       "close": 11178.0,
       "ema50": 9865.74
+    },
+    {
+      "date": "2026-11-20",
+      "close": 11180.5,
+      "ema50": 9917.3
     }
   ],
   "flags": {
@@ -640,14 +640,14 @@
       "price_above_bb_mid": true
     },
     "flags_detail": {
-      "price_above_ema20": "Close 11,178.00 vs EMA20 10,596.06",
-      "ema20_above_ema50": "EMA20 10,596.06 vs EMA50 9,865.74",
-      "ema50_above_ema200": "EMA50 9,865.74 vs EMA200 8,161.91",
-      "rsi_above_50": "RSI(14) 67.76 vs 50",
-      "macd_bullish": "MACD 504.30 vs signal 464.28",
-      "adx_trending_up": "ADX(14) 43.73 vs 20, +DI 36.42 vs -DI 13.65",
-      "price_above_vwap20": "Close 11,178.00 vs 20d VWAP 10,565.65",
-      "price_above_bb_mid": "Close 11,178.00 vs BB mid 10,421.48"
+      "price_above_ema20": "Close 11,180.50 vs EMA20 10,651.72",
+      "ema20_above_ema50": "EMA20 10,651.72 vs EMA50 9,917.30",
+      "ema50_above_ema200": "EMA50 9,917.30 vs EMA200 8,191.95",
+      "rsi_above_50": "RSI(14) 67.80 vs 50",
+      "macd_bullish": "MACD 488.33 vs signal 469.09",
+      "adx_trending_up": "ADX(14) 43.89 vs 20, +DI 35.42 vs -DI 13.10",
+      "price_above_vwap20": "Close 11,180.50 vs 20d VWAP 10,639.11",
+      "price_above_bb_mid": "Close 11,180.50 vs BB mid 10,533.00"
     },
     "flags_on": [
       "price_above_ema20",
@@ -666,5 +666,5 @@
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-11-19T19:14:53.475913+00:00"
+  "updated_at": "2026-11-20T18:51:37.889739+00:00"
 }

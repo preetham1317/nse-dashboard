@@ -3,35 +3,30 @@
   "name": "Abbott India",
   "sector": "Pharma",
   "indicators": {
-    "date": "2026-11-19",
-    "close": 25695.0,
-    "prev_close": 25470.0,
-    "change_pct": 0.88339222614841,
-    "ema20": 26076.81028043064,
-    "ema50": 26206.387155938533,
-    "ema200": 26937.012345068735,
-    "rsi14": 45.30524021000552,
-    "macd": -64.3433322027231,
-    "macd_signal": 5.3047284718121475,
-    "atr14": 616.0237611698254,
-    "adx14": 15.288949800939452,
-    "adx_pos": 17.017533132230387,
-    "adx_neg": 21.984350835152398,
-    "bb_high": 27114.896170445532,
-    "bb_low": 24984.103829554468,
-    "bb_mid": 26049.5,
-    "vwap20": 26181.705566963887,
+    "date": "2026-11-20",
+    "close": 26525.0,
+    "prev_close": 25695.0,
+    "change_pct": 3.230200428098852,
+    "ema20": 26119.495015627723,
+    "ema50": 26218.88177727428,
+    "ema200": 26932.91271974467,
+    "rsi14": 54.10274447076578,
+    "macd": -20.36694224565872,
+    "macd_signal": 0.17039432831797452,
+    "atr14": 645.9506353719808,
+    "adx14": 14.81274372479217,
+    "adx_pos": 23.142155640412547,
+    "adx_neg": 19.468258177254135,
+    "bb_high": 27098.961624020154,
+    "bb_low": 25149.538375979846,
+    "bb_mid": 26124.25,
+    "vwap20": 26234.89059851931,
     "high_52w": 30655.0,
     "low_52w": 24650.0,
-    "volume": 11674.0,
-    "avg_volume20": 9179.45
+    "volume": 11142.0,
+    "avg_volume20": 9342.5
   },
   "price_history": [
-    {
-      "date": "2026-06-01",
-      "close": 26840.0,
-      "ema50": 26802.04
-    },
     {
       "date": "2026-06-02",
       "close": 26295.0,
@@ -626,36 +621,46 @@
       "date": "2026-11-19",
       "close": 25695.0,
       "ema50": 26206.39
+    },
+    {
+      "date": "2026-11-20",
+      "close": 26525.0,
+      "ema50": 26218.88
     }
   ],
   "flags": {
     "flags": {
-      "price_above_ema20": false,
+      "price_above_ema20": true,
       "ema20_above_ema50": false,
       "ema50_above_ema200": false,
-      "rsi_above_50": false,
+      "rsi_above_50": true,
       "macd_bullish": false,
       "adx_trending_up": false,
-      "price_above_vwap20": false,
-      "price_above_bb_mid": false
+      "price_above_vwap20": true,
+      "price_above_bb_mid": true
     },
     "flags_detail": {
-      "price_above_ema20": "Close 25,695.00 vs EMA20 26,076.81",
-      "ema20_above_ema50": "EMA20 26,076.81 vs EMA50 26,206.39",
-      "ema50_above_ema200": "EMA50 26,206.39 vs EMA200 26,937.01",
-      "rsi_above_50": "RSI(14) 45.31 vs 50",
-      "macd_bullish": "MACD -64.34 vs signal 5.30",
-      "adx_trending_up": "ADX(14) 15.29 vs 20, +DI 17.02 vs -DI 21.98",
-      "price_above_vwap20": "Close 25,695.00 vs 20d VWAP 26,181.71",
-      "price_above_bb_mid": "Close 25,695.00 vs BB mid 26,049.50"
+      "price_above_ema20": "Close 26,525.00 vs EMA20 26,119.50",
+      "ema20_above_ema50": "EMA20 26,119.50 vs EMA50 26,218.88",
+      "ema50_above_ema200": "EMA50 26,218.88 vs EMA200 26,932.91",
+      "rsi_above_50": "RSI(14) 54.10 vs 50",
+      "macd_bullish": "MACD -20.37 vs signal 0.17",
+      "adx_trending_up": "ADX(14) 14.81 vs 20, +DI 23.14 vs -DI 19.47",
+      "price_above_vwap20": "Close 26,525.00 vs 20d VWAP 26,234.89",
+      "price_above_bb_mid": "Close 26,525.00 vs BB mid 26,124.25"
     },
-    "flags_on": [],
-    "flag_count": 0,
+    "flags_on": [
+      "price_above_ema20",
+      "rsi_above_50",
+      "price_above_vwap20",
+      "price_above_bb_mid"
+    ],
+    "flag_count": 4,
     "flag_total": 8
   },
   "fundamentals": null,
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-11-19T18:58:56.534908+00:00"
+  "updated_at": "2026-11-20T18:35:22.899513+00:00"
 }

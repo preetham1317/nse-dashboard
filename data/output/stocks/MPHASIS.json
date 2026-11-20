@@ -3,35 +3,30 @@
   "name": "Mphasis",
   "sector": "IT",
   "indicators": {
-    "date": "2026-11-19",
-    "close": 2356.0,
-    "prev_close": 2397.0,
-    "change_pct": -1.7104714226115976,
-    "ema20": 2447.58180633895,
-    "ema50": 2427.057704375974,
-    "ema200": 2432.4355181265482,
-    "rsi14": 41.20310932503182,
-    "macd": -8.119331856384179,
-    "macd_signal": 12.092963543801002,
-    "atr14": 82.55897803465935,
-    "adx14": 21.44461833639116,
-    "adx_pos": 19.586136802250735,
-    "adx_neg": 20.5416868975268,
-    "bb_high": 2619.6839364309176,
-    "bb_low": 2352.636063569082,
-    "bb_mid": 2486.16,
-    "vwap20": 2515.2973186962604,
+    "date": "2026-11-20",
+    "close": 2420.0,
+    "prev_close": 2356.0,
+    "change_pct": 2.7164685908319184,
+    "ema20": 2444.9549676400025,
+    "ema50": 2426.7809316553476,
+    "ema200": 2432.311781627777,
+    "rsi14": 47.79230998263057,
+    "macd": -8.929785229181107,
+    "macd_signal": 7.888413789204581,
+    "atr14": 85.30476531789796,
+    "adx14": 20.827393373857582,
+    "adx_pos": 23.881724533876973,
+    "adx_neg": 18.46045656220526,
+    "bb_high": 2619.7633733112316,
+    "bb_low": 2346.556626688768,
+    "bb_mid": 2483.16,
+    "vwap20": 2507.6281241241995,
     "high_52w": 2975.0,
     "low_52w": 2013.0,
-    "volume": 539726.0,
-    "avg_volume20": 726197.1
+    "volume": 1046921.0,
+    "avg_volume20": 724218.7
   },
   "price_history": [
-    {
-      "date": "2026-06-01",
-      "close": 2310.5,
-      "ema50": 2268.03
-    },
     {
       "date": "2026-06-02",
       "close": 2387.7,
@@ -626,6 +621,11 @@
       "date": "2026-11-19",
       "close": 2356.0,
       "ema50": 2427.06
+    },
+    {
+      "date": "2026-11-20",
+      "close": 2420.0,
+      "ema50": 2426.78
     }
   ],
   "flags": {
@@ -635,29 +635,30 @@
       "ema50_above_ema200": false,
       "rsi_above_50": false,
       "macd_bullish": false,
-      "adx_trending_up": false,
+      "adx_trending_up": true,
       "price_above_vwap20": false,
       "price_above_bb_mid": false
     },
     "flags_detail": {
-      "price_above_ema20": "Close 2,356.00 vs EMA20 2,447.58",
-      "ema20_above_ema50": "EMA20 2,447.58 vs EMA50 2,427.06",
-      "ema50_above_ema200": "EMA50 2,427.06 vs EMA200 2,432.44",
-      "rsi_above_50": "RSI(14) 41.20 vs 50",
-      "macd_bullish": "MACD -8.12 vs signal 12.09",
-      "adx_trending_up": "ADX(14) 21.44 vs 20, +DI 19.59 vs -DI 20.54",
-      "price_above_vwap20": "Close 2,356.00 vs 20d VWAP 2,515.30",
-      "price_above_bb_mid": "Close 2,356.00 vs BB mid 2,486.16"
+      "price_above_ema20": "Close 2,420.00 vs EMA20 2,444.95",
+      "ema20_above_ema50": "EMA20 2,444.95 vs EMA50 2,426.78",
+      "ema50_above_ema200": "EMA50 2,426.78 vs EMA200 2,432.31",
+      "rsi_above_50": "RSI(14) 47.79 vs 50",
+      "macd_bullish": "MACD -8.93 vs signal 7.89",
+      "adx_trending_up": "ADX(14) 20.83 vs 20, +DI 23.88 vs -DI 18.46",
+      "price_above_vwap20": "Close 2,420.00 vs 20d VWAP 2,507.63",
+      "price_above_bb_mid": "Close 2,420.00 vs BB mid 2,483.16"
     },
     "flags_on": [
-      "ema20_above_ema50"
+      "ema20_above_ema50",
+      "adx_trending_up"
     ],
-    "flag_count": 1,
+    "flag_count": 2,
     "flag_total": 8
   },
   "fundamentals": null,
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-11-19T19:39:20.119585+00:00"
+  "updated_at": "2026-11-20T19:16:19.655396+00:00"
 }
