@@ -3,35 +3,30 @@
   "name": "Tata Consultancy Services",
   "sector": "IT",
   "indicators": {
-    "date": "2026-11-23",
-    "close": 2460.0,
-    "prev_close": 2376.2,
-    "change_pct": 3.526639171786895,
-    "ema20": 2417.3467022571626,
-    "ema50": 2365.831173849202,
-    "ema200": 2442.329993768807,
-    "rsi14": 56.93454490693058,
-    "macd": 12.896093221523643,
-    "macd_signal": 29.53679539386655,
-    "atr14": 68.27972304550235,
-    "adx14": 22.9486850242179,
-    "adx_pos": 27.495452044389417,
-    "adx_neg": 19.282829253442614,
-    "bb_high": 2548.5112011034807,
-    "bb_low": 2354.9587988965186,
-    "bb_mid": 2451.7349999999997,
-    "vwap20": 2463.165780837584,
+    "date": "2026-11-25",
+    "close": 2517.3,
+    "prev_close": 2460.0,
+    "change_pct": 2.3292682926829342,
+    "ema20": 2426.8660639469567,
+    "ema50": 2371.7711222913954,
+    "ema200": 2443.0238704873104,
+    "rsi14": 62.384446240146765,
+    "macd": 19.70429097413671,
+    "macd_signal": 27.570294510010157,
+    "atr14": 68.68831425665637,
+    "adx14": 22.986113086271565,
+    "adx_pos": 28.71767756414134,
+    "adx_neg": 17.79897385356393,
+    "bb_high": 2551.816848862321,
+    "bb_low": 2353.6931511376793,
+    "bb_mid": 2452.755,
+    "vwap20": 2464.547859592459,
     "high_52w": 3350.0,
     "low_52w": 1976.8,
-    "volume": 7386320.0,
-    "avg_volume20": 3308902.05
+    "volume": 5001661.0,
+    "avg_volume20": 3342131.05
   },
   "price_history": [
-    {
-      "date": "2026-06-03",
-      "close": 2241.7,
-      "ema50": 2431.37
-    },
     {
       "date": "2026-06-04",
       "close": 2241.0,
@@ -175,7 +170,7 @@
     {
       "date": "2026-07-15",
       "close": 2189.2,
-      "ema50": 2216.91
+      "ema50": 2216.9
     },
     {
       "date": "2026-07-16",
@@ -260,7 +255,7 @@
     {
       "date": "2026-08-07",
       "close": 2452.7,
-      "ema50": 2284.78
+      "ema50": 2284.77
     },
     {
       "date": "2026-08-10",
@@ -626,6 +621,11 @@
       "date": "2026-11-23",
       "close": 2460.0,
       "ema50": 2365.83
+    },
+    {
+      "date": "2026-11-25",
+      "close": 2517.3,
+      "ema50": 2371.77
     }
   ],
   "flags": {
@@ -636,32 +636,33 @@
       "rsi_above_50": true,
       "macd_bullish": false,
       "adx_trending_up": true,
-      "price_above_vwap20": false,
+      "price_above_vwap20": true,
       "price_above_bb_mid": true
     },
     "flags_detail": {
-      "price_above_ema20": "Close 2,460.00 vs EMA20 2,417.35",
-      "ema20_above_ema50": "EMA20 2,417.35 vs EMA50 2,365.83",
-      "ema50_above_ema200": "EMA50 2,365.83 vs EMA200 2,442.33",
-      "rsi_above_50": "RSI(14) 56.93 vs 50",
-      "macd_bullish": "MACD 12.90 vs signal 29.54",
-      "adx_trending_up": "ADX(14) 22.95 vs 20, +DI 27.50 vs -DI 19.28",
-      "price_above_vwap20": "Close 2,460.00 vs 20d VWAP 2,463.17",
-      "price_above_bb_mid": "Close 2,460.00 vs BB mid 2,451.73"
+      "price_above_ema20": "Close 2,517.30 vs EMA20 2,426.87",
+      "ema20_above_ema50": "EMA20 2,426.87 vs EMA50 2,371.77",
+      "ema50_above_ema200": "EMA50 2,371.77 vs EMA200 2,443.02",
+      "rsi_above_50": "RSI(14) 62.38 vs 50",
+      "macd_bullish": "MACD 19.70 vs signal 27.57",
+      "adx_trending_up": "ADX(14) 22.99 vs 20, +DI 28.72 vs -DI 17.80",
+      "price_above_vwap20": "Close 2,517.30 vs 20d VWAP 2,464.55",
+      "price_above_bb_mid": "Close 2,517.30 vs BB mid 2,452.76"
     },
     "flags_on": [
       "price_above_ema20",
       "ema20_above_ema50",
       "rsi_above_50",
       "adx_trending_up",
+      "price_above_vwap20",
       "price_above_bb_mid"
     ],
-    "flag_count": 5,
+    "flag_count": 6,
     "flag_total": 8
   },
   "fundamentals": null,
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-11-24T21:39:28.824434+00:00"
+  "updated_at": "2026-11-25T20:55:14.166285+00:00"
 }

@@ -3,35 +3,30 @@
   "name": "Oracle Financial Services Software",
   "sector": "IT",
   "indicators": {
-    "date": "2026-11-23",
-    "close": 9675.0,
-    "prev_close": 9766.0,
-    "change_pct": -0.9318042187180013,
-    "ema20": 9962.917104204811,
-    "ema50": 10322.088243369679,
-    "ema200": 9969.776055527025,
-    "rsi14": 37.81481000559974,
-    "macd": -175.22844424175673,
-    "macd_signal": -176.32083846624434,
-    "atr14": 268.96348753609254,
-    "adx14": 28.98534164745309,
-    "adx_pos": 14.093543931865229,
-    "adx_neg": 25.39270233747024,
-    "bb_high": 10268.119000409952,
-    "bb_low": 9624.330999590049,
-    "bb_mid": 9946.225,
-    "vwap20": 9939.394934023761,
+    "date": "2026-11-25",
+    "close": 9275.0,
+    "prev_close": 9675.0,
+    "change_pct": -4.1343669250646,
+    "ema20": 9897.40118951864,
+    "ema50": 10281.025979405073,
+    "ema200": 9963.052291827393,
+    "rsi14": 30.115718481136042,
+    "macd": -209.50798590952763,
+    "macd_signal": -182.95826795522788,
+    "atr14": 292.50180985772107,
+    "adx14": 30.26308950939421,
+    "adx_pos": 12.033731026433454,
+    "adx_neg": 33.26871408065165,
+    "bb_high": 10348.76901133278,
+    "bb_low": 9478.38098866722,
+    "bb_mid": 9913.575,
+    "vwap20": 9889.37930609645,
     "high_52w": 12540.0,
     "low_52w": 6234.5,
-    "volume": 237767.0,
-    "avg_volume20": 165423.2
+    "volume": 344361.0,
+    "avg_volume20": 170653.4
   },
   "price_history": [
-    {
-      "date": "2026-06-03",
-      "close": 9997.5,
-      "ema50": 8848.63
-    },
     {
       "date": "2026-06-04",
       "close": 10098.0,
@@ -110,7 +105,7 @@
     {
       "date": "2026-06-25",
       "close": 10974.5,
-      "ema50": 9288.5
+      "ema50": 9288.51
     },
     {
       "date": "2026-06-29",
@@ -120,7 +115,7 @@
     {
       "date": "2026-06-30",
       "close": 10775.5,
-      "ema50": 9406.57
+      "ema50": 9406.58
     },
     {
       "date": "2026-07-01",
@@ -170,7 +165,7 @@
     {
       "date": "2026-07-14",
       "close": 11646.0,
-      "ema50": 10022.19
+      "ema50": 10022.2
     },
     {
       "date": "2026-07-15",
@@ -230,7 +225,7 @@
     {
       "date": "2026-07-30",
       "close": 11136.0,
-      "ema50": 10501.49
+      "ema50": 10501.5
     },
     {
       "date": "2026-07-31",
@@ -626,6 +621,11 @@
       "date": "2026-11-23",
       "close": 9675.0,
       "ema50": 10322.09
+    },
+    {
+      "date": "2026-11-25",
+      "close": 9275.0,
+      "ema50": 10281.03
     }
   ],
   "flags": {
@@ -634,31 +634,30 @@
       "ema20_above_ema50": false,
       "ema50_above_ema200": true,
       "rsi_above_50": false,
-      "macd_bullish": true,
+      "macd_bullish": false,
       "adx_trending_up": false,
       "price_above_vwap20": false,
       "price_above_bb_mid": false
     },
     "flags_detail": {
-      "price_above_ema20": "Close 9,675.00 vs EMA20 9,962.92",
-      "ema20_above_ema50": "EMA20 9,962.92 vs EMA50 10,322.09",
-      "ema50_above_ema200": "EMA50 10,322.09 vs EMA200 9,969.78",
-      "rsi_above_50": "RSI(14) 37.81 vs 50",
-      "macd_bullish": "MACD -175.23 vs signal -176.32",
-      "adx_trending_up": "ADX(14) 28.99 vs 20, +DI 14.09 vs -DI 25.39",
-      "price_above_vwap20": "Close 9,675.00 vs 20d VWAP 9,939.39",
-      "price_above_bb_mid": "Close 9,675.00 vs BB mid 9,946.23"
+      "price_above_ema20": "Close 9,275.00 vs EMA20 9,897.40",
+      "ema20_above_ema50": "EMA20 9,897.40 vs EMA50 10,281.03",
+      "ema50_above_ema200": "EMA50 10,281.03 vs EMA200 9,963.05",
+      "rsi_above_50": "RSI(14) 30.12 vs 50",
+      "macd_bullish": "MACD -209.51 vs signal -182.96",
+      "adx_trending_up": "ADX(14) 30.26 vs 20, +DI 12.03 vs -DI 33.27",
+      "price_above_vwap20": "Close 9,275.00 vs 20d VWAP 9,889.38",
+      "price_above_bb_mid": "Close 9,275.00 vs BB mid 9,913.58"
     },
     "flags_on": [
-      "ema50_above_ema200",
-      "macd_bullish"
+      "ema50_above_ema200"
     ],
-    "flag_count": 2,
+    "flag_count": 1,
     "flag_total": 8
   },
   "fundamentals": null,
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-11-24T21:25:04.315704+00:00"
+  "updated_at": "2026-11-25T20:40:35.570302+00:00"
 }

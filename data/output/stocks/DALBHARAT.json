@@ -3,35 +3,30 @@
   "name": "Dalmia Bharat",
   "sector": "Cement",
   "indicators": {
-    "date": "2026-11-23",
-    "close": 1564.4,
-    "prev_close": 1578.1,
-    "change_pct": -0.8681325644762575,
-    "ema20": 1522.8359496243177,
-    "ema50": 1583.3680618909284,
-    "ema200": 1784.6579411934874,
-    "rsi14": 54.43076470245025,
-    "macd": -9.053104676741668,
-    "macd_signal": -30.09377870646689,
-    "atr14": 50.93618500954824,
-    "adx14": 18.147162387917714,
-    "adx_pos": 26.149766527974588,
-    "adx_neg": 17.57757601145685,
-    "bb_high": 1604.6011025807588,
-    "bb_low": 1346.228897419241,
-    "bb_mid": 1475.415,
-    "vwap20": 1459.8284330350054,
+    "date": "2026-11-25",
+    "close": 1586.8,
+    "prev_close": 1564.4,
+    "change_pct": 1.4318588596266852,
+    "ema20": 1528.9277639458112,
+    "ema50": 1583.502642174622,
+    "ema200": 1782.6371119674693,
+    "rsi14": 57.24234792374762,
+    "macd": -3.3104731645130414,
+    "macd_signal": -24.737117597986625,
+    "atr14": 49.84074322307413,
+    "adx14": 18.534043215044136,
+    "adx_pos": 26.96531890403877,
+    "adx_neg": 16.680774282377875,
+    "bb_high": 1615.715459425154,
+    "bb_low": 1341.8945405748461,
+    "bb_mid": 1478.805,
+    "vwap20": 1453.4905572269763,
     "high_52w": 2260.0,
     "low_52w": 1319.0,
-    "volume": 176818.0,
-    "avg_volume20": 307865.95
+    "volume": 153019.0,
+    "avg_volume20": 278422.45
   },
   "price_history": [
-    {
-      "date": "2026-06-03",
-      "close": 1723.2,
-      "ema50": 1854.84
-    },
     {
       "date": "2026-06-04",
       "close": 1725.3,
@@ -626,6 +621,11 @@
       "date": "2026-11-23",
       "close": 1564.4,
       "ema50": 1583.37
+    },
+    {
+      "date": "2026-11-25",
+      "close": 1586.8,
+      "ema50": 1583.5
     }
   ],
   "flags": {
@@ -640,14 +640,14 @@
       "price_above_bb_mid": true
     },
     "flags_detail": {
-      "price_above_ema20": "Close 1,564.40 vs EMA20 1,522.84",
-      "ema20_above_ema50": "EMA20 1,522.84 vs EMA50 1,583.37",
-      "ema50_above_ema200": "EMA50 1,583.37 vs EMA200 1,784.66",
-      "rsi_above_50": "RSI(14) 54.43 vs 50",
-      "macd_bullish": "MACD -9.05 vs signal -30.09",
-      "adx_trending_up": "ADX(14) 18.15 vs 20, +DI 26.15 vs -DI 17.58",
-      "price_above_vwap20": "Close 1,564.40 vs 20d VWAP 1,459.83",
-      "price_above_bb_mid": "Close 1,564.40 vs BB mid 1,475.41"
+      "price_above_ema20": "Close 1,586.80 vs EMA20 1,528.93",
+      "ema20_above_ema50": "EMA20 1,528.93 vs EMA50 1,583.50",
+      "ema50_above_ema200": "EMA50 1,583.50 vs EMA200 1,782.64",
+      "rsi_above_50": "RSI(14) 57.24 vs 50",
+      "macd_bullish": "MACD -3.31 vs signal -24.74",
+      "adx_trending_up": "ADX(14) 18.53 vs 20, +DI 26.97 vs -DI 16.68",
+      "price_above_vwap20": "Close 1,586.80 vs 20d VWAP 1,453.49",
+      "price_above_bb_mid": "Close 1,586.80 vs BB mid 1,478.81"
     },
     "flags_on": [
       "price_above_ema20",
@@ -663,5 +663,5 @@
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-11-24T20:54:03.445136+00:00"
+  "updated_at": "2026-11-25T20:10:32.738052+00:00"
 }

@@ -25,44 +25,44 @@
     "stock_count": 1
   },
   {
+    "sector": "Pharma",
+    "avg_flag_pct": 85.0,
+    "stock_count": 10
+  },
+  {
+    "sector": "Auto Ancillary",
+    "avg_flag_pct": 82.5,
+    "stock_count": 5
+  },
+  {
     "sector": "Cement",
     "avg_flag_pct": 82.1,
     "stock_count": 7
   },
   {
-    "sector": "Auto Ancillary",
-    "avg_flag_pct": 80.0,
-    "stock_count": 5
-  },
-  {
     "sector": "FMCG",
-    "avg_flag_pct": 77.5,
+    "avg_flag_pct": 81.2,
     "stock_count": 10
   },
   {
-    "sector": "Pharma",
+    "sector": "NBFC",
     "avg_flag_pct": 70.0,
     "stock_count": 10
   },
   {
     "sector": "Auto",
-    "avg_flag_pct": 63.9,
+    "avg_flag_pct": 66.7,
     "stock_count": 9
   },
   {
     "sector": "Energy",
-    "avg_flag_pct": 60.0,
+    "avg_flag_pct": 61.3,
     "stock_count": 10
   },
   {
-    "sector": "NBFC",
-    "avg_flag_pct": 57.5,
-    "stock_count": 10
-  },
-  {
-    "sector": "Chemicals",
-    "avg_flag_pct": 50.0,
-    "stock_count": 7
+    "sector": "IT",
+    "avg_flag_pct": 53.4,
+    "stock_count": 11
   },
   {
     "sector": "Electronics",
@@ -70,28 +70,13 @@
     "stock_count": 5
   },
   {
-    "sector": "IT",
-    "avg_flag_pct": 47.7,
-    "stock_count": 11
-  },
-  {
-    "sector": "Jewellery",
-    "avg_flag_pct": 45.8,
-    "stock_count": 3
-  },
-  {
-    "sector": "Infrastructure",
-    "avg_flag_pct": 43.1,
-    "stock_count": 9
-  },
-  {
-    "sector": "Agri & Fertilizers",
-    "avg_flag_pct": 41.7,
-    "stock_count": 6
+    "sector": "Chemicals",
+    "avg_flag_pct": 48.2,
+    "stock_count": 7
   },
   {
     "sector": "Logistics",
-    "avg_flag_pct": 40.0,
+    "avg_flag_pct": 37.5,
     "stock_count": 5
   },
   {
@@ -100,23 +85,38 @@
     "stock_count": 3
   },
   {
+    "sector": "Jewellery",
+    "avg_flag_pct": 37.5,
+    "stock_count": 3
+  },
+  {
+    "sector": "Agri & Fertilizers",
+    "avg_flag_pct": 35.4,
+    "stock_count": 6
+  },
+  {
     "sector": "Railways",
-    "avg_flag_pct": 28.6,
+    "avg_flag_pct": 33.9,
     "stock_count": 7
   },
   {
+    "sector": "Infrastructure",
+    "avg_flag_pct": 33.3,
+    "stock_count": 9
+  },
+  {
     "sector": "Defence",
-    "avg_flag_pct": 27.8,
+    "avg_flag_pct": 33.3,
     "stock_count": 9
   },
   {
     "sector": "Power",
-    "avg_flag_pct": 21.2,
+    "avg_flag_pct": 18.8,
     "stock_count": 10
   },
   {
     "sector": "Metals",
-    "avg_flag_pct": 17.9,
+    "avg_flag_pct": 7.1,
     "stock_count": 7
   }
 ]

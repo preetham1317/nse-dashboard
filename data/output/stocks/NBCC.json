@@ -3,35 +3,30 @@
   "name": "NBCC (India) Ltd",
   "sector": "Infrastructure",
   "indicators": {
-    "date": "2026-11-23",
-    "close": 77.65,
-    "prev_close": 79.6,
-    "change_pct": -2.4497487437185788,
-    "ema20": 77.65323148790088,
-    "ema50": 79.05416050190993,
-    "ema200": 89.33363430408207,
-    "rsi14": 50.21053081855598,
-    "macd": 0.6571913854737801,
-    "macd_signal": 0.42081526217386567,
-    "atr14": 2.538141633556371,
-    "adx14": 24.931680366312374,
-    "adx_pos": 22.494167593967205,
-    "adx_neg": 19.343565983336898,
-    "bb_high": 83.976905654385,
-    "bb_low": 69.90109434561498,
-    "bb_mid": 76.939,
-    "vwap20": 77.22690992465914,
+    "date": "2026-11-25",
+    "close": 75.94,
+    "prev_close": 77.65,
+    "change_pct": -2.2021893110109567,
+    "ema20": 77.49006658429133,
+    "ema50": 78.9320433407331,
+    "ema200": 89.26429723392789,
+    "rsi14": 45.843750250461845,
+    "macd": 0.42664293697902167,
+    "macd_signal": 0.42198079702522784,
+    "atr14": 2.5818458025972246,
+    "adx14": 23.481462311883206,
+    "adx_pos": 20.53386938109806,
+    "adx_neg": 22.526996309659623,
+    "bb_high": 83.62533051845824,
+    "bb_low": 70.79666948154176,
+    "bb_mid": 77.211,
+    "vwap20": 77.4396672315697,
     "high_52w": 125.85,
     "low_52w": 67.02,
-    "volume": 7062560.0,
-    "avg_volume20": 9671694.55
+    "volume": 6440311.0,
+    "avg_volume20": 9693138.55
   },
   "price_history": [
-    {
-      "date": "2026-06-03",
-      "close": 102.24,
-      "ema50": 94.78
-    },
     {
       "date": "2026-06-04",
       "close": 104.08,
@@ -626,6 +621,11 @@
       "date": "2026-11-23",
       "close": 77.65,
       "ema50": 79.05
+    },
+    {
+      "date": "2026-11-25",
+      "close": 75.94,
+      "ema50": 78.93
     }
   ],
   "flags": {
@@ -633,35 +633,31 @@
       "price_above_ema20": false,
       "ema20_above_ema50": false,
       "ema50_above_ema200": false,
-      "rsi_above_50": true,
+      "rsi_above_50": false,
       "macd_bullish": true,
-      "adx_trending_up": true,
-      "price_above_vwap20": true,
-      "price_above_bb_mid": true
+      "adx_trending_up": false,
+      "price_above_vwap20": false,
+      "price_above_bb_mid": false
     },
     "flags_detail": {
-      "price_above_ema20": "Close 77.65 vs EMA20 77.65",
-      "ema20_above_ema50": "EMA20 77.65 vs EMA50 79.05",
-      "ema50_above_ema200": "EMA50 79.05 vs EMA200 89.33",
-      "rsi_above_50": "RSI(14) 50.21 vs 50",
-      "macd_bullish": "MACD 0.66 vs signal 0.42",
-      "adx_trending_up": "ADX(14) 24.93 vs 20, +DI 22.49 vs -DI 19.34",
-      "price_above_vwap20": "Close 77.65 vs 20d VWAP 77.23",
-      "price_above_bb_mid": "Close 77.65 vs BB mid 76.94"
+      "price_above_ema20": "Close 75.94 vs EMA20 77.49",
+      "ema20_above_ema50": "EMA20 77.49 vs EMA50 78.93",
+      "ema50_above_ema200": "EMA50 78.93 vs EMA200 89.26",
+      "rsi_above_50": "RSI(14) 45.84 vs 50",
+      "macd_bullish": "MACD 0.43 vs signal 0.42",
+      "adx_trending_up": "ADX(14) 23.48 vs 20, +DI 20.53 vs -DI 22.53",
+      "price_above_vwap20": "Close 75.94 vs 20d VWAP 77.44",
+      "price_above_bb_mid": "Close 75.94 vs BB mid 77.21"
     },
     "flags_on": [
-      "rsi_above_50",
-      "macd_bullish",
-      "adx_trending_up",
-      "price_above_vwap20",
-      "price_above_bb_mid"
+      "macd_bullish"
     ],
-    "flag_count": 5,
+    "flag_count": 1,
     "flag_total": 8
   },
   "fundamentals": null,
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-11-24T21:22:02.848136+00:00"
+  "updated_at": "2026-11-25T20:37:30.580924+00:00"
 }
