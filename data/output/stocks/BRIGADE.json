@@ -3,35 +3,30 @@
   "name": "Brigade Enterprises",
   "sector": "Realty",
   "indicators": {
-    "date": "2026-11-25",
-    "close": 589.7,
-    "prev_close": 581.65,
-    "change_pct": 1.3839938107109204,
-    "ema20": 563.0032125425729,
-    "ema50": 569.5642503272687,
-    "ema200": 581.9990943035996,
-    "rsi14": 62.549816757902384,
-    "macd": 3.0585361382089786,
-    "macd_signal": -3.0742453782404144,
-    "atr14": 21.5940454436545,
-    "adx14": 19.65109218741764,
-    "adx_pos": 34.692474808079496,
-    "adx_neg": 12.563369365481755,
-    "bb_high": 588.8690934323979,
-    "bb_low": 516.9159065676022,
-    "bb_mid": 552.8925,
-    "vwap20": 569.3259091093493,
+    "date": "2026-11-26",
+    "close": 628.5,
+    "prev_close": 589.7,
+    "change_pct": 6.5796167542818305,
+    "ema20": 569.2410018242329,
+    "ema50": 571.8754789979271,
+    "ema200": 582.6767939345665,
+    "rsi14": 72.74201799261787,
+    "macd": 7.777012460774927,
+    "macd_signal": -0.9039938108061565,
+    "atr14": 24.85161362646147,
+    "adx14": 22.163874063046933,
+    "adx_pos": 34.74612378962405,
+    "adx_neg": 10.136799652484223,
+    "bb_high": 605.5045424050583,
+    "bb_low": 509.2954575949417,
+    "bb_mid": 557.4,
+    "vwap20": 578.2450937284315,
     "high_52w": 735.0,
     "low_52w": 450.75,
-    "volume": 5076055.0,
-    "avg_volume20": 622407.25
+    "volume": 2658649.0,
+    "avg_volume20": 744041.4
   },
   "price_history": [
-    {
-      "date": "2026-06-04",
-      "close": 487.01,
-      "ema50": 532.21
-    },
     {
       "date": "2026-06-05",
       "close": 488.55,
@@ -45,7 +40,7 @@
     {
       "date": "2026-06-09",
       "close": 487.13,
-      "ema50": 526.98
+      "ema50": 526.99
     },
     {
       "date": "2026-06-10",
@@ -210,7 +205,7 @@
     {
       "date": "2026-07-27",
       "close": 543.45,
-      "ema50": 534.67
+      "ema50": 534.68
     },
     {
       "date": "2026-07-28",
@@ -230,7 +225,7 @@
     {
       "date": "2026-07-31",
       "close": 580.2,
-      "ema50": 539.56
+      "ema50": 539.57
     },
     {
       "date": "2026-08-03",
@@ -420,7 +415,7 @@
     {
       "date": "2026-09-24",
       "close": 606.2,
-      "ema50": 611.11
+      "ema50": 611.12
     },
     {
       "date": "2026-09-25",
@@ -626,6 +621,11 @@
       "date": "2026-11-25",
       "close": 589.7,
       "ema50": 569.56
+    },
+    {
+      "date": "2026-11-26",
+      "close": 628.5,
+      "ema50": 571.88
     }
   ],
   "flags": {
@@ -635,33 +635,34 @@
       "ema50_above_ema200": false,
       "rsi_above_50": true,
       "macd_bullish": true,
-      "adx_trending_up": false,
+      "adx_trending_up": true,
       "price_above_vwap20": true,
       "price_above_bb_mid": true
     },
     "flags_detail": {
-      "price_above_ema20": "Close 589.70 vs EMA20 563.00",
-      "ema20_above_ema50": "EMA20 563.00 vs EMA50 569.56",
-      "ema50_above_ema200": "EMA50 569.56 vs EMA200 582.00",
-      "rsi_above_50": "RSI(14) 62.55 vs 50",
-      "macd_bullish": "MACD 3.06 vs signal -3.07",
-      "adx_trending_up": "ADX(14) 19.65 vs 20, +DI 34.69 vs -DI 12.56",
-      "price_above_vwap20": "Close 589.70 vs 20d VWAP 569.33",
-      "price_above_bb_mid": "Close 589.70 vs BB mid 552.89"
+      "price_above_ema20": "Close 628.50 vs EMA20 569.24",
+      "ema20_above_ema50": "EMA20 569.24 vs EMA50 571.88",
+      "ema50_above_ema200": "EMA50 571.88 vs EMA200 582.68",
+      "rsi_above_50": "RSI(14) 72.74 vs 50",
+      "macd_bullish": "MACD 7.78 vs signal -0.90",
+      "adx_trending_up": "ADX(14) 22.16 vs 20, +DI 34.75 vs -DI 10.14",
+      "price_above_vwap20": "Close 628.50 vs 20d VWAP 578.25",
+      "price_above_bb_mid": "Close 628.50 vs BB mid 557.40"
     },
     "flags_on": [
       "price_above_ema20",
       "rsi_above_50",
       "macd_bullish",
+      "adx_trending_up",
       "price_above_vwap20",
       "price_above_bb_mid"
     ],
-    "flag_count": 5,
+    "flag_count": 6,
     "flag_total": 8
   },
   "fundamentals": null,
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-11-25T20:05:32.308291+00:00"
+  "updated_at": "2026-11-26T19:45:55.032164+00:00"
 }

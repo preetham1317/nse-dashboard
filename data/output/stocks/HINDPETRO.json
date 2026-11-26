@@ -3,44 +3,39 @@
   "name": "Hindustan Petroleum Corporation",
   "sector": "Energy",
   "indicators": {
-    "date": "2026-11-25",
-    "close": 391.0,
-    "prev_close": 385.0,
-    "change_pct": 1.5584415584415585,
-    "ema20": 378.5595557023572,
-    "ema50": 368.1983833885938,
-    "ema200": 380.59715370988994,
-    "rsi14": 60.02003661465729,
-    "macd": 10.486524685325662,
-    "macd_signal": 10.196057099974047,
-    "atr14": 10.739105524756573,
-    "adx14": 31.28686066567115,
-    "adx_pos": 31.292364917978173,
-    "adx_neg": 13.780187374967396,
-    "bb_high": 414.22269707977364,
-    "bb_low": 338.8723029202264,
-    "bb_mid": 376.5475,
-    "vwap20": 379.17307773876456,
+    "date": "2026-11-26",
+    "close": 385.65,
+    "prev_close": 391.0,
+    "change_pct": -1.3682864450127936,
+    "ema20": 379.2348361116566,
+    "ema50": 368.88277381964485,
+    "ema200": 380.772928747212,
+    "rsi14": 56.42595279808863,
+    "macd": 9.746757390543621,
+    "macd_signal": 10.106197157872629,
+    "atr14": 10.55416941589814,
+    "adx14": 31.412022618991053,
+    "adx_pos": 29.566352571124437,
+    "adx_neg": 14.881251706624946,
+    "bb_high": 413.8041639149614,
+    "bb_low": 343.14083608503864,
+    "bb_mid": 378.4725,
+    "vwap20": 380.4748255777139,
     "high_52w": 508.45,
     "low_52w": 316.2,
-    "volume": 4225241.0,
-    "avg_volume20": 5117752.2
+    "volume": 2488717.0,
+    "avg_volume20": 5074889.05
   },
   "price_history": [
     {
-      "date": "2026-06-04",
-      "close": 387.0,
-      "ema50": 384.42
-    },
-    {
       "date": "2026-06-05",
       "close": 385.05,
-      "ema50": 384.44
+      "ema50": 384.45
     },
     {
       "date": "2026-06-08",
       "close": 372.75,
-      "ema50": 383.98
+      "ema50": 383.99
     },
     {
       "date": "2026-06-09",
@@ -50,12 +45,12 @@
     {
       "date": "2026-06-10",
       "close": 374.4,
-      "ema50": 383.53
+      "ema50": 383.54
     },
     {
       "date": "2026-06-11",
       "close": 365.7,
-      "ema50": 382.83
+      "ema50": 382.84
     },
     {
       "date": "2026-06-12",
@@ -150,7 +145,7 @@
     {
       "date": "2026-07-09",
       "close": 392.1,
-      "ema50": 390.76
+      "ema50": 390.77
     },
     {
       "date": "2026-07-10",
@@ -200,7 +195,7 @@
     {
       "date": "2026-07-23",
       "close": 385.15,
-      "ema50": 392.52
+      "ema50": 392.53
     },
     {
       "date": "2026-07-24",
@@ -626,6 +621,11 @@
       "date": "2026-11-25",
       "close": 391.0,
       "ema50": 368.2
+    },
+    {
+      "date": "2026-11-26",
+      "close": 385.65,
+      "ema50": 368.88
     }
   ],
   "flags": {
@@ -634,36 +634,35 @@
       "ema20_above_ema50": true,
       "ema50_above_ema200": false,
       "rsi_above_50": true,
-      "macd_bullish": true,
+      "macd_bullish": false,
       "adx_trending_up": true,
       "price_above_vwap20": true,
       "price_above_bb_mid": true
     },
     "flags_detail": {
-      "price_above_ema20": "Close 391.00 vs EMA20 378.56",
-      "ema20_above_ema50": "EMA20 378.56 vs EMA50 368.20",
-      "ema50_above_ema200": "EMA50 368.20 vs EMA200 380.60",
-      "rsi_above_50": "RSI(14) 60.02 vs 50",
-      "macd_bullish": "MACD 10.49 vs signal 10.20",
-      "adx_trending_up": "ADX(14) 31.29 vs 20, +DI 31.29 vs -DI 13.78",
-      "price_above_vwap20": "Close 391.00 vs 20d VWAP 379.17",
-      "price_above_bb_mid": "Close 391.00 vs BB mid 376.55"
+      "price_above_ema20": "Close 385.65 vs EMA20 379.23",
+      "ema20_above_ema50": "EMA20 379.23 vs EMA50 368.88",
+      "ema50_above_ema200": "EMA50 368.88 vs EMA200 380.77",
+      "rsi_above_50": "RSI(14) 56.43 vs 50",
+      "macd_bullish": "MACD 9.75 vs signal 10.11",
+      "adx_trending_up": "ADX(14) 31.41 vs 20, +DI 29.57 vs -DI 14.88",
+      "price_above_vwap20": "Close 385.65 vs 20d VWAP 380.47",
+      "price_above_bb_mid": "Close 385.65 vs BB mid 378.47"
     },
     "flags_on": [
       "price_above_ema20",
       "ema20_above_ema50",
       "rsi_above_50",
-      "macd_bullish",
       "adx_trending_up",
       "price_above_vwap20",
       "price_above_bb_mid"
     ],
-    "flag_count": 7,
+    "flag_count": 6,
     "flag_total": 8
   },
   "fundamentals": null,
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-11-25T20:19:24.001938+00:00"
+  "updated_at": "2026-11-26T19:59:09.470389+00:00"
 }

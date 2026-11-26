@@ -3,35 +3,30 @@
   "name": "Oil & Natural Gas Corporation",
   "sector": "Energy",
   "indicators": {
-    "date": "2026-11-25",
-    "close": 222.0,
-    "prev_close": 222.85,
-    "change_pct": -0.3814224814897888,
-    "ema20": 226.5177680965735,
-    "ema50": 229.24355799395582,
-    "ema200": 242.74590909284774,
-    "rsi14": 41.19953768389295,
-    "macd": -1.5233570065501283,
-    "macd_signal": -0.6893349003864574,
-    "atr14": 4.150727334697686,
-    "adx14": 20.401742891997834,
-    "adx_pos": 13.735628287734682,
-    "adx_neg": 25.72785518440146,
-    "bb_high": 237.2235863360026,
-    "bb_low": 218.85341366399746,
-    "bb_mid": 228.03850000000003,
-    "vwap20": 228.34041522165768,
+    "date": "2026-11-26",
+    "close": 222.88,
+    "prev_close": 222.0,
+    "change_pct": 0.39639639639639435,
+    "ema20": 226.17131399213793,
+    "ema50": 228.9940045907187,
+    "ema200": 242.5283481129188,
+    "rsi14": 42.9376022821748,
+    "macd": -1.6182500965856548,
+    "macd_signal": -0.8751179395921972,
+    "atr14": 4.029246810733893,
+    "adx14": 21.11505846185358,
+    "adx_pos": 13.139056506110865,
+    "adx_neg": 24.61043178834437,
+    "bb_high": 237.30094953525685,
+    "bb_low": 218.57505046474307,
+    "bb_mid": 227.93799999999996,
+    "vwap20": 228.21712490700585,
     "high_52w": 307.5,
     "low_52w": 218.53,
-    "volume": 19478718.0,
-    "avg_volume20": 13094108.25
+    "volume": 10172670.0,
+    "avg_volume20": 13262168.3
   },
   "price_history": [
-    {
-      "date": "2026-06-04",
-      "close": 267.55,
-      "ema50": 281.12
-    },
     {
       "date": "2026-06-05",
       "close": 264.75,
@@ -626,6 +621,11 @@
       "date": "2026-11-25",
       "close": 222.0,
       "ema50": 229.24
+    },
+    {
+      "date": "2026-11-26",
+      "close": 222.88,
+      "ema50": 228.99
     }
   ],
   "flags": {
@@ -640,14 +640,14 @@
       "price_above_bb_mid": false
     },
     "flags_detail": {
-      "price_above_ema20": "Close 222.00 vs EMA20 226.52",
-      "ema20_above_ema50": "EMA20 226.52 vs EMA50 229.24",
-      "ema50_above_ema200": "EMA50 229.24 vs EMA200 242.75",
-      "rsi_above_50": "RSI(14) 41.20 vs 50",
-      "macd_bullish": "MACD -1.52 vs signal -0.69",
-      "adx_trending_up": "ADX(14) 20.40 vs 20, +DI 13.74 vs -DI 25.73",
-      "price_above_vwap20": "Close 222.00 vs 20d VWAP 228.34",
-      "price_above_bb_mid": "Close 222.00 vs BB mid 228.04"
+      "price_above_ema20": "Close 222.88 vs EMA20 226.17",
+      "ema20_above_ema50": "EMA20 226.17 vs EMA50 228.99",
+      "ema50_above_ema200": "EMA50 228.99 vs EMA200 242.53",
+      "rsi_above_50": "RSI(14) 42.94 vs 50",
+      "macd_bullish": "MACD -1.62 vs signal -0.88",
+      "adx_trending_up": "ADX(14) 21.12 vs 20, +DI 13.14 vs -DI 24.61",
+      "price_above_vwap20": "Close 222.88 vs 20d VWAP 228.22",
+      "price_above_bb_mid": "Close 222.88 vs BB mid 227.94"
     },
     "flags_on": [],
     "flag_count": 0,
@@ -657,5 +657,5 @@
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-11-25T20:41:21.672071+00:00"
+  "updated_at": "2026-11-26T20:20:07.080815+00:00"
 }
