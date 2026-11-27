@@ -3,35 +3,30 @@
   "name": "Cipla Ltd",
   "sector": "Pharma",
   "indicators": {
-    "date": "2026-11-26",
-    "close": 1450.0,
-    "prev_close": 1433.2,
-    "change_pct": 1.1722020653083975,
-    "ema20": 1402.4480802060275,
-    "ema50": 1388.559089896754,
-    "ema200": 1400.2064278759656,
-    "rsi14": 67.2182863926821,
-    "macd": 16.683776350973176,
-    "macd_signal": 13.631712179025483,
-    "atr14": 28.28933401527643,
-    "adx14": 20.18219999122263,
-    "adx_pos": 25.73408012898405,
-    "adx_neg": 10.361682103596245,
-    "bb_high": 1442.6329634748845,
-    "bb_low": 1365.7270365251152,
-    "bb_mid": 1404.1799999999998,
-    "vwap20": 1405.8830902663096,
+    "date": "2026-11-27",
+    "close": 1439.9,
+    "prev_close": 1450.0,
+    "change_pct": -0.6965517241379248,
+    "ema20": 1406.0149297102153,
+    "ema50": 1390.5724559070443,
+    "ema200": 1400.572974160213,
+    "rsi14": 63.15384814544643,
+    "macd": 17.5623903741307,
+    "macd_signal": 14.417847818095563,
+    "atr14": 27.561524442667235,
+    "adx14": 21.782601375175354,
+    "adx_pos": 24.526944820664223,
+    "adx_neg": 9.875635886358781,
+    "bb_high": 1443.4917502759433,
+    "bb_low": 1373.0582497240569,
+    "bb_mid": 1408.275,
+    "vwap20": 1408.8829694138158,
     "high_52w": 1539.7,
     "low_52w": 1165.7,
-    "volume": 1913011.0,
-    "avg_volume20": 1509779.05
+    "volume": 1003806.0,
+    "avg_volume20": 1502907.85
   },
   "price_history": [
-    {
-      "date": "2026-06-05",
-      "close": 1401.3,
-      "ema50": 1349.46
-    },
     {
       "date": "2026-06-08",
       "close": 1387.9,
@@ -626,6 +621,11 @@
       "date": "2026-11-26",
       "close": 1450.0,
       "ema50": 1388.56
+    },
+    {
+      "date": "2026-11-27",
+      "close": 1439.9,
+      "ema50": 1390.57
     }
   ],
   "flags": {
@@ -640,14 +640,14 @@
       "price_above_bb_mid": true
     },
     "flags_detail": {
-      "price_above_ema20": "Close 1,450.00 vs EMA20 1,402.45",
-      "ema20_above_ema50": "EMA20 1,402.45 vs EMA50 1,388.56",
-      "ema50_above_ema200": "EMA50 1,388.56 vs EMA200 1,400.21",
-      "rsi_above_50": "RSI(14) 67.22 vs 50",
-      "macd_bullish": "MACD 16.68 vs signal 13.63",
-      "adx_trending_up": "ADX(14) 20.18 vs 20, +DI 25.73 vs -DI 10.36",
-      "price_above_vwap20": "Close 1,450.00 vs 20d VWAP 1,405.88",
-      "price_above_bb_mid": "Close 1,450.00 vs BB mid 1,404.18"
+      "price_above_ema20": "Close 1,439.90 vs EMA20 1,406.01",
+      "ema20_above_ema50": "EMA20 1,406.01 vs EMA50 1,390.57",
+      "ema50_above_ema200": "EMA50 1,390.57 vs EMA200 1,400.57",
+      "rsi_above_50": "RSI(14) 63.15 vs 50",
+      "macd_bullish": "MACD 17.56 vs signal 14.42",
+      "adx_trending_up": "ADX(14) 21.78 vs 20, +DI 24.53 vs -DI 9.88",
+      "price_above_vwap20": "Close 1,439.90 vs 20d VWAP 1,408.88",
+      "price_above_bb_mid": "Close 1,439.90 vs BB mid 1,408.28"
     },
     "flags_on": [
       "price_above_ema20",
@@ -665,5 +665,5 @@
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-11-26T19:48:07.353546+00:00"
+  "updated_at": "2026-11-27T19:40:36.300043+00:00"
 }

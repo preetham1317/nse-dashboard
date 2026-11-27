@@ -3,35 +3,30 @@
   "name": "Paras Defence and Space Technologies",
   "sector": "Defence",
   "indicators": {
-    "date": "2026-11-26",
-    "close": 1240.1,
-    "prev_close": 1242.0,
-    "change_pct": -0.1529790660225516,
-    "ema20": 1262.1357634300032,
-    "ema50": 1278.817729118648,
-    "ema200": 1119.8204099944537,
-    "rsi14": 45.11781897794576,
-    "macd": -8.63905997270399,
-    "macd_signal": -8.046290797364028,
-    "atr14": 47.19232760151043,
-    "adx14": 7.0849884857182746,
-    "adx_pos": 18.53722106836044,
-    "adx_neg": 18.725274897001654,
-    "bb_high": 1316.0187104825739,
-    "bb_low": 1205.9012895174262,
-    "bb_mid": 1260.96,
-    "vwap20": 1274.0167765958392,
+    "date": "2026-11-27",
+    "close": 1302.6,
+    "prev_close": 1240.1,
+    "change_pct": 5.039916135795501,
+    "ema20": 1265.9895002461935,
+    "ema50": 1279.7503734702734,
+    "ema200": 1121.6983095334222,
+    "rsi14": 55.2297054642572,
+    "macd": -4.419329214392292,
+    "macd_signal": -7.3208984808714215,
+    "atr14": 50.100018487380346,
+    "adx14": 7.979627882769985,
+    "adx_pos": 24.36923811820724,
+    "adx_neg": 16.37860957626859,
+    "bb_high": 1308.8579988935078,
+    "bb_low": 1210.3520011064923,
+    "bb_mid": 1259.605,
+    "vwap20": 1265.111996927618,
     "high_52w": 1585.0,
     "low_52w": 580.5,
-    "volume": 250488.0,
-    "avg_volume20": 573793.7
+    "volume": 1329158.0,
+    "avg_volume20": 518056.25
   },
   "price_history": [
-    {
-      "date": "2026-06-05",
-      "close": 960.15,
-      "ema50": 783.71
-    },
     {
       "date": "2026-06-08",
       "close": 964.75,
@@ -140,7 +135,7 @@
     {
       "date": "2026-07-08",
       "close": 1276.4,
-      "ema50": 1053.31
+      "ema50": 1053.32
     },
     {
       "date": "2026-07-09",
@@ -626,38 +621,48 @@
       "date": "2026-11-26",
       "close": 1240.1,
       "ema50": 1278.82
+    },
+    {
+      "date": "2026-11-27",
+      "close": 1302.6,
+      "ema50": 1279.75
     }
   ],
   "flags": {
     "flags": {
-      "price_above_ema20": false,
+      "price_above_ema20": true,
       "ema20_above_ema50": false,
       "ema50_above_ema200": true,
-      "rsi_above_50": false,
-      "macd_bullish": false,
+      "rsi_above_50": true,
+      "macd_bullish": true,
       "adx_trending_up": false,
-      "price_above_vwap20": false,
-      "price_above_bb_mid": false
+      "price_above_vwap20": true,
+      "price_above_bb_mid": true
     },
     "flags_detail": {
-      "price_above_ema20": "Close 1,240.10 vs EMA20 1,262.14",
-      "ema20_above_ema50": "EMA20 1,262.14 vs EMA50 1,278.82",
-      "ema50_above_ema200": "EMA50 1,278.82 vs EMA200 1,119.82",
-      "rsi_above_50": "RSI(14) 45.12 vs 50",
-      "macd_bullish": "MACD -8.64 vs signal -8.05",
-      "adx_trending_up": "ADX(14) 7.08 vs 20, +DI 18.54 vs -DI 18.73",
-      "price_above_vwap20": "Close 1,240.10 vs 20d VWAP 1,274.02",
-      "price_above_bb_mid": "Close 1,240.10 vs BB mid 1,260.96"
+      "price_above_ema20": "Close 1,302.60 vs EMA20 1,265.99",
+      "ema20_above_ema50": "EMA20 1,265.99 vs EMA50 1,279.75",
+      "ema50_above_ema200": "EMA50 1,279.75 vs EMA200 1,121.70",
+      "rsi_above_50": "RSI(14) 55.23 vs 50",
+      "macd_bullish": "MACD -4.42 vs signal -7.32",
+      "adx_trending_up": "ADX(14) 7.98 vs 20, +DI 24.37 vs -DI 16.38",
+      "price_above_vwap20": "Close 1,302.60 vs 20d VWAP 1,265.11",
+      "price_above_bb_mid": "Close 1,302.60 vs BB mid 1,259.61"
     },
     "flags_on": [
-      "ema50_above_ema200"
+      "price_above_ema20",
+      "ema50_above_ema200",
+      "rsi_above_50",
+      "macd_bullish",
+      "price_above_vwap20",
+      "price_above_bb_mid"
     ],
-    "flag_count": 1,
+    "flag_count": 6,
     "flag_total": 8
   },
   "fundamentals": null,
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-11-26T20:20:29.190761+00:00"
+  "updated_at": "2026-11-27T20:14:00.908861+00:00"
 }

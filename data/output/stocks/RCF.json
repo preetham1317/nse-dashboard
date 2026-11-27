@@ -3,35 +3,30 @@
   "name": "Rashtriya Chemicals & Fertilizers",
   "sector": "Agri & Fertilizers",
   "indicators": {
-    "date": "2026-11-26",
-    "close": 102.97,
-    "prev_close": 102.57,
-    "change_pct": 0.38997757628936897,
-    "ema20": 103.50860867589512,
-    "ema50": 105.7916837087947,
-    "ema200": 119.9594460065487,
-    "rsi14": 48.21726757538673,
-    "macd": 0.16400962029240418,
-    "macd_signal": 0.08566834254699585,
-    "atr14": 2.9746118171728284,
-    "adx14": 16.781829271213187,
-    "adx_pos": 27.193515730498973,
-    "adx_neg": 20.044391330789875,
-    "bb_high": 110.66083728390007,
-    "bb_low": 94.80516271609991,
-    "bb_mid": 102.73299999999999,
-    "vwap20": 104.00510565051434,
-    "high_52w": 151.11,
+    "date": "2026-11-27",
+    "close": 102.62,
+    "prev_close": 102.97,
+    "change_pct": -0.3399048266485329,
+    "ema20": 103.42397927819076,
+    "ema50": 105.66730023902332,
+    "ema200": 119.75186949218349,
+    "rsi14": 47.34967102798327,
+    "macd": 0.0599361313932576,
+    "macd_signal": 0.08052190037635941,
+    "atr14": 2.881425258747757,
+    "adx14": 16.66414831600725,
+    "adx_pos": 26.067754115648683,
+    "adx_neg": 19.214590340397883,
+    "bb_high": 110.47907991375783,
+    "bb_low": 95.56292008624217,
+    "bb_mid": 103.021,
+    "vwap20": 104.29747634447666,
+    "high_52w": 150.95,
     "low_52w": 93.11,
-    "volume": 1695888.0,
-    "avg_volume20": 1087003.7
+    "volume": 505550.0,
+    "avg_volume20": 1066354.2
   },
   "price_history": [
-    {
-      "date": "2026-06-05",
-      "close": 126.32,
-      "ema50": 127.11
-    },
     {
       "date": "2026-06-08",
       "close": 123.05,
@@ -626,6 +621,11 @@
       "date": "2026-11-26",
       "close": 102.97,
       "ema50": 105.79
+    },
+    {
+      "date": "2026-11-27",
+      "close": 102.62,
+      "ema50": 105.67
     }
   ],
   "flags": {
@@ -634,31 +634,28 @@
       "ema20_above_ema50": false,
       "ema50_above_ema200": false,
       "rsi_above_50": false,
-      "macd_bullish": true,
+      "macd_bullish": false,
       "adx_trending_up": false,
       "price_above_vwap20": false,
-      "price_above_bb_mid": true
+      "price_above_bb_mid": false
     },
     "flags_detail": {
-      "price_above_ema20": "Close 102.97 vs EMA20 103.51",
-      "ema20_above_ema50": "EMA20 103.51 vs EMA50 105.79",
-      "ema50_above_ema200": "EMA50 105.79 vs EMA200 119.96",
-      "rsi_above_50": "RSI(14) 48.22 vs 50",
-      "macd_bullish": "MACD 0.16 vs signal 0.09",
-      "adx_trending_up": "ADX(14) 16.78 vs 20, +DI 27.19 vs -DI 20.04",
-      "price_above_vwap20": "Close 102.97 vs 20d VWAP 104.01",
-      "price_above_bb_mid": "Close 102.97 vs BB mid 102.73"
+      "price_above_ema20": "Close 102.62 vs EMA20 103.42",
+      "ema20_above_ema50": "EMA20 103.42 vs EMA50 105.67",
+      "ema50_above_ema200": "EMA50 105.67 vs EMA200 119.75",
+      "rsi_above_50": "RSI(14) 47.35 vs 50",
+      "macd_bullish": "MACD 0.06 vs signal 0.08",
+      "adx_trending_up": "ADX(14) 16.66 vs 20, +DI 26.07 vs -DI 19.21",
+      "price_above_vwap20": "Close 102.62 vs 20d VWAP 104.30",
+      "price_above_bb_mid": "Close 102.62 vs BB mid 103.02"
     },
-    "flags_on": [
-      "macd_bullish",
-      "price_above_bb_mid"
-    ],
-    "flag_count": 2,
+    "flags_on": [],
+    "flag_count": 0,
     "flag_total": 8
   },
   "fundamentals": null,
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-11-26T20:25:38.171107+00:00"
+  "updated_at": "2026-11-27T20:19:14.626306+00:00"
 }

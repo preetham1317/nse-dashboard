@@ -3,35 +3,30 @@
   "name": "Indian Oil Corporation",
   "sector": "Energy",
   "indicators": {
-    "date": "2026-11-26",
-    "close": 144.42,
-    "prev_close": 147.79,
-    "change_pct": -2.280262534677586,
-    "ema20": 143.12254453224674,
-    "ema50": 139.287321908204,
-    "ema200": 142.07564314583715,
-    "rsi14": 54.6353636601175,
-    "macd": 3.2983749885575264,
-    "macd_signal": 3.4568749090807094,
-    "atr14": 3.5469845036097922,
-    "adx14": 33.05099072796373,
-    "adx_pos": 29.4352498762817,
-    "adx_neg": 14.326871522396589,
-    "bb_high": 154.2653867839077,
-    "bb_low": 132.3406132160923,
-    "bb_mid": 143.303,
-    "vwap20": 143.20012252800444,
+    "date": "2026-11-27",
+    "close": 144.21,
+    "prev_close": 144.42,
+    "change_pct": -0.1454092230992796,
+    "ema20": 143.22611171965178,
+    "ema50": 139.48036403983753,
+    "ema200": 142.0585207737178,
+    "rsi14": 54.25225162098484,
+    "macd": 2.979546840635834,
+    "macd_signal": 3.361409295457534,
+    "atr14": 3.414342753361599,
+    "adx14": 32.71115450471144,
+    "adx_pos": 28.394564913318206,
+    "adx_neg": 15.870519105166995,
+    "bb_high": 153.2227434417211,
+    "bb_low": 134.7632565582789,
+    "bb_mid": 143.993,
+    "vwap20": 143.59760533318587,
     "high_52w": 188.96,
     "low_52w": 124.92,
-    "volume": 9551398.0,
-    "avg_volume20": 13766548.1
+    "volume": 7048617.0,
+    "avg_volume20": 13728909.65
   },
   "price_history": [
-    {
-      "date": "2026-06-05",
-      "close": 138.26,
-      "ema50": 144.03
-    },
     {
       "date": "2026-06-08",
       "close": 135.6,
@@ -626,6 +621,11 @@
       "date": "2026-11-26",
       "close": 144.42,
       "ema50": 139.29
+    },
+    {
+      "date": "2026-11-27",
+      "close": 144.21,
+      "ema50": 139.48
     }
   ],
   "flags": {
@@ -640,14 +640,14 @@
       "price_above_bb_mid": true
     },
     "flags_detail": {
-      "price_above_ema20": "Close 144.42 vs EMA20 143.12",
-      "ema20_above_ema50": "EMA20 143.12 vs EMA50 139.29",
-      "ema50_above_ema200": "EMA50 139.29 vs EMA200 142.08",
-      "rsi_above_50": "RSI(14) 54.64 vs 50",
-      "macd_bullish": "MACD 3.30 vs signal 3.46",
-      "adx_trending_up": "ADX(14) 33.05 vs 20, +DI 29.44 vs -DI 14.33",
-      "price_above_vwap20": "Close 144.42 vs 20d VWAP 143.20",
-      "price_above_bb_mid": "Close 144.42 vs BB mid 143.30"
+      "price_above_ema20": "Close 144.21 vs EMA20 143.23",
+      "ema20_above_ema50": "EMA20 143.23 vs EMA50 139.48",
+      "ema50_above_ema200": "EMA50 139.48 vs EMA200 142.06",
+      "rsi_above_50": "RSI(14) 54.25 vs 50",
+      "macd_bullish": "MACD 2.98 vs signal 3.36",
+      "adx_trending_up": "ADX(14) 32.71 vs 20, +DI 28.39 vs -DI 15.87",
+      "price_above_vwap20": "Close 144.21 vs 20d VWAP 143.60",
+      "price_above_bb_mid": "Close 144.21 vs BB mid 143.99"
     },
     "flags_on": [
       "price_above_ema20",
@@ -664,5 +664,5 @@
   "analyst": null,
   "events": null,
   "shareholding": null,
-  "updated_at": "2026-11-26T20:02:50.028209+00:00"
+  "updated_at": "2026-11-27T19:55:36.465654+00:00"
 }
